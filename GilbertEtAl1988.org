@@ -1,0 +1,156 @@
+#+TITLE: GilbertEtAl1988: A fast procedure for computing the distance between complex objects in three-dimensional space
+#+ROAM_KEY: cite:GilbertEtAl1988
+#+ROAM_TAGS: article
+
+- tags :: Robotics, [[file:20201215140935-projection.org][Projection]], [[file:20200423094808-gamedev.org][gamedev]]
+- keywords ::
+
+
+* A fast procedure for computing the distance between complex objects in three-dimensional space
+  :PROPERTIES:
+  :Custom_ID: GilbertEtAl1988
+  :URL:
+  :AUTHOR: E. G. Gilbert, D. W. Johnson, & S. S. Keerthi
+  :NOTER_DOCUMENT: ../docsThese/bibliography/GilbertEtAl1988.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** objects described by compact sets
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::2++0.00;;annot-2-2]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-2-2
+:END:
+
+*** distance between compact sets
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::2++0.00;;annot-2-3]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-2-3
+:END:
+
+*** compact sets composed of several other objects
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::2++3.00;;annot-2-4]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-2-4
+:END:
+
+*** distance to a object is the least distance to any of the composed objects
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::2++3.00;;annot-2-5]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-2-5
+:END:
+
+*** definition of spherical extension
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::2++3.00;;annot-2-6]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-2-6
+:END:
+
+*** spherical extension can be used as a protection shell
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::2++3.00;;annot-2-7]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-2-7
+:END:
+
+*** spherical extension can be used for economical representations of complex objects
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::2++4.32;;annot-2-8]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-2-8
+:END:
+Example:
+- Capsule
+    - created using the spherical extension of a line segment
+
+*** compact set dependent of configuration $q$ reference orientation compact set $\mathcal{C}$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::3++0.00;;annot-3-0]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-0
+:END:
+
+*** functions can be extracted from homogeneous transformation matrix
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::3++0.00;;annot-3-1]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-1
+:END:
+    $\begin{matrix}T(q) &p(q)\\\vec{0} &0\end{matrix}$
+
+*** for spherical extension just use extension of $\mathcal{C}$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::3++0.00;;annot-3-2]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-2
+:END:
+
+*** Minkowski set sum
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::3++2.58;;annot-3-3]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-3
+:END:
+
+*** Distance between sets is equal to
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::3++5.86;;annot-3-6]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-6
+:END:
+
+*** support function
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::3++5.86;;annot-3-7]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-7
+:END:
+defines the point that can create a support hyperplane with normal $\eta$
+$$h_X(\eta)=\mathrm{max}\{x\cdot\eta:x\in X\}$$
+
+*** affine hull
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::3++6.30;;annot-3-4]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-4
+:END:
+$$\mathrm{aff} X=\left{ \sum_{i=1}^{l}\lambda^ix_i:x_i\in X,\lambda^1+\dots+\lambda^l=1 \right}$$
+
+*** convex hull
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::3++6.30;;annot-3-5]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-5
+:END:
+
+$$\mathrm{co} X=\left{ \sum_{i=1}^{l}\lambda^ix_i:x_i\in X,\lambda^i\geq0,\lambda^1+\dots+\lambda^l=1 \right}$$
+
+*** minkowski sum/difference have $M1_M_2$ elements
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::4++0.00;;annot-4-2]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-4-2
+:END:
+this increases complexity
+
+*** m is a simplex at most
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::4++4.57;;annot-4-4]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-4-4
+:END:
+
+
+*** distance algorithm
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::4++7.16;;annot-4-3]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-4-3
+:END:
+1. get set of $v$ points $1\leq v\leq m+1$
+2. get distance of convex hull of this set $v_k$ to zero (subalgorithm)
+3. if $|v_k|^2+h_k(-v_k)==0$ distance is $v_k$
+4.
+
+*** take combinatoric approach, since $v$ is small
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::5++0.00;;annot-5-0]]
+:ID:       ../docsThese/bibliography/GilbertEtAl1988.pdf-annot-5-0
+:END:

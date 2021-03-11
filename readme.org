@@ -1,1 +1,11 @@
 #+TITLE: 🧠
+* What is this?
+- This is a "second brain" for my own use.
+- This repo may increase rapidly.
+- like my thought process, notes won't be ordered. they are interlinked.
+- Notes may be in portuguese, french or english.
+* Some interesting notes (maybe)
+- [[file:20200504164021-control.org][Control]]
+- 
+* Cool articles
+- [[file:GilbertEtAl1988.org][GilbertEtAl1988: A fast procedure for computing the distance between complex objects in three-dimensional space]]

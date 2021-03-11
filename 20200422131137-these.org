@@ -1,0 +1,53 @@
+#+TITLE: these
+#+OPTIONS: toc:nil
+- tags :: [[file:20200406135143-secure_dmpc.org][Secure dMPC]], [[file:20200427105830-cybersecurity.org][Cyber-Security]]
+
+#+BEGIN_SRC plantuml :file test.svg
+printscale monthly
+Project starts the 1th of november 2019
+-- Initial Studies --
+[ Bibliography ]  as [T1] lasts 900 days
+[T1] is 20% completed
+[T1] links to [[file://../docsThese/bibliography.bib]]
+[ Detection ] as [T2] starts at 1st January 2020 and lasts 880 days
+[ Isolation ] as [T3] starts at 1st January 2020 and lasts 880 days
+[ Recovery ] as [T4] starts at 1st January 2020 and lasts 880 days
+[Thesis writing] as [T5] starts at 30th of february 2022 and lasts 180 days
+[T2] is 15% completed
+[T3] is 15% completed
+[T4] is 15% completed
+-- Simple System --
+[First running example] happens at 1st of december 2019
+[ Detection in Simple System ] as [T2] starts at 1st January 2020 and lasts 880 days
+[ Isolation ] as [T3] starts at 1st January 2020 and lasts 880 days
+[ Recovery ] as [T4] starts at 1st January 2020 and lasts 880 days
+[Detection in Simple System] happens at 1st of april 2020
+[Isolation in Simple System] happens at 1st of april 2020
+[Recovery in Simple System] happens at 1st of april 2020
+-- Complex System --
+[Detection in Complex System] as [DCS] happens at 1st of october 2020
+[Isolation in Complex System] as [ICS] happens at 1st of november 2020
+[Recovery in Complex System] as [RCS] happens at 1st of january 2021
+-- Writing --
+[Article 1] happens at [ICS]'s end
+[Isolation in Complex System] happens at 1st of november 2020
+[Recovery in Complex System] happens at 1st of january 2021
+
+[T1] is colored in Lavender/LightBlue
+[T2] is colored in Lavender/LightBlue
+[T3] is colored in Lavender/LightBlue
+[T4] is colored in Lavender/LightBlue
+[T5] is colored in Lavender/LightBlue
+#+END_SRC
+
+#+RESULTS:
+[[file:test.svg]]
+
+#+ATTR_HTML: :width 300
+#+ATTR_LATEX: :width \textwidth
+#+RESULTS:
+
+* Words
+- mitigation
+* Ideias
+- se a variação de um tempo para outro for pequena pode tentar estimar o gradiente?? algo como expansão de taylor de 2 ordem
