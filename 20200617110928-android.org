@@ -1,0 +1,2 @@
+#+title: android
+- tags :: [[file:20200423005717-operating_systems.org][Operating Systems]]

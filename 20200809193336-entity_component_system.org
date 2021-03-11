@@ -1,0 +1,8 @@
+#+title: Entity-Component-System
+#+ROAM_ALIAS: ECS
+- tags :: [[file:20200423094808-gamedev.org][gamedev]]
+
+
+- Entities are ids
+- Components are Data
+- Systems are functions that transform data

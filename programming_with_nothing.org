@@ -1,0 +1,3 @@
+#+title: Programming with Nothing
+#+roam_key: https://codon.com/programming-with-nothing
+- tags :: programming,[[file:20200708140225-lambda_calculus.org][ lambda calculus]], [[file:20200709114832-ruby.org][ruby]]

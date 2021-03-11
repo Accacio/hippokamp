@@ -1,0 +1,3 @@
+#+title: Position Independent Code
+#+ROAM_ALIAS: PIC
+- tags :: [[file:20200713160350-programming.org][Programming]]

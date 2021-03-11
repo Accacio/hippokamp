@@ -1,0 +1,133 @@
+#+title: JNA 2020
+- tags :: [[file:20210120110751-control_conferences.org][Control Conferences]]
+
+* Info
+** JNA 2020 - Salle A – 26-27 Novembre 2020
+
+https://teams.microsoft.com/l/meetup-join/19%3ade00af7ec0b446a693ff0562fe7b4567%40thread.tacv2/1605524665156?context=%7b%22Tid%22%3a%22967236d1-9003-4f1a-9556-8afe047945f1%22%2c%22Oid%22%3a%226084e3bb-9133-46b2-8cdc-f9cec5d9b287%22%7d
+
+*** 26 Nov : Sessions:
+- Automatique et Transports Terrestres,  8h30-12h
+- Identification, Identification et COVID-19 14h-17h30
+
+*** 27 Nov : Sessions:
+  - Automatisation des Systèmes Hommes-Machines,  8h30-12h
+  - Réseaux et Systèmes Electriques Intelligents  14h-17h30
+
+                   ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+** JNA 2020 – Salle B – 26-27 Novembre 2020
+
+https://teams.microsoft.com/l/meetup-join/19%3ade00af7ec0b446a693ff0562fe7b4567%40thread.tacv2/1605524694686?context=%7b%22Tid%22%3a%22967236d1-9003-4f1a-9556-8afe047945f1%22%2c%22Oid%22%3a%226084e3bb-9133-46b2-8cdc-f9cec5d9b287%22%7d
+
+*** 26 Nov. Sessions:
+- Commande des Systèmes Électriques, Systèmes Dynamiques Hybrides, et Synchronisation et Observation 8h30-12h
+- Véhicules Aériens Autonomes 14h-17h30
+- Méthodes et Outils pour la Synthèse et l’Analyse en Robustesse. 16h-18h
+
+*** 27 Nov. Sessions:
+- Outils pour l’Analyse et la Synthèse de Systèmes de Dimension Infinie. 8.30 - 12 14h00-15h30
+
+
+** JNA 2020 – Salle C – 26-27 Novembre 2020
+
+https://teams.microsoft.com/l/meetup-join/19%3ade00af7ec0b446a693ff0562fe7b4567%40thread.tacv2/1605524743757?context=%7b%22Tid%22%3a%22967236d1-9003-4f1a-9556-8afe047945f1%22%2c%22Oid%22%3a%226084e3bb-9133-46b2-8cdc-f9cec5d9b287%22%7d
+
+*** 26 Nov. Sessions:
+- Automatique et Réseaux de Communication 10h-12h
+- « Safe Autonomy » des Systèmes Cyber-Physiques.  14h-15h30
+- Sûreté / Surveillance / Supervision 16h-17h30
+
+*** 27 Nov. Sessions:
+- « Automatique et Cybersécurité », conjointe Sûreté / Surveillance / Supervision et Vérification et Synthèse des Systèmes Cyber-Physiques
+- « Safe Autonomy » des Systèmes Cyber-Physiques. 14h-15h30
+
+* 26 Matin
+** 08.30 - 10.00 | Sessions conjointes Commande des Systèmes Électriques, Systèmes Dynamiques Hybrides, et Synchronisation et Observation.
+*** PI passivity-based control of grid-connected power converters: Stability, robustness & performance analysis
+*** Robust relay control for buck converters: experimental application
+*** Modélisation convexe des pertes d’un système de stockage pour la gestion optimale d’énergie
+** 10.15 - 12.00 | Session Automatique et Réseaux de Communication
+* 26 Après-midi
+** 14.00 - 15.30 | Session « Safe Autonomy » des Systèmes Cyber-Physiques I
+*** Safe Deep Learning in Feedback Loops: A Robust Control Approach
+Mayar Fazlyab - johns hopkins university
+https://www.seas.upenn.edu/~mahyarfa/
+- deepSDP
+- Raghunathan, aditi, stein semidefinite relaxations for certifying robustness to adversarial examples
+*** Aerial Robotics at Univ. of Twente and LAAS-CNRS: Recent Results and Perspectives
+Antonio Franchi twente
+** 16.00 - 18.00 | Session Sûreté / Surveillance / Supervision.
+
+* 27 Matin
+*** Mesure déportée de signaux physiologiques : estimation de la pression sanguine par caméra
+- photopléthysmographie
+- plein essor
+*** De l’utilisation de la parcimonie en Automatique : applications au diagnostic et à la cybersécurité.
+    J-P Barbot
+
+    - Parcimonie
+https://en.wikipedia.org/wiki/Restricted_isometry_property
+
+*** Towards secure state estimation of cyber-physical systems in the bounded- error framework
+**** Attacks
+***** Disclosure | Confidentiality
+stealthy deceptive bias injection
+Bianchin IEEE CSL 2020
+
+robot trajectory planners or CPS controllers may
+***** Deception | integrity
+***** Disruption | availability
+**** Models
+y_a=y(t-T)
+y_a=null
+y_a=y(t)+a(t)
+stealthy plausible
+**** Mitigation
+FDI FTC methods and algorithms are good candidates
+- Debaji et Al Annual Reviews in Control 2019
+- paillier encryptiion smi homomorphi encryption scheme
+  Farokhi et Al CEP 2017
+- Passive resilience
+  Lu Yan automatica 2018; Xie Yan IJRNC 2018; Shoukry Tabuada IEE TAC 2016
+  Shoukry et al ACM TCPS 2018 IEE TAC 2018
+**** Detection
+- "watermark" signature in control
+- Unknown input observer
+- Variable frequency pwm to improve the resilience
+- Muniraj Farhood CEP 2019
+- Classification of measurement data in real-time localis
+  Gerrero-Higuereas et Al RAS 2018
+
+**** Scenarios
+- n sensors
+- s-sparse observable
+Chon et al ACC 2015
+Shoukry Tabuada TAC 2016
+
+
+http://benensta.github.io/pylbex
+http://www.ibex-lib.org
+
+**** Secure interval observer
+Rabehi et al SYSTOL 2019
+
+
+
+
+**** estimation with outliers, q-relaxed intersection
+Jaulin 09
+
+* 27 Après-midi
+** Learning to Control: towards smart abstractions for symbolic control.
+Raphaël Jungers (UCL/ICTEAM)
+Path-Complete Lyapunov control
+** Characterizing Positively Invariant Sets: Inductive and Topological Methods
+Khalil Ghorbal (INRIA).
+- Nagumo theory positively invariant closed set
+- https://en.wikipedia.org/wiki/Lie_derivative
+RAGLib
+http://arxiv.org/abs/2009.09797
+** Towards robust methods for indoor localization using interval fingerprint.
+Nacim Ramdani
+https://anyplace.cs.ucy.ac.cy

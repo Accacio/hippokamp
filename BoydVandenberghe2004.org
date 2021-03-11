@@ -1,0 +1,33 @@
+#+TITLE: BoydVandenberghe2004: Convex Optimization
+#+ROAM_KEY: cite:BoydVandenberghe2004
+#+ROAM_TAGS: book
+
+- tags :: [[file:20200709102805-optimization.org][optimization]]
+- keywords ::
+
+
+* Convex Optimization
+  :PROPERTIES:
+  :Custom_ID: BoydVandenberghe2004
+  :URL:
+  :AUTHOR: Boyd, S., & Vandenberghe, L.
+  :NOTER_DOCUMENT: /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** cross product
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::536++3.22;;annot-536-6]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-536-6
+:END:

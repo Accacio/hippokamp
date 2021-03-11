@@ -1,0 +1,2 @@
+#+title: GPG/PGP
+- tags :: [[file:20210216101758-privacy.org][Privacy]]

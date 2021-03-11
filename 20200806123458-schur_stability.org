@@ -1,0 +1,3 @@
+#+title: Schur Stability
+- tags :: [[file:20200504113017-stability.org][stability]]
+Matrix wich absolute values of Eigenvalues are all less than one

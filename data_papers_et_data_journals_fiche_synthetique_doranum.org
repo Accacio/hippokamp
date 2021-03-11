@@ -1,0 +1,25 @@
+#+title: Data papers et data journals : fiche synthétique – DoRANum
+#+roam_key: https://doranum.fr/data-paper-data-journal/fiche-synthetique/
+- tags :: [[file:20210108173300-data_papers.org][Data Papers]]
+
+* Pourquoi?
+- communiquer l'existence des données
+- créditer les auteurs
+- faciliter réutilisation des données
+
+* Où publier?
+- data journal
+- revue classique qui publie aussi des data papers
+
+* Que contient?
+** Partie Descriptive
+- éléments classiques (Titre, résumé,mots clefs)
+- éléments spécifiques (métadonnées, réutilisation etc)
+** L'accès aux données
+*** matériel supplémentaire
+*** Entrepôt (identifient des données nécessaire ex: DOI)
+Exemples des organisations que portents les entrepôts
+- publique: [[https://zenodo.org][Zenodo]]
+- but non lucratif: [[https://datadryad.org/pages/organization][Dryad]]
+- commerciale: [[https://figshare.com/about][figshare]]
+https://doranum.fr/depot-entrepots/minute/

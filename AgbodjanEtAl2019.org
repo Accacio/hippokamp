@@ -1,0 +1,30 @@
+#+TITLE: AgbodjanEtAl2019:
+#+ROAM_KEY: cite:AgbodjanEtAl2019
+#+ROAM_TAGS: article
+- tags :: [[file:20200709101720-mpc.org][MPC]], [[file:20200422220259-energie.org][énérgie]]
+* AgbodjanEtAl2019
+:PROPERTIES:
+:NOTER_DOCUMENT: ../docsThese/bibliography/AgbodjanEtAl2019.pdf
+:END:
+
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+*** maximize comfort is equal demand power with power received
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AgbodjanEtAl2019.pdf::2++0.06;;annot-2-0]]
+:ID:       ../docsThese/bibliography/AgbodjanEtAl2019.pdf-annot-2-0
+:END:
+*** power in shortage have critical minimal value
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AgbodjanEtAl2019.pdf::2++0.06;;annot-2-1]]
+:ID:       ../docsThese/bibliography/AgbodjanEtAl2019.pdf-annot-2-1
+:END:

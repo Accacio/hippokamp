@@ -1,0 +1,2 @@
+#+TITLE: data visualization
+- tags :: [[file:20200708145614-scientific_computing.org][Scientific Computing]]

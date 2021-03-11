@@ -1,0 +1,2 @@
+#+title: Stochastic Control
+- tags :: [[file:20200504164021-control.org][control]], [[file:20200716170653-probability.org][Probability]]

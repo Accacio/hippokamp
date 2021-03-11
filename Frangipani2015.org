@@ -1,0 +1,101 @@
+#+TITLE: Frangipani2015
+#+ROAM_KEY: cite:Frangipani2015
+#+ROAM_TAGS: thesis
+
+- tag :: [[file:20200422140353-estimation.org][estimation]]
+
+* Frangipani2015
+:PROPERTIES:
+:NOTER_DOCUMENT: ../docsThese/bibliography/Frangipani2015.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+- Localização submarina utilizando uma única referência acústica via filtro UKF
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** ROV
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::17++0.35;;annot-17-1]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-17-1
+:END:
+*** Initial position and Sensors
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::23++0.35;;annot-23-26]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-23-26
+:END:
+*** Estimate Velocity using Doppler effect DVL
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::23++0.35;;annot-23-27]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-23-27
+:END:
+
+If is an inertial frame estimate current
+*** Rigid body doesn't change distance between points
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::38++0.00;;annot-38-3]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-38-3
+:END:
+*** Linear model systems and sensor
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::45++0.35;;annot-45-6]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-45-6
+:END:
+*** Correlations
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::46++0.00;;annot-46-7]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-46-7
+:END:
+*** Trace identities
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::49++0.17;;annot-49-8]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-49-8
+:END:
+*** Filtro de Kalman
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::50++0.22;;annot-50-12]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-50-12
+:END:
+*** EKF use Jacobian to estimate f(x)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::55++0.07;;annot-55-8]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-55-8
+:END:
+*** Estimated Variance is wrong as also mean
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::56++0.11;;annot-56-2]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-56-2
+:END:
+*** Estimated mean and variance are wrong
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::58++0.03;;annot-58-5]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-58-5
+:END:
+*** procurar particle filter
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::58++0.14;;annot-58-6]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-58-6
+:END:
+*** unscented transform alg
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::60++0.00;;annot-60-2]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-60-2
+:END:
+*** Use weights in a priori estimation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::64++0.35;;annot-64-2]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-64-2
+:END:
+
+*** UKF alg
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Frangipani2015.pdf::66++0.33;;annot-66-12]]
+:ID:       ../docsThese/bibliography/Frangipani2015.pdf-annot-66-12
+:END:

@@ -1,0 +1,121 @@
+#+TITLE: IGSC 2020
+#+TODO:  LATE(l) NO(n) | YES(y) MAYBE(m)
+
+- tags :: [[file:20200709114738-igsc.org][IGSC]]
+
+* IGSC 2020
+:PROPERTIES:
+:NOTER_DOCUMENT: ../these/leitura/autres/IGSC2020.pdf
+:END:
+
+** NO [#C] M10 - MPC
+<2020-06-08 lun.>-<2020-06-12 ven.>
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/these/leitura/autres/IGSC2020.pdf::2++0.19;;annot-2-0]]
+:ID:       ../these/leitura/autres/IGSC2020.pdf-annot-2-0
+:END:
+http://www.esi2.us.es/~eduardo/home_i.html Eduardo F. Camacho - Dept. System Engineering and Automatica University of Seville , Spain
+EFCamacho@us.es
+
+http://www.esi2.us.es/~eduardo/home_i.html Eduardo F. Camacho Universidade de Seville
+*** Topics
+
+** [#C] m11 - Control and Optimization of Autonomous Power Systems
+<2020-09-28 lun.>-<2020-10-02 ven.>
+:PROPERTIES:
+:NOTER_PAGE: pdf:~/these/leitura/autres/IGSC2020.pdf::3++0.06;;annot-3-0
+:ID:       ../these/leitura/autres/IGSC2020.pdf-annot-3-0
+:END:
+http://people.ee.ethz.ch/~floriand/ Florian Dörfler - ETH Zurich
+dorfler@ethz.ch
+http://people.ee.ethz.ch/~bsaverio/ Saverio Bolognani - ETH Zurich
+bsaverio@ethz.ch
+
+http://people.ee.ethz.ch/~floriand/docs/Teaching/ECC_2019_Tutorial
+http://people.ee.ethz.ch/~bsaverio/papers/ECC_2019.pdf
+*** Topics
+- Decentralized control of power converters & synchronous generators
+** YES [#B] M13 - Distributed Computation and Control
+<2020-06-22 lun.>-<2020-06-26 ven.>
+:PROPERTIES:
+:NOTER_PAGE: pdf:~/these/leitura/autres/IGSC2020.pdf::5++0.14
+:ID:       ../these/leitura/autres/IGSC2020.pdf-annot-5-0
+:END:
+http://www.eng.yale.edu/controls/ A. Stephen Morse - Department of Electr. Eng. Yale University, USA
+morse@sysc.eng.yale.edu
+- Distributed State Estimation
+- Graph theory
+- Consensus-based approach
+** [#A] RECORDED LESSON - m14 - Computation Issues in Nonlinear Control and Estimation
+<2020-07-20 lun.>-<2020-07-24 ven.>
+:PROPERTIES:
+:NOTER_PAGE: pdf:~/these/leitura/autres/IGSC2020.pdf::6++0.12
+:ID:       ../these/leitura/autres/IGSC2020.pdf-annot-6-0
+:END:
+- Estimation for nonlinear systems EKF UKF, moving horizon, moderate and high gain observers, particle filters
+http://www.math.ucdavis.edu/~krener Arthur J. Krener - Naval Postgraduate School at Monterey, CA
+ajkrener@nps.edu
+** LATE [#A] m20 - Decentralized and Distributed Control
+<2020-06-02 mar.>-<2020-06-09 mar.>
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/these/leitura/autres/IGSC2020.pdf::12++0.12;;annot-12-0]]
+:ID:       ../these/leitura/autres/IGSC2020.pdf-annot-12-0
+:END:
+https://www.epfl.ch/labs/la/ Giancarlo Ferrari-Trecate - Automatic Control Laboratory, École Polytechnique Fédérale de Lausanne,
+giancarlo.ferraritrecate@epfl.ch
+
+http://home.deib.polimi.it/farina/ Marcello Farina - Department of Electronics, Information, and Bioengineering Politecnico di Milano, Italy
+marcello.farina@polimi.it
+*** Topics
+:LOGBOOK:
+CLOCK: [2020-06-05 ven. 11:00]
+:END:
+- Large-scale systems and multivariable contorl
+- Decentralized and distributed model predictive controllers
+- Design of decentralized and distributed controllers for unconstrained systems
+** [#A] m22 - Introduction to optimal and stochastic control - 15/06/2020-19/06/2020
+<2020-06-15 lun.>-<2020-06-19 ven.>
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/these/leitura/autres/IGSC2020.pdf::14++0.10;;annot-14-0]]
+:ID:       ../these/leitura/autres/IGSC2020.pdf-annot-14-0
+:END:
+https://www.imperial.ac.uk/people/a.astolfi Alessandro Astolfi - CAP Group, EEE Department Imperial College London, United Kingdom DICII, University of Rome Tor Vergata, Italy
+a.astolfi@imperial.ac.uk
+
+https://www.imperial.ac.uk/people/g.scarciotti Giordano Scarciotti - CAP Group, EEE Department Imperial College London
+g.scarciotti@imperial.ac.uk
+*** Topics
+- stochastic differential equations
+- model uncertainty
+** [#C] m25 Robust and Adaptive Output Regulation of Multivariable and Hybrid Systems
+<2020-07-06 lun.>-<2020-07-10 ven.>
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/these/leitura/autres/IGSC2020.pdf::17++0.01;;annot-17-0]]
+:ID:       ../these/leitura/autres/IGSC2020.pdf-annot-17-0
+:END:
+*** Topics
+- Adaptative control of MIMO Linear Systems uncertain exosystems
+** m15 - Stability and Stabilisation of Nonlinear Time-Varying Systems: Applications to Multi-Agent Systems
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/these/leitura/autres/IGSC2020.pdf::7++0.06;;annot-7-0]]
+:ID:       ../these/leitura/autres/IGSC2020.pdf-annot-7-0
+:END:
+http://www.l2s.centralesupelec.fr/perso/antonio.loria Antonio Loria Elena Panteley - CNRS, France
+loria@lss.supelec.fr
+
+Elena Panteley - CNRS, France
+panteley@lss.supelec.fr
+*** Topics
+- Formation control and syncrhronisation of multiagent systems
+- Analysis of synchronisation and consensus problems
+** [#B] m18 - Hybrid Control Design
+<2020-06-15 lun.>-<2020-06-19 ven.>
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/these/leitura/autres/IGSC2020.pdf::10++0.12;;annot-10-0]]
+:ID:       ../these/leitura/autres/IGSC2020.pdf-annot-10-0
+:END:
+https://hybrid.soe.ucsc.edu/biblio
+https://hybrid.soe.ucsc.edu Ricardo G. Sanfelice - Department of Electrical and Computer Engineering University of California, Santa Cruz, USA
+ricardo@ucsc.edu
+*** Topics
+- State Estimation over a network

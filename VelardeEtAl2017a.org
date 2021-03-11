@@ -1,0 +1,28 @@
+#+TITLE: VelardeEtAl2017a: Scenario-based defense mechanism for distributed model predictive control
+#+ROAM_KEY: cite:VelardeEtAl2017a
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200709101933-dmpc.org][dMPC]]
+- keywords :: control engineering computing;data protection;distributed control;optimal control;predictive control;security of data;distributed model predictive control scheme;cyber-security;insider attacks;local controllers;false information;scenario-based defense mechanism;DMPC scheme;DMPC negotiation procedure;local energy grid;Couplings;Robustness;Cost function;Predictive control;Electronic mail
+
+
+* Scenario-based defense mechanism for distributed model predictive control
+  :PROPERTIES:
+  :Custom_ID: VelardeEtAl2017a
+  :URL:
+  :AUTHOR: Velarde, P., Maestre, J. M., Ishii, H., & Negenborn, R. R.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/VelardeEtAl2017a.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+- Secure dMPC for consensus using scenario based mechanism
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES

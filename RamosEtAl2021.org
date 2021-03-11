@@ -1,0 +1,27 @@
+#+TITLE: RamosEtAl2021: Node and network resistance to bribery in multi-agent systems
+#+ROAM_KEY: cite:RamosEtAl2021
+#+ROAM_TAGS: article
+
+- tags ::
+- keywords :: Bribery resistance, Multi-agent systems, Consensus
+
+
+* Node and network resistance to bribery in multi-agent systems
+  :PROPERTIES:
+  :Custom_ID: RamosEtAl2021
+  :URL: https://www.sciencedirect.com/science/article/pii/S0167691120302243
+  :AUTHOR: Ramos, G., Silvestre, D., & Silvestre, C.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/RamosEtAl2021.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES

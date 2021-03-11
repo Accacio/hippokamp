@@ -1,0 +1,6 @@
+#+title: Deception Attacks
+- tags :: [[file:20200722151944-attacks.org][Attacks]], [[file:20200427105830-cybersecurity.org][Cyber-security]]
+
+  Attack that affect the data integrity
+  - Data replay attacks
+  - False data Injection

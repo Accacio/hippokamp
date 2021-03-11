@@ -1,0 +1,51 @@
+#+TITLE: ZhuZheng2020: Observer-based control for cyber-physical systems with periodic dos attacks via a cyclic switching strategy
+#+ROAM_KEY: cite:ZhuZheng2020
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200427105830-cybersecurity.org][Cyber-Security]], [[file:20200722151834-denial_of_service_attacks.org][DoS]], [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]]
+- keywords ::
+
+
+* Observer-based control for cyber-physical systems with periodic dos attacks via a cyclic switching strategy
+  :PROPERTIES:
+  :Custom_ID: ZhuZheng2020
+  :URL:
+  :AUTHOR: Y. Zhu, & W. X. Zheng
+  :NOTER_DOCUMENT: ../docsThese/bibliography/ZhuZheng2020.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Observer based $\mathcal{H}_\infty$ control in [[file:20200722151834-denial_of_service_attacks.org][DoS]] prone measurement and control channels
+*** Model :lightSkyblue:
+Unstable [[file:20200504113008-discrete_time_systems.org][Discrete-time ]][[file:20200716170441-linear_system.org][Linear System]] with exogenous disturbance belonging to $l_2[0,\infty)$, [[file:20200722151834-denial_of_service_attacks.org][DoS]] is periodic with dwell-time
+- Observer based control
+*** Remarks
+*** Applications
+example of a unmanned ground vehicle UGV
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** DoS in measurement and control
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuZheng2020.pdf::1++0.00;;annot-1-5]]
+:ID:       ../docsThese/bibliography/ZhuZheng2020.pdf-annot-1-5
+:END:
+
+*** discrete time linear system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuZheng2020.pdf::2++0.35;;annot-2-0]]
+:ID:       ../docsThese/bibliography/ZhuZheng2020.pdf-annot-2-0
+:END:
+
+*** observer based control
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuZheng2020.pdf::3++0.13;;annot-3-0]]
+:ID:       ../docsThese/bibliography/ZhuZheng2020.pdf-annot-3-0
+:END:
+
+

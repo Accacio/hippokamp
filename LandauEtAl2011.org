@@ -1,0 +1,29 @@
+#+TITLE: LandauEtAl2011
+#+ROAM_KEY: cite:LandauEtAl2011
+#+ROAM_TAGS: book
+
+- tags :: [[file:20200504162654-adaptive_control.org][adaptive control]], [[file:20200422140353-estimation.org][estimation]]
+
+* LandauEtAl2011
+:PROPERTIES:
+:NOTER_DOCUMENT: ../docsThese/bibliography/LandauEtAl2011.pdf
+:END:
+
+
+** CATALOG
+
+*** Motivation :springGreen:
+- Adaptive Control
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** RLS
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LandauEtAl2011.pdf::81++0.00;;annot-81-8]]
+:ID:       ../docsThese/bibliography/LandauEtAl2011.pdf-annot-81-8
+:END:

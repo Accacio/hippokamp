@@ -1,0 +1,6 @@
+#+TITLE: Discrete-time Systems
+- tags :: [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]
+
+* Model
+- $x^+=Ax+Bu+w$
+- $x\in\mathcal{X}\subset\mathcal{R}^{n_x}$, $u\in\mathcal{U}\subset\mathcal{R}^{n_u}$ and $w\in\mathcal{W}\subset\mathcal{R}^{n_x}$

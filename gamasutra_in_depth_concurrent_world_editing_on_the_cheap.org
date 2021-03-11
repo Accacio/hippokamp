@@ -1,0 +1,19 @@
+#+TITLE: Gamasutra - In-depth: Concurrent World Editing, On The Cheap
+#+ROAM_KEY: https://www.gamasutra.com/view/news/128846/Indepth_Concurrent_World_Editing_On_The_Cheap.php
+- tag :: [[file:20200423094808-gamedev.org][gamedev]], [[file:20200709114935-jonathan_blow.org][Jonathan Blow]]
+
+* Use Textual Format
+- Serialize Entities
+  Take care with floating points
+- Save serialized entities in different files
+- use Version Control
+
+* Naming Files
+#+begin_quote
+My solution was a somewhat lazy one: we allocate a range of IDs to each computer that edits the world. These are kept in a file called "id_ranges"; at startup time, the game queries its machine's MAC address, then looks in the file for the corresponding ID range; if not found, it claims a new range and adds a new line to the file:
+#+end_quote
+
+* Logistical problems
+
+** Arrays
+How much memory to allocate?

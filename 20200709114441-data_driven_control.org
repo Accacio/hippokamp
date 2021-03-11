@@ -1,0 +1,2 @@
+#+title: data-driven control
+- tags :: [[file:20200504164021-control.org][control]]

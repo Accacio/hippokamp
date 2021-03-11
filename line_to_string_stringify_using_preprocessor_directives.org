@@ -1,0 +1,4 @@
+#+title: __LINE__ to string (stringify) using preprocessor directives
+#+roam_key: http://decompile.com/cpp/faq/file_and_line_error_string.htm
+- tags :: [[file:20200708151656-c_c.org][C/C++]],
+  better errro messages using preprocessor

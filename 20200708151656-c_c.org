@@ -1,0 +1,13 @@
+#+title: C/C++
+- tags :: [[file:20200713160350-programming.org][Programming]]
+
+
+* To see symbols in object use nm
+#+begin_src bash
+nm -CD ./obj.so
+#+end_src
+
+* To disassemble an object use objdump
+#+begin_src bash
+objdump -dC ./obj.o
+#+end_src

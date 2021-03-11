@@ -1,0 +1,113 @@
+#+TITLE: GrimsmanEtAl2019: The impact of information in distributed submodular maximization
+#+ROAM_KEY: cite:GrimsmanEtAl2019
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200923155306-graph_theory.org][Graph Theory]],  [[file:20200427161129-network_topologies.org][network topologies]], [[file:20200608100448-networked_control.org][NCS]]
+- keywords ::
+
+
+* The impact of information in distributed submodular maximization
+  :PROPERTIES:
+  :Custom_ID: GrimsmanEtAl2019
+  :URL:
+  :AUTHOR: D. Grimsman, M. S. Ali, J. P. Hespanha, & J. R. Marden
+  :NOTER_DOCUMENT: ../docsThese/bibliography/GrimsmanEtAl2019.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
++ Impact of topology, decision order, and information distribution to agent decisions
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- More specifically, the contributions of this paper are the following results
+- each node is an agent (and thus we use the terms interchangeably)
+*** References :violet:
+
+** NOTES
+
+*** Impact of topology, and information distribution to agent decisions
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::1++0.00;;annot-1-10]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-1-10
+:END:
+
+*** distributed optimization
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::1++8.62;;annot-1-11]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-1-11
+:END:
+
+*** show the contributions directly in introduction
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::2++3.49;;annot-2-0]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-2-0
+:END:
+
+*** greedy is 63% of the optimal
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::3++0.00;;annot-3-2]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-3-2
+:END:
+
+
+*** communication between agents modeled by graph
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::3++1.87;;annot-3-1]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-3-1
+:END:
+
+*** infimum is worst-case $\gamma$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::3++5.65;;annot-3-3]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-3-3
+:END:
+
+
+*** agent optimize based on the choice of previous agents
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::3++9.26;;annot-3-0]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-3-0
+:END:
+
+*** strong duality of Linear Programming shows that the fractional independence and clique numbers are equal
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::4++0.94;;annot-4-0]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-4-0
+:END:
+
+*** inverse of fractional clique number is a bound to worst-case
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::4++2.32;;annot-4-1]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-4-1
+:END:
+
+*** marginal contribution of the choice of agent
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::5++4.65;;annot-5-0]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-5-0
+:END:
+$\Delta\left(x_{i} \mid x_{A}\right):=f\left(x_{i}, x_{A}\right)-f\left(x_{A}\right)$
+
+*** turan graph
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::6++3.49;;annot-6-0]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-6-0
+:END:
+
+*** [[file:20200923155306-graph_theory.org::*<<<Turán graph>>>][Turán graph]] is the graph with most number of edges that has $w(G)\leq r$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::6++3.49;;annot-6-1]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-6-1
+:END:
+$T(n,r)\in \underset{G=(V,E):w(G)\leq r}{\mathrm{arg} \,\mathrm{max.}}|E|$
+
+*** Defined Bounds for worst-case efficiency that can help design information sharing constraints
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GrimsmanEtAl2019.pdf::9++6.96;;annot-9-0]]
+:ID:       ../docsThese/bibliography/GrimsmanEtAl2019.pdf-annot-9-0
+:END:
+

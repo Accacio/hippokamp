@@ -1,0 +1,6 @@
+#+title: Denial-of-service attacks
+#+ROAM_ALIAS: DoS
+- tags :: [[file:20200722151944-attacks.org][Attacks]], [[file:20200427105830-cybersecurity.org][Cyber-security]]
+
+  Attack which objective is to exhaust the resources of the attacked system (usually a server) so
+  it cannot offer service to other users

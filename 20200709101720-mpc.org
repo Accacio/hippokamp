@@ -1,0 +1,3 @@
+#+title: Model Predictive Control
+#+ROAM_ALIAS:MPC
+- tags :: [[file:20200504164021-control.org][control]]

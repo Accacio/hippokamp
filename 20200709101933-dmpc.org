@@ -1,0 +1,9 @@
+#+title: Distributed Model Predictive Control
+#+ROAM_ALIAS: dMPC
+- tags :: [[file:20200709101720-mpc.org][MPC]]
+
+
+* Resource allocation
+** inequalities
+- even when $lambda$ is zero the projection onto the constraint set advances the
+  algorithm to convergence

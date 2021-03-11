@@ -1,0 +1,100 @@
+#+TITLE: LiuEtAl2016: Hybrid-driven-based stabilisation for networked control systems
+#+ROAM_KEY: cite:LiuEtAl2016
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]], [[file:20200713170428-distributed_control.org][Distributed Control]]
+- keywords ::
+
+
+* Hybrid-driven-based stabilisation for networked control systems
+  :PROPERTIES:
+  :Custom_ID: LiuEtAl2016
+  :URL:
+  :AUTHOR: J. Liu, L. Zha, J. Cao, & S. Fei
+  :NOTER_DOCUMENT: ../docsThese/bibliography/LiuEtAl2016.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Study of Networked Control in a [[file:20200716170854-stochastic_control.org][Stochastic]] [[file:20200716162527-hybrid_control.org][Hybrid Control]] Scheme using stochastic variable with [[file:20200716165417-bernoulli_distribution.org][Bernoulli Distribution]] in order to increase performance on over occupied channels
+*** Model :lihgSkyblue:
+[[file:20200716170441-linear_system.org][Linear System]], controlled by a distant event-driven controller connected through unreliable network.
+Actuator has ZOH that accepts only new packets (time-stamp based)
+*** Remarks
+Proof of Stability of such system
+*** Applications
+How to design such controller and [[file:20200716170112-simulation.org][Simulation]]
+
+*** Expressions
+- Due to
+- The Drawback
+- aim to shorten the gap
+*** References :violet:
+
+** NOTES
+
+** Interesting expression
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::1++0.35;;annot-1-0]]
+:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-1-0
+:END:
+    ... is still a problem and the aim of this study is to shorten such a gap.
+
+** switched in order to increase performance
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::1++0.41;;annot-1-1]]
+:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-1-1
+:END:
+    When transmission bandwith is over occupied, use event-based control
+
+** taking the delay into account
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.00;;annot-2-5]]
+:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-5
+:END:
+delay modeled as $\eta(t) \in [\eta_0,\eta_1]$
+$u(t)=K x(t-\eta(t)), \quad t \in\left[t_{k} h+\tau_{t_{k}^{\prime}}, t_{k+1} h+\tau_{t_{k+1}}\right)$
+
+** Linear System
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.04;;annot-2-0]]
+:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-0
+:END:
+
+** time stamped packets to actuator
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.13;;annot-2-1]]
+:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-1
+:END:
+
+** network delays and packet dropouts are accounted for
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.18;;annot-2-2]]
+:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-2
+:END:
+
+** Same as note: [[switched in order to increase performance]]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.26;;annot-2-3]]
+:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-3
+:END:
+
+** Time driven part of the control
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.40;;annot-2-4]]
+:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-4
+:END:
+$u(t)=K x\left(t_{k} h\right), \quad t \in\left[t_{k} h+\tau_{t_{k}^{\prime}} t_{k+1} h+\tau_{t_{k+1}}\right)$
+
+** time and event are controlled by $\alpha$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.51;;annot-2-6]]
+:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-6
+:END:
+$\alpha$ is a stochastic variable with Bernoulli Distribution
+\begin{aligned}
+x(t)=& A x(t)+\alpha(t) B R x(t-\eta(t)) \\
+&+(1-\alpha(t)) B K\left[x(t-d(t))+e\left(t_{k} h\right)\right], t \in\left[t_{k} h+\tau_{t_{k}}, t_{k+1} h+\tau_{t_{k+1}}\right)
+\end{aligned}

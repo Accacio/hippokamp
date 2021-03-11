@@ -1,0 +1,6 @@
+#+title: 12.6 — Pure virtual functions, abstract base classes, and interface classes | Learn C++
+#+roam_key: https://www.learncpp.com/cpp-tutorial/126-pure-virtual-functions-abstract-base-classes-and-interface-classes/
+- tags :: [[file:20200708151656-c_c.org][C/C++]]
+
+  - Pure virtual functions with bodies,
+  forces derived to implement, but it can call base implementation

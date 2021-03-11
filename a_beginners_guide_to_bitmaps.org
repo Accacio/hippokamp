@@ -1,0 +1,3 @@
+#+title: A Beginners Guide to Bitmaps
+#+roam_key: http://paulbourke.net/dataformats/bitmaps/
+- tags :: [[file:20200617111624-computer_graphics.org][computer graphics]]

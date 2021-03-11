@@ -1,0 +1,119 @@
+#+TITLE: ZhuMartinez2014: On the performance analysis of resilient networked control systems under replay attacks
+#+ROAM_KEY: cite:ZhuMartinez2014
+#+ROAM_TAGS: "technical note" IEEE
+
+- tags :: [[file:20200608100448-networked_control.org][NCS]], [[file:20200716164436-deception_attacks.org][Deception Attacks]], [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]]
+- keywords ::
+
+
+* On the performance analysis of resilient networked control systems under replay attacks
+  :PROPERTIES:
+  :Custom_ID: ZhuMartinez2014
+  :URL:
+  :AUTHOR: M. Zhu, & S. Martínez
+  :NOTER_DOCUMENT: ../docsThese/bibliography/ZhuMartinez2014.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+- Resilient MPC with resource allocation to deal with replay attacks
+- (A,B) Stabilizable
+*** Model :lightSkyblue:
+- [[file:20200504113008-discrete_time_systems.org][Discrete-time ]][[file:20200716170441-linear_system.org][Linear System]]
+- Replay attacker between Control and Actuator
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** Resilient MPC with resource allocation to deal with replay attacks
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.00;;annot-1-0]]
+:ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-0
+:END:
+
+*** Consensus detect misbehaving agents
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.48;;annot-1-1]]
+:ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-1
+:END:
+
+F. Pasqualetti, A. Bicchi, and F. Bullo, “Consensus computation in un-
+reliable networks: A system theoretic approach,” IEEE Trans. Autom.
+Control, vol. 57, no. 1, pp. 90–104, Jan. 2012
+S. Sundaram and C. N. Hadjicostis, “Distributed function calculation
+via linear iterative strategies in the presence of malicious agents,” IEEE
+Trans. Autom. Control, vol. 56, no. 7, pp. 1731–1742, Jul. 2011.
+
+*** deception attacks
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.48;;annot-1-2]]
+:ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-2
+:END:
+32 33
+S. Amin, X. Litrico, S. S. Sastry, and A. M. Bayen, “Stealthy deception
+attacks on water SCADA systems,” in Hybrid Systems: Computation
+and Control. Stockholm, Sweden: Springer, 2010, pp. 161–170.
+
+M. Zhu and S. Martínez, “Attack-resilient distributed formation control
+via online adaptation,” in IEEE Int. Conf. on Decision and Control,
+Orlando, FL, Dec. 2011, pp. 6624–6629.
+
+M. Zhu and S. Martínez, “Stackelberg game analysis of correlated at-
+tacks in cyber-physical system,” in Proc. American Control Conf., Jun.
+2011, pp. 4063–4068.
+
+*** denial of service
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.04;;annot-1-3]]
+:ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-3
+:END:
+S. Amin, A. Cardenas, and S. S. Sastry, “Safe and secure networked
+control systems under denial-of-service attacks,” in Hybrid Systems:
+Computation and Control. Stockholm, Sweden: Springer, 2009, pp.
+31–45.
+S. Amin, G. A. Schwartz, and S. S. Sastry, “Security of interdepen-
+dent and identical networked control systems,” Automatica, vol. 49,
+pp. 186–192, 2013.
+G. K. Befekadu, V. Gupta, and P. J. Antsaklis, “Risk-sensitive control
+under a class of denial-of-service attack models,” in Proc. American
+Control Conf., San Francisco, CA, Jun. 2011, pp. 643–648.
+A. Gupta, C. Langbort, and T. Basar, “Optimal control in the presence
+of an intelligent jammer with limited actions,” in Proc. IEEE Int. Conf.
+Decision and Control, Atlanta, GA, Dec. 2010, pp. 1096–1101
+
+*** zero-sum game between the controller and the jammer
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.04;;annot-1-4]]
+:ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-4
+:END:
+
+*** discrete-time linear system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++3.78;;annot-1-5]]
+:ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-5
+:END:
+
+*** pair stabilizable
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++5.65;;annot-1-6]]
+:ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-6
+:END:
+
+*** replay attacker between control and actuator
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::2++0.00;;annot-2-0]]
+:ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-2-0
+:END:
+
+
+*** Attack-Resilient Receding-Horizon Control Law
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::2++5.70;;annot-2-1]]
+:ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-2-1
+:END:
+

@@ -1,0 +1,2 @@
+#+title: computer graphics
+- tags :: [[file:20200617111624-graphics.org][graphics]]

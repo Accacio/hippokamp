@@ -1,0 +1,3 @@
+#+title: A Simple Entity Component System (ECS) [C++] - Austin Morlan
+#+roam_key: https://austinmorlan.com/posts/entity_component_system/
+- tags :: [[file:20200809193336-entity_component_system.org][ECS]]

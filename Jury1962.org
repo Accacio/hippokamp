@@ -1,0 +1,21 @@
+#+TITLE: Jury1962
+#+ROAM_TAGS: article
+#+ROAM_KEY: cite:Jury1962
+- tags :: [[file:20200504113008-discrete_time_systems.org][discrete time systems]], [[file:20200504113017-stability.org][stability]]
+
+* Jury1962
+:PROPERTIES:
+:NOTER_DOCUMENT: ../docsThese/bibliography/Jury1962.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+- Stability criterion for linear discrete time systems
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES

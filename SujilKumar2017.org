@@ -1,0 +1,71 @@
+#+TITLE: SujilKumar2017: Multi agent based energy management system for smart microgrid
+#+ROAM_KEY: cite:SujilKumar2017
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200908140517-multi_agents.org][Multi-Agents]], [[file:20200716170112-simulation.org][Simulation]]
+- keywords :: distributed power generation;energy management systems;fault tolerance;multi-agent systems;smart power grids;advanced energy management;microgrid energy management;energy management system;agent based management;smart microgrid;smart grid concept;Energy management;Microgrids;Generators;Load modeling;Wind speed;Wind farms;Batteries;Microgrid;Energy Management;Modeling and Simulation;Distributed Energy Resources;Energy Storage System;Multi Agent System
+
+
+* Multi agent based energy management system for smart microgrid
+  :PROPERTIES:
+  :Custom_ID: SujilKumar2017
+  :URL:
+  :AUTHOR: A. Sujil, & R. Kumar
+  :NOTER_DOCUMENT: ../docsThese/bibliography/SujilKumar2017.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
++ Multi-agent based system simulated in the presence of different events
+*** Model :lightSkyblue:
+Multi agents that exchange information among them
+- Short-term Renewable energy source forecast
+- Short-term State of the charge of batteries
+- Short-term Load Forecast
+- Control Center
+*** Remarks
+Disturbances are :
+- another asynchronous machine added
+- Shading effect in PV farm
+- Exceeding speed in wind turbine
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** Multi-agent based system simulated in the presence of different events
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SujilKumar2017.pdf::1++3.61;;annot-1-0]]
+:ID:       ../docsThese/bibliography/SujilKumar2017.pdf-annot-1-0
+:END:
+
+*** Decentralized systems have better controllability, fault tolerance and adaptability as compared
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SujilKumar2017.pdf::1++4.20;;annot-1-1]]
+:ID:       ../docsThese/bibliography/SujilKumar2017.pdf-annot-1-1
+:END:
+
+- C.-S. Karavas, G. Kyriakarakos, K. G. Arvanitis, and G. Papadakis,
+“A multi-agent decentralized energy management system based on distributed intelligence for the design and control of autonomous poly-
+generation microgrids,” Energy Conversion and Management, vol. 103,
+pp. 166–179, 2015.
+
+- C.-x. Dou, W.-q. Wang, D.-W. Hao, and X.-b. Li, “Mas-based solution to energy management strategy of distributed generation system,”
+International Journal of Electrical Power & Energy Systems, vol. 69,
+pp. 354–366, 2015.
+
+*** State flow for agent behavior
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SujilKumar2017.pdf::1++6.80;;annot-1-2]]
+:ID:       ../docsThese/bibliography/SujilKumar2017.pdf-annot-1-2
+:END:
+
+*** Proposed MAS
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SujilKumar2017.pdf::4++0.00;;annot-4-0]]
+:ID:       ../docsThese/bibliography/SujilKumar2017.pdf-annot-4-0
+:END:
+

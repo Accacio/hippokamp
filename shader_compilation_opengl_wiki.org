@@ -1,0 +1,5 @@
+#+TITLE: Shader Compilation - OpenGL Wiki
+#+ROAM_KEY: https://www.khronos.org/opengl/wiki/Shader_Compilation
+- tag :: [[file:20200617111549-opengl.org][OpenGL]]
+
+https://www.khronos.org/opengl/wiki/Shader_Compilation

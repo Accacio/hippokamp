@@ -1,0 +1,3 @@
+#+title: GPG/PGP Tutorial - getButterfly
+#+roam_key: https://getbutterfly.com/gpg-pgp-tutorial/a
+- tags :: [[file:20210118115927-gpg_pgp.org][GPG/PGP]]

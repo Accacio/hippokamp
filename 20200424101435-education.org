@@ -1,0 +1,108 @@
+#+TITLE: education
+
+* Legislação Francesa
+https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006064492/2020-11-25/
+Chapitre III : Avancement. (Articles 36 à 40-1-1)
+
+** MC
+*** Article 23
+
+#+begin_quote
+1° Etre titulaire, au plus tard à la date limite fixée, par arrêté du ministre chargé de l'enseignement supérieur, pour l'envoi du dossier aux rapporteurs prévus au deuxième alinéa de l'article 24, du doctorat ou de l'habilitation à diriger des recherches.
+#+end_quote
+**** Qualification
+  https://www.conseil-national-des-universites.fr/cnu/#/entite/entiteName/CNU/idChild/33/idNode/4243-4270
+  - 96h TD
+  - 1 artigo em journal ou 2 internacionais reconhecidos
+ #+begin_quote
+i) indexée JCR, ii) reconnue de bon niveau par la communauté, iii) relevant explicitement de la section, iv) relevant explicitement de la thématique de recherche du candidat.
+#+end_quote
+
+*** Article 39
+
+
+#+begin_quote
+- Hors classe :
+
+Du 5e au 6e échelon : 5 ans
+
+Du 4e au 5e échelon : 1 an
+
+Du 3e au 4e échelon : 1 an
+
+Du 2e au 3e échelon : 1 an
+
+Du 1er au 2e échelon : 1 an
+
+- classe normale :
+
+Du 8e au 9e échelon : 2 ans 10 mois
+
+Du 7e au 8e échelon : 2 ans 10 mois
+
+Du 6e au 7e échelon : 3 ans 6 mois
+
+Du 5e au 6e échelon : 2 ans 10 mois
+
+Du 4e au 5e échelon : 2 ans 10 mois
+
+Du 3e au 4e échelon : 2 ans 10 mois
+
+Du 2e au 3e échelon : 2 ans 10 mois
+
+Du 1er au 2e échelon : 1 an
+ #+end_quote
+*** Article 40-1
+#+begin_quote
+Peuvent seuls être promus à la hors-classe les maîtres de conférences parvenus au 7e échelon de la classe normale et ayant accompli au moins cinq ans de services en qualité de maître de conférences ou de maître-assistant en position d'activité ou en position de détachement.
+#+end_quote
+
+#+begin_quote
+Les maîtres de conférences de classe normale promus à la hors-classe sont classés à l'échelon comportant un indice de rémunération égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
+#+end_quote
+** PU
+- HDR
+
+*** Article 55
+  #+begin_quote
+CLASSES (ET AVANCEMENT D'ÉCHELON)
+ANCIENNETÉ REQUISE
+
+(pour l'accès à l'échelon supérieur)
+
+1re classe :
+
+Du 2e au 3e échelon
+3 ans
+
+Du 1er au 2e échelon
+3 ans
+
+2e classe :
+
+Du 6e au 7e échelon
+3 ans 6 mois
+
+Du 5e au 6e échelon
+3 ans 6 mois
+
+Du 4e au 5e échelon
+1 an
+
+Du 3e au 4e échelon
+1 an
+
+Du 2e au 3e échelon
+1 an
+
+Du 1er au 2e échelon
+1 an
+
+  #+end_quote
+
+*** article 57
+  #+begin_quote
+Peuvent seuls être promus au 1er échelon de la classe exceptionnelle les professeurs de 1re classe qui justifient d'au moins dix-huit mois d'ancienneté dans celle-ci.
+
+Peuvent seuls être promus au 2e échelon de la classe exceptionnelle les professeurs des universités justifiant d'au moins dix-huit mois d'ancienneté dans le 1er échelon de cette classe.
+  #+end_quote

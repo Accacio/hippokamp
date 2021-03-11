@@ -1,0 +1,65 @@
+#+TITLE: YangEtAl2019: MPC-based defense strategy for distributed networked control systems under dos attacks
+#+ROAM_KEY: cite:YangEtAl2019
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]], [[file:20200908140517-multi_agents.org][Multi-Agents]], [[file:20200709101720-mpc.org][MPC]], [[file:20200713170428-distributed_control.org][Distributed Control]], [[file:20200722151834-denial_of_service_attacks.org][Denial-of-service attacks]], [[file:20200427105830-cybersecurity.org][Cyber-Security]]
+- keywords :: Model predictive control, Networked control systems, Distributed systems, Denial-of-service attacks, Actuator saturation
+
+
+* MPC-based defense strategy for distributed networked control systems under dos attacks
+  :PROPERTIES:
+  :Custom_ID: YangEtAl2019
+  :URL: http://www.sciencedirect.com/science/article/pii/S0167691119300507
+  :AUTHOR: Yang, H., Li, Y., Dai, L., & Xia, Y.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/YangEtAl2019.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+[[file:20200716170854-stochastic_control.org][Stochastic]] [[file:20200709101933-dmpc.org][dMPC]] with defense against [[file:20200722151834-denial_of_service_attacks.org][DoS]] Attacks
+*** Model :lihgSkyblue:
+System of [[file:20200716170441-linear_system.org][Linear]] [[file:20200504113008-discrete_time_systems.org][Discrete-time Systems]] with Saturated Control, Stochastic disturbances ([[file:20200716165417-bernoulli_distribution.org][Bernoulli Distribution]]) coupled by [[file:20200724164133-probabilistic_constraints.org][Probabilistic Constraints]]. Observer used in case of attack (DoS).
+*** Remarks
+*** Applications
+- Numerical simulation to show effectiveness
+*** Expressions
+- By ignoring x, the model is reduced to
+- to show effectivenes of algo
+*** References :violet:
+
+** NOTES
+
+*** system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2019.pdf::2++0.02;;annot-2-16]]
+:ID:       ../docsThese/bibliography/YangEtAl2019.pdf-annot-2-16
+:END:
+
+
+*** objective
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2019.pdf::2++0.06;;annot-2-15]]
+:ID:       ../docsThese/bibliography/YangEtAl2019.pdf-annot-2-15
+:END:
+
+*** error??
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2019.pdf::2++0.33;;annot-2-17]]
+:ID:       ../docsThese/bibliography/YangEtAl2019.pdf-annot-2-17
+:END:
+
+*** Bernoulli Distribution??
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2019.pdf::2++0.33;;annot-2-18]]
+:ID:       ../docsThese/bibliography/YangEtAl2019.pdf-annot-2-18
+:END:
+
+*** observer used to estimate state in case of attack
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2019.pdf::3++0.00;;annot-3-8]]
+:ID:       ../docsThese/bibliography/YangEtAl2019.pdf-annot-3-8
+:END:
+
+

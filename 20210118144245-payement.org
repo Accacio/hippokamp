@@ -1,0 +1,6 @@
+#+title: payement
+- tags :: [[file:20210118144225-bureaucracy.org][bureaucracy]]
+
+- Facture: Combien à payer, pour quel service
+  + Facture Acquité: Combien a été payé et pour quel service
+- Attestation de payment: confirmation de payement mais sans citer raison

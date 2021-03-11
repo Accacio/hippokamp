@@ -1,0 +1,27 @@
+#+title: How to Write a Paper in a Weekend (By Prof. Pete Carr) - YouTube
+#+roam_key: https://www.youtube.com/watch?v=UY7sVKJPTMA
+- tags :: [[file:20210304090408-research.org][Research]],[[file:20210309145947-soft_skills.org][ Soft Skills]], [[file:20210309153048-pete_carr.org][Pete Carr]], [[file:20200422201907-writing.org][writing]]
+
+* writing a first draft
+** Preliminaries
+1. review and renew literature search
+2. Determine who your audience is
+   - type :: research, review, tutorial
+   - where :: what journal?
+   - people :: undergraduates, researcher, reviewers
+** the Paper
+*** Algorithm
+1. Don't procrastinate
+2. create an outline / use tables and figures to guide
+3. Do not write the introduction now
+4. Begin with the experimental part
+5. results and discussion
+6. Conclusions
+   a. Numbered??
+7. References
+8. Introduction
+
+#+begin_quote
+Reading maketh a full man, conference a ready man and writing an exact man.
+---Francis Bacon
+#+end_quote

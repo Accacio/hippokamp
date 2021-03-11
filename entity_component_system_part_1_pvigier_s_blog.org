@@ -1,0 +1,3 @@
+#+title: Entity-component-system – Part 1 | pvigier’s blog
+#+roam_key: https://pvigier.github.io/2019/07/07/entity-component-system-part1.html
+- tags :: [[file:20200809193336-entity_component_system.org][Entity-Component-System]]

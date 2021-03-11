@@ -1,0 +1,13 @@
+#+title: INT - Convention fiscale entre la France et le Brésil
+#+roam_key: https://bofip.impots.gouv.fr/bofip/1736-PGP
+- tags :: [[file:20200701150423-impots.org][impots]], [[file:20210118144225-bureaucracy.org][bureaucracy]]
+
+* Imposto de imóvel em cada lugar assim como aluguel
+
+#+begin_quote
+L'imposition des revenus de biens immobiliers est attribuée à l'État où ces biens sont situés.
+#+end_quote
+
+#+begin_quote
+La règle de l'imposition dans l'État de la situation des biens s'applique quelle que soit la forme de l'exploitation des biens immobiliers (exploitation directe, location, affermage).
+#+end_quote

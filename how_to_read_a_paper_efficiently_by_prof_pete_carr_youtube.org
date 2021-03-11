@@ -1,0 +1,21 @@
+#+title: How to Read a Paper Efficiently (By Prof. Pete Carr) - YouTube
+#+roam_key: https://www.youtube.com/watch?v=IeaD0ZaUJ3Y
+- tags :: [[file:20210304090408-research.org][Research]], [[file:20210309145947-soft_skills.org][Soft Skills]], [[file:20210309153048-pete_carr.org][Pete Carr]]
+
+* Phases
+**  Survey the paper
+  Stop reading the article at any point. When you lose interest
+  1. Read the title and the keywords
+  2. Read the abstract
+  3. Read the conclusions
+** Reading the article
+- Look at the tables and figures
+- Read the introduction
+- Read the results and discussion
+  the heart of the paper
+- Read the experimental
+- Write some notes so you don't have to reread the whole paper again
+
+#+begin_quote
+The faintest writing is better than the best memory
+#+end_quote

@@ -1,0 +1,5 @@
+#+title: How I cut GTA Online loading times by 70%
+#+roam_key: https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/
+- tags :: [[file:20200713160350-programming.org][Programming]], [[file:20200423094808-gamedev.org][gamedev]]
+
+- or the disaster of nowadays technology

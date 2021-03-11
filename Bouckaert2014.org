@@ -1,0 +1,27 @@
+#+TITLE: Bouckaert2014: Contribution des smart grids à la transition énergétique : évaluation dans des scénarios long terme
+#+ROAM_KEY: cite:Bouckaert2014
+#+ROAM_TAGS: article
+
+- tags ::
+- keywords ::
+
+
+* Contribution des smart grids à la transition énergétique : évaluation dans des scénarios long terme
+  :PROPERTIES:
+  :Custom_ID: Bouckaert2014
+  :URL:
+  :AUTHOR: Bouckaert, S.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/Bouckaert2014.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES

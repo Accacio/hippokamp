@@ -1,0 +1,3 @@
+#+title: Actually Portable Executable
+#+roam_key: https://justine.lol/ape.html
+- tags :: [[file:20200708151656-c_c.org][C/C++]]

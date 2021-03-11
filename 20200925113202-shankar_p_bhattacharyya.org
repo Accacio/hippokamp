@@ -1,0 +1,7 @@
+#+title: Shankar P. Bhattacharyya
+#+ROAM_TAGS: people
+http://ece.tamu.edu/~spb/
+
+
+* Papers
+cite:KeelBhattacharyya1997

@@ -1,0 +1,3 @@
+#+title: TeX Macros
+#+roam_key: http://pages.iu.edu/~rdlyons/macros/macros.html
+- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]

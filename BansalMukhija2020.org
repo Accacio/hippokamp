@@ -1,0 +1,79 @@
+#+TITLE: BansalMukhija2020: Aperiodic sampled-data control of distributed networked control systems under stochastic cyber-attacks
+#+ROAM_KEY: cite:BansalMukhija2020
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]], [[file:20200716164436-deception_attacks.org][Deception Attacks]]
+- keywords ::
+
+
+* Aperiodic sampled-data control of distributed networked control systems under stochastic cyber-attacks
+  :PROPERTIES:
+  :Custom_ID: BansalMukhija2020
+  :URL:
+  :AUTHOR: K. Bansal, & P. Mukhija
+  :NOTER_DOCUMENT: ../docsThese/bibliography/BansalMukhija2020.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+[[file:20200716162527-hybrid_control.org][Hybrid]] Triggering scheme ([[file:20200807170259-aperiodic_sampled_data_control.org][Aperiodic Sampled-Data Control]]) to control Networked system under stochastic [[file:20200716164436-deception_attacks.org][Deception Attacks]] find a way to obtain Minimum inter-event time (MIET)
+*** Model :lightSkyblue:
+- Set of [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200716170441-linear_system.org][Linear Systems]] coupled in dynamic equation
+- Controllable pair (A,B)
+- New observation when $\|x_i(\sigma_k^i)-x_i(t)\|> \alpha_i\|x_i(t)\|$
+- Control models attack as a function $f(x_i(t))$
+*** Remarks
+*** Applications
+- Example of uncoupled system and coupled system
+*** Expressions
+- Unlike ... where ..., in the proposed
+*** References :violet:
+
+** NOTES
+
+*** hybrid triggering
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::1++0.18;;annot-1-0]]
+:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-1-0
+:END:
+
+*** aperiodic sampled-data control
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::2++0.00;;annot-2-0]]
+:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-2-0
+:END:
+
+*** control part under attack and part normal behavior
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::3++0.13;;annot-3-1]]
+:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-1
+:END:
+
+*** new value sent if condition is violated
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::3++0.19;;annot-3-2]]
+:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-2
+:END:
+
+*** condition for not triggering
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::3++0.24;;annot-3-3]]
+:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-3
+:END:
+
+
+*** coupled discrete time linear systems
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::3++0.33;;annot-3-0]]
+:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-0
+:END:
+
+*** computation of MIET
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::7++0.06;;annot-7-0]]
+:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-7-0
+:END:
+
+

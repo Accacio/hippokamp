@@ -1,0 +1,29 @@
+#+title: Idioms and Spelling | Authors | Springer Nature
+#+roam_key: https://www.springernature.com/gp/authors/campaigns/writing-in-english/writing-in-english-idioms-spelling
+- tags :: [[file:20200422201907-writing.org][writing]]
+
+* Tips for Idioms and Spelling
+** "Respectively"
+Only be used if the sentence would be unclear without it. (the order in which they are presented is important)
+** Spelling
+UK or US? Journal instruction, be consistent
+** Punctuation
+*** Colon =:= and semicolon =;=
+- Colon:
+  + Introduce a list or a clause that explains the clause before the colon
+- Semicolon:
+  + Separate independent clauses
+
+    The patient was unresponsive; doctors were running everywhere carrying medical equipment.
+
+  + Separate items in a list if commas would be confusing
+** Size
+- "Large" and "small" variations in size, dimensions or mass
+- "High" and "low" usually for levels or numerical values
+  _Good: A small amount of the brain’s capacity is needed for survival instincts._
+
++Bad: A low amount of the brain’s capacity is needed for survival instincts.+
+
+_Good: We detected a large fluctuation in average migration of gazelles between June 4 and 18._
+
++Bad: A high fluctuation in average migration of gazelles was detected between June 4 and 18.+

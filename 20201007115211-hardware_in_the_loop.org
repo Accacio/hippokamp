@@ -1,0 +1,2 @@
+#+title: Hardware-in-the-loop
+- tags :: [[file:20200716170112-simulation.org][Simulation]]

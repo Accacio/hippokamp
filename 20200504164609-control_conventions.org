@@ -1,0 +1,2 @@
+#+TITLE: control conventions
+- tags :: [[file:20200504164021-control.org][control]], [[file:20200504164001-convention.org][conventions]]

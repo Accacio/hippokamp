@@ -1,0 +1,166 @@
+#+title: ecc2021 Reviewers
+- tags :: [[file:20210308092221-european_control_conference.org][European Control Conference]]
+
+* Comments
+** Comments to author (Associate Editor)
+=====================================
+
+Three reviews were obtained, which all find that the paper
+presents an interesting idea. However, they also emphasize
+that the writing of the paper should be significantly
+improved and the contribution of the paper should be
+clarified w.r.t. the literature. Moreover, the results
+would benefit from a theoretical analysis of the
+effectiveness of the presented approach. Reviewer 2
+additionally raises various aspects that require
+clarification.
+
+** Reviewer 2 of ECC'21 submission 468
+
+Comments to the author
+======================
+
+This paper proposes a distributed MPC scheme which detects
+and compensates selfish behavior of some agent.
+
+The paper is well structured, but the writing would benefit
+from some improvement and some additional explanation. My
+main concern is that at the moment the paper is a sequence
+of statements without much guidance nor justification.
+
+It is not clear to me whether there exists some competing
+approach in the literature. Maybe some stronger connection
+should be made with attack resilient control techniques.
+
+Detailed comments:
+
+A few words explaining (3) would be very helpful
+
+Do you disregard inequality constraints for simplicity or
+is there some intrinsic limitation? Please comment on this
+aspect.
+
+I am wondering why you use a projected subgradient method
+for (8b), rather than just solving a linear system of
+equations, which would correspond to Newton's method. You
+would need to compute second-order derivatives for that,
+but this is not an issue at all.
+
+Why do you need Lagrangian relaxation when solving (8a)?
+Please comment on this aspect.
+
+The meaning of T_j is not well explained when it is
+introduced. Does this mean that the agent passes to the
+coordinator \tilde \lambda instead of \lambda?
+
+What is \delta_i? How does it relate to T_j? What is
+\tau_i? Is it \delta? Do you mean that you simplify the
+discussion to T_i=\tau_i I?
+
+The explanation you provide on why the negotiation can fail
+for high values of \tau is a bit hard to follow. I guess I
+get the main point, but I don't find it very helpful in the
+way it is written. You should consider expanding it or
+removing it and just leaving a comment to give some idea of
+the phenomenon, since I think this is not the main point of
+the paper.
+
+The estimation procedure is not presented in a clear way
+and I do not understand how robust your approach is in
+reality.
+
+Can you guarantee that your estimate is unbiased? Otherwise
+you would be introducing a source of unfairness in the
+problem.
+
+It is not clear to me how the estimation and the
+optimization algorithms are combined. Some pseudo-code
+referring to well-written equations would help.
+
+What happens if all agents are greedy?
+
+
+Minor:
+
+I think that by "Analogically" you mean "Analogously"
+** Reviewer 5 of ECC'21 submission 468
+
+Comments to the author
+======================
+
+The paper studies the problem to detect selfish behavior
+within a distributed MPC scheme. Overall, I find this
+problem setup novel and interesting.
+
+In particular, I appreciate the idea of an algorithm to
+detect cheating and mitigate it.
+
+I think the work would improve a lot if the authors could
+provide some theoretical considerations on the
+effectiveness of their proposed algorithm, at least in some
+special cases.
+** Reviewer 6 of ECC'21 submission 468
+
+Comments to the author
+======================
+
+The paper “Negotiation dynamics estimation based detection
+and correction of selfish behavior in dMPC” proposes the
+detection and mitigation of selfish behavior of an agent in
+a resource allocation problem. The setting is distributed
+MPC, where the central MPC problem is decomposed into small
+subproblems. They are coupled by a “master problem” and are
+solved iteratively by a projected subgradient method.
+In order to detect and mitigate selfish behavior of the
+agents, an estimation scheme of the dual variables is
+implemented by the centralized coordinator and the
+estimated value can be compared with the true cooperative
+one (that is assumed known form the first negotiation
+iteration).
+
+In general, the paper is well written and presents an
+interesting and relevant problem.
+
+Some general comments to improve the paper are the
+following:
+- The introduction could be extended to give an overview of
+other results on how to solve the resource allocation
+problem
+- The contribution of the paper could be made more clear in
+the introduction.
+- Is there a typo in II.A? The variable \theta (should this
+be \theta_i?) represents the resource or the …
+
+Also, the language can be improved. Some examples are the
+following:
+- introduction: local criterion means local cost function?
+- voluntary hacking sounds weird
+- some sentences should not be single sentences, such as
+for example: Being S = .. and P = .. or Being P and S
+created by …
+
+
+* Resume
+** Reviewer 2
+- Needs more guidance to the reader
+- competing approaches in literature?
+- connection with attack resilient control techniques.
+*** Detailed
+- comments on why use equality constraints
+- why use lagrangian relaxation? Explain better the quantity decomposition
+- meaning of $T_j$. Explicit that $\tilde \lambda$ is sent
+- what is \delta_i? maybe remove it
+- hard to follow the negotiation failed state for high values
+- estimation procedure not presented in a clear way
+- guarantee on unbiased estimation?
+- not clear how estimation and optimization alg. are combined. Pseudo-code
+- What happens if all agents are greedy?
+** Reviewer 5
+- Theoretical considerations on the effectiveness of the proposed algorithm
+** Reviewer 6
+- Introduction could be extended, other results
+- Contribution could be more clear in the introduction
+*** Language
+- local criterion is local cost functions
+- voluntary hacking
+- sentences should not be  single sentences ??

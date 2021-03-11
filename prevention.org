@@ -1,0 +1,140 @@
+#+TITLE: Course Prevention
+#+OPTIONS: toc:nil
+#+REVEAL_INIT_OPTIONS: slideNumber:true
+
+[[file:formations_these.org][Formations Doctorat]]
+
+* What
+** objective
+    Procedures to protect people, environment and work activities \\
+    Control, minimise and manage risks \\
+    Contain the source of danger as soon as possible
+** Professional Risk
+1. Analyze and Identify danger (and risks)
+2. Preventive measures
+3. Train the staff
+4. Medical monitoring of the staff
+** Regulation
+
+"Health and Safety at work" (The Labour Code) \\
+Health, hygiene and occupational health (Decree 82-453 of 28 May 1982)
+* Who
+** Levels
+*** National Level
+#+begin_src ditaa :file /tmp/national.png
+
+                                +----------------------+
+                                |                      |
+                                | Health, safety and   |
+  +------------+                | working conditions   |
+  | Management |                | committee (CHSCT)    |
+  | cBLU       |                |                      |
+  +------+-----+                | cYEL                 |
+         |                      +----------------------+
+         +------------------+
+         |                  |
+  +------+---------+   +----+--------+
+  | Prevention and |   |    Health   |
+  |     safety     |   |  department |
+  |   department   |   |   cRED      |
+  +----------------+   +-------------+
+#+END_SRC
+
+#+RESULTS:
+[[file:/tmp/national.png]]
+
+*** Regional Level
+#+begin_src ditaa :file /tmp/Regional.png
+              +----------------------+
+              |                      |         +----------------------+
+              |       Regional       |         |                      |
+              |    representative    |         | Health, safety and   |
+              | cBLU                 |         | working conditions   |
+              +-----------+----------+         | committee (CHSCT)    |
+                          |                    |                      |
+                          |                    | cYEL                 |
+                          |                    +----------------------+
+         +----------------+----+-------------------+------------------+
+         |                     |                   |                  |
+   +-----+--------+     +------+-------+   +-------+-------+  +-------+--------+
+   |  Health and  |     | Occupational |   | Technical and |  | Human resources|
+   |   safety     |     |   health     |   |  maintenance  |  |   department   |
+   |  engineers   |     |  physician   |   |   department  |  |    c456        |
+   |    cGRE      |     |    cPNK      |   |   cRED        |  +----------------+
+   +--------------+     +--------------+   +---------------+
+
+#+end_src
+
+#+RESULTS:
+[[file:/tmp/Regional.png]]
+    In universities Regional and National are merged
+*** Local Level
+Director is the responsible but can designate *health and safety officer*
+1. Health and safety officer provides advice and helps on the safety procedures
+2. Health and safety officer raises awareness to training
+** Your Unit
+1. Manager is the responsible
+2. *Accident* \rightarrow Find first aid officer
+* Where
+** Lab
+    1. Layout of Lab \rightarrow use of signs \rightarrow Contain Risks
+    2. Emergency Equipment
+    3. Specific equipment for each hazardous materials
+** PPE
+use personal protection equipment (EPI portuguese)
+*** Before Work
+1. Identify Risks and prevent measures
+2. Read safety instructions
+3. use PPE
+4. Check availability of specific security equipment
+5. Have the required authorizations
+*** During Work
+1. USE PP
+2. keep tidy
+3. label flasks
+4. *DO NOT* eat or store food
+5. *DO NOT* use a pipette with your mouth
+6. wash hands regularly
+*** After Work
+1. Tidy and clean
+2. Decontaminate
+3. Sort waste and dispose
+** In case of Accident or injury
+1. *DO NOT MINIMISE*
+2. Alert nearest colleague and follow instructions
+3. Alert workplace *first aid officer* >>Sauveteur Securiste du Travail<<
+4. Inform Team Manager
+5. Health and safety officer
+   Report in 48 hours
+* How is it Done
+** Registers
+- Draw attention to health and safety problems
+- Information to fulfill statutory obligations
+- Ensure measures put in place
+*** Workplace health and safety register
+- Mandatory
+- Draw attention to safety issues
+- Record accident, incidents and injury
+- suggestions for improvements
+this is available to anyone and is readily accessible
+*** Serious and imminent danger register
++ Serious and imminent danger
+  - Staff members may leave their workstation
+*** Other Registers
+- Registers relating to special activities
+- Safety Register for periodic inspection
+- Fire safety Register
+- Waste safety Register 
+** Special Work Situations
+- Working alone
+- outside normal working hours
+- in specific risk area
+** Prevention into experimental protocols
+1. Write the aim of experiment
+2. Design experimental plan
+3. Annotate plan, for each stage
+   + main statutory requirements
+   + location and nature of the risks
+   + protection and prevention that can be used (PPE and specific equipment)
+* THE END
+    THE END

@@ -1,0 +1,3 @@
+#+title: Second Order Cone Programming
+- tags :: [[file:20200709102805-optimization.org][Optimization]]
+https://en.wikipedia.org/wiki/Second-order_cone_programming

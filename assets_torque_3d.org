@@ -1,0 +1,10 @@
+#+title: Assets - Torque 3D
+#+roam_key: http://wiki.torque3d.org/artist:assets
+- tags :: [[file:20200423094808-gamedev.org][gamedev]]
+
+- http://duion.com CC0 textures, mostly unedited raw texture photos, but also a collection of Torque3D ready materials as well as 3D-models.
+- http://texture.ninja Texture website similar to cgtextures.com or textures.com but all free CC0 licensed. Mostly raw materials that may require further editing to make it gameready.
+- http://cc0textures.com CC0 textures, obviously. Special feature on this website is, the textures are already in seamless and PBR-ready format.
+- http://blendswap.com Free 3D-models made with Blender in various creative commons licenses.
+- http://opengameart.org Big collection of open source game art assets. 2D art, textures and 3D models.
+- http://clipsafari.com Not directly gameready assets, but useful cliparts for 2D art creation.

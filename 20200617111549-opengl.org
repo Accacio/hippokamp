@@ -1,0 +1,2 @@
+#+title: OpenGL
+- tags :: [[file:20200617111624-computer_graphics.org][graphics]], [[file:20200708151656-c_c.org][C/C++]]

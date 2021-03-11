@@ -1,0 +1,14 @@
+#+TITLE: online estimation
+- tags :: [[file:20200422140353-estimation.org][estimation]]
+
+* recursive polynomial model estimator <= linear system
+* recursive  least squares estimator <= linear + nonlinear system
+https://www.youtube.com/watch?v=gHSiFqO23TE DSP Lecture 22: Least squares and recursive least squares - YouTube
+https://www.youtube.com/watch?v=KAHBUtwWHSg Online Parameter Estimation and Adaptive Control
+* Kalman Filter
+# "one":  'first example
+# two     second example
+# three   third example
+# four    foureh example
+
+

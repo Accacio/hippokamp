@@ -1,0 +1,14 @@
+#+TITLE: Formations Doctorat
+- tags :: [[file:20200422131137-these.org][these]]
+
+* Transversales
+1. Concevoir une carte mentale
+2. Droit d'auteur et propriété intellectuelle
+3. Métiers du livre et de l'édition
+4. Les illustrations scientifiques : donner de l’impact à ses supports de communication
+5. Prendre la parole en public
+6. Gagner en assurance
+7. Publier et diffuser
+* Scientifiques
+** [[file:20200622105521-distributed_control_and_computation.org][Distributed Control and Computation]]
+** [[file:20200910093618-modelisation_statistique_des_evenements_rares.org][Modélisation Statistique des Événements Rares]]

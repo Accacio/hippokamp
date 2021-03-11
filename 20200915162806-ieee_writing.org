@@ -1,0 +1,11 @@
+#+title: IEEE writing
+- tags :: [[file:20200422201907-writing.org][writing]], [[file:20210304090408-research.org][Research]]
+
+* Thesaurus (preferred expressions)
+https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-thesaurus.pdf
+
+* Taxonomy (Keywords)
+https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf
+** Branches
+- Systems engineering and theory
+- Control systems

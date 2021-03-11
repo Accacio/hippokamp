@@ -1,0 +1,16 @@
+#+TITLE: Assemblée Générale IETR 2020 - 2020-01-23
+
+-tags :: [[file:20200422134152-assemblees.org][assemblées]]
+
+* Présentations Doctorants
+** Sparse signal detection with spatial diversity using multi rate sampling | E. SELVA  A. KOUNTOURIS Y LOUET
+*** Multi-Rate Sampling
+*** Distributed Multi-Rate Sampling
+FC ( Fusion Center )
+** Imagerie ISAR multi-voies & compressive | Mor Diama LO
+** Studies and Performances of Counter-mesures in cybersecurity for IoT Networks and Platforms | Ivan MARTINEZ
+*** HW/SW characteristics
+*** NS3 LoRaWANmodule
+** Learned Image Coding | Théo LADUNE
+** Augmentation of a Dataset of 3D Ear Shapes and Pinna-Related transfer functions | Corentin GUEZENOC
+*** PRTF

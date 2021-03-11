@@ -1,0 +1,94 @@
+#+TITLE: DibajiIshii2015: Consensus of second-order multi-agent systems in the presence of locally bounded faults.
+#+ROAM_KEY: cite:DibajiIshii2015
+#+ROAM_TAGS: article Elsevier
+
+- tags ::  [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200427161129-network_topologies.org][network topologies]], [[file:20200908140517-multi_agents.org][Multi-Agents]]
+
+* DibajiIshii2015
+:PROPERTIES:
+:NOTER_DOCUMENT: ../docsThese/bibliography/DibajiIshii2015.pdf
+:END:
+
+** CATALOG
+*** Motivation :springgreen:
+- Consensus of second order sampled-data in presence of misbehaving agents
+*** Model :lightbluesky:
+- [[file:20200713170428-distributed_control.org][Distributed Control]]
+- $g=(\mathcal{V},\mathcal{E})$, $n$ agents $g=(\mathcal{V}, \mathcal{E})$, $\mathcal{V}=\{1, \ldots, n\}$, $\mathcal{E} \subseteq \mathcal{V} \times \mathcal{V}$, $(j, i) \in \mathcal{E}$, $\varepsilon=\mathcal{V} \times \mathcal{V}$,
+  - $\mathcal{N}_{i}$ neighbors, $\mathcal{N}_{i}=\{j:(j, i) \in \mathcal{E}\}$ , and its degree is denoted by $d_{i}=\left|\mathcal{N}_{i}\right|$.
+- System of $n$ [[file:20200716163801-continuous_time_systems.org][Continuous-time]] [[file:20200716170441-linear_system.org][Linear Systems]] discretized using bilinear transform
+*** Remarks
+*** Applications
+- Simulations, with robust and non robust system with different adjacency matrix
+*** References
+
+** NOTES
+*** Consensus of second order sampled-data in presence of misbehaving agents
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::1++1.17;;annot-1-29]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-1-29
+
+:END:
+
+*** definition of <<<robust digraph>>>
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::2++0.30;;annot-2-18]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-2-18
+:END:
+
+*** Continuous time linear system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::2++0.94;;annot-2-20]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-2-20
+:END:
+
+*** digraph
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::2++2.81;;annot-2-19]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-2-19
+:END:
+
+*** discretization
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::2++4.68;;annot-2-21]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-2-21
+:END:
+
+*** consensus based control
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::2++4.68;;annot-2-22]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-2-22
+:END:
+
+*** byzantine not considered
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::3++0.04;;annot-3-23]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-3-23
+:END:
+*** consensus
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::3++0.17;;annot-3-24]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-3-24
+:END:
+*** ignore f greatest and f smallest
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::3++0.35;;annot-3-25]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-3-25
+:END:
+*** $f$ -local, if network is $2f+1$ -robust then resilient consensus achievable using DP-MSR
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::4++0.46;;annot-4-13]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-4-13
+:END:
+*** $f$ -local , if DP-MSR with parameter $2f$ achieves consensus, then the network is $(f+1,f+1)$ -robust
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::5++5.62;;annot-5-22]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-5-22
+:END:
+*** There exists a $2f$ -robust with minimum degree $2f+1$, may not achieve resilient may not achieve consensus depending on malicious agents and agent's initial states
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::6++3.74;;annot-6-9]]
+:ID:       ../docsThese/bibliography/DibajiIshii2015.pdf-annot-6-9
+:END:
+
+

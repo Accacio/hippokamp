@@ -1,0 +1,145 @@
+#+TITLE: LuYang2020: Secure state estimation for multiagent systems with faulty and malicious agents
+#+ROAM_KEY: cite:LuYang2020
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200422140353-estimation.org][estimation]], [[file:20200908140517-multi_agents.org][Multi-Agents]]
+- keywords ::
+
+
+* Secure state estimation for multiagent systems with faulty and malicious agents
+  :PROPERTIES:
+  :Custom_ID: LuYang2020
+  :URL:
+  :AUTHOR: A. Lu, & G. Yang
+  :NOTER_DOCUMENT: ../docsThese/bibliography/LuYang2020.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+State [[file:20200422140353-estimation.org][estimation]] of NCS, with faulty and malicious agents based on [[file:20200828102813-least_squares.org][Least-squares]]
+*** Model :lightSkyblue:
+- [[file:20200608100448-networked_control.org][Networked Control]] directed graph $\mathbb{G}=\{\mathbb{V}, \mathbb{E}\}$
+- single state without input
+- dynamic dependes on neighborhood $\mathbb{N}_{i}=\{j \in \mathbb{V} \mid(j, i) \in \mathbb{E}\}$
+- exogenous inputs $u_i^f$,$u_i^m$ and $d_i$ for faulty and malicious behavior and noise
+- maximum of $s^f$ and $s^m$ faulty and malicious agents
+*** Remarks
+*** Applications
+- Simulation to compare 3 methods of state estimation presented
+*** Expressions
+- deliberately
+*** References :violet:
+- cite:SundaramHadjicostis2011
+- cite:PasqualettiEtAl2012
+** NOTES
+
+*** estimation with misbehaving agents
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::1++0.00;;annot-1-5]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-1-5
+:END:
+
+
+*** averaging and rendez-vous
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::1++0.09;;annot-1-6]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-1-6
+:END:
+
+*** graphical conditions to compute function despite malicious agents
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::1++0.31;;annot-1-7]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-1-7
+:END:
+cite:SundaramHadjicostis2011
+
+*** misbehavior characterized by structural left invertibility
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::1++0.32;;annot-1-8]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-1-8
+:END:
+
+*** Graph must be 2s+1 connected for s misbehaving agents in order to have consensus
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::1++0.00;;annot-1-9]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-1-9
+:END:
+S. Weerakkody, X. Liu, H. S. Sang, and B. Sinopoli, “A graph-theoretic
+characterization of perfect attackability for secure design of distributed
+control systems,” IEEE Trans. Control Netw. Syst., vol. 4, no. 1, pp. 60–70,
+Mar. 2017.
+*** graph V E
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::2++0.18;;annot-2-0]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-2-0
+:END:
+
+*** Single state systems
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::2++0.18;;annot-2-1]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-2-1
+:END:
+
+*** neighborhood of agent
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::2++0.30;;annot-2-2]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-2-2
+:END:
+
+*** if A is row stochastic there is consensus
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::2++0.35;;annot-2-3]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-2-3
+:END:
+as seen in [[file:20200622105521-distributed_control_and_computation.org][Distributed Control and Computation ]]
+
+*** maximum of faulty agents $s^f$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::3++0.00;;annot-3-0]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-3-0
+:END:
+
+*** maximum of malicious agents $s^m$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::3++0.00;;annot-3-1]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-3-1
+:END:
+
+*** definition of malicious agents
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::4++0.35;;annot-4-0]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-4-0
+:END:
+omniscience is too much, and not necessarily it knows the topology
+
+*** definition of faulty agents
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::4++0.35;;annot-4-1]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-4-1
+:END:
+#+begin_quote
+cannot be altered by the adversary
+#+end_quote
+    what if it was caused by the adversary???
+
+*** stochastic A
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::12++0.35;;annot-12-0]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-12-0
+:END:
+
+*** it seems it doesn't work well when there is no misbehavior
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::13++0.00;;annot-13-0]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-13-0
+:END:
+
+
+*** interesting choice of behavior
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuYang2020.pdf::14++0.11;;annot-14-0]]
+:ID:       ../docsThese/bibliography/LuYang2020.pdf-annot-14-0
+:END:
+$u_{i}^{f}(t)=i \times \cos (t / i)$

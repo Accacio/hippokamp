@@ -1,0 +1,28 @@
+#+TITLE: VelardeEtAl2017: Vulnerabilities in lagrange-based distributed model predictive control
+#+ROAM_KEY: cite:VelardeEtAl2017
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200709101933-dmpc.org][dMPC]]
+- keywords ::
+
+
+* Vulnerabilities in lagrange-based distributed model predictive control
+  :PROPERTIES:
+  :Custom_ID: VelardeEtAl2017
+  :URL:
+  :AUTHOR: Velarde, P., Jos\'e M. Maestre, Ishii, H., & Negenborn, R. R.
+  :NOTER_DOCUMENT: /home/nogueirar/docsThese/bibliography/VelardeEtAl2017.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+- Analysis of dMPC scheme under influence of malicious agents
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES

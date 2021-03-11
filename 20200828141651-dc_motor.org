@@ -1,0 +1,2 @@
+#+title: DC Motor
+- tags :: [[file:20200504164021-control.org][Control]], [[file:20200828141710-physics.org][Physics]], [[file:20200828141718-modelling.org][Modelling]]

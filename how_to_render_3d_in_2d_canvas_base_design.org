@@ -1,0 +1,3 @@
+#+title: How to render 3D in 2D canvas — Base Design
+#+roam_key: https:/www.basedesign.com/blog/how-to-render-3d-in-2d-canvas
+- tags :: [[file:20200429185809-linear_algebra.org][Linear Algebra]] , [[file:20200617111624-computer_graphics.org][graphics]], [[file:20200721210324-javascript.org][javascript]]

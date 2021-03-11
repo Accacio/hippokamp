@@ -1,0 +1,3 @@
+#+title: xkcd: Manage Your Preferences
+#+roam_key: https://xkcd.com/2432/
+- tags :: [[file:20210304095302-comics.org][comics]]

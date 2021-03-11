@@ -1,0 +1,93 @@
+#+TITLE: Course Fire Risk
+#+OPTIONS: toc:nil
+#+REVEAL_INIT_OPTIONS: slideNumber:true
+- tags :: [[file:formations_these.org][Formations Doctorat]]
+
+* Introduction
+**  Major hazard
+Consequences
+- Human
+- Material
+- Scientific
+** Objective
+- Identify risk
+- Learn prevention procedures
+- How to take action in case of fire
+* What
+** Uncontrolled Combustion
+It needs:
+- Fuel
+- Oxidizing agent
+- Activation energy
+** The Fire Triangle
+when one of them is removed the reaction stops
+*** Fuel
+- Solid
+- Liquid
+- Gaseous
+*** Oxidizing agent
+maintains the combustion of fuel
+- Usually oxygen, but can be halogen sulphur phosphorus and others
+*** Activation Energy
+Triggers the combustion
+- Source of heat (spark and others)
+* What Can cause fire?
+Main cause is electricity but there are others:
+- Chemical (Reaction of flammable chemicals)
+- Mechanical (friction)
+- Thermal (naked flame)
+- Natural (lightning, or fermentation)
+** Electrical Equipment
+- Overheating
+- Tension Overload and etc
+*** Prevention
+- Never use equipment without a thermostat
+- Watch the equipement
+- Switch of at the end of use
+- Never place next to fuel
+- Avoid multi-sockets
+- Don not use defective equipement
+** Chemical
+*Identify label!*
+*Safety Data Sheet!*
+- Limit quantity
+- Work in ventilated area
+- Keep away from ignition sources
+- Inspect chemicals compatibility and stability before mixing
+** Storage
+should be adequate
+Remove unused materials.
+Ensure that combustible materials with high calorific potential are placed appropriately (archive room, store room, etc.).
+Never use passageways for storage.
+Ensure that flames or equipment that can cause a fire are used away from combustibles.
+Never leave a burning flame unsupervised.
+For hot work (outside the usual workspace), a hot work permit must be issued.
+* Action
+** Time
+1min glass
+2min bucket
+3min truck
+** What to do:
+- Manual alarm
+- *if minor*, try to extinguish
+- evacuate
+** Classes
+- A Solids Wood Paper Cardboard
+- B Liquids Alcohol Petrol Plastic
+- C Gas
+- D Metal
+  For electrical fires use CO_2 or dry powder
+  Use fire blankets in case of fire on a person
+* Evacuation
+- Evacuate calmly
+- Close the doors (*do not lock*)
+- *do not use lift*
+- *do not go back*
+
+  if not putting you in danger:
+  - switch off equipment and experiments
+  - switch off any ventilation
+** Beware smoke
+** Find a room with windows and seal bottom of the door
+* THE END
+    THE END

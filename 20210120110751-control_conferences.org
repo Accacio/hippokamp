@@ -1,0 +1,2 @@
+#+title: Control Conferences
+- tags :: [[file:20200504164021-control.org][Control]], [[file:20210120110636-conferences.org][Conferences]]

@@ -1,0 +1,99 @@
+#+TITLE: KolarijaniEtAl2020: A decentralized event-based approach for robust model predictive control
+#+ROAM_KEY: cite:KolarijaniEtAl2020
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]], [[file:20200803163941-robust_control.org][Robust Control]], [[file:20200709101720-mpc.org][Model Predictive Control]]
+- keywords ::
+
+
+* A decentralized event-based approach for robust model predictive control
+  :PROPERTIES:
+  :Custom_ID: KolarijaniEtAl2020
+  :URL: 
+  :AUTHOR: A. S. Kolarijani, S. C. Bregman, P. M. Esfahani, & T. Keviczky
+  :NOTER_DOCUMENT: ../docsThese/bibliography/KolarijaniEtAl2020.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+[[file:20200803164121-decentralized_control.org][Decentralized]] [[file:20200803164930-event_based_control.org][Event-Based]] [[file:20200803163941-robust_control.org][Robust]] [[file:20200709101720-mpc.org][MPC]]
+*** Model :lightSkyblue:
+- [[file:20200716170441-linear_system.org][Linear ]][[file:20200504113008-discrete_time_systems.org][Discrete-time ]]with additive disturbance
+- Controllable Pair (A,B)
+*** Remarks
+*** Applications
+Batch reactor show differences between [[file:20200804171800-second_order_cone_programming.org][Second Order Cone Programming]] and [[file:20200804171343-linear_programming_relaxation.org][Linear Programming Relaxation]] approaches
+*** Expressions
+- hindering
+- One thus hopes
+- in a ... fashion
+- a key feature of the proposed method
+- Moreover
+- On the theoretical side
+- This paper extends the results of ...
+- future research directions in ...
+*** References :violet:
+cite:RichardsHow2006
+** NOTES
+
+*** event-based control can reduce number of times optimization problem is solved
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::1++0.29;;annot-1-9]]
+:ID:       ../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-1-9
+:END:
+
+*** introduction of RMPC
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::1++0.32;;annot-1-10]]
+:ID:       ../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-1-10
+:END:
+
+*** tube based mpc
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::2++0.14;;annot-2-0]]
+:ID:       ../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-2-0
+:END:
+Mark Cannon has some examples
+pdf:~/these/leitura/autres/MPC-MarkCannon/mpc_notes.pdf::28
+*** exploit problem structure to reduce computation complexity
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::3++0.06;;annot-3-0]]
+:ID:       ../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-3-0
+:END:
+
+*** system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::3++0.22;;annot-3-1]]
+:ID:       ../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-3-1
+:END:
+
+*** tightening gains seen in cite:RichardsHow2006
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::4++0.00;;annot-4-1]]
+:ID:       ../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-4-1
+:END:
+
+
+*** feedback to guarantee stability
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::4++0.03;;annot-4-0]]
+:ID:       ../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-4-0
+:END:
+
+*** control based on last iteration
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::5++0.23;;annot-5-0]]
+:ID:       ../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-5-0
+:END:
+
+
+*** cite:RichardsHow2006
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::12++0.22;;annot-12-0]]
+:ID:       ../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-12-0
+:END:
+
+
+

@@ -1,0 +1,9 @@
+#+title: Handmade Hero Day 011 - The Basics of Platform API Design - YouTube
+#+roam_key: https://www.youtube.com/watch?v=_4vnV2Eng7M&list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU&index=23
+- tags :: [[file:20200708151656-c_c.org][C/C++]]
+
+* use platform_xxxx.cpp to indicate what is not platform independent
+* Update and Render at the same time
+reduce cache miss
+* Game as a service to the platform
+- platform gives input and time information and game responds with graphics and sound

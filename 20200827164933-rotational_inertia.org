@@ -1,0 +1,11 @@
+#+title: Rotational Inertia
+- tags :: [[file:20210120111310-mechanics.org][Mechanics]]
+
+* Definition
+* Examples
+** Thin Disc mas $M$ radius $r$,on $XY$ plane
+
+| Axis     | Value            |
+| $I_{xx}$ | ${1\over 4}MR^2$ |
+| $I_{yy}$ | ${1\over 4}MR^2$ |
+| $I_{zz}$ | ${1\over 2}MR^2$ |

@@ -1,0 +1,4 @@
+#+title: Curriculum vitae | Thesis | Ken Arroyo Ohori
+#+roam_key: https://3d.bk.tudelft.nl/ken/en/thesis/cv.html
+Example of site with CV
+List Publications with bibtex

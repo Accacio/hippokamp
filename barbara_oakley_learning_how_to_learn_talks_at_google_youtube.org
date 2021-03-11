@@ -1,0 +1,77 @@
+#+title: Barbara Oakley: "Learning How to Learn" | Talks at Google - YouTube
+#+roam_key: https://www.youtube.com/watch?v=vd2dtkMINIw
+- tags :: [[file:20200716142333-learning.org][Learning]]
+- speaker :: Barbara Oakley
+STEM - Science Technology Engineering Math
+  - have new perspective
+  - use analogies to communicate
+
+* Key Ideas of Learning
+** Modes of thinking
+- Focused Mode
+  Paths already known
+- Diffused Mode
+  Create new paths
+Ex Pinball machine
+*** Get mind off
+diffuse mode is used to solve problems
+* Procrastination
+** Pain
+- work 20 minutes and pain disappear
+- Pay attention to a more pleasure thing
+    can be addictive
+** How to escape?
+- _Pomodoro Technique_
+  Francesco Cirillo
+
+  25min
+- Do *NOT* Focus on finishing the task
+- Get start to the technique
+- Sleep
+  - Clean metabolites
+  - Neural synaptic Growth
+    Guang Yang
+- Exercise
+    Terrence Sejnowski
+  - Walk
+* Learning
+- Spaced Repetition
+- work memory and chunking
+  - Libraries of chunks and create connections between them
+    Creatitivity
+  - Transfer $\rightarrow$ Some chunks are similar
+* Poor memory
+- can be positive
+  - More Creative
+  - Attention Disorder $\rightarrow$ Highly Creative
+- Slow think
+  Santiago Ramon Cajal
+  - Persistent and more flexible
+
+#+begin_quote
+The race car driver misses the pines.
+#+end_quote
+* Impostor Syndrome
+- Common feeling
+  Everybody feels it
+
+* Illusions of competence in learning
+** Truly Learning
+- Tests are the best
+- Use Flash Cards
+- HomeWork
+- Recall
+  look away and see what you recall
+- Study judiciously with classmates
+- Explain so a 10-year could understand
+- Get yourself in the problem you are trying to solve
+  imagine yourself in the problem
+  Like a play
+* Final tought
+#+begin_quote
+So don't just follow your passions. Broaden your passions. And your lives will
+be greatly enriched.
+#+end_quote
+- Kumon mathematics
+- Interleaving
+  Flexibility

@@ -1,0 +1,5 @@
+#+title: Electric Grid Test Cases
+- tags :: [[file:20200422220259-energie.org][Energy]]
+ 
+- IEEE 30 bus test standard
+- PG&E 69-bus

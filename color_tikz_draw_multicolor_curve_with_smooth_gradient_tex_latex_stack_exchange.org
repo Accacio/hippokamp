@@ -1,0 +1,14 @@
+#+title: color - tikz: draw multicolor curve with smooth gradient - TeX - LaTeX Stack Exchange
+#+roam_key: https://tex.stackexchange.com/questions/501160/pgfplots-fillbetween-and-tikz-shade
+- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]
+
+\usepackage{pgffor}
+\usepackage{tikz}
+\usetikzlibrary{shadings}
+- create shading from list
+\pgfdeclareverticalshading{rainbow}{100bp}
+{color(0bp)=(red); color(25bp)=(red); color(35bp)=(yellow);
+color(45bp)=(green); color(55bp)=(cyan); color(65bp)=(blue);
+color(75bp)=(violet); color(100bp)=(violet)}
+- apply using shading=nameOfShading
+\shade[shading=rainbow,shading angle=270] (0,0) rectangle (5cm,\textheight);

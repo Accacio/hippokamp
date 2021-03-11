@@ -1,0 +1,2 @@
+#+title: Optimization
+- tags :: [[file:20200424163014-mathematics.org][mathematics]]

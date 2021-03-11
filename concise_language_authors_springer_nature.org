@@ -1,0 +1,37 @@
+#+title: Concise Language | Authors | Springer Nature
+#+roam_key: https://www.springernature.com/gp/authors/campaigns/writing-in-english/writing-in-english-concise-language
+- tags :: [[file:20200422201907-writing.org][writing]]
+
+* Tips for concise language
+
+** Guidelines
+- One Idea per Sentence
+- Active Voice
+- Delete Unnecessary or vague words
+** Subject and verb placement
+Verb should be near the subject.
+** Topic position
+The Beginning of a sentence should
+1. Present the topic of the sentence
+2. Serve as a Link to previous topic
+** Comparisons
+*** Only compare similar things
+_Good: The brain activity in Patient A was compared with that of Patient B._
++Bad: The brain activity in Patient A was compared with Patient B.+
+
+_Good: Expression levels of p53 in smokers were compared with p53 levels in non-smokers._
+*Better: Expression levels of p53 in smokers were compared with those in non-smokers.*
+*OBS:* Avoid repetition
+*** Avoid being vague (Always compare something with something else)
+Good: Reactions with the new machine were faster than those with the old machine.
+
+Bad: Reactions with the new machine were faster.
+
+The second sentence makes the reader wonder “Faster than what?”
+*** Use only "Reduced", "increased" and "decreased" to compare something to the way it was before
+To compare different things use "higher", "shorter", "more"
+** Proper Nouns
+    Capitalize Proper Nouns
+** Articles
+- "a" before consonants, "an" before vowel sounds
+- Use "the" when the thing discussed was already mentioned

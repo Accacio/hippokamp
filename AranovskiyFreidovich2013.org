@@ -1,0 +1,43 @@
+#+TITLE: AranovskiyFreidovich2013: Adaptive compensation of disturbances formed as sums of sinusoidal signals with application to an active vibration control benchmark.
+#+ROAM_KEY: cite:AranovskiyFreidovich2013
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200504162654-adaptive_control.org][adaptive control]], [[file:20200504162727-disturbance_rejection.org][disturbance rejection]]
+ 
+* AranovskiyFreidovich2013
+:PROPERTIES:
+:NOTER_DOCUMENT: ../docsThese/bibliography/AranovskiyFreidovich2013.pdf
+:END:
+** CATALOG
+*** Motivation :springGreen:
+- Identification-based adaptive tuning of coefficients with unknown disturbance
+*** Model :lihgSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+** NOTES
+*** suppose estimated is equal to real
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AranovskiyFreidovich2013.pdf::2++0.05;;annot-2-13]]
+:ID:       ../docsThese/bibliography/AranovskiyFreidovich2013.pdf-annot-2-13
+:END:
+*** compensate noise using feedforward u
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AranovskiyFreidovich2013.pdf::2++0.18;;annot-2-14]]
+:ID:       ../docsThese/bibliography/AranovskiyFreidovich2013.pdf-annot-2-14
+:END:
+*** RLS example
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AranovskiyFreidovich2013.pdf::4++0.34;;annot-4-31]]
+:ID:       ../docsThese/bibliography/AranovskiyFreidovich2013.pdf-annot-4-31
+:END:
+
+- cite:AstromWittenmark1989 p 53 , 5
+- cite:BittantiEtAl1990
+
+*** identification-based adaptive tuning of coefficients with unknown disturbance
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AranovskiyFreidovich2013.pdf::1++3.26;;annot-1-37]]
+:ID:       ../docsThese/bibliography/AranovskiyFreidovich2013.pdf-annot-1-37
+:END:

@@ -1,0 +1,7 @@
+#+TITLE: network topologies
+- tags ::
+
+
+* Misbehaving Agents
+- byzantine ( does not send the same value to all neighbors )
+- malicious ( sends one thing and use other )

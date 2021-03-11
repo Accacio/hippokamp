@@ -1,0 +1,2 @@
+#+title: Continuous-time Systems
+- tags :: [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]

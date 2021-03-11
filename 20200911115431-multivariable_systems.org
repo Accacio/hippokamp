@@ -1,0 +1,3 @@
+#+title: Multi-variable Systems
+#+ROAM_ALIAS: MIMO
+- tags :: [[file:20200708153036-dynamic_systems.org][Systems]]

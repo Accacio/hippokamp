@@ -1,0 +1,109 @@
+#+TITLE: WuEtAl2018: Detecting and handling cyber-attacks in model predictive control of chemical processes
+#+ROAM_KEY: cite:WuEtAl2018
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200427105830-cybersecurity.org][Cyber-Security]], [[file:20200709101720-mpc.org][MPC]], [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]]
+- keywords ::
+
+
+* Detecting and handling cyber-attacks in model predictive control of chemical processes
+  :PROPERTIES:
+  :Custom_ID: WuEtAl2018
+  :URL: https://www.mdpi.com/2227-7390/6/10/173
+  :AUTHOR: Wu, Z., Albalawi, F., Zhang, J., Zhang, Z., Durand, H., & Christofides, P. D.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/WuEtAl2018.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+-  [[file:20200813180431-neural_networks.org][Neural Networks]] based detection and Lyapunov [[file:20200709101720-mpc.org][MPC]], using cumulative sum detection
+*** Model :lightSkyblue:
+- [[file:20200716163801-continuous_time_systems.org][Continuous-time ]][[file:20200717152401-non_linear_systems.org][Nonlinear System]] with constraints in input
+- Disturbance
+*** Remarks
+*** Applications
+- Simulation of Chemical Processes Continuous Stirred tank reactor <<<CSTR>>>
+*** Expressions
+- Motivated by this
+*** References :violet:
+
+** NOTES
+   
+*** neural networks detection with mpc
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::1++0.00;;annot-1-13]]
+:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-1-13
+:END:
+
+*** compare model with measureed output
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::2++0.00;;annot-2-15]]
+:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-2-15
+:END:
+Cárdenas, A.A.; Amin, S.; Lin, Z.S.; Huang, Y.L.; Huang, C.Y.; Sastry, S. Attacks against process control
+systems: Risk assessment, detection, and response. In Proceedings of the 6th ACM Symposium on
+Information, Computer And Communications Security, Hong Kong, China, 22–24 March 2011; pp. 355–366.
+
+*** private excitation in system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::2++0.00;;annot-2-16]]
+:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-2-16
+:END:
+Satchidanandan, B.; Kumar, P.R. Dynamic watermarking: Active defense of networked cyber–physical systems. Proc. IEEE 2017, 105, 219–240
+
+*** bayesian detection binray hypothesis, weighted least squares, $\chi^2$ -detector
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::2++0.03;;annot-2-17]]
+:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-2-17
+:END:
+Ding, D.; Han, Q.L.; Xiang, Y.; Ge, X.; Zhang, X.M. A survey on security control and attack detection for industrial cyber-physical systems. Neurocomputing 2018, 275, 1674–1683.
+
+*** continuous time non-linear system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::3++0.00;;annot-3-4]]
+:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-3-4
+:END:
+
+*** constrained input
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::3++0.19;;annot-3-5]]
+:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-3-5
+:END:
+
+*** origin is steady state
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::3++0.19;;annot-3-6]]
+:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-3-6
+:END:
+
+*** Spatially Separated Operator
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::3++4.46;;annot-3-7]]
+:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-3-7
+:END:
+
+
+*** cumulative sum detection
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::5++0.00;;annot-5-7]]
+:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-5-7
+:END:
+$\begin{aligned}
+S(k) &=(S(k-1)+|\tilde{x}(t_k)-x(t_k)|-b)^{+}, S(0)=0 \\
+D(S(k)) &=\left\{\begin{array}{ll}
+1, & \text { if } S(k)>S_{T H} \\
+0, & \text { otherwise }
+\end{array}\right
+\end{aligned}$
+
+$(P)^+=\left\{\begin{array}{ll} P, & \text { if } P\geq0 \\
+0, & \text { otherwise } \end{array}\right$
+
+*** can be evaded by smart attackers
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::5++0.07;;annot-5-8]]
+:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-5-8
+:END:
+

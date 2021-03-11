@@ -1,0 +1,111 @@
+#+TITLE: AlessioBemporad2009: A survey on explicit model predictive control
+#+ROAM_KEY: cite:AlessioBemporad2009
+#+ROAM_TAGS: skimmed article
+
+- tags :: [[file:20210222134737-explicit_mpc.org][Explicit MPC]], [[file:20200908135242-survey.org][Survey]]
+- keywords ::
+
+
+* A survey on explicit model predictive control
+  :PROPERTIES:
+  :Custom_ID: AlessioBemporad2009
+  :URL: https://doi.org/10.1007/978-3-642-01094-1_29
+  :AUTHOR: Alessio, A., & Bemporad, A.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/AlessioBemporad2009.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
++ Survey on Explicit MPC
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** Online computing is a con of MPC
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::1++1.90;;annot-1-1]]
+:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-1-1
+:END:
+*** positive definite matrices
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::3++4.90;;annot-3-1]]
+:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-3-1
+:END:
+*** Implementation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::19++4.31;;annot-19-5]]
+:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-19-5
+:END:
+*** algorithms that avoid storing the polyhedral regions
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::19++4.31;;annot-19-6]]
+:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-19-6
+:END:
+cite:BaoticEtAl2008
+@article{BaoticEtAl2008,
+  citation-number = {6.},
+  author = {Baotic, M. and Borrelli, F. and Bemporad, A. and Morari, M.},
+  title = {Efficient on-line computation of constrained optimal control},
+  volume = {47},
+  pages = {2470–2489},
+  date = {2008},
+  journal = {SIAM Journal on Control and Optimization},
+  number = {5}
+}
+
+@article{jones2006b,
+  author = {Jones, C.N. and Grieder, P. and Rakovic},
+  title = {S.V.: A logarithmic-time solution to the point location problem for parametric linear programming},
+  volume = {42},
+  pages = {2215–2218},
+  date = {2006},
+  journal = {Automatica},
+  number = {12}
+}
+@inproceedings{spj2006b,
+  author = {Spjøtvold, J. and Rakovic, S.V. and Tøndel, P. and Johansen},
+  title = {T.A.: Utilizing reachability analysis in point location problems},
+  pages = {4568–4569},
+  date = {2006},
+  booktitle = {Proc. 45th IEEE Conf. on Decision and Control},
+  address = {San Diego, CA}
+}
+cite:Tondel2003
+@article{Tondel2003,
+  author = {Tøndel, P. and Johansen, T.A. and Bemporad},
+  title = {A.: Evaluation of piecewise affine control via binary search tree},
+  volume = {39},
+  pages = {945–950},
+  date = {2003},
+  journal = {Automatica},
+  number = {5}
+}
+
+*** solve offline the MPC problem
+:PROPERTIES:
+:NOTER_PAGE:
+[[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::7++3.99;;annot-7-13]]
+:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-7-13
+:END:
+cite:Zafirou1990
+@article{zafiriou1990,
+  author = {Zafiriou, E.},
+  title = {Robust model predictive control of processes with hard constraints},
+  volume = {14},
+  pages = {359–371},
+  date = {1990},
+  journal = {Computers & Chemical Engineering},
+  number = {4/5}
+}
+
+*** Systematic way to handle multiple variables
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::2++1.23;;annot-2-1]]
+:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-2-1
+:END:

@@ -1,0 +1,56 @@
+#+TITLE: BiegelEtAl2012: Congestion management in a smart grid
+#+ROAM_KEY: cite:BiegelEtAl2012
+#+ROAM_TAGS: article
+
+
+- tags :: [[file:20200709101933-dmpc.org][dMPC]],
+- keywords :: Predictive control, Smart power applications, Dual composition control
+
+
+* Congestion management in a smart grid via Shadow Prices
+  :PROPERTIES:
+  :Custom_ID: BiegelEtAl2012
+  :URL:
+  :AUTHOR: Biegel, B., Andersen, P., Stoustrup, J., & Bendtsen, J.
+  :NOTER_DOCUMENT: /home/nogueirar/docsThese/bibliography/BiegelEtAl2012.pdf
+  :NOTER_PAGE:
+  :END:
+
+
+** CATALOG
+
+*** Motivation :springGreen:
+- Use of Shadow Prices to resolve grid congestion
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** prediction model
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BiegelEtAl2012.pdf::3++0.33;;annot-3-7]]
+:ID:       /home/nogueirar/docsThese/bibliography/BiegelEtAl2012.pdf-annot-3-7
+:END:
+mpc
+
+*** Encapsulation of information
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BiegelEtAl2012.pdf::3++0.33;;annot-3-6]]
+:ID:       /home/nogueirar/docsThese/bibliography/BiegelEtAl2012.pdf-annot-3-6
+:END:
+Use distributed controller in order to reduce sharing of information
+
+*** dual problem
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BiegelEtAl2012.pdf::4++0.03;;annot-4-0]]
+:ID:       /home/nogueirar/docsThese/bibliography/BiegelEtAl2012.pdf-annot-4-0
+:END:
+
+*** dual decomposition
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BiegelEtAl2012.pdf::4++0.20;;annot-4-1]]
+:ID:       /home/nogueirar/docsThese/bibliography/BiegelEtAl2012.pdf-annot-4-1
+:END:

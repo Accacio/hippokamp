@@ -1,0 +1,35 @@
+#+TITLE: Bindra2017: Securing the power grid: protecting smart grids and connected power systems from cyberattacks
+#+ROAM_KEY: cite:Bindra2017
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200427105830-cybersecurity.org][Cyber-Security]], [[file:20200908135242-survey.org][Survey]]
+- keywords :: 
+
+
+* Securing the power grid: protecting smart grids and connected power systems from cyberattacks
+  :PROPERTIES:
+  :Custom_ID: Bindra2017
+  :URL: 
+  :AUTHOR: A. Bindra
+  :NOTER_DOCUMENT: ../docsThese/bibliography/Bindra2017.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lihgSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** CrashOverride malware
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bindra2017.pdf::2++0.00;;annot-2-0]]
+:ID:       ../docsThese/bibliography/Bindra2017.pdf-annot-2-0
+:END:
+
+

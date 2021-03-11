@@ -1,0 +1,14 @@
+#+title: Measure the Performance of Your Code - MATLAB & Simulink - MathWorks France
+#+roam_key: https://fr.mathworks.com/help/matlab/matlab_prog/measure-performance-of-your-program.html
+- tags :: [[file:20200708153513-matlab.org][MATLAB]]
+
+- timeit runs a function multiple times
+  #+BEGIN_SRC matlab
+f = @() myComputeFunction(x,y); % handle to function
+timeit(f)
+  #+END_SRC
+- tic/toc has 1/10 second of resolution
+  - Solution: *Run the code multiple times and take average*
+
+- cputime measures *CPU time in all threads*
+- tic/toc and timeit are wall-clock

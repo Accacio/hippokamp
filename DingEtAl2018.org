@@ -1,0 +1,51 @@
+#+TITLE: DingEtAl2018: A survey on security control and attack detection for industrial cyber-physical systems
+#+ROAM_KEY: cite:DingEtAl2018
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200908135242-survey.org][Survey]]
+- keywords :: Industrial cyber-physical systems, Cyber-attacks, Attack detection, Security control
+
+
+* A survey on security control and attack detection for industrial cyber-physical systems
+  :PROPERTIES:
+  :Custom_ID: DingEtAl2018
+  :URL: http://www.sciencedirect.com/science/article/pii/S0925231217316351
+  :AUTHOR: Ding, D., Han, Q., Xiang, Y., Ge, X., & Zhang, X.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/DingEtAl2018.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+*** Motivation
+Survey on Security control and attack detection
+*** Model
+*** Remarks
+*** Applications
+*** References
+
+** NOTES
+*** DoS attack
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DingEtAl2018.pdf::4++0.00;;annot-4-26]]
+:ID:       ../docsThese/bibliography/DingEtAl2018.pdf-annot-4-26
+:END:
+*** replay attack
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DingEtAl2018.pdf::4++0.28;;annot-4-27]]
+:ID:       ../docsThese/bibliography/DingEtAl2018.pdf-annot-4-27
+:END:
+*** deception attack
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DingEtAl2018.pdf::4++0.33;;annot-4-28]]
+:ID:       ../docsThese/bibliography/DingEtAl2018.pdf-annot-4-28
+:END:
+*** detection
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DingEtAl2018.pdf::5++0.12;;annot-5-24]]
+:ID:       ../docsThese/bibliography/DingEtAl2018.pdf-annot-5-24
+:END:
+1. Bayesian Detection with binary hypothesis
+2. Weighted Least Squares approaches
+3. $\chi^2$ -detector $x$
+4. Quasi-FDI
+

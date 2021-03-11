@@ -1,0 +1,56 @@
+#+title: E.W.Dijkstra Archive: The Humble Programmer (EWD 340)
+#+roam_key: https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html
+- tags :: [[file:20210119145635-dijkstra.org][Dijkstra]]
+
+#+begin_quote
+One moral of the above story is, of course, that we must be very careful when we give advice to younger people; sometimes they follow it!
+#+end_quote
+
+#+begin_quote
+LISP has jokingly been described as “the most intelligent way to misuse a computer”.
+#+end_quote
+
+* Greatest Developments
+1. Closed Subroutines
+2. FORTRAN
+3. LISP
+4. ALGOL 60
+5. PL/1
+* Kinds of rules for better [[file:20200713160350-programming.org][Programming]]
+    1. Mechanically imposed
+       - exclusion of goto-statements
+       - exclusion of procedures with more than one output parameter
+    2. Automatic Theorem Prover ???
+    may be use something like =coq=?
+#+begin_quote
+Examples are the requirements that no loop should be written down without providing a proof for termination nor without stating the relation whose invariance will not be destroyed by the execution of the repeatable statement.
+#+end_quote
+* Implementation of intellectually manageable programs
+** Arguments to consider only intellectually manageable programs
+*** Alternatives are much easier to cope
+*** Solution Space is reduced
+*** Program testing is inadequate for showing absence of bugs
+#+begin_quote
+The only effective way to raise the confidence level of a program significantly is to give a convincing proof of its correctness.
+#+end_quote
+#+begin_quote
+ If one first asks oneself what the structure of a convincing proof would be and, having found this, then constructs a program satisfying this proof’s requirements, then these correctness concerns turn out to be a very effective heuristic guidance.
+#+end_quote
+*** The effort to design depends on the program length
+Abstraction is about being precise, not vague
+#+begin_quote
+In this connection it might be worth-while to point out that the purpose of abstracting is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+#+end_quote
+*** The tools we use influence our own thinking habits
+#+begin_quote
+It takes one of two different forms: one programmer places a one-line program on the desk of another and either he proudly tells what it does and adds the question “Can you code this in less symbols?” —as if this were of any conceptual relevance!— or he just asks “Guess what it does!”.
+#+end_quote
+#+begin_quote
+From this observation we must conclude that this language as a tool is an open invitation for clever tricks; and while exactly this may be the explanation for some of its appeal, viz. to those who like to show how clever they are, I am sorry, but I must regard this as one of the most damning things that can be said about a programming language.
+#+end_quote
+
+
+#+begin_quote
+Another lesson we should have learned from the recent past is that the development of “richer” or “more powerful” programming languages was a mistake in the sense that these baroque monstrosities, these conglomerations of idiosyncrasies, are really unmanageable, both mechanically and mentally.
+#+end_quote
+*** The only problems we can really solve in a satisfactory manner are those that finally admit a nicely factored solution

@@ -1,0 +1,5 @@
+#+title: MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges
+#+roam_key: http://yann.lecun.com/exdb/mnist/
+- tags :: [[file:20200813180431-neural_networks.org][Neural Networks]], [[file:20201203163407-training_data.org][Training Data]]
+
+Data for training handwritten digits

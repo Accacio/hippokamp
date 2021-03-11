@@ -1,0 +1,13 @@
+#+title: 21. DP III: Parenthesization, Edit Distance, Knapsack - YouTube
+#+roam_key: https://www.youtube.com/watch?v=ocZMDMZwhCY
+- tags :: [[file:20200709102805-optimization.org][Optimization]], [[file:20201217113115-dynamic_programming.org][Dynamic Programming]]
+
+* Parenthesization
+$a\in\mathbb{R}^{n\times 1},b\in\mathbb{R}^{1\times n},c\in\mathbb{R}^{n\times 1}$
+$abc$
+$(ab)c=M_{ab}c$
+$a(bc)=ad$
+where $d\in\mathbb{R}^{1}$ and $M_{ab}\in\mathbb{R}^{n\times n}$
+
+* edit distance
+- align dna sequences as seen in https://github.com/Martinsos/edlib

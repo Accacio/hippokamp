@@ -1,0 +1,3 @@
+#+title: Tutorial 3 - Introduction to OpenGL Shaders - YouTube
+#+roam_key: https://www.youtube.com/watch?v=j_h3GdMtO0M
+- tags :: [[file:20200617111549-opengl.org][OpenGL]]

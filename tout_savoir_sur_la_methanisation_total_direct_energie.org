@@ -1,0 +1,8 @@
+#+title: Tout savoir sur la méthanisation - Total Direct Energie
+#+roam_key: https://total.direct-energie.com/particuliers/parlons-energie/dossiers-energie/energie-renouvelable/tout-savoir-sur-la-methanisation?gclid=Cj0KCQiAyJOBBhDCARIsAJG2h5ewOkuAxALUn9MLV_lLsX9bUaqYfpOJdIWxAZE2DsB2iRtHcPUs0PEaAjCxEALw_wcB
+- tags :: Méthanisation, [[file:20200422220259-energie.org][Energy]]
+
+* Définition
+ - dégradation sans oxygène
+   + Production de digestat
+   + production de biogaz

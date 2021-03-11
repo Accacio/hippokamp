@@ -1,0 +1,8 @@
+#+title: (1) How to Load Libraries at Runtime - YouTube
+#+roam_key: https://www.youtube.com/watch?v=_kIa4D7kQ8I
+- tags :: [[file:20200708151656-c_c.org][C/C++]], [[file:20210115202150-shared_libraries.org][Shared Libraries]]
+
+ |             | Linux /Mac | Windows       |
+ | Open        | dlopen     | LoadLibrary   |
+ | Find Symbol | dlsym      | GetProcAdress |
+ | Close       | dlclose    | FreeLibrary   |

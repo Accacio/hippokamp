@@ -1,0 +1,5 @@
+#+title: Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming | AI Podcast #109 with Lex Fridman - YouTube
+#+roam_key: https://www.youtube.com/watch?v=O9upVbGSBFo
+- tags :: [[file:20200713160350-programming.org][Programming]], [[file:20200812131754-brian_kernighan.org][Brian Kernighan]]
+
+  [[file:20200812131827-ampl.org][AMPL]]

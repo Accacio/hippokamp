@@ -1,0 +1,84 @@
+#+TITLE: WakaikiEtAl2020: Stabilization of networked control systems under dos attacks and output quantization
+#+ROAM_KEY: cite:WakaikiEtAl2020
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200504113017-stability.org][stability]], [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]], [[file:20200722151834-denial_of_service_attacks.org][DoS]]
+- keywords ::
+
+
+* Stabilization of networked control systems under dos attacks and output quantization
+  :PROPERTIES:
+  :Custom_ID: WakaikiEtAl2020
+  :URL:
+  :AUTHOR: M. Wakaiki, A. Cetinkaya, & H. Ishii
+  :NOTER_DOCUMENT: ../docsThese/bibliography/WakaikiEtAl2020.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+[[file:20200504113017-stability.org][stability]] on NCS with [[file:20200722151834-denial_of_service_attacks.org][DoS]] and quantization noise using observer-based controller
+*** Model :lightSkyblue:
+- [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200716170441-linear_system.org][Linear System]] with quantization noise in output and [[file:20200722151834-denial_of_service_attacks.org][DoS]] prone channel
+- [[file:20200806121945-smart_attacker.org][Smart Attacker]] can try to evade detection
+*** Remarks
+*** Applications
+Simulation
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** quantization noise and DOS attacks
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::1++0.00;;annot-1-7]]
+:ID:       ../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-1-7
+:END:
+
+*** discrete time linear system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::2++0.00;;annot-2-0]]
+:ID:       ../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-2-0
+:END:
+
+*** Quantization noise
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-0]]
+:ID:       ../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-0
+:END:
+
+*** Attack detection by use of acknowledgment
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-1]]
+:ID:       ../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-1
+:END:
+
+*** Smart Attacker
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-2]]
+:ID:       ../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-2
+:END:
+
+*** Attack duration is bounded
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-3]]
+:ID:       ../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-3
+:END:
+
+*** Attack frequency is bounded
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-4]]
+:ID:       ../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-4
+:END:
+*** pairs (A,B) and (C,A) are Stabilizable and detectable
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-5]]
+:ID:       ../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-5
+:END:
+A-BK and A-LC are [[file:20200806123458-schur_stability.org][Schur Stable]]
+*** Observer Based controller with attack modeled
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::4++0.00;;annot-4-0]]
+:ID:       ../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-4-0
+:END:

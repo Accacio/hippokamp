@@ -1,0 +1,56 @@
+#+TITLE: VelardeEtAl2017b: Vulnerabilities in lagrange-based DMPC in the context of cyber-security
+#+ROAM_KEY: cite:VelardeEtAl2017b
+#+ROAM_TAGS: rank4 article
+
+- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200406135143-secure_dmpc.org][Secure dMPC]]
+- keywords :: control engineering computing;fault tolerant computing;predictive control;security of data;Lagrange-based DMPC scheme;cyber-security;autonomic computing;distributed model predictive control scheme;insider attacks;DMPC negotiation procedure;Computer security;Couplings;Cost function;Reliability;Process control;Computational modeling
+
+
+* Vulnerabilities in lagrange-based DMPC in the context of cyber-security
+  :PROPERTIES:
+  :Custom_ID: VelardeEtAl2017b
+  :URL:
+  :AUTHOR: P. Velarde, J. M. Maestre, H. Ishii, & R. R. Negenborn
+  :NOTER_DOCUMENT: /home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+- Vulnerabilities in lagrange-based dMPC scheme on multi-agent consensus
+*** Model :lightSkyblue:
+*** Remarks
+ Almost the same thing as the other articles
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+*** Q and R are the same for all subsystems
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::2++0.05;;annot-2-0]]
+:ID:       ../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-2-0
+:END:
+*** in this one, they use only 2 attacks Selfish and "Liar" agent
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::3++0.29;;annot-3-0]]
+:ID:       ../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-3-0
+:END:
+*** inspired by other algorithms
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++0.08;;annot-4-0]]
+:ID:       ../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-0
+:END:
+Ver [[file:DibajiIshii2015.org][DibajiIshii2015]] [[file:LeBlancEtAl2013.org][LeBlancEtAl2013]]
+*** ignore extreme values of variables
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++0.00;;annot-4-1]]
+:ID:       ../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-1
+:END:
+
+*** vulnerabilities in lagrange-based dMPC scheme of consensus
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::1++0.56;;annot-1-0]]
+:ID:       /home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.pdf-annot-1-0
+:END:

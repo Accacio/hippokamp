@@ -1,0 +1,3 @@
+#+title: Basic Raytracing - Computer Graphics from Scratch - Gabriel Gambetta
+#+roam_key: https://gabrielgambetta.com/computer-graphics-from-scratch/
+- tags :: [[file:20200617111624-computer_graphics.org][computer graphics]]

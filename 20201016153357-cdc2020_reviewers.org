@@ -1,0 +1,144 @@
+#+title: cdc2020 Reviewers
+- tags :: [[file:20210120110649-conference_on_decision_and_control.org][Conference on Decision and Control]]
+
+* Comments
+\marginnote{Nothing to comment}
+The paper was reviewed by four reviewers in the area. Though they found
+the problem setting to be of interest in general, they are in full
+agreement that the contribution of the paper is very limited, as shown
+in their ratings, which indicate "poor. Specifically, they say that
+the results are trivial and the quality of the writing has issues. It
+is moreover pointed out that the centralized coordinator may not be
+needed, and the motivation of the approach based on quantity
+decomposition
+is unclear. Unfortunately, the AE concur with their comments and thus
+cannot recommend this paper for publication, which should be rejected
+at this stage.
+
+*** Reviewer 1
+
+This work studies a DMPC scheme where one of the agents can behave
+selfishly to steer the negotiation process. To detect this issue, the
+authors propose a scheme based on the explicit solution of the
+coordination dynamics, which are modeled as a discrete time system. In
+this regard, the contribution is novel and goes the works of Velarde et
+al., which seem closely related (although with a slightly different
+approach in the use of dual decomposition). However, despite the
+interesting results proposed by the authors, the quality of the
+manuscript require improvement before it can be considered for
+publication. Some issues of this article in its current form are:
+
+
+- \marginnote{Articles downloaded} The literature review is very small and reduced only on very connected works, ignoring the big picture. A suggestion here is to go have a look at some of the available reviews on the cybersecurity topic, e.g.,
+
++ Bindra, A (2017). Securing the power grid: protecting smart grids and connected power systems from cyber attacks.  IEEE Power Electronics Magazine, 4 (3), 20-27.
++ Cheng, P., Shi, L., & Sinopoli, B. (2017). Special issue on secure control of cyber-physical systems. IEEE Transactions on Control of Network Systems, 4(1), 1-3.
+
+And also to have a closer look at other references related with this
+work:
+
++ Braun, S., Albrecht, S., & Lucia, S. Hierarchical Attack Identification for Distributed Robust Nonlinear Control.
++ Wu, Z., Albalawi, F., Zhang, J., Zhang, Z., Durand, H., & Christofides, P. D. (2018). Detecting and handling cyber-attacks in model predictive control of chemical processes. Mathematics, 6(10), 173.
++ Yang, H., Li, Y., Dai, L., & Xia, Y. (2019). MPC-based defense strategy for distributed networked control systems under DoS attacks. Systems & Control Letters, 128, 9-18.
++ Ananduta, W., Maestre, J. M., Ocampo&#8208;Martinez, C., & Ishii, H. (2019). Resilient distributed model predictive control for energy management of interconnected microgrids. Optimal Control Applications and Methods.
+
+
+- \marginnote{The article was about detection and in the conclusion there was} The paper could benefit if some discussion is added regarding what to do once selfish behavior is detected.
+
+- \marginnote{$\theta_i$ is not necessary}[1cm]Some things could be explained with more clarity and simplicity. For example, it is difficult to understand why to define a function $\theta_i$ just for a simple linear mapping (end of page 1). It is also likely that the rearrangement of the contents of the paper can help. Perhaps it is better to start introducing model predictive control and then explain how the proposed decomposition method can be applied in this context.
+
+- \marginnote{downloaded proofreading software} The use of English should be checked by a native speaker. There are many sentences that sound unnatural and then many "that" that should be "which" and other similar errors.
+
+
+- \marginnote{No examples given}Authors should also pay attention to formatting issues, e.g., to be careful after equations are introduced and use \noindent when it corresponds.
+
+
+- \marginnote{No examples given} A minor suggestion is to limit the plots to avoid empty spaces at the beginning and end, and to use grids. Also, if no legend is given, please indicate the linestyle in the caption.
+
+- \marginnote{Ok} A very minor suggestion is that tables should use horizontal and vertical lines.
+
+All in all, the article contains some interesting results but needs
+improvement. After that it should be of interest for the control
+community.
+*** Reviewer 2
+
+This manuscript considers a resources allocation problem and addresses its
+distributed solution algorithm. Assuming the existence of a non-cooperative
+agent, modeled by the attack on the Lagrange multiplier, the authors analyze the
+performance degradation and propose its detection method. The manuscript is well
+written and addresses interesting topics. However, the results are not
+significant and do not reach the standard level of CDC and LCSS in the present
+form.
+
+\marginnote{Use a more general cheating mechanism?}
+The problem of detecting non-cooperative agents is motivated and justified in
+the Introduction section. My concern is on the generality of the analysis and
+detection method. The authors address the very simplistic optimization problem,
+which is analytically solvable, and impose a severe assumption that the attack
+is modeled by the change of the multiplier. Then, trivial results are obtained.
+Further analysis for more general optimization problems or more general attacks
+should be performed. At least, the authors should comment on the extension of
+the work.
+
+\marginnote{ok}
+The literature reviews are not enough.	Please find and cite many related works.
+
+*** Reviewer 3
+\marginnote{No need to explain decomposition method}
+This letter addresses distributed model predictive control with a selfish agent. The authors apply quantity decomposition for distributed optimization. The reviewer thinks that the topic of this study, distributed MPC with attacks, is quite interesting. However, he/she also finds that the contribution of this letter may be minor. The essential contribution (detection of selfish behaviors) is only in Section III, and the other sections contains examples and explanations, some of which can be omitted for page-limited letters.
+
+1. \marginnote{This assumption should be more explicit} If the selfish behavior of the agent starts from k = 0, can the proposed method detect it?
+2. \marginnote{Equation (11)?} It would be better to make a theorem environment for the result in Section III.
+3. \marginnote{no need to explain MPC or decomposition}Sections II.B, II.C, and IV.A are redundant.
+4. \marginnote{Show that choice was arbitrary?} Please explain the advantage/disadvantage of quantity decomposition for distributed optimization. In other words, what is a motivation to use quantity decomposition in this study?
+5. \marginnote{Size of example does not interfere with results shown, use an example with more agents. Maybe use a complete building or distribution network} Example 2 is a small-scale system, although the authors state in the introduction ``Several works use the distributed Model Predictive Control (dMPC) strategy to control complex large scale systems’’. Application to large-scale systems is welcome.
+6. \marginnote{Present the fact they are in steady state} Figs. 4 and 5 are not so illustrative to explain the proposed method. It seems that the temperatures are not controlled at all on the interval [0,10].
+7. \marginnote{Air} In Figs. 4 and 5, which temperature is depicted, air or wall?
+8. \marginnote{Show $u\geq 0$ } Does the input u have a constraint u >=0 in Example 2?
+9. The followings are may be typos.
+   1. \marginnote{corrected} ``Where’’ below eq. (2).
+   2. \marginnote{corrected} ``as in 1’’ between eqs. (17) and (18).
+   3. \marginnote{corrected} ``U_i’’ should be ``U_i(k)’’ in (20).
+   4. \marginnote{corrected} In references, mpc, sos, jacobi-gauss, should be MPC, SoS, Jacobi-Gauss. In addition, [4] contains character corruption.
+
+*** Reviewer 4
+The paper proposed a method to detect a selfish agent in an
+optimization problem involving a coordinator (master problem).
+
+The topic is interesting, but it is not clearly represented. The
+authors need to improve the language to increase its readability.
+
+Furthermore, I have several concerns regarding the setup and results.
+1. \marginnote{Discussion about using a central coordinator} Why do the authors choose a quantity decomposition technique to solve (1) and (2)? There exists method to solve those problems without requiring central coordinator which can increase the robustness of the algorithm.
+
+2. \marginnote{there is a diagram, but maybe I should explain all the variables beforehand?} It is not clear what information is known by the central coordinator in advance and what information is being exchanged between the central coordinator and subproblem to compute \theta and \lambda (to solve the optimization).
+
+3. \marginnote{Prove that a variation in something that is constant can be considered as a fault?} The results in the last sentence before section V (i.e., the eigenvalues of ($\Theta_iH_i^{-1}\Theta_i)^{-1}$) needs to be formally proven in section 3.
+
+4. \marginnote{there is a diagram, showing that only $\lambda$ and $\theta$ are exchanged. And no, (13) is not calculated by the coordinator, it was never mentioned} It seems that the central coordinator computes (13). However, in section 2 it is described that the subproblem computes \lambda_i. Moreover, how can the coordinator compute \Lambda in (13) since it does not know the value \tau? These points are not clear since the authors did not explicitly mention what information is known by the coordinator and being exchanged with the subproblems.
+
+5. \marginnote{Decomposable affine global constraints?}Minor comment: the last sentence on page 1 (second column) is not clear.
+
+* TODO Things TO DO
+| Comment                                             | Simplicity | Action                         | Do? | Done |
+|-----------------------------------------------------+------------+--------------------------------+-----+------|
+| Increase bibliography                               | A          | Lire articles / refaire introd | Y   |      |
+| Discuss mitigation after detection                  | A          | Discussion Conclusion          | Y   | Y    |
+| Change Tables ( add horz and vert lines )           | A          |                                | Y   | Y    |
+| Discuss detection if k=0 is possible                | A          | Montrer hypothèse              |     |      |
+| Introduce MPC before decomposition?                 | A          |                                |     | Y    |
+| Remove explanation of decomposition and MPC?        | A          |                                |     | Y    |
+| Explain that example is in steady state             | A          |                                | N   | N    |
+| Fig 4. 5 Air temperature                            | A          | Modifier légende               | Y   | N    |
+| Ex2 show constraints in $u$                         | A          | Modifier explication           |     |      |
+| Remove decomposition?                               | A          |                                |     | N    |
+| Create Theorem in section 3                         | A          |                                |     |      |
+| Use theo. in 3 to Prove result in section 4         | A          |                                |     |      |
+| Show simulation begin in Steady State               | A          |                                |     |      |
+| Describe information known by coordinator           | A          |                                |     | Y    |
+| Choice of Quantity decomposition                    | A          | Expliciter choix               | Y   | Y    |
+| Review English                                      | B          | Réviser plusieurs fois         | Y   |      |
+| Show Hypoth. and choices                            | B          |                                |     |      |
+| Increase complexity of EX ( # agents, constraints ) | C          |                                |     |      |
+| Use a more general cheating mechanism?              | D          | fonctions non-lineaires ?      |     |      |
+| Do not use central coordinator                      | D          | graph based NCS?               |     |      |

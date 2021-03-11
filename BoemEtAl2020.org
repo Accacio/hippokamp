@@ -1,0 +1,162 @@
+#+TITLE: BoemEtAl2020
+#+ROAM_KEY: cite:BoemEtAl2020
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200427164136-decomposition.org][decomposition]], [[file:20200427164614-distributed_optimization.org][distributed optimization]], [[file:20200504111344-fault_detection.org][fault detection]], [[file:20200504111402-fault_isolation.org][fault isolation]]
+ 
+* BoemEtAl2020
+:PROPERTIES:
+:NOTER_DOCUMENT: ../docsThese/bibliography/BoemEtAl2020.pdf
+:END:
+
+** CATALOG
+*** Motivation
+[[https://mathworld.wolfram.com/Zonotope.html][Zonotope]] tube created to estimate possible outcomes of the state, if it is outside the tube then that is a fault.
+*** Model
+*** Remarks
+*** Applications
+*** References
+
+** NOTES
+*** passive FTC
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::1++0.22;;annot-1-8]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-1-8
+:END:
+*** when system can not be modified
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::1++0.22;;annot-1-9]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-1-9
+:END:
+*** Large-scale networks of interconnected dynamic systems LSS
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::1++0.22;;annot-1-13]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-1-13
+:END:
+
+*** Fault Detection and Isolation (FDI)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::1++0.33;;annot-1-10]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-1-10
+:END:
+*** active FTC faults need to be correctly isolated and instantaneously treated
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::1++0.33;;annot-1-11]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-1-11
+:END:
+*** assume no noise
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::1++0.33;;annot-1-12]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-1-12
+:END:
+*** influence of the FDI, cannot distinguish fault as it is already corrected
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::2++0.04;;annot-2-0]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-2-0
+:END:
+*** computational cost
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::2++0.04;;annot-2-1]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-2-1
+:END:
+*** distributed using local fault diagnosers
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::2++0.26;;annot-2-2]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-2-2
+:END:
+*** verificar refências
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::2++0.26;;annot-2-3]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-2-3
+:END:
+S. Riverso, M. Farina, and G. Ferrari-Trecate, “Plug-and-play decentral-
+ized model predictive control for linear systems,” IEEE Trans. Autom.
+Control, vol. 58, no. 10, pp. 2608–2614, Oct. 2013.
+
+
+S. Riverso and G. Ferrari-Trecate, “Plug-and-play distributed model pre-
+dictive control with coupling attenuation,” Optimal Control Appl. Meth-
+ods, vol. 36, no. 3, pp. 292–305, 2015.
+*** passive detection and active isolation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::2++0.35;;annot-2-4]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-2-4
+:END:
+*** control that guarantees fault isolation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::2++0.35;;annot-2-5]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-2-5
+:END:
+*** local diagnoser for each subsystem
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::3++0.16;;annot-3-0]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-3-0
+:END:
+*** based on centralized
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::3++0.34;;annot-3-1]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-3-1
+:END:
+S. Olaru, J. A. De Doná, M. M. Seron, and F. Stoican, “Positive invariant
+sets for fault tolerant multisensor control schemes,” Int. J. Control, vol. 83,
+no. 12, pp. 2622–2640, 2010.
+*** subsystems can interact
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::5++0.05;;annot-5-0]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-5-0
+:END:
+*** stability
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::6++0.01;;annot-6-1]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-6-1
+:END:
+*** theorem to avoid instability
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::6++0.01;;annot-6-2]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-6-2
+:END:
+
+
+*** detection based on error
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::6++0.34;;annot-6-0]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-6-0
+:END:
+
+*** isolation strategy
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::7++0.13;;annot-7-0]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-7-0
+:END:
+
+*** Scenario I - Isolate and Change the control
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::8++0.14;;annot-8-0]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-8-0
+:END:
+
+*** Scenario II - Isolate and Remove subsystem
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::8++0.33;;annot-8-1]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-8-1
+:END:
+
+
+*** decision
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::9++0.07;;annot-9-0]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-9-0
+:END:
+
+*** Scenario III - Remove subsystem
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::9++0.14;;annot-9-1]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-9-1
+:END:
+
+*** PnPMPC MATLAB Toolbox
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::12++0.18;;annot-12-0]]
+:ID:       ../docsThese/bibliography/BoemEtAl2020.pdf-annot-12-0
+:END:
+https://www.swmath.org/software/12119

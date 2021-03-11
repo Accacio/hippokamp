@@ -1,0 +1,3 @@
+#+TITLE: non-cooperative coefficient 
+[[file:20200422140353-estimation.org][estimation]]
+If we estimate $H$, if \tau is different of 1 we estimate $\tilde{H}=\tau H$ as $Hv=\lambda v$

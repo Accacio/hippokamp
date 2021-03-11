@@ -1,0 +1,58 @@
+#+title: BittantiEtAl1990:
+#+ROAM_KEY: cite:BittantiEtAl1990
+#+ROAM_TAGS: article
+- tags :: [[file:20200504163253-recursive_least_squares.org][recursive least-squares]], [[file:20200504163319-identification.org][identification]], [[file:20200504162654-adaptive_control.org][adaptive control]],[[file:20200422140353-estimation.org][ Parameter Estimation]]
+
+* BittantiEtAl1990
+:PROPERTIES:
+:NOTER_DOCUMENT: ../docsThese/bibliography/BittantiEtAl1990.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+- Convergence of adaptive recursive least-squares algorithms
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** Multiple Variable forgetting factor used, Exponential, prediction error forgetting and constant trace
+*** types of RLS
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BittantiEtAl1990.pdf::1++0.10;;annot-1-0]]
+:ID:       ../docsThese/bibliography/BittantiEtAl1990.pdf-annot-1-0
+:END:
+*** Forgetting variable $\mu$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BittantiEtAl1990.pdf::1++0.00;;annot-1-2]]
+:ID:       ../docsThese/bibliography/BittantiEtAl1990.pdf-annot-1-2
+:END:
+
+*** persistent excitation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BittantiEtAl1990.pdf::1++0.11;;annot-1-1]]
+:ID:       ../docsThese/bibliography/BittantiEtAl1990.pdf-annot-1-1
+:END:
+
+*** unexcitation subspace
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BittantiEtAl1990.pdf::2++0.01;;annot-2-0]]
+:ID:       ../docsThese/bibliography/BittantiEtAl1990.pdf-annot-2-0
+:END:
+Space where excitation is under margin
+$\bar{\mathcal{E}}=\{x\in\mathbb{R}^n| \existsL<\infty:x'\sum\limits^N_1 \phi(t)\phi(t)'x<L,\forall N\}$
+*** verificar AR MA ARMA ARMAX ARX
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BittantiEtAl1990.pdf::2++0.25;;annot-2-1]]
+:ID:       ../docsThese/bibliography/BittantiEtAl1990.pdf-annot-2-1
+:END:
+
+*** Error is bounded and projection in excitation subspace tends to zero
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BittantiEtAl1990.pdf::2++0.52;;annot-2-2]]
+:ID:       ../docsThese/bibliography/BittantiEtAl1990.pdf-annot-2-2
+:END:

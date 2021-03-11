@@ -1,0 +1,2 @@
+#+title: Convex Optimization
+- tags :: [[file:20200709102805-optimization.org][Optimization]]

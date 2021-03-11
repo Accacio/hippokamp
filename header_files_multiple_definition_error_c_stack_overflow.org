@@ -1,0 +1,5 @@
+#+title: header files - multiple definition error c++ - Stack Overflow
+#+roam_key: https://stackoverflow.com/questions/34614523/multiple-definition-error-c
+- tags :: [[file:20200708151656-c_c.org][C/C++]]
+
+* [#A] Use =inline= for template members and methods!!!

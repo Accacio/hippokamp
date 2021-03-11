@@ -1,0 +1,3 @@
+#+title: Linear Algebra — GSL 2.6 documentation
+#+roam_key: https://www.gnu.org/software/gsl/doc/html/linalg.html
+- tags :: [[file:20200429185809-linear_algebra.org][linear algebra]], [[file:20200708145614-scientific_computing.org][Scientific Computing]], [[file:20200708151656-c_c.org][C/C++]]

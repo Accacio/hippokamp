@@ -1,0 +1,11 @@
+#+title: Interval Plants
+
+* Definition
+:PROPERTIES:
+:ID:       60a7a2e7-2a97-434b-a4a9-12e9f65a1651
+:END:
+plants whose transfer functions are rations of two interval polynomials
+
+* interval polynomials
+$\delta(s)=\delta_0+\delta_1s+\dots+\delta_ns^n$
+where $\delta_i\in(\underline{\delta_i}\,,\overline{\delta_i})\subset\mathbb{R}, \text{for } i=1,\dots,n$

@@ -1,0 +1,11 @@
+#+title: Energies Renouvelables: un point de vu du Maroc
+- tags :: [[file:20200422220259-energie.org][Energy]]
+* Presentation
+<2020-10-19 lun.>
+Badr IKKEN
+** IRESEN
+Institut de recherche en Énergie Solaire et Energies Nouvelles
+- vanadium redox
+- stockage air comprimé
+  CSP (?)
+http://www.iresen.org

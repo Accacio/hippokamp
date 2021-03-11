@@ -1,0 +1,5 @@
+#+title: Martinsos/edlib: Lightweight, super fast C/C++ (& Python) library for sequence alignment using edit (Levenshtein) distance.
+#+roam_key: https://github.com/Martinsos/edlib
+- tags :: [[file:20200708151656-c_c.org][C/C++]], sequence alignment, [[file:20200812140115-biology.org][Biology]]
+
+  Align sequences using Levenshtein distance

@@ -1,0 +1,35 @@
+#+title: icps2021
+
+* Title
+- Detection of Selfish Behavior in a distributed Model Predictive Control structure by negotiation dynamics
+- Analysis of multi-agent systems negotiation dynamics for misbehavior detection
+- Primal decomposition based misbehavior detection of multi-agent system
+* Abstract
+In this paper, we investigate the negotiation dynamics between multiple agents
+on a distributed model predictive control structure based on quantity
+decomposition. In this structure, each local agent communicates its dual
+variable to a coordinator agent. The coordinator ensures global constraints
+fulfillment by allocating the resources of the other agents. Local agents and
+coordinator exchange information until convergence is reached, ensured by usual
+assumptions.
+While investigating the negotiation dynamics when a agent presents a selfish behavior it is possible to draw 2 conclusions, which are highlighted in this work.
+First and obviously, the degradation of the global objective. Second, the change in the negotiation dynamics. This change in dynamics is the particular point to propose a cheating detection mechanism.
+After some mathematical considerations on the dynamics of the expected
+negotiation process, the proposed mechanism is illustrated by means of academics
+simulations.
+
+* Introduction
+cite:WuEtAl2018
+
+
+* Bibliography
+- cite:MaestreEtAl2014
+- cite:BourdaisEtAl2012
+- cite:BoydEtAl2011
+- cite:PaulenEtAl2016
+- cite:PflaumEtAl2014
+- cite:ChanfreutEtAl2018
+- cite:VelardeEtAl2017
+- cite:VelardeEtAl2017a
+- cite:BoydVandenberghe2004
+- cite:BoydEtAl2015

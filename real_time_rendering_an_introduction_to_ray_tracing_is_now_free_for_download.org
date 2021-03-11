@@ -1,0 +1,3 @@
+#+title: Real-Time Rendering · “An Introduction to Ray Tracing” is now free for download
+#+roam_key: http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/
+- tags :: [[file:20200617111624-computer_graphics.org][computer graphics]]

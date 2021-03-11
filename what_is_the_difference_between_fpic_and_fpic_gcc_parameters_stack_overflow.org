@@ -1,0 +1,11 @@
+#+title: What is the difference between `-fpic` and `-fPIC` gcc parameters? - Stack Overflow
+#+roam_key: https://stackoverflow.com/questions/3544035/what-is-the-difference-between-fpic-and-fpic-gcc-parameters
+- tags :: [[file:20200708151656-c_c.org][C/C++]], [[file:20210115201710-position_independent_code.org][Position Independent Code]]
+
+* Position independent code
+    to generate shared libraries
+#+begin_quote
+http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
+
+Use -fPIC or -fpic to generate position independent code. Whether to use -fPIC or -fpic to generate position independent code is target-dependent. The -fPIC choice always works, but may produce larger code than -fpic (mnenomic to remember this is that PIC is in a larger case, so it may produce larger amounts of code). Using -fpic option usually generates smaller and faster code, but will have platform-dependent limitations, such as the number of globally visible symbols or the size of the code. The linker will tell you whether it fits when you create the shared library. When in doubt, I choose -fPIC, because it always works.
+#+end_quote

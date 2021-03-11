@@ -1,0 +1,18 @@
+#+title: Jonathan Blow - Preventing the Collapse of Civilization
+#+roam_key: https://www.youtube.com/watch?v=pW-SOdj4Kkk
+- tags :: [[file:20200709114935-jonathan_blow.org][Jonathan Blow]]
+* Lost technologies
+** Lycurgus Cup
+Nanoparticles in Roman Empire 4th-century
+** Antikyther Mechanism
+Mechanical calendar 200-80 BC
+https://www.youtube.com/watch?v=pW-SOdj4Kkk&t=1245
+* We have a problem passing information, from generation to generation
+Maybe the young think they are too smart??
+#+begin_quote
+Without generational transfer civilizations die
+#+end_quote
+* 5 9s
+Software was made to have 99.999% uptime, nowadays not even 98%
+* QA
+[[file:e_w_dijkstra_archive_the_humble_programmer_ewd_340.org][E.W.Dijkstra Archive: The Humble Programmer (EWD 340)]]

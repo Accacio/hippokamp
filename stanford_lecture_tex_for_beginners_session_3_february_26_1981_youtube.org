@@ -1,0 +1,4 @@
+#+title: Stanford Lecture: TeX For Beginners - Session 3 (February 26, 1981) - YouTube
+#+roam_key: https://www.youtube.com/watch?v=V1EmAqGQSFA&list=PL94E35692EB9D36F3&index=3
+- tags :: [[file:20200424101609-latex.org][latex]]
+* You can't do that in vertical mode

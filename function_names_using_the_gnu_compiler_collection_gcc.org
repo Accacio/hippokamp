@@ -1,0 +1,7 @@
+#+title: Function Names (Using the GNU Compiler Collection (GCC))
+#+roam_key: https://gcc.gnu.org/onlinedocs/gcc/Function-Names.html
+- tags :: [[file:20200708151656-c_c.org][C/C++]]
+
+  magic variables
+  __FUNCTION__
+  __PRETTY_FUNCTION__

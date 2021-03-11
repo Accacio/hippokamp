@@ -1,0 +1,2 @@
+#+title: Modélisation Statistique des Événements Rares
+- tags :: [[file:formations_these.org][Formations Doctorat]], [[file:20210216110307-statistics.org][Statistics]]

@@ -1,0 +1,3 @@
+#+title: Non-linear writing systems | Rusted Shuriken
+#+roam_key: https://shuriken.wordpress.com/2006/06/01/non-linear-writing-systems/
+- tags :: [[file:20200703171750-non_linear_writing_systems.org][non-linear writing systems]],

@@ -1,0 +1,283 @@
+#+TITLE: AnandutaEtAl2020.pdf: Resilient distributed model predictive control for energy management of interconnected microgrids
+#+ROAM_KEY: cite:AnandutaEtAl2020.pdf
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200709101933-dmpc.org][dMPC]], [[file:20200908140517-multi_agents.org][Multi-Agents]]
+- keywords :: distributed MPC, distributed optimization, economic dispatch, microgrids, resilient algorithm
+
+
+* Resilient distributed model predictive control for energy management of interconnected microgrids
+  :PROPERTIES:
+  :Custom_ID: AnandutaEtAl2020.pdf
+  :URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.2534
+  :AUTHOR: Ananduta, W., Maestre, J. M., Ocampo-Martinez, C., & Ishii, H.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/AnandutaEtAl2020.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Resilient [[file:20200709101933-dmpc.org][dMPC]] under [[file:20200722151944-attacks.org][Attack]] using [[file:20200813155010-bayesian_inference.org][Bayesian Inference]]
+*** Model :lightSkyblue:
+- undirected graph $S=(\mathcal{N}, \mathcal{E})$, neighborhood $\mathcal{N}_{i}=\{j:(i, j) \in \mathcal{E}\}$
+- [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200716170441-linear_system.org][Linear Systems]]
+- Constrained States
+- Constrained inputs
+- [[file:20200709101720-mpc.org][MPC]]
+*** Remarks
+*** Applications
+- Based on Economic Dispatch of a microgrids
+- PG&E 69-bus divided in 7 agents with 3 attackers
+*** Expressions
+- In this regard
+- Recently
+- The main advantages of such approaches include
+- However, differ-
+ent from the method proposed by ... our methodology deals with
+- Trivially separable
+- Attack identification and mitigation
+*** References :violet:
+- cite:VelardeEtAl2017
+** NOTES
+
+*** resilient distributed method
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::1++0.00;;annot-1-4]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-1-4
+:END:
+
+*** Ensure robustness against attack of decisions
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::1++0.00;;annot-1-5]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-1-5
+:END:
+
+*** use bayesian inference to solve mixed-integer problem before connecting to neighbors
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::1++0.00;;annot-1-6]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-1-6
+:END:
+
+*** Pasqualetti
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::2++0.12;;annot-2-0]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-2-0
+:END:
+
+*** one adversarial per agent
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::3++0.00;;annot-3-0]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-3-0
+:END:
+
+*** Velarde et Al
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::3++0.07;;annot-3-1]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-3-1
+:END:
+
+cite:VelardeEtAl2017
+
+*** undirected graph
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::3++0.19;;annot-3-2]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-3-2
+:END:
+
+*** neighborhood
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::3++0.19;;annot-3-3]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-3-3
+:END:
+
+*** power balance equations
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::4++0.00;;annot-4-1]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-4-1
+:END:
+\begin{equation}
+\begin{aligned}
+&\rho_{i, k}^{\mathrm{d}}-\rho_{i, k}^{\mathrm{st}}-\rho_{i, k}^{\mathrm{g}}-\rho_{i k}^{\mathrm{im}}-\sum_{j \in N_{i}} \rho_{j i, k}^{\mathrm{t}}=0\\
+&\rho_{i j, k}^{\mathrm{t}}+\rho_{j i k}^{\mathrm{t}}=0, \quad \forall j \in \mathcal{N}_{i}
+\end{aligned}}
+\end{equation}
+
+*** discrete-time linear
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::4++0.19;;annot-4-2]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-4-2
+:END:
+
+*** constrained states
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::4++0.19;;annot-4-3]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-4-3
+:END:
+
+*** constrained inputs
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::4++0.19;;annot-4-4]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-4-4
+:END:
+
+*** State Of Charge <<<SoC>>>
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::4++0.28;;annot-4-5]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-4-5
+:END:
+
+
+*** more concise constraints
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::5++0.00;;annot-5-0]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-5-0
+:END:
+
+*** MPC
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::5++0.19;;annot-5-1]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-5-1
+:END:
+
+*** examples of distributed optimization to solve large-scale economic dispatch
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::6++0.00;;annot-6-0]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-6-0
+:END:
+- Larsen GKH, van Foreest ND, Scherpen JMA. Distributed MPC applied to a network of households with micro-CHP and heat storage.
+IEEE Trans Smart Grid. 2014;5(4):2106-2114.
+- Wang T, O'Neill D, Kamath H. Dynamic control and optimization of distributed energy resources in a microgrid. IEEE Trans Smart Grid.
+2015;6(6):2884-2894.
+- Hans CA, Braun P, Raisch J, Grüne L, Reincke-Collon C. Hierarchical distributed model predictive control of interconnected microgrids.
+IEEE Trans Sustain Energy. 2019;10(1):407-416.
+- Baker K, Guo J, Hug G, Li X. Distributed MPC for efficient coordination of storage and renewable energy sources across control areas.
+IEEE Trans Smart Grid. 2016;7(2):992-1001.
+
+*** non trivially separable problems can be a problem
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::6++0.00;;annot-6-1]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-6-1
+:END:
+
+*** methods to solve dual problem
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::6++0.00;;annot-6-2]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-6-2
+:END:
+- Dual-ascent algorithm
+- Accelerated gradient algorithm
+Giselsson P, Doan MD, Keviczky T, De Schutter B, Rantzer A. Accelerated gradient methods and dual decomposition in distributed model
+predictive control. Automatica. 2013;49(3):829-833.
+
+*** adversarial set $\mathcal{A}$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::7++0.11;;annot-7-2]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-7-2
+:END:
+
+
+*** regular agent uses as input the value found by optimisation, adversarial otherwise
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::7++0.17;;annot-7-0]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-7-0
+:END:
+
+*** $f$-local if $\left|\mathcal{A} \cap \mathcal{N}_{i}\right| \leq f$ $\forall i \in \mathcal{N}$.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::7++0.17;;annot-7-1]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-7-1
+:END:
+
+*** attack when control different from found by optimisation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::7++0.28;;annot-7-3]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-7-3
+:END:
+But what if faulty agent??
+
+*** Assumption: lower-bounded attack probability $p_{i}^{\mathrm{a}}>0$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::7++0.28;;annot-7-4]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-7-4
+:END:
+
+*** Assumption: all neighbors are simultaneously attacked
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::7++0.35;;annot-7-5]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-7-5
+:END:
+
+*** attack
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::8++0.12;;annot-8-2]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-8-2
+:END:
+
+
+*** disturbance in forecast
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::8++0.17;;annot-8-1]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-8-1
+:END:
+
+*** 2 steps to solve problem
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::9++0.00;;annot-9-0]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-9-0
+:END:
+
+*** use of nominal dynamics to predict value of SoC
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::10++0.19;;annot-10-1]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-10-1
+:END:
+
+
+*** attack mitigation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::10++0.28;;annot-10-0]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-10-0
+:END:
+
+*** detectability
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::11++0.00;;annot-11-0]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-11-0
+:END:
+
+*** false attack detecttion (false positive)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::11++0.00;;annot-11-1]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-11-1
+:END:
+
+*** [[file:20200813155010-bayesian_inference.org][Bayesian Inference]] to update probability of hypothesis
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::12++0.00;;annot-12-0]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-12-0
+:END:
+
+*** set of adversarial neighbors $\Theta_i^m$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::12++0.00;;annot-12-1]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-12-1
+:END:
+
+*** distribution network PG&E 69-bus [[file:20200813161636-electric_grid_test_cases.org][Electric Grid Test Cases]]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::18++0.49;;annot-18-0]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-18-0
+:END:
+
+*** divide test network in microgrids
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::19++0.00;;annot-19-1]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-19-1
+:END:
+
+*** smart attacker
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::22++0.00;;annot-22-4]]
+:ID:       ../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-22-4
+:END:

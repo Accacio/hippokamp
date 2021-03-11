@@ -1,0 +1,2 @@
+#+title: Smart Attacker
+- tags :: [[file:20200722151944-attacks.org][Attacks]]

@@ -1,0 +1,2 @@
+#+title: Public Speaking
+- tags :: [[file:20210309145947-soft_skills.org][Soft Skills]]

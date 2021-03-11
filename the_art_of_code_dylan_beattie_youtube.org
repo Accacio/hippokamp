@@ -1,0 +1,18 @@
+#+title: The Art of Code - Dylan Beattie - YouTube
+#+roam_key: https://www.youtube.com/watch?v=6avJHaC3C2U
+- tags :: [[file:20200713160350-programming.org][Programming]], obscure languages
+
+- emergent behavior from simple rules
+  #+begin_quote
+Clouds are note spheres, mountains are not cones, coastlines are note circles,
+and bark is not smooth, nor does lightning travel in a straight line.
+
+---Benoit Mandelbrot
+  #+end_quote
+
+polyquine.c
+uroboros quine
+http:github.com/mame/quine-relay
+
+hello world cake with chocolate sauce mike worth
+Rockstar @dylanbeattie

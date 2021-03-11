@@ -1,0 +1,5 @@
+#+TITLE: Siemens S7-1200 Web Server Tutorial - From Getting Started to HTML5 User Defined Pages | DMC, Inc.
+#+ROAM_KEY: https://www.dmcinfo.com/latest-thinking/blog/id/8567/siemens-s7-1200-web-server-tutorial--from-getting-started-to-html5-user-defined-pages
+- tags :: [[file:20200423095900-plc.org][plc]], [[file:20200423095930-web_server.org][web server]]
+
+  usado no tcc para controlar usando variáveis

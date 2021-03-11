@@ -1,0 +1,3 @@
+#+title: Seq2Seq for LaTeX generation
+#+roam_key: https://guillaumegenthial.github.io/image-to-latex.html
+- tags :: [[file:20200813180431-neural_networks.org][Neural Networks]], [[file:20200424101609-latex.org][LaTeX/TeX]], [[file:20201204103827-ocr.org][OCR]]

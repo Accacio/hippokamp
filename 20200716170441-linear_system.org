@@ -1,0 +1,44 @@
+#+title: Linear Systems
+- tags :: [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]
+* Stable Systems
+** 1 pole
+*** Transfer Function:
+$K\over 1+\tau s$
+
+*** Step Response:
+$y(t)=K(1-e^{-t\over \tau })$
+
+** 2 poles
+*** Transfer Function:
+    $$\omega_n^2\over s^2+2\psi\omega_ns+\omega_n^2$$
+  - $\omega_n$ natural frequency
+  - $0<\psi<1$ damping factor
+  - $\omega_d=\omega_n\sqrt{1+\psi^2}$ natural damped frequency
+
+    $T_d={2\pi\over\omega_d}$
+*** Poles location:
+$-\psi\omega_n\pm j\omega_d=\omega_n e^{\pm j(\pi-\beta)}$
+$\cos(\beta)=\psi$
+*** Step Response
+$y(t)=1-{e^{-\psi\omega_nt}\over \sqrt{1-\psi^2}}sin(\omega_dt+\beta)$
+where $cos(\beta)=\psi$
+- Settling Time
+- Rise Time
+  $t_r={\pi-\beta\over \omega_d}$
+- Overshoot
+   $t_p={\pi\over \omega_d}={T_d\over 2}$
+   $M_p=e^{-{\pi\psi\over\sqrt{1-\psi^2}}}$
+- $t_s={4.6\over \psi\omega_n}$
+- $t_r={1.8\over \omega_n}$
+
+* [[file:20200907171901-translations.org][Translations]]
+:PROPERTIES:
+:ID:       50cc097f-1e92-4a2b-b0ff-879f46a3ab83
+:END:
+| Français              | English           | Português             |
+|-----------------------+-------------------+-----------------------|
+| Fréquence de coupure  | Cut-off frequency | Frequência de Corte   |
+| Dépassement           | Overshoot         | Sobrepasso            |
+| Constante de temps    | Time Constant     | Constante de tempo    |
+| Temps d'établissement | settling time     | Tempo de assentamento |
+| Temps de montée       | raising time      | Tempo de subida       |

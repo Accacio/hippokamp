@@ -1,0 +1,2 @@
+#+title: Mechanics
+- tags :: [[file:20200828141710-physics.org][Physics]]

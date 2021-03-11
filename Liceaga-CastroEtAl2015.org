@@ -1,0 +1,49 @@
+#+TITLE: Liceaga-CastroEtAl2015: MIMO passive control systems are not necessarily robust
+#+ROAM_KEY: cite:Liceaga-CastroEtAl2015
+#+ROAM_TAGS: article
+
+- tags ::
+- keywords ::
+
+
+* MIMO passive control systems are not necessarily robust
+  :PROPERTIES:
+  :Custom_ID: Liceaga-CastroEtAl2015
+  :URL:
+  :AUTHOR: Liceaga-Castro, J. U., Siller-Alcal\'a, I. I., Liceaga-Castro, E., & Am\'ezquita-Brooks, L. A.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/Liceaga-CastroEtAl2015.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+:PROPERTIES:
+:ID:       513f3b4c-ae09-4cc9-956c-40c9e42f55fb
+:END:
+Show that [[file:20200911115431-multivariable_systems.org][MIMO]] systems controlled passively are not necessarily robust.
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** not necessarily robust
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Liceaga-CastroEtAl2015.pdf::1++0.00;;annot-1-0]]
+:ID:       ../docsThese/bibliography/Liceaga-CastroEtAl2015.pdf-annot-1-0
+:END:
+
+*** uncertainty can generate closed loop instability
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Liceaga-CastroEtAl2015.pdf::2++6.82;;annot-2-0]]
+:ID:       ../docsThese/bibliography/Liceaga-CastroEtAl2015.pdf-annot-2-0
+:END:
+
+*** passivity does not imply robustness
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Liceaga-CastroEtAl2015.pdf::4++2.34;;annot-4-0]]
+:ID:       ../docsThese/bibliography/Liceaga-CastroEtAl2015.pdf-annot-4-0
+:END:

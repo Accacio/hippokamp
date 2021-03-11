@@ -1,0 +1,2 @@
+#+title: Explicit MPC
+- tags :: [[file:20200709101720-mpc.org][Model Predictive Control]]

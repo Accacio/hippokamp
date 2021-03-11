@@ -1,0 +1,6 @@
+#+title: Set Theory
+- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+
+* Functions
+** Definition
+Direct Relation between groups of sets

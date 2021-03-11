@@ -1,0 +1,3 @@
+#+title: NES Graphics – Part 1 | dustmop.io blog
+#+roam_key: http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/
+- tags :: nes, [[file:20200423094808-gamedev.org][gamedev]], [[file:20200617111624-computer_graphics.org][graphics]]

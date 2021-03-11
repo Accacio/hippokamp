@@ -1,0 +1,20 @@
+#+title: Ethics Defined: Deontology - YouTube
+#+roam_key: https://www.youtube.com/watch?v=wWZi-8Wji7M
+- tags :: [[file:20200715105347-deontology.org][Deontology]]
+
+  Associated to [[file:20200715105910-immanuel_kant.org][Immanuel Kant]]
+
+* universal moral laws
+
+  - don't lie
+  - don't steal
+  - don't cheat
+   
+* Problems
+** Ex.
+Software Engineer and learn that a nuclear missile is about to launch:
+- Stop Launch -> you are cheating
+- Do not stop -> people will die
+* Pros and Cons
+| Pro                                   | Con                               |
+| Easy to apply (just follow the rules) | Disregard Consequences of actions |

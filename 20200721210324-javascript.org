@@ -1,0 +1,2 @@
+#+title: javascript
+- tags :: [[file:20200713160350-programming.org][Programming]]

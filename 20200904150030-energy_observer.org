@@ -1,0 +1,24 @@
+#+title: Energy Observer
+- tags :: [[file:20200422220259-energie.org][Energy]], [[file:20200904151530-enterprises.org][Enterprises]]
+http://energy-observer.org/
+
+<2020-09-04 ven.>
+
+- Électrolyse
+- houlomotrice
+* Branches
+** Solutions
+** Developments
+- SINOPE-SYS (Simulation and Numerical Optimization of Energy SYStem)
+- Data Science
+- Decision Support
+  + PSA Factory (Vesoul)
+  + Chéreau Factory
+- H2 ECOSYSTEMS
+  + Port Saint Malo
+- $GEH_2$
+  Zero emission hydrogen power generator for land applications
+- $REXH_2$
+- $STSH_2$
+- $H_2360^o$
+charge  par hydrogène

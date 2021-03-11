@@ -1,0 +1,2 @@
+#+title: Learning
+- tags :: [[file:20200424101435-education.org][education]]

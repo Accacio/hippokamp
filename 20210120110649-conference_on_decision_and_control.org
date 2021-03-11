@@ -1,0 +1,3 @@
+#+title: Conference on Decision and Control
+#+ROAM_ALIAS:CDC
+- tags :: [[file:20210120110751-control_conferences.org][Control Conferences]]

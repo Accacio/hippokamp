@@ -1,0 +1,14 @@
+#+title: HDR Romain
+
+Contributions à la commande prédictive distribuée et hiérachisée pour les systèmes complexes
+
+45min
+2008
+9 doctorants
+* Distribué
+- Complexité
+- confidentiatlité
+- résilience
+
+* questions
+CPER

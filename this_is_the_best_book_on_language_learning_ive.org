@@ -1,0 +1,19 @@
+#+title: THIS is the Best Book on Language Learning Ive
+#+roam_key: https://www.youtube.com/watch?v=YYHqxcXOnYg
+- tags :: [[file:20200608092138-languages.org][languages]]
+
+  | latin    | portuguese | italian  | spanish  | french | english   |
+  | nomine   | nome       | nome     | nombre   | nom    | name      |
+  | legumine | legume     | legume   | legumbre | légume | vegetable |
+  | seminare | semear     | seminare | sembrar  | semer  | sow       |
+  | fame     | fome       | fame     | hambre   | faim   | hunger    |
+
+| English | Swedish | Danish | Dutch   | German  |
+| com     | komma   | komme  | komen   | kommen  |
+| find    | finna   | finde  | vinda   | finden  |
+| fly     | flyga   | flyve  | vliegen | fliegen |
+| ride    | rida    | ride   | rijden  | reiten  |
+| see     | se      | se     | zien    | sehen   |
+| sing    | sjunga  | synge  | zinge   | singen  |
+
+The Loom of Language by Frederic Bodmer

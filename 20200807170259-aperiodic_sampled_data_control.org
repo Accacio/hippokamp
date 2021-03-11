@@ -1,0 +1,5 @@
+#+title: Aperiodic Sampled-Data Control
+- tags :: contorl
+
+  - Event-triggering
+  - Self-triggering

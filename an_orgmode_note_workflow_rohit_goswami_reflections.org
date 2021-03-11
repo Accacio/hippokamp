@@ -1,0 +1,4 @@
+#+title: An Orgmode Note Workflow :: Rohit Goswami — Reflections
+#+roam_key: https://rgoswami.me/posts/org-note-workflow/
+- tags :: [[file:20200619120841-note_taking.org][note taking]], [[file:20200619120854-org_mode.org][org-mode]]
+Used in configuration, but with biblio and some other modifications

@@ -1,0 +1,106 @@
+#+title: How To Speak by Patrick Winston - YouTube
+#+roam_key: https://www.youtube.com/watch?v=Unzc731iCUY
+- tags :: [[file:20200715132839-public_speaking.org][Public Speaking]]
+
+- Speaker :: Patrick Winston
+
+  1. Knowledge
+  2. Practice
+  3. talent
+* How to start
+- +JOKE+
+- Promise
+   what they will know at the end
+* Samples
+- _Cycling_
+    Repeat the same idea
+- Build Fence
+  Show how your idea is different from somebody else's idea
+- Verbal Punctuation
+  Use landmarks, enumerate, give a seam in the presentation
+- _Ask a question_
+  - Difficulty
+    - Can't be too obvious \rightarrow embarressement
+    - Can't be too difficult \rightarrow nobody will answer
+  - 7 seconds to wait
+* The Tools
+** Time & Place
+- 11AM
+- Well lit
+- Cased
+  Know where you will present beforehand
+- Populated
+  Right sized place but more that half full
+
+** Empathetic Mirroring
+  people imagine doing things themselves
+*** Board
+Inform Ideas
+- Graphic Quality
+  You can draw as you go
+- Speed
+  Same speed as the audience
+- Target
+  Know the target and use your hands to point to things
+*** Props
+- People will get interested imagining the use
+** Projectors
+To expose ideas
+- do not read
+- be in the image
+- keep images simple
+- eliminate clutter ( bullets for ex )
+- use big fonts (40/50pt)
+  to avoid too much text
+- do not use lasers
+  do not break contact with the audience
+- print all slides
+  to see how dense they are
+hapax legomenon
+* Informing
+** Promise
+** Inspire
+- Exhibit passion for what you do
+** How to think
+- tell a story
+* Persuading
+- ask somebody to review your presentation
+  someone who doesn't know what you are doin
+** Job Talks
+- VISION
+  - Problem someone cares about
+  - Your approach
+- DONE SOMETHING
+  - Steps needed to solve the problem
+- _CONTRIBUTIONS_
+** Getting Famous
+*** Why?
+#+begin_quote
+Your Ideas are like your children and you don't want them to o into the world in rags.
+--- Patrick Winston
+#+end_quote
+*** How?
+**** _Symbol_
+some symbol associated with your work
+**** _Slogan_
+#+begin_quote
+a phrase that provides a handle on the work
+--- Patrick Winston
+
+#+end_quote
+**** _Surprise_
+**** _Salient_
+An idea that sticks idea
+**** _Story_
+- How you did it
+- How it works
+- Why it is important
+* Final Slides/ Final Words
+- +COLLABORATORS+
+- +Questions+
+- +For details see:+
+- +THE END+
+- Contributions
+- JOKE
+- +THANK YOU+
+- Salute People

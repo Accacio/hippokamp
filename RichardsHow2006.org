@@ -1,0 +1,62 @@
+#+TITLE: RichardsHow2006: Robust stable model predictive control with constraint tightening
+#+ROAM_KEY: cite:RichardsHow2006
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200803163941-robust_control.org][Robust Control]],[[file:20200709101720-mpc.org][MPC]]
+- keywords ::
+
+
+* Robust stable model predictive control with constraint tightening
+  :PROPERTIES:
+  :Custom_ID: RichardsHow2006
+  :URL:
+  :AUTHOR: A. Richards, & J. How
+  :NOTER_DOCUMENT: ../docsThese/bibliography/RichardsHow2006.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+[[file:20200803163941-robust_control.org][Robust]] [[file:20200709101720-mpc.org][MPC]] with tightening constraints
+*** Model :lightSkyblue:
+[[file:20200716170441-linear_system.org][Linear ]][[file:20200504113008-discrete_time_systems.org][Discrete-time System]] with disturbance
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+ cite:GossnerEtAl1997
+
+** NOTES
+
+*** Tighten constraints in monotonic way in order to increase robusteness
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/RichardsHow2006.pdf::1++0.20;;annot-1-0]]
+:ID:       ../docsThese/bibliography/RichardsHow2006.pdf-annot-1-0
+:END:
+
+*** linear time invariant discrete time system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/RichardsHow2006.pdf::1++0.30;;annot-1-2]]
+:ID:       ../docsThese/bibliography/RichardsHow2006.pdf-annot-1-2
+:END:
+
+
+*** introduced by Gossner et Al
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/RichardsHow2006.pdf::1++0.35;;annot-1-1]]
+:ID:       ../docsThese/bibliography/RichardsHow2006.pdf-annot-1-1
+:END:
+
+*** tightening recursion
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/RichardsHow2006.pdf::2++0.11;;annot-2-0]]
+:ID:       ../docsThese/bibliography/RichardsHow2006.pdf-annot-2-0
+:END:
+
+
+*** GossnerEtAl1997
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/RichardsHow2006.pdf::5++0.17;;annot-5-0]]
+:ID:       ../docsThese/bibliography/RichardsHow2006.pdf-annot-5-0
+:END:

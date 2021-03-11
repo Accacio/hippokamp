@@ -1,0 +1,4 @@
+#+title: Bernoulli Distribution
+- tags :: [[file:20200716170653-probability.org][Probability]]
+
+\begin{equation}\operatorname{Pr}(X=1)=p=1-\operatorname{Pr}(X=0)=1-q\end{equation}

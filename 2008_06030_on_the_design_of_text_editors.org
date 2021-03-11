@@ -1,0 +1,3 @@
+#+title: [2008.06030] On the design of text editors
+#+roam_key: https://arxiv.org/abs/2008.06030
+- tags :: [[file:20201204160447-text_editors.org][Text Editors]]

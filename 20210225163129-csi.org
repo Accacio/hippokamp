@@ -1,0 +1,14 @@
+#+title: CSI
+- tags :: [[file:20200422131137-these.org][these]]
+
+*  comité
+
+| Identification              | 1ère personnalité             | 2nde personnalité                       |
+| Nom                         | GHANES                        | ARANOVSKIY                              |
+| Prénom                      | Malek                         | Stanislav                               |
+| Grade                       | Prof. des Uni.                | MdC                                     |
+| Etablissement d’affectation | Centrale Nantes               | CentraleSupélec                         |
+| Adresse complète            | 1, rue de la Noë              | Avenue de la Boulaie                    |
+|                             | BP 92101 44321 NANTES Cedex 3 | CS 47601   35576 Cesson-Sévigné cedex   |
+| Téléphone                   | 02 40 37 69 13                | 02 99 84 45 42                          |
+| Email                       | Malek.Ghanes@ls2n.fr          | stanislav.aranovskiy@centralesupelec.fr |

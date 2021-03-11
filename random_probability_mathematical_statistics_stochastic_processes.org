@@ -1,0 +1,3 @@
+#+title: Random: Probability, Mathematical Statistics, Stochastic Processes
+#+roam_key: http://www.randomservices.org/random/apps/index.html
+- tags :: [[file:20210216110307-statistics.org][Statistics]]

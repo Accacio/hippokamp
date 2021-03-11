@@ -1,0 +1,43 @@
+#+TITLE: AstromWittenmark1989: Adaptive Control
+#+ROAM_KEY: cite:AstromWittenmark1989
+#+ROAM_TAGS: book
+
+- tags :: [[file:20200504162654-adaptive_control.org][adaptive control]], [[file:20200422140353-estimation.org][estimation]]
+- keywords ::
+
+
+* Adaptive Control
+  :PROPERTIES:
+  :Custom_ID: AstromWittenmark1989
+  :URL: https://books.google.fr/books?id=VJ0eAQAAIAAJ
+  :AUTHOR: \AAstr\"om, K.J., & Wittenmark, B.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/AstromWittenmark1989.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** Real-time Parameter Estimation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AstromWittenmark1989.pdf::70++0.00;;annot-70-0]]
+:ID:       ../docsThese/bibliography/AstromWittenmark1989.pdf-annot-70-0
+:END:
+
+*** Theorem 3.2 :
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AstromWittenmark1989.pdf::75++0.00;;annot-75-0]]
+:ID:       ../docsThese/bibliography/AstromWittenmark1989.pdf-annot-75-0
+:END:
+if noise is independent random variable with zero mean and variance $\sigma^2$
+- $E\hat\theta=\theta^0$ :: unbiased estimation
+- $\mathrm{cov}\ \hat\theta=\sigma^2(\Phi^T\Phi)^{-1}$ :: covariance depends on $\Phi$ and $\sigma^2$
+-  $s^2=2V(\hat\theta,t)/(t-n)$ :: unbiased estimate of $\sigma^2$

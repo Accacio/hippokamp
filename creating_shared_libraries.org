@@ -1,0 +1,14 @@
+#+title: Creating Shared Libraries
+#+roam_key: https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
+- tags :: [[file:20200708151656-c_c.org][C/C++]], [[file:20210115202150-shared_libraries.org][Shared Libraries]]
+
+* Creating shared libraries
+1. First create object with [[file:20210115201710-position_independent_code.org][Position Independent Code]]
+#+begin_src bash
+gcc -fPIC -g -c -Wall a.c
+#+end_src
+
+2. then create shared library
+#+begin_src bash
+gcc -shared -o liba.so a.o
+#+end_src

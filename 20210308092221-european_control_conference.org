@@ -1,0 +1,3 @@
+#+title: European Control Conference
+#+ROAM_ALIAS: ECC
+- tags :: [[file:20210120110751-control_conferences.org][Control Conferences]]

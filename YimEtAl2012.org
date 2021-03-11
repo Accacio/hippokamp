@@ -1,0 +1,64 @@
+#+TITLE: YimEtAl2012
+#+ROAM_KEY: cite:YimEtAl2012
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200422140353-estimation.org][estimation]], [[file:20200617105641-khalman.org][Khalman]]
+ 
+* YimEtAl2012
+:PROPERTIES:
+:NOTER_DOCUMENT: ../docsThese/bibliography/YimEtAl2012.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+- Estimation of non-linear systems using EKF and UKF
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** First order Taylor expansion for EKF
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YimEtAl2012.pdf::1++0.00;;annot-1-1]]
+:ID:       ../docsThese/bibliography/YimEtAl2012.pdf-annot-1-1
+:END:
+*** UKF uses stochastic linearization using weighted linear regression
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YimEtAl2012.pdf::1++0.03;;annot-1-2]]
+:ID:       ../docsThese/bibliography/YimEtAl2012.pdf-annot-1-2
+:END:
+*** creators of Unscented Transform
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YimEtAl2012.pdf::1++0.28;;annot-1-3]]
+:ID:       ../docsThese/bibliography/YimEtAl2012.pdf-annot-1-3
+:END:
+Julier et Uhlmann
+*** sprung mass
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YimEtAl2012.pdf::1++0.30;;annot-1-4]]
+:ID:       ../docsThese/bibliography/YimEtAl2012.pdf-annot-1-4
+:END:
+*** elastic non linear
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YimEtAl2012.pdf::2++0.17;;annot-2-0]]
+:ID:       ../docsThese/bibliography/YimEtAl2012.pdf-annot-2-0
+:END:
+*** non linear damping
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YimEtAl2012.pdf::2++0.17;;annot-2-1]]
+:ID:       ../docsThese/bibliography/YimEtAl2012.pdf-annot-2-1
+:END:
+*** values are in operation point??
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YimEtAl2012.pdf::3++0.18;;annot-3-0]]
+:ID:       ../docsThese/bibliography/YimEtAl2012.pdf-annot-3-0
+:END:
+*** Transpose?
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YimEtAl2012.pdf::3++0.23;;annot-3-1]]
+:ID:       ../docsThese/bibliography/YimEtAl2012.pdf-annot-3-1
+:END:

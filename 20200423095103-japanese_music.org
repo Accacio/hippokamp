@@ -1,0 +1,2 @@
+#+TITLE: Japanese Music
+- tags :: [[file:20200423095046-music.org][music]]

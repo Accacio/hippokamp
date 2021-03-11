@@ -1,0 +1,105 @@
+#+TITLE: Private Professores
+
+Tentativa de listar todos professores que já tive
+
+1. Mamãe <3
+* Creche?
+* Tia Fátima
+* EDN
+* Colégio Aplicação
+Selma
+Márcia
+Solange
+* J. Carlos
+* Adlai Stevenson
+- Solange
+- Ana Lúcia
+- Márcia
+* Entre
+- Elizeth
+* Pedro II
+** Fundamental
+*** Matemática
+- Ana Patrícia
+- Flávio
+- Flávio ?
+- Andreia / Ana Patrícia?
+*** Artes
+- Tatiana
+*** Geografia
+- Gama
+- ?
+- ?
+- Pedro Paulo ?
+*** Ciências
+- Mirna Quesado
+- Márcia
+- ?
+- Mirna Quesado
+*** Música
+- Poíko
+- Daniel
+- ???
+- Inês Rocha
+*** Informática
+- ??
+*** Português
+- Marina Mansur
+- Isabel Vega
+- Márcia
+- Marina Mansur
+*** História
+- Tarcísio Motta
+- Renata
+- Ana Renata?
+- Adalberto
+*** Desenho Geométrico
+- Eduardo Lannes/ ??
+- Berta/ Begona
+- Begona
+- Berta
+*** Francês
+- Dayse Elísio
+- Jordélia
+- ?
+- Dayse Elísio
+*** Inglês
+- Carmem?
+- ??
+*** Sociologia
+- Solange
+- Ricardo
+*** Educação Física
+- ?
+- ?
+- ?
+- ?
+** Médio
+*** Matemática
+- Ana Lucia Vaz da Silva
+- Ana Patrícia
+*** Física
+- Sérgio
+- Marcos
+*** Biologia
+- Marcelo
+- Ana Maria
+- Mazzetti / Ana Maria?
+*** Sociologia
+- Cícero
+- Ricardo
+*** Filosofia
+- Zulena
+- ?
+- ?
+*** Geografia
+- Gama
+- Marcos v
+*** Química
+- Diva
+- ? / ?
+- ? / ?
+*** Artes
+- Greice Cohn
+*** Francês
+- Maria Theresa

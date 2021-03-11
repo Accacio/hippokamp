@@ -1,0 +1,66 @@
+#+TITLE: KatewaEtAl2021: On a security vs privacy trade-off in interconnected dynamical systems
+#+ROAM_KEY: cite:KatewaEtAl2021
+#+ROAM_TAGS: article
+
+- tags ::
+- keywords :: [[file:20210216101758-privacy.org][Privacy]], Attack-detection, Interconnected Systems, Chi-squared test
+
+
+* On a security vs privacy trade-off in interconnected dynamical systems
+  :PROPERTIES:
+  :Custom_ID: KatewaEtAl2021
+  :URL: https://www.sciencedirect.com/science/article/pii/S0005109820306282
+  :AUTHOR: Katewa, V., Anguluri, R., & Pasqualetti, F.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/KatewaEtAl2021.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+- quantify trade-off between security and privacy
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- In contrast to these works,
+*** References :violet:
+
+** NOTES
+
+*** quantify privacy level based on estimation error and compare different privacy methods
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KatewaEtAl2021.pdf::1++1.86;;annot-1-59]]
+:ID:       ../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-59
+:END:
+
+*** local attack detection using only local information
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KatewaEtAl2021.pdf::1++1.86;;annot-1-60]]
+:ID:       ../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-60
+:END:
+
+*** limited exchange due to confidential information
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KatewaEtAl2021.pdf::1++6.61;;annot-1-61]]
+:ID:       ../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-61
+:END:
+
+*** references for centralized attack detection and estimation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KatewaEtAl2021.pdf::1++7.15;;annot-1-62]]
+:ID:       ../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-62
+:END:
+- cite:FawziEtAl2014
+  https://ieeexplore.ieee.org/document/6727407
+- cite:PasqualettiEtAl2013
+  https://ieeexplore.ieee.org/document/6545301
+Cui, Han, Kar, Kim, Poor, and Tajer (2012) and Nishino and Ishii
+(2014). In Pasqualetti et al. (2013) and Pasqualetti, Dörfler, and
+Bullo (2015), cen
+
+*** expression showing the difference of approach
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KatewaEtAl2021.pdf::2++5.16;;annot-2-54]]
+:ID:       ../docsThese/bibliography/KatewaEtAl2021.pdf-annot-2-54
+:END:

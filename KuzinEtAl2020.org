@@ -1,0 +1,41 @@
+#+TITLE: KuzinEtAl2020: Multi-agent system for distributed energy microgrid: simulation and hardware-in-the-loop physical model
+#+ROAM_KEY: cite:KuzinEtAl2020
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200908140517-multi_agents.org][Multi-Agents]], [[file:20201007115211-hardware_in_the_loop.org][Hardware-in-the-loop]]
+- keywords :: control engineering computing;distributed control;distributed power generation;multi-agent systems;power distribution control;power engineering computing;distributed energy microgrid;Hardware-in-the-Loop physical model;management hierarchy interaction;local controllers;microgrid control;central processor;control algorithm;energy system;modern distributed control system;multiagent distributed grid control system;Microgrids;Mathematical model;Hardware;Prototypes;Multi-agent systems;Real-time systems;Generators;grid control;distributed control;multi-agent systems;microgrids
+
+
+* Multi-agent system for distributed energy microgrid: simulation and hardware-in-the-loop physical model
+  :PROPERTIES:
+  :Custom_ID: KuzinEtAl2020
+  :URL:
+  :AUTHOR: A. Y. Kuzin, G. L. Demidova, D. V. Lukichev, & N. A. Poliakov
+  :NOTER_DOCUMENT: ../docsThese/bibliography/KuzinEtAl2020.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
++ Use of multiple Raspberry Pis as HIL to simulate agents
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** implentation of multi-agent distributed control system with hardware-in-the-loop
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KuzinEtAl2020.pdf::1++0.00;;annot-1-0]]
+:ID:       ../docsThese/bibliography/KuzinEtAl2020.pdf-annot-1-0
+:END:
+
+*** Communication of the agents
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KuzinEtAl2020.pdf::2++0.79;;annot-2-0]]
+:ID:       ../docsThese/bibliography/KuzinEtAl2020.pdf-annot-2-0
+:END:
+Agents implemented with JADE

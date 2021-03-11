@@ -1,0 +1,5 @@
+#+title: QueryPerformanceCounter and RDTSC  —  Handmade Hero  —  Watch
+#+roam_key: https://guide.handmadehero.org/code/day010/#1873
+- tags :: [[file:20200708151656-c_c.org][C/C++]]
+
+  - variables from anonymous structures in unions in [[file:20200708151656-c_c.org][C/C++]] can be accessed

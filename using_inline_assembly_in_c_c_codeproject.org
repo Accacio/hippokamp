@@ -1,0 +1,41 @@
+#+title: Using Inline Assembly in C/C++ - CodeProject
+#+roam_key: https://www.codeproject.com/articles/15971/using-inline-assembly-in-c-c
+- tags :: [[file:20210120110925-assembly.org][Assembly]], [[file:20200708151656-c_c.org][C/C++]]
+
+* Using inline assembly in c,
+
+use =asm("assembly code")= or =__asm__("assembly code")=
+
+gcc use AT&T assembly so
+opcde souce, destination
+#+begin_src asm
+movb $5, %eax
+#+end_src
+
+use =asm("assembly code")= or =__asm__("assembly code")=
+
+#+begin_src C
+__asm__("movl $10, %eax;"
+      "movl $20, %ebx;"
+      "addl %ebx, %eax;")
+#+end_src
+
+** extended
+#+begin_src C
+__asm__ ( "assembly code"
+           : output operands                  /* optional */
+           : input operands                   /* optional */
+           : list of clobbered registers      /* optional */
+);
+#+end_src
+
+|-------------+----------------|
+| constraints | Register(s)    |
+|-------------+----------------|
+| a           | %eax, %ax, %al |
+| b           | %ebx, %bx, %bl |
+| c           | %ecx, %cx, %cl |
+| d           | %edx, %dx, %dl |
+| S           | %esi, %si      |
+| D           | %edi, %di      |
+|-------------+----------------|

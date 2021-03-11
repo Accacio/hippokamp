@@ -1,0 +1,2 @@
+#+title: sliding modes
+- tags :: [[file:20200504164021-control.org][control]]

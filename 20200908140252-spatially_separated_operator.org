@@ -1,0 +1,4 @@
+#+title: Spatially Separated Operator
+- tags :: [[file:20200608100448-networked_control.org][NCS]]
+
+  Sensor or controller spatially separated from the plant

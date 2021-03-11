@@ -1,0 +1,141 @@
+#+TITLE: OConnorVandenberghe2014
+#+ROAM_KEY: cite:OConnorVandenberghe2014
+#+ROAM_TAGS: article SIAM
+
+- tags :: [[file:admm.org][ADMM]], [[file:20200427164136-decomposition.org][decomposition]]
+- keywords ::
+
+* Primal-Dual Decomposition by Operator Splitting and Applications to Image Deblurring
+:PROPERTIES:
+:NOTER_DOCUMENT: ../docsThese/bibliography/OConnorVandenberghe2014.pdf
+:END:
+** CATALOG
+
+*** Motivation :springGreen:
+Use of decomposition methods to solve image deblurring
+*** Model :lightSkyblue:
+[[file:20200821150520-convex_optimization.org][Convex Optimization]] to minimize $f(x) + g(Ax)$
+*** Remarks
+- Primal-Dual Douglas-Rachford is one of the fastest
+*** Applications
+Uses to deblur images and remove noise
+*** Expressions
+*** References :violet:
+** NOTES
+
+*** Convex optimization
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::1++0.00;;annot-1-7]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-1-7
+:END:
+
+*** primal-dual decomposition for cost function $f(x)+g(Ax)$ with inexpensive proximal and decomposable matrix A
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::1++0.00;;annot-1-9]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-1-9
+:END:
+
+*** matrix can be decomposed
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::1++0.20;;annot-1-8]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-1-8
+:END:
+
+*** DFT matrices used to diagonalize $A^TA$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::2++0.00;;annot-2-13]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-2-13
+:END:
+
+*** resolvent of an operator $\mathcal{F}$ is $I+\lambda\mathcal{F})^{-1}$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::3++3.51;;annot-3-7]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-7
+:END:
+
+*** proximal operator of a function $f$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::3++3.51;;annot-3-4]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-4
+:END:
+
+*** prox oper is solution of problem
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::3++3.51;;annot-3-5]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-5
+:END:
+\begin{equation}
+\begin{matrix}
+\underset{u}{\mathrm{minimize}}& f(u)+{1\over 2\lambda}\|u-x\|^2\\
+\end{matrix}
+\end{equation}
+
+*** relation between proximal from $f$ and $f^\star$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::3++3.51;;annot-3-6]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-6
+:END:
+$x=\operatorname{prox}_{\lambda f}(x)+\lambda \operatorname{prox}_{\lambda^{-1} f^{*}}(x / \lambda)=\operatorname{prox}_{\lambda f}(x)+\operatorname{prox}_{f^{*} \lambda}(x)$
+
+*** proximal point iteration
+ :PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::4++3.13;;annot-4-8]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-4-8
+:END:
+$x^{k} =(I+t\mathcal{F})x^{k-1},\quad k=1,2,\dots$
+
+*** split $\mathcal{F}$ into a sum of easier operations
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::5++0.56;;annot-5-16]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-5-16
+:END:
+
+*** Douglas-Rachford algorithm to solve $0 \in \mathcal{A}(x) +\mathcal{B}(x)$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::5++2.37;;annot-5-17]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-5-17
+:END:
+
+\begin{equation}
+\begin{matrix}
+x^k&=&(I+t\mathcal{A})^{-1}(z^{k-1})\\
+y^k&=&(I+t\mathcal{B})^{-1}(2x-z^{k-1})\\
+z^k&=&z^{k-1}+\rho(y^k-x^k)
+\end{matrix}
+\end{equation}
+
+*** ADMM references
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-16]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-16
+:END:
+A. Glowinski and A. Marrocco, Sur l’approximation, par éléments finis d’ordre un, et la résolution, par pénalisation-dualité d’une classe de problèmes de Dirichlet non linéaires, Revue Française Au- tomat. Informat. Recherche Opérationnelle RAIRO Anal. Numer., 9 (1975), pp. 41–76.
+B. Gabay and B. Mercier, A dual algorithm for the solution of nonlinear variational problems via finite element approximation, Comput. Math. Appl., 2 (1976), pp. 17–40.
+
+*** Relation between [[file:admm.org][ADMM]] and Douglas Rachford
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-17]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-17
+:END:
+
+*** other [[file:admm.org][ADMM]] references
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-18]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-18
+:END:
+J. Eckstein, Augmented Lagrangian and Alternating Minimization Methods for Convex Optimization: A Tutorial and Some Illustrative Computational Results, Tech. report RRR 32-2012, Rutgers Center for Operations Research, Rutgers University, New Brunswick, NJ, 2012.
+S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein, Distributed optimization and statistical learning via the alternating direction method of multipliers, Found. Trends Machine Learning, 3 (2011), pp. 1–122.
+
+*** deblurring problem
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::15++1.11;;annot-15-11]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-15-11
+:END:
+
+*** Primal-Dual Douglas-Rachford is one of the fastest
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::29++0.00;;annot-29-3]]
+:ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-29-3
+:END:
+
+

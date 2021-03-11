@@ -1,0 +1,188 @@
+#+title: Distributed Control and Computation
+#+ROAM_TAGS: courses
+- tags :: [[file:formations_these.org][Formations Doctorat]], [[file:IGSC2020.org][IGSC 2020]], [[file:20200427161129-network_topologies.org][network topologies]], [[file:20200713170428-distributed_control.org][Distributed Control]]
+
+  Quando criar uma nomenclatura, usar nomes que sejam bem descritivos
+* outline
+** Distributed Averaging
+** Consensus
+** Stochastic Matrices
+** Rendezvous Problem
+** Rigidity theory
+Formation, Localization problems
+** Formation Control
+** Distributed Solutions to Linear algebraic equation using
+** Para-contraction
+** Distributed State-Estimation
+* Flocking
+<2020-06-22 lun.>
+agent i , speed heading
+
+\theta_i(t+1)=\frac{1}{n_i(t)}\sum_{j\inN_i(t)} \theta_j(t)
+# TODO compact set subset, bounded and closed. all real values, normed space.
+# closed complement of open set
+# open set every point has a sufficiently close point
+
+** Neighbor Graph $\mathbb{N}$
+G=all directed graphs with vertex set v={1,2,\dots,n}
+neighbor graphs = self-arced graphs
+*** State Space Model
+Use adjacency matrix
+**** Flocking Matrix
+$F_\N=D_\n^{-1} A\mathbb{N}^T$
+D_\n^{-1}=diagonal{d_1,d_2,\dots,d_n} = nonsingular
+d_i=in-degree of vertex i=\sum_{j=1}^n a_{ji} > 0
+    \theta(t+1)=F_\N(t)\theta(t)
+*** Induced Norms
+$\|M\|_p$
+$\|M_1M_2\|_p\leq \|M_1\|_p\|M_2\|_p$
+$p=1,2, or \infty$
+p=1 $\rightarrow max\limits_j\sum\limits_i|mij|$
+p=2 $\sqrt{\mathrm{\text{largest eigenvalue of }}M^TM}$
+p=\infty \rightarrow $max_i\sum_j|mij|$
+*** Semi-norm
+Semi-norm \rightarrow $|M|_p = min_{d\in\R^n} \|M-1d'\|_p$
+- semi-contractive if $|M|_p<1$
+- sub-multiplicative
+** Laplacian Matrix
+* Time Problems
+<2020-06-22 lun.>
+- asynchronyization different clocks unsynchronized
+- delays
+- bitrate constraints
+* Asynchronous Systems
+<2020-06-22 lun.>
+- reorder
+- use way-points
+- expanded graph
+
+* Distributed Averaging
+<2020-06-23 mar.>
+** Consensus and averaging
+*** Consensus process
+- Neighbor graph is an undirected connected graph
+- x_i agreement variable
+*** Averaging Process
+- Consensus process with convergence to average of the initial values
+- Application: Distributed temperature calculation
+- Generalizations:
+  - Time-varying (Changing Neighborhood)
+  - Integer-values
+  - Asynchronous
+- Issues:
+  - Robustness ?
+  - How much information needed?
+- Performance:
+  - Convergence rate
+  - # of transmissions needed
+- General Approach:
+  - Probabilistic
+  - Deterministic
+- Assumption:
+  - $\mathbb{N}$ is a connected graph
+
+** Linear iterations
+- $x(t)\rightarrow \frac{1}{n}\mathbf{1}\mathbf{1}'x(0)=\mathbg{1}x_{\mathrm{avg}}$
+- $\|S\|_{\infty} =1$
+
+*** Laplacian of a simple undirected Graph
+simple graph no self arcs
+- Incidence matrix $Q_{n\times m}=[q_{is}$ of graph $\mathbb{G}$
+  - s = 1 \rightarrow head
+  - s =-1 \rightarrow tail
+  - s = 0 \rightarrow not an edge
+    Book: Reaching consensus flocking paperback
+# graph laplacian
+$L = D-A$
+A = ajancency matrix of $\mathbb{N}$
+D = diagonal with degrees
+$x(t+1)=(I-\frac{1}{g}L)x((t)$
+$g>max\{d_1,d_2,\dots,d_n\}$
+
+(I-\frac{1}{g}L) doubly stochastic single eigenvalue at 1
+**** Iterations
+$x_i(t+1)=(1-\frac{d_i}{g})x_i(t)+\frac{1}{g}\sum\limits_{j\in\mathcal{N}_i}x_j(t)$
+Metropolis Algorithm
+** Gossiping
+consensus process agent average its agreement variable with the agreement variable of *at most one of its neighbors*
+- *spanning sub-graph* $\mathbb{M}$ of $\mathbb{N}$ = same vertices different edges
+- Horn & Johnson matrix algebra
+  https://www.amazon.com/Matrix-Analysis-Roger-Horn-ebook/dp/B00A8ICFHA
+- Isidore textbook
+https://www.amazon.com/Algebra-1-Isidore-Dressler/dp/1567655343
+- van der shaft non linear dynamics
+https://www.amazon.com/Nonlinear-Dynamical-Control-Systems-Nijmeijer/dp/038797234X
+- algebraic
+- group theory
+
+*** *Perron Frobenius Theorem*
+** Periodic gossiping
+- repeated sequence of gossips
+  order do not change convergence
+- Brian Anderson
+*** multi-gossip
+more than one at a time (*still using one gossip per agent*)
+chromatic index (minimum number of different colors of adjacent edges) is the minimal number of multi-gossips
+*** Modified gossip rule
+use $\alpha$ and $1-\alpha$ to average values
+** multi-gossip sequences
+- different sequences
+use of singular values instead of eigen-values
+** request based gossiping
+chromatic number (minimum number of different colors of adjacent vertices)
+*** protocol
+** double linear iterations
+#+begin_quote
+very clever idea
+#+end_quote
+- Robin method
+* Solving Linear Equations
+<2020-06-24 mer.>
+** Using consensus solve a linear equation
+- m agents
+  each agent have $(A_i^{n_i\times n}, b_i^{n_i\times 1})$
+  neighbors change
+  solve Ax=b
+# Problem formulation before
+*** connectivity
+- graph strongly connected
+- sequence of graphs is jointly strongly connected
+- infinite sequence of graphs is repeatedly jointly strongly connected
+*** algorithm
+- use $P_i$ orthogonal projection on ker A_i
+  $x_i(t+1)=x_i(t)-\frac{1}{m_i(t)}P_i(m_i(t)x_i(t)-\sum_{j\in \mathcal{N}_i(t)} x_j(t))$
+- resilient $\rightarrow$ strongly connected even if some nodes are lost
+- lemma in pag 23 $\rightarrow$ distributed state estimator
+idempotent M^2=M $\rightarrow$ projection matrix
+https://en.wikipedia.org/wiki/Idempotent_matrix
+*** mixed matrix norm
+* Multi-Agent Rendez-vous
+<2020-06-24 mer.>
+Pennsylvania drones
+yale marching band
+# expression main game in town
+* Formation Control
+<2020-06-24 mer.>
+* Directed Triangular formations
+<2020-06-24 mer.>
+* Rigid Forms | Directed Triangular formations (Again)
+<2020-06-25 jeu.>
+* Formation Control
+<2020-06-25 jeu.>
+# the name of the game
+# Roadmap
+Cao Pennsylvania
+** Adaptive
+*** Station keeping problem
+UPENN GRASP LAB
+* Paracontractions
+<2020-06-25 jeu.>
+$\|M(x)-y\|<\|x-y\|; \forall y \in \mathbb{R}^n$
+* Distributed Observers
+<2020-06-25 jeu.>
+Parks and Martins TAC, 2017
+- implementation distributed but not the design
+  # something we can stick our teeth in
+* Split-Spectrum Distributed Observer
+<2020-06-26 ven.>
+** Distributed Estimation Problem

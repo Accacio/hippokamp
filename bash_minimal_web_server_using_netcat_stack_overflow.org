@@ -1,0 +1,3 @@
+#+TITLE: bash - Minimal web server using netcat - Stack Overflow
+#+ROAM_KEY: https://stackoverflow.com/questions/16640054/minimal-web-server-using-netcat
+- tag :: [[file:20200423095930-web_server.org][web server]], [[file:20200617110358-bash.org][bash]]

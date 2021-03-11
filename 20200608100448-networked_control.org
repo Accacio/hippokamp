@@ -1,0 +1,3 @@
+#+TITLE: Networked Control
+#+ROAM_ALIAS: NCS
+- tag :: [[file:20200504164021-control.org][control]]

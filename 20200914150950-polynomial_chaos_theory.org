@@ -1,0 +1,2 @@
+#+title: Polynomial Chaos Theory
+- tags :: [[file:20200921101355-chaos_theory.org][Chaos Theory]]

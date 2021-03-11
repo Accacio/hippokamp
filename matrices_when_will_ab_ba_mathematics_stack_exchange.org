@@ -1,0 +1,3 @@
+#+TITLE: matrices - When will $AB=BA$? - Mathematics Stack Exchange
+#+ROAM_KEY: https://math.stackexchange.com/questions/478849/when-will-ab-ba
+- tag :: [[file:20200429185809-linear_algebra.org][linear algebra]]

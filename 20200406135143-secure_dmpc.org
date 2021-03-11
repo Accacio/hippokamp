@@ -1,0 +1,8 @@
+#+TITLE: Secure dMPC
+#+ROAM_ALIAS: "Secure dMPC"
+- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200709101933-dmpc.org][dMPC]]
+
+* Our approach
+1. Get subsystems
+2. Calculate Mmat and Cmat for each subsystem
+3. Calculate H

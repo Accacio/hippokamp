@@ -1,0 +1,5 @@
+#+title: Which vs. That: How to Choose | Grammarly
+#+roam_key: https://www.grammarly.com/blog/which-vs-that/
+- tags :: [[file:20200422201907-writing.org][writing]]
+- which: non-defining clauses
+- that: defining clauses

@@ -1,0 +1,6 @@
+#+title: John Hopcroft
+#+ROAM_TAGS: people
+- tags ::
+
+* Palestra na UFRJ
+SCHEDULED: <2016-05-03 mar.>

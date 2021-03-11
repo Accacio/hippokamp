@@ -1,0 +1,42 @@
+#+TITLE: GossnerEtAl1997: Stable generalized predictive control with constraints and bounded disturbances
+#+ROAM_KEY: cite:GossnerEtAl1997
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200709101720-mpc.org][MPC]], [[file:20200504162727-disturbance_rejection.org][disturbance rejection]], [[file:20200504113017-stability.org][stability]]
+- keywords :: Predictive control, constraints, optimization, disturbance rejection, stability
+
+
+* Stable generalized predictive control with constraints and bounded disturbances
+  :PROPERTIES:
+  :Custom_ID: GossnerEtAl1997
+  :URL: http://www.sciencedirect.com/science/article/pii/S0005109896002142
+  :AUTHOR: Gossner, J., Kouvaritakis, B., & Rossiter, J.
+  :NOTER_DOCUMENT: ../docsThese/bibliography/GossnerEtAl1997.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Algorithms for stability and asymptotic tracking in constrained generalized predictive control with bounded disturbances
+*** Model :lightSkyblue:
+Coprime IIR filter
+*** Remarks
+*** Applications
+ - Simulation to show respected constraints
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** system as IIR filter
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GossnerEtAl1997.pdf::2++0.13;;annot-2-0]]
+:ID:       ../docsThese/bibliography/GossnerEtAl1997.pdf-annot-2-0
+:END:
+
+\begin{array}{l}
+G(z) \\
+=\frac{z^{-1} b(z)}{a(z)} \\
+=\frac{z^{-1}\left(b_{0}+b_{1} z^{-1}+b_{2} z^{-2}+\ldots+b_{n-1} z^{-n+1}\right)}{1+a_{1} z^{-1}+a_{2} z^{-2}+\ldots+a_{n} z^{-n}}
+\end{array}

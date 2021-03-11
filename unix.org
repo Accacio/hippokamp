@@ -1,0 +1,6 @@
+#+TITLE: unix
+
+[[file:20200423005717-operating_systems.org][Operating Systems]]
+
+* Guia
+http://mesocentre.centralesupelec.fr/training-fr/unix/
