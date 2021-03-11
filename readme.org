@@ -8,6 +8,8 @@
 - A wiki
 - a FAQ
 - "un pipe"
+* HTML version
+Coming soon in a web browser near you
 * Some interesting notes (maybe)
 - [[file:20200504164021-control.org][Control]]
 - [[file:20200923155306-graph_theory.org][Graph Theory]]

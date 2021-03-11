@@ -1,12 +1,12 @@
 #+TITLE: Control
 - tags :: [[file:20200429185809-linear_algebra.org][Linear Algebra]], [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]
 
-#+begin_src ditaa :file test.svg
+#+begin_src ditaa :file img/test.svg
 
               +----------+   +-----+  +-------+
  r   +---+ e  |          |u  |     |  |       |   y
  --->++  +--->|Controller+-->+Plant+->+Measure+-+--->
-     | - |    |          |   |     |  |       | |
+     | - |    |    cRED  |   | cBLU|  | cYEL  | |
      +-+-+    +----------+   +-----+  +-------+ |
        ^                                        |
        |                                        |
@@ -15,4 +15,4 @@
 #+end_src
 
 #+RESULTS:
-[[file:test.svg]]
+[[file:img/test.svg]]
