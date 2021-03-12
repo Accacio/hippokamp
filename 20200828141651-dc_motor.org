@@ -1,2 +1,136 @@
 #+title: DC Motor
-- tags :: [[file:20200504164021-control.org][Control]], [[file:20200828141710-physics.org][Physics]], [[file:20200828141718-modelling.org][Modelling]]
+- tags :: [[file:20200828141710-physics.org][Physics]], [[file:20200828141718-modelling.org][Modelling]]
+
+* Model
+#+HEADER: :file img/contour.png :imagemagick yes
+#+HEADER: :results file raw :headers '("\\usepackage{tikz}\\usepackage[american]{circuitikz}\\usetikzlibrary{decorations.pathreplacing}")
+#+HEADER: :fit yes :imoutoptions -geometry 800 :iminoptions -density 1400
+#+BEGIN_src latex
+\begin{circuitikz}
+%	\draw [help lines] (-1,-2) grid (12,5);
+
+	% electrical equivalent circuit
+	\draw (0,3) to[V, v_=$v(t)$] (0,0);
+	\draw (0,3) to[R, i>^=$i(t)$, l=$R$] (3,3);
+	\draw (3,3) to[L, l=$L$] (4,3);
+
+	\draw (4,3) -- (5,3);
+	\draw (5,3) to[V, v_=$e(t)$] (5,0);
+	\draw (0,0) -- (5,0);
+
+	% drive
+	\draw[fill=black] (4.85,0.85) rectangle (5.15,2.15);
+	\draw[fill=white] (5,1.5) ellipse (.45 and .45);
+
+	% transmission gear one
+	\draw[fill=black!50] (6.7,1.49)
+		ellipse (.08 and 0.33);
+	\draw[fill=black!50, color=black!50] (6.7,1.82)
+		rectangle (6.5,1.16);
+	\draw[fill=white] (6.5,1.49)
+		ellipse (.08 and 0.33);
+	\draw (6.5,1.82) -- (6.7,1.82);
+	\draw (6.5,1.16) -- (6.7,1.16);
+
+	% shaft drive -> transmission
+	\draw[fill=black] (5.45,1.45) rectangle (6.5,1.55);
+
+	% momentum arrow of drive -> transmission
+	\draw[line width=0.7pt,<-] (5.8,1) arc (-30:30:1);
+
+	% transmission gear two
+	\draw[fill=black!50] (6.7,0.40)
+		ellipse (.13 and 0.67);
+	\draw[fill=black!50, color=black!50] (6.7,1.07)
+		rectangle (6.5,-0.27);
+	\draw[fill=white] (6.5,0.40)
+		ellipse (.13 and 0.67);
+	\draw (6.5,1.07) -- (6.7,1.07);
+	\draw (6.5,-0.27) -- (6.7,-0.27);
+
+	% transmission gear three
+	\draw[fill=black!50] (6.85,1.14)
+		ellipse (.08 and 0.3);
+	\draw[fill=black!50, color=black!50] (6.85,1.44)
+		rectangle (6.65,0.84);
+	\draw[fill=white] (6.65,1.14)
+		ellipse (.08 and 0.3);
+	\draw (6.65,1.44) -- (6.86,1.44);
+	\draw (6.65,0.84) -- (6.86,0.84);
+
+	% transmission shaft from gear two to moment of inertia
+	\draw[fill=black] (6.84,0.38) rectangle (7.8,0.48);
+
+	% moment of inertia
+	\draw[fill=white] (8.5,0.42)
+		ellipse (.15 and 0.4);
+	\draw[fill=white, color=white] (7.9, 0.82)
+		rectangle (8.49, 0.02);
+	\draw (7.8,0.42) ellipse (.15 and 0.4);
+	\draw (7.8,0.82) -- (8.5,0.82);
+	\draw (7.8,0.02) -- (8.5,0.02);
+
+	% momentum arrow between transmission and moment of inertia
+	\draw[line width=0.7pt,<-] (7.2,-0.07) arc (-30:30:1);
+
+	% shaft right from moment of inertia
+	\draw[fill=black] (8.65,0.38) rectangle (9.5,0.48) node (endShaft);
+
+	% % brake shoe
+	% \draw[fill=black] (9.55,{0.53+0.00})
+	% 	-- +(-0.2,0.3) -- +(0.5,0.3) -- +(0.3,0.0);
+	% \draw[fill=black] (9.55,{0.33-0.00})
+	% 	-- +(-0.2,-0.3) -- +(0.5,-0.3) -- +(0.3,0.0);
+
+	% % momentum arrow (left hand side of brake shoe)
+	% \draw[line width=0.7pt,->] (9.05,-0.07) arc (-30:30:1);
+
+	% spring
+	% \draw [domain=0:{-4.5*pi}, variable=\t, samples=200,
+	% 	   line width=1pt]
+	% 	plot( {9.5 + 0.15*(\t*0.1)*cos(\t r)},
+	% 		  {0.40 + 0.15*(\t*0.3)*sin(\t r)});
+	% spring wall mount
+	% \draw[fill=black]
+	% 	(9.5,{1.03-0.2}) rectangle (9.52,{1.03+0.2});
+	% \foreach \x in {0,...,5}
+	% \draw[line width=0.8pt]
+	% 	({9.1+0.4},{1.03-0.18+\x*0.07}) -- +(0.1,0.05);
+
+	% momentum arrow (left hand side of spring)
+	\draw[line width=0.7pt,->] (9.0,-0.07) arc (-30:30:1);
+
+	% descriptions inside graphic
+	\draw (5.85,2.2) node {$T_1, \theta_1$};
+	\draw (7.4,1.11) node {$T_2, \theta_2$};
+	\draw (8.25,0.44) node {$J$};
+	% \draw (9.05,1.15) node {$M_R$};
+	\draw (9.0,1.15) node {$b\,\dot \theta_2$};
+	\draw (6.6,-0.5) node {$N$};
+
+	% descriptions of subsystems under graphic
+	\draw [decorate,decoration={brace,amplitude=10pt},
+			xshift=0pt, yshift=0pt]
+			(5.5,-0.75) -- (-0.5,-0.75)
+			node[black,midway,yshift=-20pt]
+				{electromagnetic subsystem};
+	\draw [decorate,decoration={brace,amplitude=10pt},
+			xshift=0pt, yshift=0pt]
+            (9.5,-0.75) -- (6,-0.75)
+			node[black,midway,yshift=-20pt]
+				{mechanical subsystem};
+\end{circuitikz}
+#+END_src
+
+#+Caption: DC Motor (modified from Mathias Busse)
+#+RESULTS:
+[[file:img/contour.png]]
+1. Electromagnetic equations
+   - KLL :: $${di(t)\over dt}={1\over L}[v(t)-Ri(t)-e(t)]$$
+2. Electro/mechanic conversion
+   - Torque Equation :: $$T=K_ti(t)$$
+   - Back emf :: $$e(t)=K_e\dot\theta$$
+3. Mechanical equations
+   - Newton Angular law :: $$T_2=J\ddot\theta_2-b\dot\theta_2$$
+   - Gear Torque Reduction :: $$n_1T_1=n_2T_2$$
+   - Reduction factor N :: $$N={n_1\over n_2}$$
