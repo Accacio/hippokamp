@@ -1,4 +1,4 @@
-#+title: Florian Dörfler, Prof. Dr.
+#+title: Florian Dörfler
 #+roam_key: http://people.ee.ethz.ch/~floriand/
 #+ROAM_TAGS: people
 - tags :: [[file:20200713170428-distributed_control.org][Distributed Control]]

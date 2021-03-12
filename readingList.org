@@ -138,7 +138,7 @@
 
 * Articles
 ** To read
-*** TOREAD cite:ElGhaoui2002
+*** READ cite:ElGhaoui2002
 [[note:ElGhaoui2002][org]] [[pdf:ElGhaoui2002][pdf]] [[mobi:ElGhaoui2002][mobi]] [[epub:ElGhaoui2002][epub]]
 *** TOREAD cite:RamosEtAl2021
 [[note:RamosEtAl2021][org]] [[pdf:RamosEtAl2021][pdf]] [[mobi:RamosEtAl2021][mobi]] [[epub:RamosEtAl2021][epub]]

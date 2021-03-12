@@ -40,6 +40,8 @@
 :END:
 ${\|(A+\Delta A)^{-1}-A^{-1} \|\over\|A^{-1} \|}\leq\kappa(A){\|\Delta A\|\over\|A\|}$
 
+cite:demmel1992
+
 *** structured condition number depends on the structure of the matrix
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::2++0.00;;annot-2-1]]
@@ -72,6 +74,13 @@ $\Delta_p=\{\Delta\in\mathbf{\Delta}\,|\,\|\Delta\|\leq\rho\}$
 :ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-3-1
 :END:
 largest value of $\rho$ such $\mathrm{det}(I-D\Delta)\neq 0$
+
+*** error bounds for linear system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::4++1.29;;annot-4-0]]
+:ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-4-0
+:END:
+- [14] N.J. Higham, Accuracy and Stability of Numerical Algorithms, SIAM, Philadelphia, PA, 1996.
 
 *** Vandermonde Matrix
 :PROPERTIES:

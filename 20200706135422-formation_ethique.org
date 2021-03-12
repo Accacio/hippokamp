@@ -69,7 +69,7 @@ dignité
 *** Si on admet que reduit au statut de simple chose
 - Si le GPA est volontaire: On ne recherche pas le consentement d'un objet.
 
-* Principes de l'éthique biomédicale [[file:20200715111307-beauchamp_and_childress.org][Beauchamp and Childress]]
+* Principes de l'éthique biomédicale [[file:20200715111307-beauchamp.org][Beauchamp]]
 Consequentialisme et Déontologique
 
 ** Déontologique

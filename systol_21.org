@@ -16,3 +16,4 @@
 - unbiased estimator (URLS)
 ** Matrix Inverse bias
 - cite:ElGhaoui2002
+  + other characterization of inverse error

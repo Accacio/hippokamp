@@ -1,0 +1,3 @@
+#+title: Gilbert Strang's Homepage
+#+roam_key: http://www-math.mit.edu/~gs/
+- tags :: [[file:20210312102904-gilbert_strang.org][Gilbert Strang]]
