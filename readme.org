@@ -11,9 +11,9 @@
 * HTML version
 Coming soon in a web browser near you
 * Some interesting notes (maybe)
-- [[file:20200504164021-control.org][Control]]
-- [[file:20200923155306-graph_theory.org][Graph Theory]]
+- [[file:brain/20200504164021-control.org][Control]]
+- [[file:brain/20200923155306-graph_theory.org][Graph Theory]]
 * Cool articles
-- [[file:GilbertEtAl1988.org][GilbertEtAl1988: A fast procedure for computing the distance between complex objects in three-dimensional space]]
+- [[file:brain/GilbertEtAl1988.org][GilbertEtAl1988: A fast procedure for computing the distance between complex objects in three-dimensional space]]
 * Cool comics
-- [[file:xkcd_s_keyboard_leopard.org][xkcd: s/keyboard/leopard/]]
+- [[file:brain/xkcd_s_keyboard_leopard.org][xkcd: s/keyboard/leopard/]]
