@@ -17,3 +17,5 @@ Coming soon in a web browser near you
 - [[file:brain/GilbertEtAl1988.org][GilbertEtAl1988: A fast procedure for computing the distance between complex objects in three-dimensional space]]
 * Cool comics
 - [[file:brain/xkcd_s_keyboard_leopard.org][xkcd: s/keyboard/leopard/]]
+* List of recipes
+- [[file:brain/20210319185651-meal_planning.org][Meal Planning]]
