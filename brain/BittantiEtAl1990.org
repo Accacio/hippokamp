@@ -44,7 +44,7 @@
 :ID:       ../docsThese/bibliography/BittantiEtAl1990.pdf-annot-2-0
 :END:
 Space where excitation is under margin
-$\bar{\mathcal{E}}=\{x\in\mathbb{R}^n| \existsL<\infty:x'\sum\limits^N_1 \phi(t)\phi(t)'x<L,\forall N\}$
+$\bar{\mathcal{E}}=\{x\in\mathbb{R}^n| \exists L<\infty:x'\sum\limits^N_1 \phi(t)\phi(t)'x<L,\forall N\}$
 *** verificar AR MA ARMA ARMAX ARX
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BittantiEtAl1990.pdf::2++0.25;;annot-2-1]]

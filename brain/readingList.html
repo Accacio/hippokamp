@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Reading List</title>
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Reading List</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ol>
+<li><a href="#org230ce2e">Articles</a>
+<ol>
+<li><a href="#org4ab2087">To read</a>
+<ol>
+<li><a href="#org86f1c07">cite:Iiduka2019</a></li>
+<li><a href="#org82ecea7">cite:ZhuEtAl2011</a></li>
+<li><a href="#orga539e54">cite:DeconinckEtAl2008</a></li>
+<li><a href="#orgf46139c">cite:SatchidanandanKumar2017</a></li>
+<li><a href="#orgea2a0b3">cite:RamosEtAl2021</a></li>
+<li><a href="#org2710468">cite:AlavianiElia2020</a></li>
+<li><a href="#orgd413270">cite:DarivianakisEtAl2020</a></li>
+<li><a href="#orgdaaa018">cite:RezaieniaEtAl2020</a></li>
+<li><a href="#org70e574d">cite:WangBoyd2010</a></li>
+<li><a href="#orgf67fdf1">cite:Masopust2020</a></li>
+<li><a href="#org876fa76">cite:AlghunaimSayed2020</a></li>
+<li><a href="#org47de057">cite:BuergerEtAl2014</a></li>
+<li><a href="#org69c0d78">cite:ChanfreutEtAl2018</a></li>
+<li><a href="#org0716bc6">cite:ChatelEtAl2017</a></li>
+<li><a href="#orgb4032f5">cite:ChristofidesEtAl2013</a></li>
+<li><a href="#orgc5a2992">cite:Domahidi2013</a></li>
+<li><a href="#org0534f67">cite:ConejoEtAl2006</a></li>
+<li><a href="#orgdd0316f">cite:DaiEtAl2017</a></li>
+<li><a href="#orgebbd097">cite:DoanEtAl2011</a></li>
+<li><a href="#org6f167af">cite:ElEtAl2019</a></li>
+<li><a href="#orgb394fb5">cite:Forte2010</a></li>
+<li><a href="#orgbe1b358">cite:Gallissot2012</a></li>
+<li><a href="#org000390d">cite:GarciaEtAl1989</a></li>
+<li><a href="#org3d20bd2">cite:KeelBhattacharyya1997</a></li>
+<li><a href="#org7b1deef">cite:HerreraEtAl2014</a></li>
+<li><a href="#orgbcedc8d">cite:HerreraEtAl2015</a></li>
+<li><a href="#orgaa6f72d">cite:KuwataHow2011</a></li>
+<li><a href="#org4bde606">cite:LatrachEtAl2016</a></li>
+<li><a href="#org71843af">cite:LeEtAl2014</a></li>
+<li><a href="#orga5e4fec">cite:Li2019</a></li>
+<li><a href="#org6eb0c0c">cite:LiaoLou2016</a></li>
+<li><a href="#org3fcd98d">cite:LiuBai2018</a></li>
+<li><a href="#orga31d26e">cite:LoboEtAl1998</a></li>
+<li><a href="#orgb5e1405">cite:MagnussonEtAl2018</a></li>
+<li><a href="#orgf0ef666">cite:MorariaLee1999</a></li>
+<li><a href="#orgbaa712a">cite:NegenbornMaestre2014</a></li>
+<li><a href="#org4ba6b25">cite:PaulenEtAl2016</a></li>
+<li><a href="#org3bd2310">cite:PenetEtAl2016</a></li>
+<li><a href="#org5c2b340">cite:PflaumEtAl2014</a></li>
+<li><a href="#orgadc4eda">cite:RuiFanEtAl2015</a></li>
+<li><a href="#org2de918f">cite:SalehghaffariKhorrami2019</a></li>
+<li><a href="#org809e6d4">cite:SeungEtAl2013</a></li>
+<li><a href="#org4854505">cite:WeiEtAl2017</a></li>
+<li><a href="#orgb0a66f6">cite:YildirimEtAl2020</a></li>
+<li><a href="#org3f08b9a">cite:YingEtAl2018</a></li>
+<li><a href="#org1ded4a9">cite:ZangEtAl2017</a></li>
+<li><a href="#org95b94fe">cite:ZhengEtAl2006</a></li>
+<li><a href="#orgd75d3e5">cite:ZhengEtAl2010</a></li>
+<li><a href="#org3fc163b">cite:DoerflerEtAl2019</a></li>
+<li><a href="#org8e36385">cite:PasqualettiEtAl2012</a></li>
+<li><a href="#org1b0f11c">cite:SundaramHadjicostis2011</a></li>
+<li><a href="#org7dae257">cite:Bouckaert2014</a></li>
+<li><a href="#org53c938a">cite:SatoTakeda2020</a></li>
+<li><a href="#org8ecee51">cite:Mattioni2020</a></li>
+<li><a href="#org34bfec3">cite:BarboniEtAl2020</a></li>
+<li><a href="#org91900db">cite:SuShahrampour2020</a></li>
+<li><a href="#org2c2295f">cite:GalloEtAl2020</a></li>
+<li><a href="#org979d4a0">cite:YuXiong2020</a></li>
+<li><a href="#org4f6e670">cite:YuXiong2020a</a></li>
+<li><a href="#org5b03db8">cite:DengWen2020</a></li>
+<li><a href="#org3634d53">cite:LiuJiang2020</a></li>
+<li><a href="#orgbfce330">cite:ZhaoEtAl2020</a></li>
+<li><a href="#org1ea4e0b">cite:LiuDong2020</a></li>
+<li><a href="#org9805a15">cite:ChenLiu2020</a></li>
+<li><a href="#orgc301278">cite:LiuEtAl2020</a></li>
+<li><a href="#orgd17dbd3">cite:Hespanha2009</a></li>
+<li><a href="#org6e80a21">cite:WangEtAl2015</a></li>
+<li><a href="#org686c963">cite:BaillieulAntsaklis2007</a></li>
+<li><a href="#org64edc0a">cite:MoyneTilbury2007</a></li>
+<li><a href="#org980ce34">cite:Baillieul2002</a></li>
+<li><a href="#org6b65209">cite:ZhangEtAl2001</a></li>
+<li><a href="#org205091d">cite:HespanhaEtAl2007</a></li>
+<li><a href="#org58ab73d">cite:ZecevicSiljak2012</a></li>
+</ol>
+</li>
+<li><a href="#orgedb6f8f">Already Read</a>
+<ol>
+<li><a href="#orgb5e7193">cite:Ouyang2020</a></li>
+<li><a href="#orgc372880">cite:ShiromotoEtAl2019</a></li>
+<li><a href="#org18c2759">cite:BoyleDykstra1986</a></li>
+<li><a href="#org1d4338b">cite:TanikawaMukai1983a</a></li>
+<li><a href="#orgdcb3fc2">cite:RajeshEtAl2013,</a></li>
+<li><a href="#org015c0f3">cite:SujilKumar2017,</a></li>
+<li><a href="#orgc1f2224">cite:KuzinEtAl2020,</a></li>
+<li><a href="#org6fae154">cite:MendhamClarke2005</a></li>
+<li><a href="#org4a09504">cite:DigraPandey2013,</a></li>
+<li><a href="#org379dd20">cite:GuEtAl2016,</a></li>
+<li><a href="#org5036678">cite:BourdaisEtAl2012</a></li>
+<li><a href="#org4a05131">cite:MukherjeeZelazo2019</a></li>
+<li><a href="#org9c139a3">cite:LiceagaCastroEtAl2015</a></li>
+<li><a href="#org9af7f05">cite:OConnorVandenberghe2014</a></li>
+<li><a href="#org3823e8c">cite:LinEtAl2020</a></li>
+<li><a href="#org55ab164">cite:Bindra2017</a></li>
+<li><a href="#org627fed9">cite:ZhuMartinez2014</a></li>
+<li><a href="#org0c8f853">cite:DibajiIshii2015</a></li>
+<li><a href="#org61742ce">cite:WuEtAl2018</a></li>
+<li><a href="#org7bb4160">cite:AnandutaEtAl2020</a></li>
+<li><a href="#orgae03527">cite:LuYang2020</a></li>
+<li><a href="#orged0f58c">cite:WakaikiEtAl2020</a></li>
+<li><a href="#org0a41f75">cite:ZhuZheng2020</a></li>
+<li><a href="#org5a2b744">cite:BansalMukhija2020</a></li>
+<li><a href="#org50214b2">cite:GossnerEtAl1997</a></li>
+<li><a href="#org3a0abdc">cite:RichardsHow2006</a></li>
+<li><a href="#org8958328">cite:YangEtAl2019</a></li>
+<li><a href="#org492861b">cite:KolarijaniEtAl2020</a></li>
+<li><a href="#org86f07a4">cite:LiuEtAl2019</a></li>
+<li><a href="#orgef1e7a1">cite:BraunEtAl2020</a></li>
+<li><a href="#org31f5890">cite:LiuEtAl2016</a></li>
+<li><a href="#org0d55b51">cite:DingEtAl2018</a></li>
+<li><a href="#org5ef2c58">cite:HuangDong2020</a></li>
+<li><a href="#orgec3621d">cite:BoemEtAl2020</a></li>
+<li><a href="#org7b317b0">cite:LeBlancEtAl2013</a></li>
+<li><a href="#org375b7f5">cite:BoydEtAl2011</a></li>
+<li><a href="#org404a4bb">cite:BoydEtAl2015</a></li>
+<li><a href="#org5cdd156">cite:BoydVandenberghe2004</a></li>
+<li><a href="#org498e5a9">cite:VelardeEtAl2017b</a></li>
+<li><a href="#org0a46408">cite:BiegelEtAl2012</a></li>
+<li><a href="#org2c9cc95">cite:VelardeEtAl2017</a></li>
+<li><a href="#org4b9ad55">cite:VelardeEtAl2017a</a></li>
+<li><a href="#org08d8271">cite:Jury1962</a></li>
+<li><a href="#orga9026c6">cite:LandauEtAl2011</a></li>
+<li><a href="#orge1b4014">cite:AranovskiyFreidovich2013</a></li>
+<li><a href="#org0c9bc9d">cite:BittantiEtAl1990</a></li>
+<li><a href="#org129afed">cite:Frangipani2015</a></li>
+<li><a href="#orge49e2af">cite:Yamasaki2016</a></li>
+<li><a href="#org1a66faa">cite:YimEtAl2012</a></li>
+<li><a href="#org3f4116c">cite:AgbodjanEtAl2019</a></li>
+<li><a href="#org1ede4df">cite:TanikawaMukai1983</a></li>
+<li><a href="#orge258022">cite:GrimsmanEtAl2019</a></li>
+<li><a href="#orgc213255">cite:AastroemWittenmark1989</a></li>
+<li><a href="#org801e6dc">cite:KatewaEtAl2021</a></li>
+<li><a href="#orgcc49447">cite:AlessioBemporad2009</a></li>
+<li><a href="#orga5515b6">cite:ArabloueiEtAl2014</a></li>
+<li><a href="#orgaef6c98">cite:ElGhaoui2002</a></li>
+<li><a href="#orge416246">cite:ArabloueiEtAl2014</a></li>
+<li><a href="#org6ec71c0">cite:ElGhaoui2002</a></li>
+</ol>
+</li>
+</ol>
+</li>
+<li><a href="#org534197a">References</a></li>
+</ol>
+</div>
+</div>
+<dl class="org-dl">
+<dt>tags</dt><dd><a href=20200422131137-these.html>these</a></dd>
+</dl>
+
+<div id="outline-container-org230ce2e" class="outline-2">
+<h2 id="org230ce2e">Articles</h2>
+<div class="outline-text-2" id="text-org230ce2e">
+</div>
+<div id="outline-container-org4ab2087" class="outline-3">
+<h3 id="org4ab2087">To read</h3>
+<div class="outline-text-3" id="text-org4ab2087">
+</div>
+<div id="outline-container-org86f1c07" class="outline-4">
+<h4 id="org86f1c07"><a class='org-ref-reference' href="#Iiduka2019">Iiduka2019</a></h4>
+<div class="outline-text-4" id="text-org86f1c07">
+<p>
+<a href=Iiduka2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Iiduka2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Iiduka2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Iiduka2019.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org82ecea7" class="outline-4">
+<h4 id="org82ecea7"><a class='org-ref-reference' href="#ZhuEtAl2011">ZhuEtAl2011</a></h4>
+<div class="outline-text-4" id="text-org82ecea7">
+<p>
+<a href=ZhuEtAl2011.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhuEtAl2011.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhuEtAl2011.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhuEtAl2011.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orga539e54" class="outline-4">
+<h4 id="orga539e54"><a class='org-ref-reference' href="#DeconinckEtAl2008">DeconinckEtAl2008</a></h4>
+<div class="outline-text-4" id="text-orga539e54">
+<p>
+<a href=DeconinckEtAl2008.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/DeconinckEtAl2008.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/DeconinckEtAl2008.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/DeconinckEtAl2008.epub">epub</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf46139c" class="outline-4">
+<h4 id="orgf46139c"><a class='org-ref-reference' href="#SatchidanandanKumar2017">SatchidanandanKumar2017</a></h4>
+<div class="outline-text-4" id="text-orgf46139c">
+<p>
+<a href=SatchidanandanKumar2017.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/SatchidanandanKumar2017.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/SatchidanandanKumar2017.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/SatchidanandanKumar2017.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgea2a0b3" class="outline-4">
+<h4 id="orgea2a0b3"><a class='org-ref-reference' href="#RamosEtAl2021">RamosEtAl2021</a></h4>
+<div class="outline-text-4" id="text-orgea2a0b3">
+<p>
+<a href=RamosEtAl2021.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/RamosEtAl2021.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/RamosEtAl2021.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/RamosEtAl2021.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org2710468" class="outline-4">
+<h4 id="org2710468"><a class='org-ref-reference' href="#AlavianiElia2020">AlavianiElia2020</a></h4>
+<div class="outline-text-4" id="text-org2710468">
+<p>
+<a href=AlavianiElia2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/AlavianiElia2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/AlavianiElia2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/AlavianiElia2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgd413270" class="outline-4">
+<h4 id="orgd413270"><a class='org-ref-reference' href="#DarivianakisEtAl2020">DarivianakisEtAl2020</a></h4>
+<div class="outline-text-4" id="text-orgd413270">
+<p>
+<a href=DarivianakisEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/DarivianakisEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/DarivianakisEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/DarivianakisEtAl2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgdaaa018" class="outline-4">
+<h4 id="orgdaaa018"><a class='org-ref-reference' href="#RezaieniaEtAl2020">RezaieniaEtAl2020</a></h4>
+<div class="outline-text-4" id="text-orgdaaa018">
+<p>
+<a href=RezaieniaEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/RezaieniaEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/RezaieniaEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/RezaieniaEtAl2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org70e574d" class="outline-4">
+<h4 id="org70e574d"><a class='org-ref-reference' href="#WangBoyd2010">WangBoyd2010</a></h4>
+<div class="outline-text-4" id="text-org70e574d">
+<p>
+<a href=WangBoyd2010.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/WangBoyd2010.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/WangBoyd2010.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/WangBoyd2010.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgf67fdf1" class="outline-4">
+<h4 id="orgf67fdf1"><a class='org-ref-reference' href="#Masopust2020">Masopust2020</a></h4>
+<div class="outline-text-4" id="text-orgf67fdf1">
+<p>
+<a href=Masopust2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Masopust2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Masopust2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Masopust2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org876fa76" class="outline-4">
+<h4 id="org876fa76"><a class='org-ref-reference' href="#AlghunaimSayed2020">AlghunaimSayed2020</a></h4>
+<div class="outline-text-4" id="text-org876fa76">
+<p>
+<a href=AlghunaimSayed2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/AlghunaimSayed2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/AlghunaimSayed2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/AlghunaimSayed2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org47de057" class="outline-4">
+<h4 id="org47de057"><a class='org-ref-reference' href="#BuergerEtAl2014">BuergerEtAl2014</a></h4>
+<div class="outline-text-4" id="text-org47de057">
+<p>
+<a href=BuergerEtAl2014.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BuergerEtAl2014.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BuergerEtAl2014.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BuergerEtAl2014.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org69c0d78" class="outline-4">
+<h4 id="org69c0d78"><a class='org-ref-reference' href="#ChanfreutEtAl2018">ChanfreutEtAl2018</a></h4>
+<div class="outline-text-4" id="text-org69c0d78">
+<p>
+<a href=ChanfreutEtAl2018.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChanfreutEtAl2018.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChanfreutEtAl2018.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChanfreutEtAl2018.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org0716bc6" class="outline-4">
+<h4 id="org0716bc6"><a class='org-ref-reference' href="#ChatelEtAl2017">ChatelEtAl2017</a></h4>
+<div class="outline-text-4" id="text-org0716bc6">
+<p>
+<a href=ChatelEtAl2017.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChatelEtAl2017.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChatelEtAl2017.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChatelEtAl2017.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgb4032f5" class="outline-4">
+<h4 id="orgb4032f5"><a class='org-ref-reference' href="#ChristofidesEtAl2013">ChristofidesEtAl2013</a></h4>
+<div class="outline-text-4" id="text-orgb4032f5">
+<p>
+<a href=ChristofidesEtAl2013.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChristofidesEtAl2013.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChristofidesEtAl2013.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChristofidesEtAl2013.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgc5a2992" class="outline-4">
+<h4 id="orgc5a2992"><a class='org-ref-reference' href="#Domahidi2013">Domahidi2013</a></h4>
+<div class="outline-text-4" id="text-orgc5a2992">
+<p>
+<a href=Domahidi2013.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Domahidi2013.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Domahidi2013.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Domahidi2013.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org0534f67" class="outline-4">
+<h4 id="org0534f67"><a class='org-ref-reference' href="#ConejoEtAl2006">ConejoEtAl2006</a></h4>
+<div class="outline-text-4" id="text-org0534f67">
+<p>
+<a href=ConejoEtAl2006.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ConejoEtAl2006.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ConejoEtAl2006.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ConejoEtAl2006.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgdd0316f" class="outline-4">
+<h4 id="orgdd0316f"><a class='org-ref-reference' href="#DaiEtAl2017">DaiEtAl2017</a></h4>
+<div class="outline-text-4" id="text-orgdd0316f">
+<p>
+<a href=DaiEtAl2017.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/DaiEtAl2017.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/DaiEtAl2017.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/DaiEtAl2017.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgebbd097" class="outline-4">
+<h4 id="orgebbd097"><a class='org-ref-reference' href="#DoanEtAl2011">DoanEtAl2011</a></h4>
+<div class="outline-text-4" id="text-orgebbd097">
+<p>
+<a href=DoanEtAl2011.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/DoanEtAl2011.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/DoanEtAl2011.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/DoanEtAl2011.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org6f167af" class="outline-4">
+<h4 id="org6f167af"><a class='org-ref-reference' href="#ElEtAl2019">ElEtAl2019</a></h4>
+<div class="outline-text-4" id="text-org6f167af">
+<p>
+<a href=ElEtAl2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ElEtAl2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ElEtAl2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ElEtAl2019.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgb394fb5" class="outline-4">
+<h4 id="orgb394fb5"><a class='org-ref-reference' href="#Forte2010">Forte2010</a></h4>
+<div class="outline-text-4" id="text-orgb394fb5">
+<p>
+<a href=Forte2010.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Forte2010.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Forte2010.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Forte2010.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgbe1b358" class="outline-4">
+<h4 id="orgbe1b358"><a class='org-ref-reference' href="#Gallissot2012">Gallissot2012</a></h4>
+<div class="outline-text-4" id="text-orgbe1b358">
+<p>
+<a href=Gallissot2012.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Gallissot2012.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Gallissot2012.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Gallissot2012.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org000390d" class="outline-4">
+<h4 id="org000390d"><a class='org-ref-reference' href="#GarciaEtAl1989">GarciaEtAl1989</a></h4>
+<div class="outline-text-4" id="text-org000390d">
+<p>
+<a href=GarciaEtAl1989.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/GarciaEtAl1989.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/GarciaEtAl1989.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/GarciaEtAl1989.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org3d20bd2" class="outline-4">
+<h4 id="org3d20bd2"><a class='org-ref-reference' href="#KeelBhattacharyya1997">KeelBhattacharyya1997</a></h4>
+<div class="outline-text-4" id="text-org3d20bd2">
+<p>
+<a href=KeelBhattacharyya1997.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/KeelBhattacharyya1997.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/KeelBhattacharyya1997.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/KeelBhattacharyya1997.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org7b1deef" class="outline-4">
+<h4 id="org7b1deef"><a class='org-ref-reference' href="#HerreraEtAl2014">HerreraEtAl2014</a></h4>
+<div class="outline-text-4" id="text-org7b1deef">
+<p>
+<a href=HerreraEtAl2014.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/HerreraEtAl2014.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/HerreraEtAl2014.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/HerreraEtAl2014.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgbcedc8d" class="outline-4">
+<h4 id="orgbcedc8d"><a class='org-ref-reference' href="#HerreraEtAl2015">HerreraEtAl2015</a></h4>
+<div class="outline-text-4" id="text-orgbcedc8d">
+<p>
+<a href=HerreraEtAl2015.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/HerreraEtAl2015.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/HerreraEtAl2015.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/HerreraEtAl2015.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgaa6f72d" class="outline-4">
+<h4 id="orgaa6f72d"><a class='org-ref-reference' href="#KuwataHow2011">KuwataHow2011</a></h4>
+<div class="outline-text-4" id="text-orgaa6f72d">
+<p>
+<a href=KuwataHow2011.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/KuwataHow2011.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/KuwataHow2011.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/KuwataHow2011.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org4bde606" class="outline-4">
+<h4 id="org4bde606"><a class='org-ref-reference' href="#LatrachEtAl2016">LatrachEtAl2016</a></h4>
+<div class="outline-text-4" id="text-org4bde606">
+<p>
+<a href=LatrachEtAl2016.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LatrachEtAl2016.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LatrachEtAl2016.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LatrachEtAl2016.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org71843af" class="outline-4">
+<h4 id="org71843af"><a class='org-ref-reference' href="#LeEtAl2014">LeEtAl2014</a></h4>
+<div class="outline-text-4" id="text-org71843af">
+<p>
+<a href=LeEtAl2014.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LeEtAl2014.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LeEtAl2014.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LeEtAl2014.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orga5e4fec" class="outline-4">
+<h4 id="orga5e4fec"><a class='org-ref-reference' href="#Li2019">Li2019</a></h4>
+<div class="outline-text-4" id="text-orga5e4fec">
+<p>
+<a href=Li2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Li2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Li2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Li2019.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org6eb0c0c" class="outline-4">
+<h4 id="org6eb0c0c"><a class='org-ref-reference' href="#LiaoLou2016">LiaoLou2016</a></h4>
+<div class="outline-text-4" id="text-org6eb0c0c">
+<p>
+<a href=LiaoLou2016.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiaoLou2016.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiaoLou2016.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiaoLou2016.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org3fcd98d" class="outline-4">
+<h4 id="org3fcd98d"><a class='org-ref-reference' href="#LiuBai2018">LiuBai2018</a></h4>
+<div class="outline-text-4" id="text-org3fcd98d">
+<p>
+<a href=LiuBai2018.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuBai2018.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuBai2018.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuBai2018.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orga31d26e" class="outline-4">
+<h4 id="orga31d26e"><a class='org-ref-reference' href="#LoboEtAl1998">LoboEtAl1998</a></h4>
+<div class="outline-text-4" id="text-orga31d26e">
+<p>
+<a href=LoboEtAl1998.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LoboEtAl1998.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LoboEtAl1998.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LoboEtAl1998.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgb5e1405" class="outline-4">
+<h4 id="orgb5e1405"><a class='org-ref-reference' href="#MagnussonEtAl2018">MagnussonEtAl2018</a></h4>
+<div class="outline-text-4" id="text-orgb5e1405">
+<p>
+<a href=MagnussonEtAl2018.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/MagnussonEtAl2018.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/MagnussonEtAl2018.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/MagnussonEtAl2018.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgf0ef666" class="outline-4">
+<h4 id="orgf0ef666"><a class='org-ref-reference' href="#MorariaLee1999">MorariaLee1999</a></h4>
+<div class="outline-text-4" id="text-orgf0ef666">
+<p>
+<a href=MorariaLee1999.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/MorariaLee1999.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/MorariaLee1999.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/MorariaLee1999.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgbaa712a" class="outline-4">
+<h4 id="orgbaa712a"><a class='org-ref-reference' href="#NegenbornMaestre2014">NegenbornMaestre2014</a></h4>
+<div class="outline-text-4" id="text-orgbaa712a">
+<p>
+<a href=NegenbornMaestre2014.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/NegenbornMaestre2014.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/NegenbornMaestre2014.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/NegenbornMaestre2014.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org4ba6b25" class="outline-4">
+<h4 id="org4ba6b25"><a class='org-ref-reference' href="#PaulenEtAl2016">PaulenEtAl2016</a></h4>
+<div class="outline-text-4" id="text-org4ba6b25">
+<p>
+<a href=PaulenEtAl2016.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/PaulenEtAl2016.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/PaulenEtAl2016.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/PaulenEtAl2016.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org3bd2310" class="outline-4">
+<h4 id="org3bd2310"><a class='org-ref-reference' href="#PenetEtAl2016">PenetEtAl2016</a></h4>
+<div class="outline-text-4" id="text-org3bd2310">
+<p>
+<a href=PenetEtAl2016.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/PenetEtAl2016.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/PenetEtAl2016.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/PenetEtAl2016.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org5c2b340" class="outline-4">
+<h4 id="org5c2b340"><a class='org-ref-reference' href="#PflaumEtAl2014">PflaumEtAl2014</a></h4>
+<div class="outline-text-4" id="text-org5c2b340">
+<p>
+<a href=PflaumEtAl2014.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/PflaumEtAl2014.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/PflaumEtAl2014.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/PflaumEtAl2014.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgadc4eda" class="outline-4">
+<h4 id="orgadc4eda"><a class='org-ref-reference' href="#RuiFanEtAl2015">RuiFanEtAl2015</a></h4>
+<div class="outline-text-4" id="text-orgadc4eda">
+<p>
+<a href=RuiFanEtAl2015.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/RuiFanEtAl2015.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/RuiFanEtAl2015.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/RuiFanEtAl2015.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org2de918f" class="outline-4">
+<h4 id="org2de918f"><a class='org-ref-reference' href="#SalehghaffariKhorrami2019">SalehghaffariKhorrami2019</a></h4>
+<div class="outline-text-4" id="text-org2de918f">
+<p>
+<a href=SalehghaffariKhorrami2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/SalehghaffariKhorrami2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/SalehghaffariKhorrami2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/SalehghaffariKhorrami2019.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org809e6d4" class="outline-4">
+<h4 id="org809e6d4"><a class='org-ref-reference' href="#SeungEtAl2013">SeungEtAl2013</a></h4>
+<div class="outline-text-4" id="text-org809e6d4">
+<p>
+<a href=SeungEtAl2013.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/SeungEtAl2013.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/SeungEtAl2013.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/SeungEtAl2013.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org4854505" class="outline-4">
+<h4 id="org4854505"><a class='org-ref-reference' href="#WeiEtAl2017">WeiEtAl2017</a></h4>
+<div class="outline-text-4" id="text-org4854505">
+<p>
+<a href=WeiEtAl2017.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/WeiEtAl2017.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/WeiEtAl2017.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/WeiEtAl2017.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgb0a66f6" class="outline-4">
+<h4 id="orgb0a66f6"><a class='org-ref-reference' href="#YildirimEtAl2020">YildirimEtAl2020</a></h4>
+<div class="outline-text-4" id="text-orgb0a66f6">
+<p>
+<a href=YildirimEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/YildirimEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/YildirimEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/YildirimEtAl2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org3f08b9a" class="outline-4">
+<h4 id="org3f08b9a"><a class='org-ref-reference' href="#YingEtAl2018">YingEtAl2018</a></h4>
+<div class="outline-text-4" id="text-org3f08b9a">
+<p>
+<a href="file:///home/nogueirar/org/YingEtAl2018.html">org</a> <a href="file:///home/nogueirar/docsThese/bibliography/YingEtAl2018.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/YingEtAl2018.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/YingEtAl2018.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org1ded4a9" class="outline-4">
+<h4 id="org1ded4a9"><a class='org-ref-reference' href="#ZangEtAl2017">ZangEtAl2017</a></h4>
+<div class="outline-text-4" id="text-org1ded4a9">
+<p>
+<a href=ZangEtAl2017.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZangEtAl2017.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZangEtAl2017.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZangEtAl2017.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org95b94fe" class="outline-4">
+<h4 id="org95b94fe"><a class='org-ref-reference' href="#ZhengEtAl2006">ZhengEtAl2006</a></h4>
+<div class="outline-text-4" id="text-org95b94fe">
+<p>
+<a href=ZhengEtAl2006.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhengEtAl2006.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhengEtAl2006.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhengEtAl2006.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgd75d3e5" class="outline-4">
+<h4 id="orgd75d3e5"><a class='org-ref-reference' href="#ZhengEtAl2010">ZhengEtAl2010</a></h4>
+<div class="outline-text-4" id="text-orgd75d3e5">
+<p>
+<a href=ZhengEtAl2010.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhengEtAl2010.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhengEtAl2010.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhengEtAl2010.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org3fc163b" class="outline-4">
+<h4 id="org3fc163b"><a class='org-ref-reference' href="#DoerflerEtAl2019">DoerflerEtAl2019</a></h4>
+<div class="outline-text-4" id="text-org3fc163b">
+<p>
+<a href=DoerflerEtAl2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/DoerflerEtAl2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/DoerflerEtAl2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/DoerflerEtAl2019.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org8e36385" class="outline-4">
+<h4 id="org8e36385"><a class='org-ref-reference' href="#PasqualettiEtAl2012">PasqualettiEtAl2012</a></h4>
+<div class="outline-text-4" id="text-org8e36385">
+<p>
+<a href=PasqualettiEtAl2012.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/PasqualettiEtAl2012.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/PasqualettiEtAl2012.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/PasqualettiEtAl2012.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org1b0f11c" class="outline-4">
+<h4 id="org1b0f11c"><a class='org-ref-reference' href="#SundaramHadjicostis2011">SundaramHadjicostis2011</a></h4>
+<div class="outline-text-4" id="text-org1b0f11c">
+<p>
+<a href=SundaramHadjicostis2011.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/SundaramHadjicostis2011.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/SundaramHadjicostis2011.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/SundaramHadjicostis2011.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org7dae257" class="outline-4">
+<h4 id="org7dae257"><a class='org-ref-reference' href="#Bouckaert2014">Bouckaert2014</a></h4>
+<div class="outline-text-4" id="text-org7dae257">
+<p>
+<a href=Bouckaert2014.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Bouckaert2014.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Bouckaert2014.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Bouckaert2014.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org53c938a" class="outline-4">
+<h4 id="org53c938a"><a class='org-ref-reference' href="#SatoTakeda2020">SatoTakeda2020</a></h4>
+<div class="outline-text-4" id="text-org53c938a">
+<p>
+<a href=SatoTakeda2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/SatoTakeda2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/SatoTakeda2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/SatoTakeda2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org8ecee51" class="outline-4">
+<h4 id="org8ecee51"><a class='org-ref-reference' href="#Mattioni2020">Mattioni2020</a></h4>
+<div class="outline-text-4" id="text-org8ecee51">
+<p>
+<a href=Mattioni2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Mattioni2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Mattioni2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Mattioni2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org34bfec3" class="outline-4">
+<h4 id="org34bfec3"><a class='org-ref-reference' href="#BarboniEtAl2020">BarboniEtAl2020</a></h4>
+<div class="outline-text-4" id="text-org34bfec3">
+<p>
+<a href=BarboniEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BarboniEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BarboniEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BarboniEtAl2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org91900db" class="outline-4">
+<h4 id="org91900db"><a class='org-ref-reference' href="#SuShahrampour2020">SuShahrampour2020</a></h4>
+<div class="outline-text-4" id="text-org91900db">
+<p>
+<a href=SuShahrampour2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/SuShahrampour2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/SuShahrampour2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/SuShahrampour2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org2c2295f" class="outline-4">
+<h4 id="org2c2295f"><a class='org-ref-reference' href="#GalloEtAl2020">GalloEtAl2020</a></h4>
+<div class="outline-text-4" id="text-org2c2295f">
+<p>
+<a href=GalloEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/GalloEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/GalloEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/GalloEtAl2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org979d4a0" class="outline-4">
+<h4 id="org979d4a0"><a class='org-ref-reference' href="#YuXiong2020">YuXiong2020</a></h4>
+<div class="outline-text-4" id="text-org979d4a0">
+<p>
+<a href=YuXiong2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/YuXiong2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/YuXiong2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/YuXiong2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org4f6e670" class="outline-4">
+<h4 id="org4f6e670"><a class='org-ref-reference' href="#YuXiong2020a">YuXiong2020a</a></h4>
+<div class="outline-text-4" id="text-org4f6e670">
+<p>
+<a href=YuXiong2020a.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/YuXiong2020a.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/YuXiong2020a.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/YuXiong2020a.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org5b03db8" class="outline-4">
+<h4 id="org5b03db8"><a class='org-ref-reference' href="#DengWen2020">DengWen2020</a></h4>
+<div class="outline-text-4" id="text-org5b03db8">
+<p>
+<a href=DengWen2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/DengWen2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/DengWen2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/DengWen2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org3634d53" class="outline-4">
+<h4 id="org3634d53"><a class='org-ref-reference' href="#LiuJiang2020">LiuJiang2020</a></h4>
+<div class="outline-text-4" id="text-org3634d53">
+<p>
+<a href=LiuJiang2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuJiang2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuJiang2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuJiang2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgbfce330" class="outline-4">
+<h4 id="orgbfce330"><a class='org-ref-reference' href="#ZhaoEtAl2020">ZhaoEtAl2020</a></h4>
+<div class="outline-text-4" id="text-orgbfce330">
+<p>
+<a href=ZhaoEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhaoEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhaoEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhaoEtAl2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org1ea4e0b" class="outline-4">
+<h4 id="org1ea4e0b"><a class='org-ref-reference' href="#LiuDong2020">LiuDong2020</a></h4>
+<div class="outline-text-4" id="text-org1ea4e0b">
+<p>
+<a href=LiuDong2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuDong2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuDong2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuDong2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org9805a15" class="outline-4">
+<h4 id="org9805a15"><a class='org-ref-reference' href="#ChenLiu2020">ChenLiu2020</a></h4>
+<div class="outline-text-4" id="text-org9805a15">
+<p>
+<a href=ChenLiu2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChenLiu2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChenLiu2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ChenLiu2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgc301278" class="outline-4">
+<h4 id="orgc301278"><a class='org-ref-reference' href="#LiuEtAl2020">LiuEtAl2020</a></h4>
+<div class="outline-text-4" id="text-orgc301278">
+<p>
+<a href=LiuEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuEtAl2020.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgd17dbd3" class="outline-4">
+<h4 id="orgd17dbd3"><a class='org-ref-reference' href="#Hespanha2009">Hespanha2009</a></h4>
+<div class="outline-text-4" id="text-orgd17dbd3">
+<p>
+<a href=Hespanha2009.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Hespanha2009.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Hespanha2009.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Hespanha2009.epub">epub</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e80a21" class="outline-4">
+<h4 id="org6e80a21"><a class='org-ref-reference' href="#WangEtAl2015">WangEtAl2015</a></h4>
+<div class="outline-text-4" id="text-org6e80a21">
+<p>
+<a href=WangEtAl2015.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/WangEtAl2015.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/WangEtAl2015.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/WangEtAl2015.epub">epub</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org686c963" class="outline-4">
+<h4 id="org686c963"><a class='org-ref-reference' href="#BaillieulAntsaklis2007">BaillieulAntsaklis2007</a></h4>
+</div>
+<div id="outline-container-org64edc0a" class="outline-4">
+<h4 id="org64edc0a"><a class='org-ref-reference' href="#MoyneTilbury2007">MoyneTilbury2007</a></h4>
+</div>
+<div id="outline-container-org980ce34" class="outline-4">
+<h4 id="org980ce34"><a class='org-ref-reference' href="#Baillieul2002">Baillieul2002</a></h4>
+</div>
+<div id="outline-container-org6b65209" class="outline-4">
+<h4 id="org6b65209"><a class='org-ref-reference' href="#ZhangEtAl2001">ZhangEtAl2001</a></h4>
+</div>
+<div id="outline-container-org205091d" class="outline-4">
+<h4 id="org205091d"><a class='org-ref-reference' href="#HespanhaEtAl2007">HespanhaEtAl2007</a></h4>
+</div>
+<div id="outline-container-org58ab73d" class="outline-4">
+<h4 id="org58ab73d"><a class='org-ref-reference' href="#ZecevicSiljak2012">ZecevicSiljak2012</a></h4>
+</div>
+</div>
+
+<div id="outline-container-orgedb6f8f" class="outline-3">
+<h3 id="orgedb6f8f">Already Read</h3>
+<div class="outline-text-3" id="text-orgedb6f8f">
+</div>
+<div id="outline-container-orgb5e7193" class="outline-4">
+<h4 id="orgb5e7193"><a class='org-ref-reference' href="#Ouyang2020">Ouyang2020</a></h4>
+<div class="outline-text-4" id="text-orgb5e7193">
+<p>
+<a href=Ouyang2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Ouyang2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Ouyang2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Ouyang2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Projection onto intersections of halfspaces and hyperplanes</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc372880" class="outline-4">
+<h4 id="orgc372880"><a class='org-ref-reference' href="#ShiromotoEtAl2019">ShiromotoEtAl2019</a></h4>
+<div class="outline-text-4" id="text-orgc372880">
+<p>
+<a href=ShiromotoEtAl2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ShiromotoEtAl2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ShiromotoEtAl2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ShiromotoEtAl2019.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Use of separable metric structures to distributed nonlinear control</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org18c2759" class="outline-4">
+<h4 id="org18c2759"><a class='org-ref-reference' href="#BoyleDykstra1986">BoyleDykstra1986</a></h4>
+<div class="outline-text-4" id="text-org18c2759">
+<p>
+<a href=BoyleDykstra1986.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoyleDykstra1986.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoyleDykstra1986.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoyleDykstra1986.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Algorithm to project onto intersection of halfspaces</li>
+</ul>
+<p>
+pag 37
+</p>
+</div>
+</div>
+<div id="outline-container-org1d4338b" class="outline-4">
+<h4 id="org1d4338b"><a class='org-ref-reference' href="#TanikawaMukai1983a">TanikawaMukai1983a</a></h4>
+<div class="outline-text-4" id="text-org1d4338b">
+<p>
+<a href=TanikawaMukai1983a.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/TanikawaMukai1983.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/TanikawaMukai1983.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/TanikawaMukai1983.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Creation of new lagrangian to convexify the lagrangian function, reducing decomposition to two levels of iterative optimization</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgdcb3fc2" class="outline-4">
+<h4 id="orgdcb3fc2"><a class='org-ref-reference' href="#RajeshEtAl2013">RajeshEtAl2013</a>,</h4>
+<div class="outline-text-4" id="text-orgdcb3fc2">
+<p>
+<a href=RajeshEtAl2013.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/RajeshEtAl2013.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/RajeshEtAl2013.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/RajeshEtAl2013.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Framework for MAS with simulation in rural Indian micro-grid</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org015c0f3" class="outline-4">
+<h4 id="org015c0f3"><a class='org-ref-reference' href="#SujilKumar2017">SujilKumar2017</a>,</h4>
+<div class="outline-text-4" id="text-org015c0f3">
+<p>
+<a href=SujilKumar2017.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/SujilKumar2017.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/SujilKumar2017.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/SujilKumar2017.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Multi-agent based system simulated in the presence of different events</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc1f2224" class="outline-4">
+<h4 id="orgc1f2224"><a class='org-ref-reference' href="#KuzinEtAl2020">KuzinEtAl2020</a>,</h4>
+<div class="outline-text-4" id="text-orgc1f2224">
+<p>
+<a href=KuzinEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/KuzinEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/KuzinEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/KuzinEtAl2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Use of multiple Raspberry Pis as HIL to simulate agents</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6fae154" class="outline-4">
+<h4 id="org6fae154"><a class='org-ref-reference' href="#MendhamClarke2005">MendhamClarke2005</a></h4>
+<div class="outline-text-4" id="text-org6fae154">
+<p>
+<a href=MendhamClarke2005.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/MendhamClarke2005.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/MendhamClarke2005.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/MendhamClarke2005.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Simulation environment of multi-agent system embedded into industry standard</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org4a09504" class="outline-4">
+<h4 id="org4a09504"><a class='org-ref-reference' href="#DigraPandey2013">DigraPandey2013</a>,</h4>
+<div class="outline-text-4" id="text-org4a09504">
+<p>
+<a href=DigraPandey2013.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/DigraPandey2013.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/DigraPandey2013.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/DigraPandey2013.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Multi-agent based controller coordination of microgrid with critical loads under  normal, faulty and overload conditions.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org379dd20" class="outline-4">
+<h4 id="org379dd20"><a class='org-ref-reference' href="#GuEtAl2016">GuEtAl2016</a>,</h4>
+<div class="outline-text-4" id="text-org379dd20">
+<p>
+<a href=GuEtAl2016.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/GuEtAl2016.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/GuEtAl2016.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/GuEtAl2016.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Example microgrid system with a multi-agent system</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org5036678" class="outline-4">
+<h4 id="org5036678"><a class='org-ref-reference' href="#BourdaisEtAl2012">BourdaisEtAl2012</a></h4>
+<div class="outline-text-4" id="text-org5036678">
+<p>
+<a href=BourdaisEtAl2012.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BourdaisEtAl2012.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BourdaisEtAl2012.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BourdaisEtAl2012.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Distributed MPC (Dual Decomposition) for continuous systems controlled using discrete inputs</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org4a05131" class="outline-4">
+<h4 id="org4a05131"><a class='org-ref-reference' href="#MukherjeeZelazo2019">MukherjeeZelazo2019</a></h4>
+<div class="outline-text-4" id="text-org4a05131">
+<p>
+<a href=MukherjeeZelazo2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/MukherjeeZelazo2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/MukherjeeZelazo2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/MukherjeeZelazo2019.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Uses of Kharitonov&rsquo;s Theorem to study condition for consensus of $m$-th order linear uncertain interval plants</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9c139a3" class="outline-4">
+<h4 id="org9c139a3"><a class='org-ref-reference' href="#LiceagaCastroEtAl2015">LiceagaCastroEtAl2015</a></h4>
+<div class="outline-text-4" id="text-org9c139a3">
+<p>
+<a href=Liceaga-CastroEtAl2015.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Liceaga-CastroEtAl2015.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Liceaga-CastroEtAl2015.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Liceaga-CastroEtAl2015.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Show that <a href=20200911115431-multivariable_systems.html>MIMO</a> systems controlled passively are not necessarily robust.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9af7f05" class="outline-4">
+<h4 id="org9af7f05"><a class='org-ref-reference' href="#OConnorVandenberghe2014">OConnorVandenberghe2014</a></h4>
+<div class="outline-text-4" id="text-org9af7f05">
+<p>
+<a href=OConnorVandenberghe2014.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/OConnorVandenberghe2014.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/OConnorVandenberghe2014.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/OConnorVandenberghe2014.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Use of decomposition methods to solve image deblurring</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3823e8c" class="outline-4">
+<h4 id="org3823e8c"><a class='org-ref-reference' href="#LinEtAl2020">LinEtAl2020</a></h4>
+<div class="outline-text-4" id="text-org3823e8c">
+<p>
+<a href=LinEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LinEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LinEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LinEtAl2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Obtain state estimation under delayed communication</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org55ab164" class="outline-4">
+<h4 id="org55ab164"><a class='org-ref-reference' href="#Bindra2017">Bindra2017</a></h4>
+<div class="outline-text-4" id="text-org55ab164">
+<p>
+<a href=Bindra2017.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Bindra2017.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Bindra2017.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Bindra2017.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Review Attacks</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org627fed9" class="outline-4">
+<h4 id="org627fed9"><a class='org-ref-reference' href="#ZhuMartinez2014">ZhuMartinez2014</a></h4>
+<div class="outline-text-4" id="text-org627fed9">
+<p>
+<a href=ZhuMartinez2014.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhuMartinez2014.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhuMartinez2014.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhuMartinez2014.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Resilient MPC with resource allocation to deal with replay attacks</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org0c8f853" class="outline-4">
+<h4 id="org0c8f853"><a class='org-ref-reference' href="#DibajiIshii2015">DibajiIshii2015</a></h4>
+<div class="outline-text-4" id="text-org0c8f853">
+<p>
+<a href=DibajiIshii2015.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/DibajiIshii2015.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/DibajiIshii2015.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/DibajiIshii2015.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Consensus of second order sampled-data in presence of misbehaving agents</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org61742ce" class="outline-4">
+<h4 id="org61742ce"><a class='org-ref-reference' href="#WuEtAl2018">WuEtAl2018</a></h4>
+<div class="outline-text-4" id="text-org61742ce">
+<p>
+<a href=WuEtAl2018.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/WuEtAl2018.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/WuEtAl2018.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/WuEtAl2018.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Neural Networks based detection and Lyapunov MPC</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org7bb4160" class="outline-4">
+<h4 id="org7bb4160"><a class='org-ref-reference' href="#AnandutaEtAl2020">AnandutaEtAl2020</a></h4>
+<div class="outline-text-4" id="text-org7bb4160">
+<p>
+<a href=AnandutaEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/AnandutaEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/AnandutaEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/AnandutaEtAl2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Resilient <a href=20200709101933-dmpc.html>dMPC</a> under <a href=20200722151944-attacks.html>Attack</a> using <a href=20200813155010-bayesian_inference.html>Bayesian Inference</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgae03527" class="outline-4">
+<h4 id="orgae03527"><a class='org-ref-reference' href="#LuYang2020">LuYang2020</a></h4>
+<div class="outline-text-4" id="text-orgae03527">
+<p>
+<a href=LuYang2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LuYang2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LuYang2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LuYang2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>State <a href=20200422140353-estimation.html>estimation</a> of NCS, with faulty and malicious agents based on</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orged0f58c" class="outline-4">
+<h4 id="orged0f58c"><a class='org-ref-reference' href="#WakaikiEtAl2020">WakaikiEtAl2020</a></h4>
+<div class="outline-text-4" id="text-orged0f58c">
+<p>
+<a href=WakaikiEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/WakaikiEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/WakaikiEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/WakaikiEtAl2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>stability on NCS with DoS and quantization noise using observer-based controller</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org0a41f75" class="outline-4">
+<h4 id="org0a41f75"><a class='org-ref-reference' href="#ZhuZheng2020">ZhuZheng2020</a></h4>
+<div class="outline-text-4" id="text-org0a41f75">
+<p>
+<a href=ZhuZheng2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhuZheng2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhuZheng2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ZhuZheng2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Observer based \(\mathcal{H}_\infty\) control in <a href=20200722151834-denial_of_service_attacks.html>DoS</a> prone measurement and control channels</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org5a2b744" class="outline-4">
+<h4 id="org5a2b744"><a class='org-ref-reference' href="#BansalMukhija2020">BansalMukhija2020</a></h4>
+<div class="outline-text-4" id="text-org5a2b744">
+<p>
+<a href=BansalMukhija2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BansalMukhija2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BansalMukhija2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BansalMukhija2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Hybrid Triggering scheme (Aperiodic Sampled-Data Control) to control Networked system under stochastic Deception Attacks find a way to obtain Minimum inter-event time (MIET)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org50214b2" class="outline-4">
+<h4 id="org50214b2"><a class='org-ref-reference' href="#GossnerEtAl1997">GossnerEtAl1997</a></h4>
+<div class="outline-text-4" id="text-org50214b2">
+<p>
+<a href=GossnerEtAl1997.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/GossnerEtAl1997.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/GossnerEtAl1997.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/GossnerEtAl1997.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Algorithms for stability and asymptotic tracking in constrained generalized predictive control with bounded disturbances</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3a0abdc" class="outline-4">
+<h4 id="org3a0abdc"><a class='org-ref-reference' href="#RichardsHow2006">RichardsHow2006</a></h4>
+<div class="outline-text-4" id="text-org3a0abdc">
+<p>
+<a href=RichardsHow2006.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/RichardsHow2006.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/RichardsHow2006.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/RichardsHow2006.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li><a href=20200803163941-robust_control.html>Robust</a> <a href=20200709101720-mpc.html>MPC</a> with tightening constraints</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org8958328" class="outline-4">
+<h4 id="org8958328"><a class='org-ref-reference' href="#YangEtAl2019">YangEtAl2019</a></h4>
+<div class="outline-text-4" id="text-org8958328">
+<p>
+<a href=YangEtAl2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/YangEtAl2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/YangEtAl2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/YangEtAl2019.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li><a href=20200716170854-stochastic_control.html>Stochastic</a> <a href=20200709101933-dmpc.html>dMPC</a> with defense against <a href=20200722151834-denial_of_service_attacks.html>DoS</a> Attacks</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org492861b" class="outline-4">
+<h4 id="org492861b"><a class='org-ref-reference' href="#KolarijaniEtAl2020">KolarijaniEtAl2020</a></h4>
+<div class="outline-text-4" id="text-org492861b">
+<p>
+<a href=KolarijaniEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/KolarijaniEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/KolarijaniEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/KolarijaniEtAl2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li><a href=20200803164121-decentralized_control.html>Decentralized</a> <a href=20200803164930-event_based_control.html>Event-Based</a> <a href=20200803163941-robust_control.html>Robust</a> <a href=20200709101720-mpc.html>MPC</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org86f07a4" class="outline-4">
+<h4 id="org86f07a4"><a class='org-ref-reference' href="#LiuEtAl2019">LiuEtAl2019</a></h4>
+<div class="outline-text-4" id="text-org86f07a4">
+<p>
+<a href=LiuEtAl2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuEtAl2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuEtAl2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuEtAl2019.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Analysis of the effects of<a href=20200716164436-deception_attacks.html> Deception Attacks</a> and use <a href=20200716162527-hybrid_control.html>Hybrid Control</a> and verify stability using Lyapunov</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgef1e7a1" class="outline-4">
+<h4 id="orgef1e7a1"><a class='org-ref-reference' href="#BraunEtAl2020">BraunEtAl2020</a></h4>
+<div class="outline-text-4" id="text-orgef1e7a1">
+<p>
+<a href=BraunEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BraunEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BraunEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BraunEtAl2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Identify attack using evolution of coupling variables
+<ul class="org-ul">
+<li><b>Important:</b> Sensitivity Exchange</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org31f5890" class="outline-4">
+<h4 id="org31f5890"><a class='org-ref-reference' href="#LiuEtAl2016">LiuEtAl2016</a></h4>
+<div class="outline-text-4" id="text-org31f5890">
+<p>
+<a href=LiuEtAl2016.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuEtAl2016.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuEtAl2016.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LiuEtAl2016.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Study of <a href=20200608100448-networked_control.html>Networked Control</a> in a <a href=20200716170854-stochastic_control.html>Stochastic</a> <a href=20200716162527-hybrid_control.html>Hybrid Control</a> Scheme using stochastic variable with <a href=20200716165417-bernoulli_distribution.html>Bernoulli Distribution</a> in order to increase performance on over occupied channels</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org0d55b51" class="outline-4">
+<h4 id="org0d55b51"><a class='org-ref-reference' href="#DingEtAl2018">DingEtAl2018</a></h4>
+<div class="outline-text-4" id="text-org0d55b51">
+<p>
+<a href=DingEtAl2018.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/DingEtAl2018.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/DingEtAl2018.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/DingEtAl2018.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Survey on Security control and attack detection</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org5ef2c58" class="outline-4">
+<h4 id="org5ef2c58"><a class='org-ref-reference' href="#HuangDong2020">HuangDong2020</a></h4>
+<div class="outline-text-4" id="text-org5ef2c58">
+<p>
+<a href=HuangDong2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/HuangDong2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/HuangDong2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/HuangDong2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Reliable control in systems with intermittent communication</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgec3621d" class="outline-4">
+<h4 id="orgec3621d"><a class='org-ref-reference' href="#BoemEtAl2020">BoemEtAl2020</a></h4>
+<div class="outline-text-4" id="text-orgec3621d">
+<p>
+<a href=BoemEtAl2020.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoemEtAl2020.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoemEtAl2020.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoemEtAl2020.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li><a href="https://mathworld.wolfram.com/Zonotope.html">Zonotope</a> tube created to estimate possible outcomes of the state, if it is outside the tube then that is a fault.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org7b317b0" class="outline-4">
+<h4 id="org7b317b0"><a class='org-ref-reference' href="#LeBlancEtAl2013">LeBlancEtAl2013</a></h4>
+<div class="outline-text-4" id="text-org7b317b0">
+<p>
+<a href=LeBlancEtAl2013.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LeBlancEtAl2013.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LeBlancEtAl2013.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LeBlancEtAl2013.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Resilient consensus in the presence of misbehaving nodes</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org375b7f5" class="outline-4">
+<h4 id="org375b7f5"><a class='org-ref-reference' href="#BoydEtAl2011">BoydEtAl2011</a></h4>
+<div class="outline-text-4" id="text-org375b7f5">
+<p>
+<a href=BoydEtAl2011.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoydEtAl2011.pdf">pdf</a> <a href="BoydEtAl2011.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoydEtAl2011.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Optimization Augmented Lagrangian</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org404a4bb" class="outline-4">
+<h4 id="org404a4bb"><a class='org-ref-reference' href="#BoydEtAl2015">BoydEtAl2015</a></h4>
+<div class="outline-text-4" id="text-org404a4bb">
+<p>
+<a href=BoydEtAl2015.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoydEtAl2015.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoydEtAl2015.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoydEtAl2015.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Dual, Primal and decomposition methods</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org5cdd156" class="outline-4">
+<h4 id="org5cdd156"><a class='org-ref-reference' href="#BoydVandenberghe2004">BoydVandenberghe2004</a></h4>
+<div class="outline-text-4" id="text-org5cdd156">
+<p>
+<a href=BoydVandenberghe2004.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Convex Optimization</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org498e5a9" class="outline-4">
+<h4 id="org498e5a9"><a class='org-ref-reference' href="#VelardeEtAl2017b">VelardeEtAl2017b</a></h4>
+<div class="outline-text-4" id="text-org498e5a9">
+<p>
+<a href=VelardeEtAl2017b.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Vulnerabilities in lagrange-based dMPC scheme on multi-agent consensus</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org0a46408" class="outline-4">
+<h4 id="org0a46408"><a class='org-ref-reference' href="#BiegelEtAl2012">BiegelEtAl2012</a></h4>
+<div class="outline-text-4" id="text-org0a46408">
+<p>
+<a href=BiegelEtAl2012.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BiegelEtAl2012.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BiegelEtAl2012.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BiegelEtAl2012.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Use of Shadow Prices to resolve grid congestion</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org2c9cc95" class="outline-4">
+<h4 id="org2c9cc95"><a class='org-ref-reference' href="#VelardeEtAl2017">VelardeEtAl2017</a></h4>
+<div class="outline-text-4" id="text-org2c9cc95">
+<p>
+<a href=VelardeEtAl2017.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/VelardeEtAl2017.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/VelardeEtAl2017.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/VelardeEtAl2017.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Analysis of dMPC scheme under influence of malicious agents</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org4b9ad55" class="outline-4">
+<h4 id="org4b9ad55"><a class='org-ref-reference' href="#VelardeEtAl2017a">VelardeEtAl2017a</a></h4>
+<div class="outline-text-4" id="text-org4b9ad55">
+<p>
+<a href=VelardeEtAl2017a.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/VelardeEtAl2017a.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/VelardeEtAl2017a.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/VelardeEtAl2017a.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Secure dMPC for consensus using scenario based mechanism</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org08d8271" class="outline-4">
+<h4 id="org08d8271"><a class='org-ref-reference' href="#Jury1962">Jury1962</a></h4>
+<div class="outline-text-4" id="text-org08d8271">
+<p>
+<a href=Jury1962.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Jury1962.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Jury1962.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Jury1962.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Stability criterion for linear discrete time systems</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga9026c6" class="outline-4">
+<h4 id="orga9026c6"><a class='org-ref-reference' href="#LandauEtAl2011">LandauEtAl2011</a></h4>
+<div class="outline-text-4" id="text-orga9026c6">
+<p>
+<a href=LandauEtAl2011.html>  org</a> <a href="file:///home/nogueirar/docsThese/bibliography/LandauEtAl2011.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/LandauEtAl2011.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/LandauEtAl2011.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Adaptive Control</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge1b4014" class="outline-4">
+<h4 id="orge1b4014"><a class='org-ref-reference' href="#AranovskiyFreidovich2013">AranovskiyFreidovich2013</a></h4>
+<div class="outline-text-4" id="text-orge1b4014">
+<p>
+<a href=AranovskiyFreidovich2013.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/AranovskiyFreidovich2013.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/AranovskiyFreidovich2013.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/AranovskiyFreidovich2013.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Identification-based adaptive tuning of coefficients with unknown disturbance</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org0c9bc9d" class="outline-4">
+<h4 id="org0c9bc9d"><a class='org-ref-reference' href="#BittantiEtAl1990">BittantiEtAl1990</a></h4>
+<div class="outline-text-4" id="text-org0c9bc9d">
+<p>
+<a href=BittantiEtAl1990.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/BittantiEtAl1990.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/BittantiEtAl1990.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/BittantiEtAl1990.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Convergence of adaptive recursive least-squares algorithms</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org129afed" class="outline-4">
+<h4 id="org129afed"><a class='org-ref-reference' href="#Frangipani2015">Frangipani2015</a></h4>
+<div class="outline-text-4" id="text-org129afed">
+<p>
+<a href=Frangipani2015.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Frangipani2015.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Frangipani2015.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Frangipani2015.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Localização submarina utilizando uma única referência acústica via filtro UKF</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge49e2af" class="outline-4">
+<h4 id="orge49e2af"><a class='org-ref-reference' href="#Yamasaki2016">Yamasaki2016</a></h4>
+<div class="outline-text-4" id="text-orge49e2af">
+<p>
+<a href=Yamasaki2016.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/Yamasaki2016.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/Yamasaki2016.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/Yamasaki2016.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Adaptive robust altitude control scheme based on a smooth sliding mode controller</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org1a66faa" class="outline-4">
+<h4 id="org1a66faa"><a class='org-ref-reference' href="#YimEtAl2012">YimEtAl2012</a></h4>
+<div class="outline-text-4" id="text-org1a66faa">
+<p>
+<a href=YimEtAl2012.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/YimEtAl2012.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/YimEtAl2012.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/YimEtAl2012.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Estimation of non-linear systems using EKF and UKF</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3f4116c" class="outline-4">
+<h4 id="org3f4116c"><a class='org-ref-reference' href="#AgbodjanEtAl2019">AgbodjanEtAl2019</a></h4>
+<div class="outline-text-4" id="text-org3f4116c">
+<p>
+<a href=AgbodjanEtAl2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/AgbodjanEtAl2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/AgbodjanEtAl2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/AgbodjanEtAl2019.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org1ede4df" class="outline-4">
+<h4 id="org1ede4df"><a class='org-ref-reference' href="#TanikawaMukai1983">TanikawaMukai1983</a></h4>
+<div class="outline-text-4" id="text-org1ede4df">
+<p>
+<a href=TanikawaMukai1983.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/TanikawaMukai1983.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/TanikawaMukai1983.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/TanikawaMukai1983.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>New separable multiplier to nonconvex separable large-scale</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge258022" class="outline-4">
+<h4 id="orge258022"><a class='org-ref-reference' href="#GrimsmanEtAl2019">GrimsmanEtAl2019</a></h4>
+<div class="outline-text-4" id="text-orge258022">
+<p>
+<a href=GrimsmanEtAl2019.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/GrimsmanEtAl2019.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/GrimsmanEtAl2019.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/GrimsmanEtAl2019.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Impact of topology, and information distribution to agent decisions</li>
+</ul>
+
+<p>
+<a href=AlessioBemporad2009.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/AlessioBemporad2009.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/AlessioBemporad2009.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/AlessioBemporad2009.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>Survey on Explicit MPC</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc213255" class="outline-4">
+<h4 id="orgc213255"><a class='org-ref-reference' href="#AastroemWittenmark1989">AastroemWittenmark1989</a></h4>
+<div class="outline-text-4" id="text-orgc213255">
+<p>
+<a href=AstromWittenmark1989.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/AstromWittenmark1989.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/AstromWittenmark1989.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/AstromWittenmark1989.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org801e6dc" class="outline-4">
+<h4 id="org801e6dc"><a class='org-ref-reference' href="#KatewaEtAl2021">KatewaEtAl2021</a></h4>
+<div class="outline-text-4" id="text-org801e6dc">
+<p>
+<a href=KatewaEtAl2021.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/KatewaEtAl2021.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/KatewaEtAl2021.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/KatewaEtAl2021.epub">epub</a>
+</p>
+<ul class="org-ul">
+<li>quantify trade-off between security and privacy</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgcc49447" class="outline-4">
+<h4 id="orgcc49447"><a class='org-ref-reference' href="#AlessioBemporad2009">AlessioBemporad2009</a></h4>
+</div>
+<div id="outline-container-orga5515b6" class="outline-4">
+<h4 id="orga5515b6"><a class='org-ref-reference' href="#ArabloueiEtAl2014">ArabloueiEtAl2014</a></h4>
+<div class="outline-text-4" id="text-orga5515b6">
+<p>
+<a href=ArabloueiEtAl2014.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ArabloueiEtAl2014.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ArabloueiEtAl2014.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ArabloueiEtAl2014.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgaef6c98" class="outline-4">
+<h4 id="orgaef6c98"><a class='org-ref-reference' href="#ElGhaoui2002">ElGhaoui2002</a></h4>
+<div class="outline-text-4" id="text-orgaef6c98">
+<p>
+<a href=ElGhaoui2002.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ElGhaoui2002.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ElGhaoui2002.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ElGhaoui2002.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orge416246" class="outline-4">
+<h4 id="orge416246"><a class='org-ref-reference' href="#ArabloueiEtAl2014">ArabloueiEtAl2014</a></h4>
+<div class="outline-text-4" id="text-orge416246">
+<p>
+<a href=ArabloueiEtAl2014.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ArabloueiEtAl2014.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ArabloueiEtAl2014.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ArabloueiEtAl2014.epub">epub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org6ec71c0" class="outline-4">
+<h4 id="org6ec71c0"><a class='org-ref-reference' href="#ElGhaoui2002">ElGhaoui2002</a></h4>
+<div class="outline-text-4" id="text-org6ec71c0">
+<p>
+<a href=ElGhaoui2002.html>org</a> <a href="file:///home/nogueirar/docsThese/bibliography/ElGhaoui2002.pdf">pdf</a> <a href="file:///home/nogueirar/docsThese/bibliography/ElGhaoui2002.mobi">mobi</a> <a href="file:///home/nogueirar/docsThese/bibliography/ElGhaoui2002.epub">epub</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org534197a" class="outline-2">
+<h2 id="org534197a">References</h2>
+<div class="outline-text-2" id="text-org534197a">
+<p>
+
+<h1 class='org-ref-bib-h1'>Bibliography</h1>
+<ul class='org-ref-bib'><li><a id="Iiduka2019">[Iiduka2019]</a> <a name="Iiduka2019"></a>Iiduka, Distributed Optimization for Network Resource Allocation With Nonsmooth Utility Functions, <i>IEEE Transactions on Control of Network Systems</i>, <b>6(4)</b>, 1354-1365 (2019). <a href="http://dx.doi.org/10.1109/tcns.2018.2889011">doi</a>.</li>
+<li><a id="ZhuEtAl2011">[ZhuEtAl2011]</a> <a name="ZhuEtAl2011"></a>Zhu, Sheng Xiao, Yi Ping, Towsley & Weibo Gong, A secure energy routing mechanism for sharing renewable energy in smart microgrid, 143-148, in in: 2011 IEEE International Conference on Smart Grid Communications (SmartGridComm), edited by (2011)</li>
+<li><a id="DeconinckEtAl2008">[DeconinckEtAl2008]</a> <a name="DeconinckEtAl2008"></a>Deconinck, Vanthournout, Beitollahi, Qui, Duan, Nauwelaers, Van Lil, Driesen & Belmans, A Robust Semantic Overlay Network for Microgrid Control Applications, in: Architecting Dependable Systems V (pp. 101-123), Springer Berlin Heidelberg (2008), <a href="https://doi.org/10.1007/978-3-540-85571-2_5">link</a>. <a href="http://dx.doi.org/10.1007/978-3-540-85571-2_5">doi</a>.</li>
+<li><a id="SatchidanandanKumar2017">[SatchidanandanKumar2017]</a> <a name="SatchidanandanKumar2017"></a>Satchidanandan & Kumar, Dynamic Watermarking: Active Defense of Networked Cyber–Physical Systems, <i>Proceedings of the IEEE</i>, <b>105(2)</b>, 219-240 (2017). <a href="http://dx.doi.org/10.1109/JPROC.2016.2575064">doi</a>.</li>
+<li><a id="RamosEtAl2021">[RamosEtAl2021]</a> <a name="RamosEtAl2021"></a>Guilherme Ramos, Daniel Silvestre & Carlos Silvestre, Node and network resistance to bribery in multi-agent systems, <i>Systems & Control Letters</i>, <b>147</b>, 104842 (2021). <a href="https://www.sciencedirect.com/science/article/pii/S0167691120302243">link</a>. <a href="http://dx.doi.org/10.1016/j.sysconle.2020.104842">doi</a>.</li>
+<li><a id="AlavianiElia2020">[AlavianiElia2020]</a> <a name="AlavianiElia2020"></a>Alaviani & Elia, Distributed Multiagent Convex Optimization Over Random Digraphs, <i>IEEE Transactions on Automatic Control</i>, <b>65(3)</b>, 986-998 (2020). <a href="http://dx.doi.org/10.1109/tac.2019.2937499">doi</a>.</li>
+<li><a id="DarivianakisEtAl2020">[DarivianakisEtAl2020]</a> <a name="DarivianakisEtAl2020"></a>Darivianakis, Eichler & Lygeros, Distributed Model Predictive Control for Linear Systems With Adaptive Terminal Sets, <i>IEEE Transactions on Automatic Control</i>, <b>65(3)</b>, 1044-1056 (2020). <a href="http://dx.doi.org/10.1109/tac.2019.2916774">doi</a>.</li>
+<li><a id="RezaieniaEtAl2020">[RezaieniaEtAl2020]</a> <a name="RezaieniaEtAl2020"></a>Rezaienia, Gharesifard, Linder & Touri, Push-Sum on Random Graphs: Almost Sure Convergence and Convergence Rate, <i>IEEE Transactions on Automatic Control</i>, <b>65(3)</b>, 1295-1302 (2020).</li>
+<li><a id="WangBoyd2010">[WangBoyd2010]</a> <a name="WangBoyd2010"></a>Yang Wang & Stephen Boyd, Fast Model Predictive Control Using Online Optimization, <i>IEEE Transactions on Control Systems Technology</i>, <b>18(2)</b>, 267-278 (2010). <a href="http://dx.doi.org/10.1109/tcst.2009.2017934">doi</a>.</li>
+<li><a id="Masopust2020">[Masopust2020]</a> <a name="Masopust2020"></a>Masopust, Critical Observability for Automata and Petri Nets, <i>IEEE Transactions on Automatic Control</i>, <b>65(1)</b>, 341-346 (2020). <a href="http://dx.doi.org/10.1109/tac.2019.2912484">doi</a>.</li>
+<li><a id="AlghunaimSayed2020">[AlghunaimSayed2020]</a> <a name="AlghunaimSayed2020"></a>Alghunaim & Sayed, Distributed Coupled Multiagent Stochastic Optimization, <i>IEEE Transactions on Automatic Control</i>, <b>65(1)</b>, 175-190 (2020). <a href="http://dx.doi.org/10.1109/tac.2019.2906495">doi</a>.</li>
+<li><a id="BuergerEtAl2014">[BuergerEtAl2014]</a> <a name="BuergerEtAl2014"></a>Bürger, Notarstefano & Allgöwer, A Polyhedral Approximation Framework for Convex and Robust Distributed Optimization, <i>IEEE Transactions on Automatic Control</i>, <b>59(2)</b>, 384-395 (2014). <a href="http://dx.doi.org/10.1109/TAC.2013.2281883">doi</a>.</li>
+<li><a id="ChanfreutEtAl2018">[ChanfreutEtAl2018]</a> <a name="ChanfreutEtAl2018"></a>Chanfreut, Maestre & Ishii, Vulnerabilities in Distributed Model Predictive Control based on Jacobi-Gauss Decomposition, 2587-2592, in in: 2018 European Control Conference (ECC), edited by (2018)</li>
+<li><a id="ChatelEtAl2017">[ChatelEtAl2017]</a> <a name="ChatelEtAl2017"></a>Sylvain Chatel, Pierre Haessig & Romain Bourdais, Security of the Distributed Model Predictive Control, in edited by (2017)</li>
+<li><a id="ChristofidesEtAl2013">[ChristofidesEtAl2013]</a> <a name="ChristofidesEtAl2013"></a>Panagiotis Christofides, Riccardo Scattolini, David, Mu\~noz de la Pe\~na & Jinfeng Liu, Distributed model predictive control: A tutorial review and future  research directions, <i>Computers & Chemical Engineering</i>, <b>51</b>, 21-41 (2013). <a href="http://dx.doi.org/10.1016/j.compchemeng.2012.05.011">doi</a>.</li>
+<li><a id="Domahidi2013">[Domahidi2013]</a> <a name="Domahidi2013"></a>@ThesisDomahidi2013,
+  author = Alexander Domahidi,
+  file   = Domahidi2013.pdf:Domahidi2013.pdf:PDF,
+  school = ETH Zurich,
+  title  = Methods and Tools and for Embedded and Optimization and Control,
+  year   = 2013,
+</li>
+<li><a id="ConejoEtAl2006">[ConejoEtAl2006]</a> <a name="ConejoEtAl2006"></a>Conejo, Castillo, Minguez, & Garcia-Bertrand, Decomposition techniques in mathematical programming: engineering and  science applications, Springer Science & Business Media (2006).</li>
+<li><a id="DaiEtAl2017">[DaiEtAl2017]</a> <a name="DaiEtAl2017"></a>Xiang Dai, Romain Bourdais & Hervé Guéguen, Dynamic Reduction of The Iterations Requirement in A Distributed  Model Predictive Control, in edited by (2017)</li>
+<li><a id="DoanEtAl2011">[DoanEtAl2011]</a> <a name="DoanEtAl2011"></a>Minh Dang Doan, Tam\'as Keviczky & Bart De Schutter, A dual decomposition-based optimization method with guaranteed primal  feasibility for hierarchical MPC problems, <i>IFAC Proceedings Volumes</i>, <b>44(1)</b>, 392-397 (2011). <a href="http://dx.doi.org/10.3182/20110828-6-it-1002.03058">doi</a>.</li>
+<li><a id="ElEtAl2019">[ElEtAl2019]</a> <a name="ElEtAl2019"></a>Mahmoud El, Chamie Lingyu, Ren Devu & Manikantan Shila, Optimal Strategic Pricing Attacks in Smart Grids: A Dynamic  Programming Approach, in in: 2019 IEEE 58th Conference on Decision and Control (CDC) Palais
+                  des Congrès et des Expositions Nice Acropolis Nice, France,
+                  December 11-13, 2019, edited by IEEE (2019)</li>
+<li><a id="Forte2010">[Forte2010]</a> <a name="Forte2010"></a>Vincent Forte, Smart Grid at National Grid, in edited by IEEE (2010)</li>
+<li><a id="Gallissot2012">[Gallissot2012]</a> <a name="Gallissot2012"></a>Mathieu Gallissot, Modéliser le concept de confort dans l’habitat intelligent : du  multisensoriel au comportement, in edited by (2012)</li>
+<li><a id="GarciaEtAl1989">[GarciaEtAl1989]</a> <a name="GarciaEtAl1989"></a>Carlos García, David Prett & Manfre Morari, Model Predictive Control: Theory and Practice a Survey, in in: Automatica, Vol. 25, No. 3, pp. 335-348, edited by (1989)</li>
+<li><a id="KeelBhattacharyya1997">[KeelBhattacharyya1997]</a> <a name="KeelBhattacharyya1997"></a>Keel & Bhattacharyya, Robust, fragile, or optimal?, <i>IEEE Transactions on Automatic Control</i>, <b>42(8)</b>, 1098-1105 (1997).</li>
+<li><a id="HerreraEtAl2014">[HerreraEtAl2014]</a> <a name="HerreraEtAl2014"></a>Eunice Herrera, Romain Bourdais & Hervé Guéguen, Predictive and interactive controllers for solar absorption cooling  systems in buildings, <i>Journal of Process Control</i>, <b>24(6)</b>, 836-845 (2014). <a href="http://dx.doi.org/10.1016/j.jprocont.2014.03.008">doi</a>.</li>
+<li><a id="HerreraEtAl2015">[HerreraEtAl2015]</a> <a name="HerreraEtAl2015"></a>Eunice Herrera, Romain Bourdais & Hervé Guéguen, A hybrid predictive control approach for the management of an energy  production\textendashconsumption system applied to a  TRNSYS solar absorption cooling system for thermal comfort  in buildings, <i>Energy and Buildings</i>, <b>104</b>, 47-56 (2015). <a href="http://dx.doi.org/10.1016/j.enbuild.2015.06.076">doi</a>.</li>
+<li><a id="KuwataHow2011">[KuwataHow2011]</a> <a name="KuwataHow2011"></a>Kuwata & How, Cooperative Distributed Robust Trajectory Optimization Using Receding  Horizon MILP, <i>IEEE Transactions on Control Systems Technology</i>, <b>19(2)</b>, 423-431 (2011). <a href="http://dx.doi.org/10.1109/TCST.2010.2045501">doi</a>.</li>
+<li><a id="LatrachEtAl2016">[LatrachEtAl2016]</a> <a name="LatrachEtAl2016"></a>Chedia Latrach, Mourad Kchaou & Hervé Guéguen, H$\infty$observer-based decentralised fuzzy control design for  nonlinear interconnected systems: an application to vehicle  dynamics, <i>International Journal of Systems Science</i>, <b>48(7)</b>, 1485-1495 (2016). <a href="http://dx.doi.org/10.1080/00207721.2016.1266527">doi</a>.</li>
+<li><a id="LeEtAl2014">[LeEtAl2014]</a> <a name="LeEtAl2014"></a>Khang Le, Romain Bourdais & Hervé Guéguen, From hybrid model predictive control to logical control for shading  system: A support vector machine approach, <i>Energy and Buildings</i>, <b>84</b>, 352-359 (2014). <a href="http://dx.doi.org/10.1016/j.enbuild.2014.07.084">doi</a>.</li>
+<li><a id="Li2019">[Li2019]</a> <a name="Li2019"></a>Mengmou Li, Generalized Lagrange Multiplier Method and KKT Conditions With an  Application to Distributed Optimization, <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, <b>66(2)</b>, 252-256 (2019). <a href="http://dx.doi.org/10.1109/tcsii.2018.2842085">doi</a>.</li>
+<li><a id="LiaoLou2016">[LiaoLou2016]</a> <a name="LiaoLou2016"></a>Liao & Lou, State and parameter estimations of chaotic memristive systems based on extended Kalman filter, 865-868, in in: 2016 35th Chinese Control Conference (CCC), edited by (2016)</li>
+<li><a id="LiuBai2018">[LiuBai2018]</a> <a name="LiuBai2018"></a>Liu & Bai, Distributed model predictive control for wide area measurement power systems under malicious attacks, <i>IET Cyber-Physical Systems: Theory Applications</i>, <b>3(3)</b>, 111-118 (2018). <a href="http://dx.doi.org/10.1049/iet-cps.2017.0056">doi</a>.</li>
+<li><a id="LoboEtAl1998">[LoboEtAl1998]</a> <a name="LoboEtAl1998"></a>Lobo, Vandenberghe, Boyd & Lebret, Applications of second-order cone programming, <i>Linear algebra and its applications</i>, <b>284(1-3)</b>, 193-228 (1998). <a href="http://dx.doi.org/10.1016/s0024-3795(98)10032-0">doi</a>.</li>
+<li><a id="MagnussonEtAl2018">[MagnussonEtAl2018]</a> <a name="MagnussonEtAl2018"></a>Magnússon, Enyioha, Li, Fischione, & Tarokh, Communication Complexity of Dual Decomposition Methods for  Distributed Resource Allocation Optimization, <i>IEEE Journal of Selected Topics in Signal Processing</i>, <b>12(4)</b>, 717-732 (2018). <a href="http://dx.doi.org/10.1109/JSTSP.2018.2848718">doi</a>.</li>
+<li><a id="MorariaLee1999">[MorariaLee1999]</a> <a name="MorariaLee1999"></a>Manfred Moraria & Jay Lee, Model predictive control: past and present and future, in in: Computers and Chemical Engineering 23, edited by (1999)</li>
+<li><a id="NegenbornMaestre2014">[NegenbornMaestre2014]</a> <a name="NegenbornMaestre2014"></a>Negenborn & Maestre, Distributed Model Predictive Control: An Overview and Roadmap of  Future Research Opportunities, <i>IEEE Control Systems Magazine</i>, <b>34(4)</b>, 87-97 (2014). <a href="http://dx.doi.org/10.1109/MCS.2014.2320397">doi</a>.</li>
+<li><a id="PaulenEtAl2016">[PaulenEtAl2016]</a> <a name="PaulenEtAl2016"></a>Paulen, Nazari, Shahidi, Sonntag & Engell, Primal and dual decomposition for distributed MPC - Theory, implementation, and comparison in a SoS simulation framework, 286-291, in in: 2016 24th Mediterranean Conference on Control and Automation (MED), edited by (2016)</li>
+<li><a id="PenetEtAl2016">[PenetEtAl2016]</a> <a name="PenetEtAl2016"></a>Maxime Penet, Hervé Guéguen & Aziz Belmiloudi, Saddle point MPC approach to nonlinear robust sampled-data control  problem, <i>International Journal of Control, Automation and Systems</i>, <b>14(1)</b>, 78-89 (2016). <a href="http://dx.doi.org/10.1007/s12555-014-0233-y">doi</a>.</li>
+<li><a id="PflaumEtAl2014">[PflaumEtAl2014]</a> <a name="PflaumEtAl2014"></a>Pflaum, Alamir & Lamoudi, Comparison of a primal and a dual decomposition for distributed MPC in smart districts, 55-60, in in: 2014 IEEE International Conference on Smart Grid Communications (SmartGridComm), edited by (2014)</li>
+<li><a id="RuiFanEtAl2015">[RuiFanEtAl2015]</a> <a name="RuiFanEtAl2015"></a>Rui Fan, Huang, Shaobu Wang, Diao & Da Meng, Dynamic state estimation and parameter calibration of a DFIG using the ensemble Kalman filter, 1-5, in in: 2015 IEEE Power Energy Society General Meeting, edited by (2015)</li>
+<li><a id="SalehghaffariKhorrami2019">[SalehghaffariKhorrami2019]</a> <a name="SalehghaffariKhorrami2019"></a>Hossein Salehghaffari & Farshad Khorrami, An Optimal Defense Strategy Against Data Integrity Attacks In Smart Grids, in in: 2019 IEEE 58th Conference on Decision and Control (CDC) Palais des Congrès et des Expositions Nice Acropolis Nice, France, December 11-13, 2019, edited by IEEE (2019)</li>
+<li><a id="SeungEtAl2013">[SeungEtAl2013]</a> <a name="SeungEtAl2013"></a>Seung, Lee & Chong, Parameter estimation method for coupled tank system using Dual Extended Kalman filter, 1223-1228, in in: 2013 13th International Conference on Control, Automation and Systems (ICCAS 2013), edited by (2013)</li>
+<li><a id="WeiEtAl2017">[WeiEtAl2017]</a> <a name="WeiEtAl2017"></a>Wei, Xia & Luo, Parameter estimation and convergence analysis for a class of canonical dynamic systems by extended kalman filter, 336-340, in in: 2017 3rd IEEE International Conference on Control Science and Systems Engineering (ICCSSE), edited by (2017)</li>
+<li><a id="YildirimEtAl2020">[YildirimEtAl2020]</a> <a name="YildirimEtAl2020"></a>Yildirim, Sarsilmaz, Koru & Yucelen, On Control of Multiagent Systems in the Presence of a Misbehaving Agent, <i>IEEE Control Systems Letters</i>, <b>4(2)</b>, 456-461 (2020). <a href="http://dx.doi.org/10.1109/lcsys.2019.2948133">doi</a>.</li>
+<li><a id="YingEtAl2018">[YingEtAl2018]</a> <a name="YingEtAl2018"></a>Ying, Zhan & Chen, Multi-mode and distributed model predictive control for whole day train regulation, 703-708, in in: 2018 Chinese Automation Congress (CAC), edited by (2018)</li>
+<li><a id="ZangEtAl2017">[ZangEtAl2017]</a> <a name="ZangEtAl2017"></a>Zang, Wang, Sun & He, Variable parameter Kalman filter based dynamic harmonic state estimation for power systems with wind energy integration, 1-5, in in: 2017 IEEE Conference on Energy Internet and Energy System Integration (EI2), edited by (2017)</li>
+<li><a id="ZhengEtAl2006">[ZhengEtAl2006]</a> <a name="ZhengEtAl2006"></a>Zheng, Ikeda & Shimomura, Parameter Estimation of Rotary Inverted Pendulum based on Unscented Kalman Filter, 5022-5025, in in: 2006 SICE-ICASE International Joint Conference, edited by (2006)</li>
+<li><a id="ZhengEtAl2010">[ZhengEtAl2010]</a> <a name="ZhengEtAl2010"></a>BaoDong Zheng, LiJie Liang & ChunRui Zhang, Extended Jury criterion, <i>Science China Mathematics</i>, <b>53(4)</b>, 1133-1150 (2010). <a href="http://dx.doi.org/10.1007/s11425-009-0208-2">doi</a>.</li>
+<li><a id="DoerflerEtAl2019">[DoerflerEtAl2019]</a> <a name="DoerflerEtAl2019"></a>Dörfler, Bolognani, Simpson-Porco & Grammatico, Distributed Control and Optimization for Autonomous Power Grids, 2436-2453, in in: 2019 18th European Control Conference (ECC), edited by (2019)</li>
+<li><a id="PasqualettiEtAl2012">[PasqualettiEtAl2012]</a> <a name="PasqualettiEtAl2012"></a>Pasqualetti, Bicchi & Bullo, Consensus Computation in Unreliable Networks: A System Theoretic Approach, <i>IEEE Transactions on Automatic Control</i>, <b>57(1)</b>, 90-104 (2012). <a href="http://dx.doi.org/10.1109/TAC.2011.2158130">doi</a>.</li>
+<li><a id="SundaramHadjicostis2011">[SundaramHadjicostis2011]</a> <a name="SundaramHadjicostis2011"></a>Sundaram & Hadjicostis, Distributed Function Calculation via Linear Iterative Strategies in the Presence of Malicious Agents, <i>IEEE Transactions on Automatic Control</i>, <b>56(7)</b>, 1495-1508 (2011). <a href="http://dx.doi.org/10.1109/tac.2010.2088690">doi</a>.</li>
+<li><a id="Bouckaert2014">[Bouckaert2014]</a> <a name="Bouckaert2014"></a>Stéphanie Bouckaert, Contribution des Smart Grids à la transition énergétique : évaluation  dans des scénarios long terme, in edited by (2014)</li>
+<li><a id="SatoTakeda2020">[SatoTakeda2020]</a> <a name="SatoTakeda2020"></a>Sato & Takeda, Controllability Maximization of Large-Scale Systems Using Projected Gradient Method, <i>IEEE Control Systems Letters</i>, <b>4(4)</b>, 821-826 (2020). <a href="http://dx.doi.org/10.1109/lcsys.2020.2993983">doi</a>.</li>
+<li><a id="Mattioni2020">[Mattioni2020]</a> <a name="Mattioni2020"></a>Mattioni, On Multiconsensus of Multi-Agent Systems Under Aperiodic and Asynchronous Sampling, <i>IEEE Control Systems Letters</i>, <b>4(4)</b>, 839-844 (2020).</li>
+<li><a id="BarboniEtAl2020">[BarboniEtAl2020]</a> <a name="BarboniEtAl2020"></a>Barboni, Rezaee, Boem & Parisini, Detection of Covert Cyber-Attacks in Interconnected Systems: A Distributed Model-Based Approach, <i>IEEE Transactions on Automatic Control</i>, <b>65(9)</b>, 3728-3741 (2020). <a href="http://dx.doi.org/10.1109/tac.2020.2998765">doi</a>.</li>
+<li><a id="SuShahrampour2020">[SuShahrampour2020]</a> <a name="SuShahrampour2020"></a>Su & Shahrampour, Finite-Time Guarantees for Byzantine-Resilient Distributed State Estimation With Noisy Measurements, <i>IEEE Transactions on Automatic Control</i>, <b>65(9)</b>, 3758-3771 (2020). <a href="http://dx.doi.org/10.1109/tac.2019.2951686">doi</a>.</li>
+<li><a id="GalloEtAl2020">[GalloEtAl2020]</a> <a name="GalloEtAl2020"></a>Gallo, Turan, Boem, Parisini & Ferrari-Trecate, A Distributed Cyber-Attack Detection Scheme With Application to DC Microgrids, <i>IEEE Transactions on Automatic Control</i>, <b>65(9)</b>, 3800-3815 (2020). <a href="http://dx.doi.org/10.1109/tac.2020.2982577">doi</a>.</li>
+<li><a id="YuXiong2020">[YuXiong2020]</a> <a name="YuXiong2020"></a>Yu & Xiong, Distributed Networked Controller Design for Large-Scale Systems Under Round-Robin Communication Protocol, <i>IEEE Transactions on Control of Network Systems</i>, <b>7(3)</b>, 1201-1211 (2020). <a href="http://dx.doi.org/10.1109/tcns.2020.2966648">doi</a>.</li>
+<li><a id="YuXiong2020a">[YuXiong2020a]</a> <a name="YuXiong2020a"></a>Tao Yu & Junlin Xiong, Distributed consensus-based estimation and control of large-scale systems under gossip communication protocol, <i>Journal of the Franklin Institute</i>, <b>357(14)</b>, 10010 - 10026 (2020). <a href="http://www.sciencedirect.com/science/article/pii/S0016003220304877">link</a>. <a href="http://dx.doi.org/10.1016/j.jfranklin.2020.07.019">doi</a>.</li>
+<li><a id="DengWen2020">[DengWen2020]</a> <a name="DengWen2020"></a>Deng & Wen, Distributed Resilient Observer-Based Fault-Tolerant Control for Heterogeneous Multiagent Systems Under Actuator Faults and DoS Attacks, <i>IEEE Transactions on Control of Network Systems</i>, <b>7(3)</b>, 1308-1318 (2020). <a href="http://dx.doi.org/10.1109/tcns.2020.2972601">doi</a>.</li>
+<li><a id="LiuJiang2020">[LiuJiang2020]</a> <a name="LiuJiang2020"></a>Tengfei Liu & Zhong-Ping Jiang, Distributed control of multi-agent systems with pulse-width-modulated controllers, <i>Automatica</i>, <b>119</b>, 109020 (2020). <a href="http://www.sciencedirect.com/science/article/pii/S0005109820302181">link</a>. <a href="http://dx.doi.org/10.1016/j.automatica.2020.109020">doi</a>.</li>
+<li><a id="ZhaoEtAl2020">[ZhaoEtAl2020]</a> <a name="ZhaoEtAl2020"></a>Ling Zhao, Ying Li, Yuan Yuan & Huanhuan Yuan, Optimal power allocation for multiple DoS attackers in wireless networked control systems, <i>ISA Transactions</i>, <b>104</b>, 204 - 211 (2020). <a href="http://www.sciencedirect.com/science/article/pii/S0019057819300035">link</a>. <a href="http://dx.doi.org/10.1016/j.isatra.2019.01.006">doi</a>.</li>
+<li><a id="LiuDong2020">[LiuDong2020]</a> <a name="LiuDong2020"></a>Chunxiao Liu & Jiuxiang Dong, Simultaneous fault detection and containment control design for multi-agent systems with multi-leaders, <i>Journal of the Franklin Institute</i>, <b>357(13)</b>, 9063 - 9082 (2020). <a href="http://www.sciencedirect.com/science/article/pii/S0016003220304610">link</a>. <a href="http://dx.doi.org/10.1016/j.jfranklin.2020.07.001">doi</a>.</li>
+<li><a id="ChenLiu2020">[ChenLiu2020]</a> <a name="ChenLiu2020"></a>Dong-Liang Chen & Guo-Ping Liu, A networked predictive controller for linear multi-agent systems with communication time delays, <i>Journal of the Franklin Institute</i>, <b>357(14)</b>, 9442 - 9466 (2020). <a href="http://www.sciencedirect.com/science/article/pii/S0016003220305007">link</a>. <a href="http://dx.doi.org/10.1016/j.jfranklin.2020.07.020">doi</a>.</li>
+<li><a id="LiuEtAl2020">[LiuEtAl2020]</a> <a name="LiuEtAl2020"></a>Zhongxin Liu, Xingxia Wang, Fuyong Wang & Zengqiang Chen, Fault-tolerant consensus control with control allocation in a leader-following multi-agent system, <i>Journal of the Franklin Institute</i>, <b>357(14)</b>, 9614 - 9632 (2020). <a href="http://www.sciencedirect.com/science/article/pii/S0016003220305081">link</a>. <a href="http://dx.doi.org/10.1016/j.jfranklin.2020.07.029">doi</a>.</li>
+<li><a id="Hespanha2009">[Hespanha2009]</a> <a name="Hespanha2009"></a>João Hespanha, Linear Systems Theory, Princeton Press (2009).</li>
+<li><a id="WangEtAl2015">[WangEtAl2015]</a> <a name="WangEtAl2015"></a>Wang, O’Neill & Kamath, Dynamic Control and Optimization of Distributed Energy Resources in a Microgrid, <i>IEEE Transactions on Smart Grid</i>, <b>6(6)</b>, 2884-2894 (2015). <a href="http://dx.doi.org/10.1109/TSG.2015.2430286">doi</a>.</li>
+<li><a id="BaillieulAntsaklis2007">[BaillieulAntsaklis2007]</a> <a name="BaillieulAntsaklis2007"></a>Baillieul & Antsaklis, Control and Communication Challenges in Networked Real-Time Systems, <i>Proceedings of the IEEE</i>, <b>95(1)</b>, 9-28 (2007). <a href="http://dx.doi.org/10.1109/JPROC.2006.887290">doi</a>.</li>
+<li><a id="MoyneTilbury2007">[MoyneTilbury2007]</a> <a name="MoyneTilbury2007"></a>Moyne & Tilbury, The Emergence of Industrial Control Networks for Manufacturing Control, Diagnostics, and Safety Data, <i>Proceedings of the IEEE</i>, <b>95(1)</b>, 29-47 (2007). <a href="http://dx.doi.org/10.1109/JPROC.2006.887325">doi</a>.</li>
+<li><a id="Baillieul2002">[Baillieul2002]</a> <a name="Baillieul2002"></a>Baillieul, Feedback coding for information-based control: operating near the data-rate limit, 3229-3236 vol.3, in in: Proceedings of the 41st IEEE Conference on Decision and Control, 2002., edited by (2002)</li>
+<li><a id="ZhangEtAl2001">[ZhangEtAl2001]</a> <a name="ZhangEtAl2001"></a>Wei Zhang, Branicky & Phillips, Stability of networked control systems, <i>IEEE Control Systems Magazine</i>, <b>21(1)</b>, 84-99 (2001). <a href="http://dx.doi.org/10.1109/37.898794">doi</a>.</li>
+<li><a id="HespanhaEtAl2007">[HespanhaEtAl2007]</a> <a name="HespanhaEtAl2007"></a>Hespanha, Naghshtabrizi & Xu, A Survey of Recent Results in Networked Control Systems, <i>Proceedings of the IEEE</i>, <b>95(1)</b>, 138-162 (2007). <a href="http://dx.doi.org/10.1109/JPROC.2006.887288">doi</a>.</li>
+<li><a id="ZecevicSiljak2012">[ZecevicSiljak2012]</a> <a name="ZecevicSiljak2012"></a>Aleksandar Zecevic & Dragoslav Siljak, Control of Complex Systems, (2012).</li>
+<li><a id="Ouyang2020">[Ouyang2020]</a> <a name="Ouyang2020"></a>@MiscOuyang2020,
+  author        = Hui Ouyang,
+  title         = Projecting onto intersections of halfspaces and hyperplanes,
+  year          = 2020,
+  archiveprefix = arXiv,
+  eprint        = 2006.06995,
+  file          = :Ouyang2020.pdf:PDF,
+  keywords      = rank4, read,
+  primaryclass  = math.OC,
+  ranking       = rank4,
+  readstatus    = read,
+</li>
+<li><a id="ShiromotoEtAl2019">[ShiromotoEtAl2019]</a> <a name="ShiromotoEtAl2019"></a>Shiromoto, Revay & Manchester, Distributed Nonlinear Control Design Using Separable Control Contraction Metrics, <i>IEEE Transactions on Control of Network Systems</i>, <b>6(4)</b>, 1281-1290 (2019). <a href="http://dx.doi.org/10.1109/tcns.2018.2885270">doi</a>.</li>
+<li><a id="BoyleDykstra1986">[BoyleDykstra1986]</a> <a name="BoyleDykstra1986"></a>Boyle & Dykstra, A Method for Finding Projections onto the Intersection of Convex Sets in Hilbert Spaces, 28-47, in in: Advances in Order Restricted Statistical Inference, edited by Dykstra, Robertson & Wright, Springer New York (1986)</li>
+<li><a id="TanikawaMukai1983a">[TanikawaMukai1983a]</a> <a name="TanikawaMukai1983a"></a>Tanikawa & Mukai, New Lagrangian function for nonconvex primal-dual decomposition, <i>The 22nd IEEE Conference on Decision and Control</i>,  (1983). <a href="http://dx.doi.org/10.1109/cdc.1983.269658">doi</a>.</li>
+<li><a id="RajeshEtAl2013">[RajeshEtAl2013]</a> <a name="RajeshEtAl2013"></a>Rajesh, Bajaj, Dhiwaakar Purusothaman & Vijayaraghavan, Multi-agent system framework for rural Indian microgrids, 76-81, in in: 2013 IEEE Conference on Clean Energy and Technology (CEAT), edited by (2013)</li>
+<li><a id="SujilKumar2017">[SujilKumar2017]</a> <a name="SujilKumar2017"></a>Sujil & Kumar, Multi agent based energy management system for smart microgrid, 125-130, in in: 2017 Recent Developments in Control, Automation Power Engineering (RDCAPE), edited by (2017)</li>
+<li><a id="KuzinEtAl2020">[KuzinEtAl2020]</a> <a name="KuzinEtAl2020"></a>Kuzin, Demidova, Lukichev & Poliakov, Multi-Agent System for Distributed Energy Microgrid: Simulation and Hardware-in-the-Loop Physical Model, 462-466, in in: 2020 IEEE 14th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), edited by (2020)</li>
+<li><a id="MendhamClarke2005">[MendhamClarke2005]</a> <a name="MendhamClarke2005"></a>Peter Mendham & Tim Clarke, MACSIM: A SIMULINK ENABLED ENVIRONMENT FOR MULTI-AGENT SYSTEM SIMULATION, <i>IFAC Proceedings Volumes</i>, <b>38(1)</b>, 325 - 329 (2005). <a href="http://www.sciencedirect.com/science/article/pii/S1474667016371440">link</a>. <a href="http://dx.doi.org/10.3182/20050703-6-CZ-1902.01132">doi</a>.</li>
+<li><a id="DigraPandey2013">[DigraPandey2013]</a> <a name="DigraPandey2013"></a>Rohit Kumar Digra & Pandey, Multi-agent control coordination of Microgrid, 1-5, in in: 2013 Students Conference on Engineering and Systems (SCES), edited by (2013)</li>
+<li><a id="GuEtAl2016">[GuEtAl2016]</a> <a name="GuEtAl2016"></a>Gu, Yang, Chen, Chung, Wang, Chang, Lee, Chan & Hsu, Application of Multi-agent Systems to Microgrid Fault Protection Coordination, 188-191, in in: 2016 International Symposium on Computer, Consumer and Control (IS3C), edited by (2016)</li>
+<li><a id="BourdaisEtAl2012">[BourdaisEtAl2012]</a> <a name="BourdaisEtAl2012"></a>Romain Bourdais, Herv\'e Gu\'eguen & Aziz Belmiloudi, Distributed Model Predictive Control for a Class of Hybrid system based on Lagrangian Relaxation, <i>IFAC Proceedings Volumes</i>, <b>45(9)</b>, 46-51 (2012). <a href="http://dx.doi.org/10.3182/20120606-3-nl-3011.00006">doi</a>.</li>
+<li><a id="MukherjeeZelazo2019">[MukherjeeZelazo2019]</a> <a name="MukherjeeZelazo2019"></a>Mukherjee & Zelazo, Consensus of Higher Order Agents: Robustness and Heterogeneity, <i>IEEE Transactions on Control of Network Systems</i>, <b>6(4)</b>, 1323-1333 (2019). <a href="http://dx.doi.org/10.1109/tcns.2018.2889003">doi</a>.</li>
+<li><a id="LiceagaCastroEtAl2015">[LiceagaCastroEtAl2015]</a> <a name="LiceagaCastroEtAl2015"></a>Jes\'us Liceaga-Castro, Irma Siller-Alcal\'a, Eduardo Liceaga-Castro & Luis Am\'ezquita-Brooks, MIMO Passive Control Systems Are Not Necessarily Robust, <i>Journal of Control Science and Engineering</i>, <b>2015</b>, 551 - 568 (2015). <a href="http://dx.doi.org/10.1155/2015/508102">doi</a>.</li>
+<li><a id="OConnorVandenberghe2014">[OConnorVandenberghe2014]</a> <a name="OConnorVandenberghe2014"></a>O'Connor & Vandenberghe, Primal-Dual Decomposition by Operator Splitting and Applications to Image Deblurring, <i>SIAM Journal on Imaging Sciences</i>, <b>7(3)</b>, 1724-1754 (2014). <a href="http://dx.doi.org/10.1137/13094671X">doi</a>.</li>
+<li><a id="LinEtAl2020">[LinEtAl2020]</a> <a name="LinEtAl2020"></a>Lin, Wang, Han & Shen, State Estimation of Multichannel Networked Discrete Event Systems, <i>IEEE Transactions on Control of Network Systems</i>, <b>7(1)</b>, 53-63 (2020). <a href="http://dx.doi.org/10.1109/tcns.2019.2915024">doi</a>.</li>
+<li><a id="Bindra2017">[Bindra2017]</a> <a name="Bindra2017"></a>Bindra, Securing the Power Grid: Protecting Smart Grids and Connected Power Systems from Cyberattacks, <i>IEEE Power Electronics Magazine</i>, <b>4(3)</b>, 20-27 (2017). <a href="http://dx.doi.org/10.1109/mpel.2017.2719201">doi</a>.</li>
+<li><a id="ZhuMartinez2014">[ZhuMartinez2014]</a> <a name="ZhuMartinez2014"></a>Zhu & Martínez, On the Performance Analysis of Resilient Networked Control Systems Under Replay Attacks, <i>IEEE Transactions on Automatic Control</i>, <b>59(3)</b>, 804-808 (2014). <a href="http://dx.doi.org/10.1109/tac.2013.2279896">doi</a>.</li>
+<li><a id="DibajiIshii2015">[DibajiIshii2015]</a> <a name="DibajiIshii2015"></a>Dibaji & Ishii, Consensus of second-order multi-agent systems in the presence of locally bounded faults, <i>Systems & Control Letters</i>, <b>79</b>, 23-29 (2015). <a href="http://dx.doi.org/10.1016/j.sysconle.2015.02.005">doi</a>.</li>
+<li><a id="WuEtAl2018">[WuEtAl2018]</a> <a name="WuEtAl2018"></a>Wu, Albalawi, Zhang, Zhang, Durand & Christofides, Detecting and Handling Cyber-Attacks in Model Predictive Control of Chemical Processes, <i>Mathematics</i>, <b>6(10)</b>, (2018). <a href="https://www.mdpi.com/2227-7390/6/10/173">link</a>. <a href="http://dx.doi.org/10.3390/math6100173">doi</a>.</li>
+<li><a id="AnandutaEtAl2020">[AnandutaEtAl2020]</a> <a name="AnandutaEtAl2020"></a>Ananduta, Maestre, Ocampo-Martinez & Ishii, Resilient distributed model predictive control for energy management of interconnected microgrids, <i>Optimal Control Applications and Methods</i>, <b>41(1)</b>, 146-169 (2020). <a href="http://dx.doi.org/10.1002/oca.2534">doi</a>.</li>
+<li><a id="LuYang2020">[LuYang2020]</a> <a name="LuYang2020"></a>Lu & Yang, Secure State Estimation for Multiagent Systems With Faulty and Malicious Agents, <i>IEEE Transactions on Automatic Control</i>, <b>65(8)</b>, 3471-3485 (2020). <a href="http://dx.doi.org/10.1109/tac.2019.2945032">doi</a>.</li>
+<li><a id="WakaikiEtAl2020">[WakaikiEtAl2020]</a> <a name="WakaikiEtAl2020"></a>Wakaiki, Cetinkaya & Ishii, Stabilization of Networked Control Systems Under DoS Attacks and Output Quantization, <i>IEEE Transactions on Automatic Control</i>, <b>65(8)</b>, 3560-3575 (2020). <a href="http://dx.doi.org/10.1109/tac.2019.2949096">doi</a>.</li>
+<li><a id="ZhuZheng2020">[ZhuZheng2020]</a> <a name="ZhuZheng2020"></a>Zhu & Zheng, Observer-Based Control for Cyber-Physical Systems With Periodic DoS Attacks via a Cyclic Switching Strategy, <i>IEEE Transactions on Automatic Control</i>, <b>65(8)</b>, 3714-3721 (2020). <a href="http://dx.doi.org/10.1109/tac.2019.2953210">doi</a>.</li>
+<li><a id="BansalMukhija2020">[BansalMukhija2020]</a> <a name="BansalMukhija2020"></a>Bansal & Mukhija, Aperiodic sampled-data control of distributed networked control systems under stochastic cyber-attacks, <i>IEEE/CAA Journal of Automatica Sinica</i>, <b>7(4)</b>, 1064-1073 (2020). <a href="http://dx.doi.org/10.1109/jas.2020.1003249">doi</a>.</li>
+<li><a id="GossnerEtAl1997">[GossnerEtAl1997]</a> <a name="GossnerEtAl1997"></a>Gossner, Kouvaritakis & Rossiter, Stable generalized predictive control with constraints and bounded disturbances, <i>Automatica</i>, <b>33(4)</b>, 551 - 568 (1997). <a href="http://www.sciencedirect.com/science/article/pii/S0005109896002142">link</a>. <a href="http://dx.doi.org/10.1016/S0005-1098(96)00214-2">doi</a>.</li>
+<li><a id="RichardsHow2006">[RichardsHow2006]</a> <a name="RichardsHow2006"></a>Richards & How, Robust stable model predictive control with constraint tightening, 6 pp.-, in in: 2006 American Control Conference, edited by (2006)</li>
+<li><a id="YangEtAl2019">[YangEtAl2019]</a> <a name="YangEtAl2019"></a>Hongjiu Yang, Ying Li, Li Dai & Yuanqing Xia, MPC-based defense strategy for distributed networked control systems under DoS attacks, <i>Systems & Control Letters</i>, <b>128</b>, 9 - 18 (2019). <a href="http://www.sciencedirect.com/science/article/pii/S0167691119300507">link</a>. <a href="http://dx.doi.org/10.1016/j.sysconle.2019.04.001">doi</a>.</li>
+<li><a id="KolarijaniEtAl2020">[KolarijaniEtAl2020]</a> <a name="KolarijaniEtAl2020"></a>Kolarijani, Bregman, Esfahani & Keviczky, A Decentralized Event-Based Approach for Robust Model Predictive Control, <i>IEEE Transactions on Automatic Control</i>, <b>65(8)</b>, 3517-3529 (2020). <a href="http://dx.doi.org/10.1109/tac.2019.2945285">doi</a>.</li>
+<li><a id="LiuEtAl2019">[LiuEtAl2019]</a> <a name="LiuEtAl2019"></a>Liu, Wu, Yue & Park, Stabilization of Networked Control Systems With Hybrid-Driven Mechanism and Probabilistic Cyber Attacks, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>,  1-11 (2019). <a href="http://dx.doi.org/10.1109/tsmc.2018.2888633">doi</a>.</li>
+<li><a id="BraunEtAl2020">[BraunEtAl2020]</a> <a name="BraunEtAl2020"></a>Sarah Braun, Sebastian Albrecht & Sergio Lucia, A Hierarchical Attack Identification Method for Nonlinear Systems, in edited by (2020)</li>
+<li><a id="LiuEtAl2016">[LiuEtAl2016]</a> <a name="LiuEtAl2016"></a>Liu, Zha, Cao & Fei, Hybrid-driven-based stabilisation for networked control systems, <i>IET Control Theory Applications</i>, <b>10(17)</b>, 2279-2285 (2016). <a href="http://dx.doi.org/10.1049/iet-cta.2016.0392">doi</a>.</li>
+<li><a id="DingEtAl2018">[DingEtAl2018]</a> <a name="DingEtAl2018"></a>Derui Ding, Qing-Long Han, Yang Xiang, Xiaohua Ge & Xian-Ming Zhang, A survey on security control and attack detection for industrial cyber-physical systems, <i>Neurocomputing</i>, <b>275</b>, 1674 - 1683 (2018). <a href="http://www.sciencedirect.com/science/article/pii/S0925231217316351">link</a>. <a href="http://dx.doi.org/10.1016/j.neucom.2017.10.009">doi</a>.</li>
+<li><a id="HuangDong2020">[HuangDong2020]</a> <a name="HuangDong2020"></a>Xin Huang & Jiuxiang Dong, Learning-Based Switched Reliable Control of Cyber-Physical Systems With  Intermittent Communication Faults, <i>IEEE/CAA Journal of Automatica Sinica</i>, <b>7(JAS-2019-0436)</b>, 711 (2020). <a href="http://www.ieee-jas.org//article/id/80762014-accf-491d-8d6d-98a231b68e10">link</a>. <a href="http://dx.doi.org/10.1109/JAS.2020.1003141">doi</a>.</li>
+<li><a id="BoemEtAl2020">[BoemEtAl2020]</a> <a name="BoemEtAl2020"></a>Boem, Gallo, Raimondo & Parisini, Distributed Fault-Tolerant Control of Large-Scale Systems: An Active Fault Diagnosis Approach, <i>IEEE Transactions on Control of Network Systems</i>, <b>7(1)</b>, 288-301 (2020). <a href="http://dx.doi.org/10.1109/tcns.2019.2913557">doi</a>.</li>
+<li><a id="LeBlancEtAl2013">[LeBlancEtAl2013]</a> <a name="LeBlancEtAl2013"></a>Heath LeBlanc, Haotian Zhang, Xenofon Koutsoukos, & Shreyas Sundaram, Resilient Asymptotic Consensus in Robust Networks, <i>IEEE Journal on Selected Areas in Communications</i>, <b>31</b>, 766-781 (2013). <a href="http://dx.doi.org/10.1109/JSAC.2013.130413">doi</a>.</li>
+<li><a id="BoydEtAl2011">[BoydEtAl2011]</a> <a name="BoydEtAl2011"></a>Boyd, Parikh, Chu, Peleato & Eckstein, Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers, Now Publishers Inc. (2011).</li>
+<li><a id="BoydEtAl2015">[BoydEtAl2015]</a> <a name="BoydEtAl2015"></a>Stephen Boyd, Lin Xiao, Almir Mutapcic & Jacob Mattingley, Notes on Decomposition Methods, in in: Notes for EE364B, edited by Stanford University, (2015)</li>
+<li><a id="BoydVandenberghe2004">[BoydVandenberghe2004]</a> <a name="BoydVandenberghe2004"></a>Stephen Boyd & Vandenberghe, Convex Optimization, Cambridge University Press (2004).</li>
+<li><a id="VelardeEtAl2017b">[VelardeEtAl2017b]</a> <a name="VelardeEtAl2017b"></a>Velarde, Maestre, Ishii, & Negenborn, Vulnerabilities in Lagrange-Based DMPC in the Context of  Cyber-Security, 215-220, in in: 2017 IEEE International Conference on Autonomic Computing
+                  (ICAC), edited by (2017)</li>
+<li><a id="BiegelEtAl2012">[BiegelEtAl2012]</a> <a name="BiegelEtAl2012"></a>Benjamin Biegel, Palle Andersen, Jakob Stoustrup, Jan & Bendtsen, Congestion Management in a Smart Grid, in edited by (2012)</li>
+<li><a id="VelardeEtAl2017">[VelardeEtAl2017]</a> <a name="VelardeEtAl2017"></a>Pablo Velarde, Jos\'e Maestre, Hideaki Ishii & Rudy Negenborn, Vulnerabilities in Lagrange-based distributed model predictive control, <i>Optimal Control Applications and Methods</i>, <b>39(2)</b>, 601-621 (2017). <a href="http://dx.doi.org/10.1002/oca.2368">doi</a>.</li>
+<li><a id="VelardeEtAl2017a">[VelardeEtAl2017a]</a> <a name="VelardeEtAl2017a"></a>Velarde, Maestre, Ishii & Negenborn, Scenario-based defense mechanism for distributed model predictive control, 6171-6176, in in: 2017 IEEE 56th Annual Conference on Decision and Control (CDC), edited by (2017)</li>
+<li><a id="Jury1962">[Jury1962]</a> <a name="Jury1962"></a>Jury, A Simplified Stability Criterion for Linear Discrete Systems, <i>Proceedings of the IRE</i>, <b>50(6)</b>, 1493-1500 (1962). <a href="http://dx.doi.org/10.1109/JRPROC.1962.288193">doi</a>.</li>
+<li><a id="LandauEtAl2011">[LandauEtAl2011]</a> <a name="LandauEtAl2011"></a>Ioan Dor\'e Landau, Rogelio Lozano, Mohammed M'Saad & Alireza Karimi, Adaptive Control, Springer London (2011).</li>
+<li><a id="AranovskiyFreidovich2013">[AranovskiyFreidovich2013]</a> <a name="AranovskiyFreidovich2013"></a>Stanislav Aranovskiy & Leonid Freidovich, Adaptive compensation of disturbances formed as sums of sinusoidal signals with application to an active vibration control benchmark, <i>European Journal of Control</i>, <b>19(4)</b>, 253 - 265 (2013). <a href="http://www.sciencedirect.com/science/article/pii/S0947358013000733">link</a>. <a href="http://dx.doi.org/10.1016/j.ejcon.2013.05.008">doi</a>.</li>
+<li><a id="BittantiEtAl1990">[BittantiEtAl1990]</a> <a name="BittantiEtAl1990"></a>Bittanti, Bolzern & Campi, Recursive least-squares identification algorithms with incomplete excitation: convergence analysis and application to adaptive control, <i>IEEE Transactions on Automatic Control</i>, <b>35(12)</b>, 1371-1373 (1990).</li>
+<li><a id="Frangipani2015">[Frangipani2015]</a> <a name="Frangipani2015"></a>@ThesisFrangipani2015,
+  altyear = 2015,
+  author  = Frangipani de Oliveira Lima,Victor,
+  file    = Frangipani2015.pdf:PDF,
+  school  = Universidade Federal do Rio de Janeiro,
+  title   = Localização Submarina utilzando uma única referência acústiva via filtro UKF,
+  url     = http://www.pee.ufrj.br/index.php/pt/producao-academica/dissertacoes-de-mestrado/2015120902-2015120902/file,
+  year    = 2015,
+</li>
+<li><a id="Yamasaki2016">[Yamasaki2016]</a> <a name="Yamasaki2016"></a>@ThesisYamasaki2016,
+  author = P. R. Yamasaki,
+  title  = Controle Robusto Suave Aplicado ao Pouso de Quadrirrotores,
+  school = Universidade Federal do Rio de Janeiro,
+  year   = 2016,
+  file   = Yamasaki2016.pdf:Yamasaki2016.pdf:PDF,
+  url    = http://www.pee.ufrj.br/index.php/pt/producao-academica/dissertacoes-de-mestrado/2015120902-2015120902/file,
+</li>
+<li><a id="YimEtAl2012">[YimEtAl2012]</a> <a name="YimEtAl2012"></a>Yim, Seok & Lee, State estimation of the nonlinear suspension system based on nonlinear Kalman filter, 720-725, in in: 2012 12th International Conference on Control, Automation and Systems, edited by IEEE (2012)</li>
+<li><a id="AgbodjanEtAl2019">[AgbodjanEtAl2019]</a> <a name="AgbodjanEtAl2019"></a>Jesse-james Prince Agbodjan, Pierre Haessig, Romain Bourdais, & Hervé Guéguen, Resilience in energy management system: A study case, <i>IFAC-PapersOnLine</i>, <b>52(4)</b>, 395-400 (2019). <a href="http://dx.doi.org/10.1016/j.ifacol.2019.08.242">doi</a>.</li>
+<li><a id="TanikawaMukai1983">[TanikawaMukai1983]</a> <a name="TanikawaMukai1983"></a>@MiscTanikawaMukai1983,
+  author = A. Tanikawa and H. Mukai,
+  title  = A New Technique for Nonconvex Primal-Dual Decomposition of a Large-Scale Separable Optimization Problem,
+  year   = 1983,
+  doi    = 10.23919/acc.1983.4788235,
+  file   = :/home/nogueirar/these/leitura/bibliography/TanikawaMukai1983.pdf:PDF;TanikawaMukai1983.pdf:TanikawaMukai1983.pdf:PDF;TanikawaMukai1983.epub:TanikawaMukai1983.epub:ePUB,
+</li>
+<li><a id="GrimsmanEtAl2019">[GrimsmanEtAl2019]</a> <a name="GrimsmanEtAl2019"></a>Grimsman, Ali, Hespanha & Marden, The Impact of Information in Distributed Submodular Maximization, <i>IEEE Transactions on Control of Network Systems</i>, <b>6(4)</b>, 1334-1343 (2019). <a href="http://dx.doi.org/10.1109/tcns.2018.2889005">doi</a>.</li>
+<li><a id="AastroemWittenmark1989">[AastroemWittenmark1989]</a> <a name="AastroemWittenmark1989"></a>\AAstr\"om & Wittenmark, Adaptive Control, Addison-Wesley (1989).</li>
+<li><a id="KatewaEtAl2021">[KatewaEtAl2021]</a> <a name="KatewaEtAl2021"></a>Vaibhav Katewa, Rajasekhar Anguluri & Fabio Pasqualetti, On a security vs privacy trade-off in interconnected dynamical systems, <i>Automatica</i>, <b>125</b>, 109426 (2021). <a href="https://www.sciencedirect.com/science/article/pii/S0005109820306282">link</a>. <a href="http://dx.doi.org/10.1016/j.automatica.2020.109426">doi</a>.</li>
+<li><a id="AlessioBemporad2009">[AlessioBemporad2009]</a> <a name="AlessioBemporad2009"></a>Alessio & Bemporad, A Survey on Explicit Model Predictive Control, in: Nonlinear Model Predictive Control: Towards New Challenging Applications (pp. 345-369), Springer Berlin Heidelberg (2009), <a href="http://dx.doi.org/10.1007/978-3-642-01094-1_29">doi</a>.</li>
+<li><a id="ArabloueiEtAl2014">[ArabloueiEtAl2014]</a> <a name="ArabloueiEtAl2014"></a>Arablouei, Doğançay & Adalı, Unbiased Recursive Least-Squares Estimation Utilizing Dichotomous Coordinate-Descent Iterations, <i>IEEE Transactions on Signal Processing</i>, <b>62(11)</b>, 2973-2983 (2014). <a href="http://dx.doi.org/10.1109/TSP.2014.2316162">doi</a>.</li>
+<li><a id="ElGhaoui2002">[ElGhaoui2002]</a> <a name="ElGhaoui2002"></a>El Ghaoui, Inversion error, condition number, and approximate inverses of uncertain matrices, <i>Linear Algebra and its Applications</i>, <b>343-344</b>, 171-193 (2002). <a href="https://www.sciencedirect.com/science/article/pii/S0024379501002737">link</a>. <a href="http://dx.doi.org/10.1016/S0024-3795(01)00273-7">doi</a>.</li>
+</ul>
+</p>
+</div>
+</div>
+</div>
+</body>
+</html>

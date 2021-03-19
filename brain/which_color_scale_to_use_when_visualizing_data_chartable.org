@@ -1,0 +1,3 @@
+#+title: Which color scale to use when visualizing data | Chartable
+#+roam_key: https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/
+- tags :: [[file:20200427150436-data_visualization.org][data visualization]]

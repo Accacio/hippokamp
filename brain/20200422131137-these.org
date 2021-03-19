@@ -1,7 +1,6 @@
 #+TITLE: these
 #+OPTIONS: toc:nil
 - tags :: [[file:20200406135143-secure_dmpc.org][Secure dMPC]], [[file:20200427105830-cybersecurity.org][Cyber-Security]]
-
 #+BEGIN_SRC plantuml :file img/ganttThese.png
 printscale monthly
 Project starts the 1th of november 2019
@@ -47,7 +46,12 @@ Project starts the 1th of november 2019
 #+ATTR_LATEX: :width \textwidth
 #+RESULTS:
 
+* CSI
+
 * Words
 - mitigation
 * Ideias
-- se a variação de um tempo para outro for pequena pode tentar estimar o gradiente?? algo como expansão de taylor de 2 ordem
+** se a variação de um tempo para outro for pequena pode tentar estimar o gradiente?? algo como expansão de taylor de 2 ordem
+** verificar erro de estimação
+- $\|T-\hat T\|\leq\epsilon$
+- $\kappa(\hat T)=f(\kappa(T),\epsilon)$

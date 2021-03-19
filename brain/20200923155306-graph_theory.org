@@ -1,4 +1,5 @@
 #+title: Graph Theory
+#+OPTIONS: todo:nil num:nil timestamp:nil author:nil
 
 * Definitions
 ** <<<Graph>>>
@@ -40,7 +41,7 @@ A (sub)graph where every vertex has only 2 neighbors
 Is the number of colors needed to color the graph such adjacent vertices are colored with different colors.
 ** <<<Turán graph>>>
    A Turán graph $T(n,r)$ is a graph with $n$ vertices created by the algorithm:
-   1. Partition vertices into $r$ disjoint sets $C_1,\dos,C_r$ such $|C_i|-|C_j|\leq1$ $\forall i,j \in\{1,\dots,r\}$
+   1. Partition vertices into $r$ disjoint sets $C_1,\dots,C_r$ such $|C_i|-|C_j|\leq1$ $\forall i,j \in\{1,\dots,r\}$
    2. Create edges between nodes not withing the same set
 ** <<<chord>>>
 An edge that does not belong to a cycle but connects two of its vertices.

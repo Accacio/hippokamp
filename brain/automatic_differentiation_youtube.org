@@ -1,0 +1,17 @@
+#+title: Automatic Differentiation. - YouTube
+#+roam_key: https://www.youtube.com/watch?v=ZGSUrfJcXmA
+- tags :: [[file:20210315102208-automatic_differentiation.org][Automatic Differentiation]]
+
+
+* AD
+2 pillars:
+** Dual Numbers
+$z=a+b\epsilon$
+- matrix form :: $\left[\begin{matrix}a&b\\0&a\end{matrix}\right]$
+- conjugate :: $z=a+b\epsilon$, $z^\star=a-b\epsilon$, $zz^\star=a^2$
+- Interpretation :: scaling + shear
+*** Examples
+- $\epsilon^2$ :: $\epsilon^2=0$
+- $P(x+\epsilon)=P(x)+\epsilon{dP(x)\over dx}$
+- $sin(x+\epsilon)$ :: $cos(\epsilon)=0$
+- In general if $f$ differentiable :: $f(x+\epsilon)=f(x)+\epsilon{df(x)\over dx}$

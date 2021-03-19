@@ -1,0 +1,16 @@
+#+TITLE: Fondamenti di Automatica - networked control
+#+ROAM_KEY: https://farina.faculty.polimi.it/NetCont.html
+- tag :: [[file:20200608100448-networked_control.org][networked control]]
+https://farina.faculty.polimi.it/NetCont.html
+
+* Leitura
+:PROPERTIES:
+:ID:       400d8bf5-9cdd-4cd3-97e6-e31185f2e75c
+:END:
+- cite:BaillieulAntsaklis2007
+- cite:MoyneTilbury2007
+- cite:Baillieul2002
+- cite:ZhangEtAl2001
+- cite:HespanhaEtAl2007
+- cite:ZecevicSiljak2012
+- J. Lunze. Feedback Control of Large-Scale Systems. Prentice Hall International Series in Systems and Control Engineering, 1992.

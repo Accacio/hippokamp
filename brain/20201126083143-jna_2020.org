@@ -79,9 +79,9 @@ robot trajectory planners or CPS controllers may
 ***** Deception | integrity
 ***** Disruption | availability
 **** Models
-y_a=y(t-T)
-y_a=null
-y_a=y(t)+a(t)
+$y_a=y(t-T)$
+$y_a=null$
+$y_a=y(t)+a(t)$
 stealthy plausible
 **** Mitigation
 FDI FTC methods and algorithms are good candidates

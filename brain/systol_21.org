@@ -8,8 +8,8 @@
 *** cite:BittantiEtAl1990 can help to show that the projection of the estimation error onto the excitation subspace
 - unexcitation subspace :: $\bar{\mathcal{E}}=\{x\in\mathbb{R}^n| \existsL<\infty:x'\sum\limits^N_1 \phi(t)\phi(t)'x<L,\forall N\}$
 - excitation subspace :: $\mathcal{E}=\bar{\mathcal{E}}^{\perp}$
-*** cite:AstromWittenmark1989
-- [[file:AstromWittenmark1989.org::*Theorem 3.2 :][Theorem 3.2 :]]
+*** cite:AastroemWittenmark1989
+- [[file:AastroemWittenmark1989.org][Theorem 3.2 :]]
   + LS has no bias
   + depends on $(\Phi^T\Phi)^{-1}$
 *** cite:ArabloueiEtAl2014

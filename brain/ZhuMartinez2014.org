@@ -42,12 +42,8 @@
 :ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-1
 :END:
 
-F. Pasqualetti, A. Bicchi, and F. Bullo, “Consensus computation in un-
-reliable networks: A system theoretic approach,” IEEE Trans. Autom.
-Control, vol. 57, no. 1, pp. 90–104, Jan. 2012
-S. Sundaram and C. N. Hadjicostis, “Distributed function calculation
-via linear iterative strategies in the presence of malicious agents,” IEEE
-Trans. Autom. Control, vol. 56, no. 7, pp. 1731–1742, Jul. 2011.
+- cite:PasqualettiEtAl2012
+- cite:SundaramHadjicostis2011
 
 *** deception attacks
 :PROPERTIES:
@@ -55,37 +51,20 @@ Trans. Autom. Control, vol. 56, no. 7, pp. 1731–1742, Jul. 2011.
 :ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-2
 :END:
 32 33
-S. Amin, X. Litrico, S. S. Sastry, and A. M. Bayen, “Stealthy deception
-attacks on water SCADA systems,” in Hybrid Systems: Computation
-and Control. Stockholm, Sweden: Springer, 2010, pp. 161–170.
 
-M. Zhu and S. Martínez, “Attack-resilient distributed formation control
-via online adaptation,” in IEEE Int. Conf. on Decision and Control,
-Orlando, FL, Dec. 2011, pp. 6624–6629.
-
-M. Zhu and S. Martínez, “Stackelberg game analysis of correlated at-
-tacks in cyber-physical system,” in Proc. American Control Conf., Jun.
-2011, pp. 4063–4068.
+- cite:AminEtAl2010
+- cite:ZhuMartinez2011
+- cite:ZhuMartinez2011a
 
 *** denial of service
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.04;;annot-1-3]]
 :ID:       ../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-3
 :END:
-S. Amin, A. Cardenas, and S. S. Sastry, “Safe and secure networked
-control systems under denial-of-service attacks,” in Hybrid Systems:
-Computation and Control. Stockholm, Sweden: Springer, 2009, pp.
-31–45.
-S. Amin, G. A. Schwartz, and S. S. Sastry, “Security of interdepen-
-dent and identical networked control systems,” Automatica, vol. 49,
-pp. 186–192, 2013.
-G. K. Befekadu, V. Gupta, and P. J. Antsaklis, “Risk-sensitive control
-under a class of denial-of-service attack models,” in Proc. American
-Control Conf., San Francisco, CA, Jun. 2011, pp. 643–648.
-A. Gupta, C. Langbort, and T. Basar, “Optimal control in the presence
-of an intelligent jammer with limited actions,” in Proc. IEEE Int. Conf.
-Decision and Control, Atlanta, GA, Dec. 2010, pp. 1096–1101
-
+- cite:AminEtAl2009
+- cite:AminEtAl2013
+- cite:BefekaduEtAl2011
+- cite:GuptaEtAl2010
 *** zero-sum game between the controller and the jammer
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.04;;annot-1-4]]

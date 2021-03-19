@@ -33,7 +33,7 @@
 :ID:       ../docsThese/bibliography/AranovskiyFreidovich2013.pdf-annot-4-31
 :END:
 
-- cite:AstromWittenmark1989 p 53 , 5
+- cite:AastroemWittenmark1989 p 53 , 5
 - cite:BittantiEtAl1990
 
 *** identification-based adaptive tuning of coefficients with unknown disturbance

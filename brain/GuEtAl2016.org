@@ -1,7 +1,3 @@
-* GuEtAl2016
-:PROPERTIES:
-:NOTER_DOCUMENT: ../docsThese/bibliography/GuEtAl2016.pdf
-:END:
 #+TITLE: GuEtAl2016: Application of multi-agent systems to microgrid fault protection coordination
 #+ROAM_KEY: cite:GuEtAl2016
 #+ROAM_TAGS: article

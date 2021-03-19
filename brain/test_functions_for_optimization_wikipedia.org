@@ -1,0 +1,3 @@
+#+title: Test functions for optimization - Wikipedia
+#+roam_key: https://en.wikipedia.org/wiki/Test_functions_for_optimization
+- tags :: [[file:20200709102805-optimization.org][Optimization]]

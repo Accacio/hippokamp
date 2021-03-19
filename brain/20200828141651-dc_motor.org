@@ -2,7 +2,7 @@
 - tags :: [[file:20200828141710-physics.org][Physics]], [[file:20200828141718-modelling.org][Modelling]]
 
 * Model
-#+HEADER: :file img/contour.png :imagemagick yes
+#+HEADER: :file ../img/contour.png :imagemagick yes
 #+HEADER: :results file raw :headers '("\\usepackage{tikz}\\usepackage[american]{circuitikz}\\usetikzlibrary{decorations.pathreplacing}")
 #+HEADER: :fit yes :imoutoptions -geometry 800 :iminoptions -density 1400
 #+BEGIN_src latex
@@ -124,7 +124,7 @@
 
 #+Caption: DC Motor (modified from Mathias Busse)
 #+RESULTS:
-[[file:img/contour.png]]
+[[file:../img/contour.png]]
 1. Electromagnetic equations
    - KLL :: $${di(t)\over dt}={1\over L}[v(t)-Ri(t)-e(t)]$$
 2. Electro/mechanic conversion

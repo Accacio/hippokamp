@@ -1,0 +1,10 @@
+#+title: Qualification MCU
+- tags :: [[file:20200424101435-education.org][education]]
+* Requisitos
+- 96h de formation
+- plus d'une page sur enseignement
+- 2 these de conference 3 ans
+- 4 ans journal
+* Formation
+ - 18h TP
+ - 10h Projets

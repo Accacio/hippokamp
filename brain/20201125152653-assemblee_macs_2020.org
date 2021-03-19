@@ -14,11 +14,11 @@ https://partage.laas.fr/owncloud/index.php/s/ZhiCHFcNdb9MhPY
 
 * CNU
 Thierry Divoux
-** Qualification MCU
-96h de formation
-plus d'une page sur enseignement
-2 these de conference 3 ans
-4 ans journal
+** [[file:20210318094149-qualification_mcu.org][Qualification MCU]]
+- 96h de formation
+- plus d'une page sur enseignement
+- 2 these de conference 3 ans
+- 4 ans journal
 ** CRCT
 Procurar
 ** Promotion

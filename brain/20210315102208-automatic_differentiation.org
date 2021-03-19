@@ -1,0 +1,2 @@
+#+title: Automatic Differentiation
+- tags :: [[file:20200709102805-optimization.org][Optimization]]

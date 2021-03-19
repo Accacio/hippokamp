@@ -1,0 +1,29 @@
+#+title: Meal Planning
+- tags :: comidinhas
+
+* Comida
+** Sites de Receitas
+- https://quitoque.fr
+- https://www.panelinha.com.br/
+** Receitas
+- [[https://www.quitoque.fr/recette/5063/burger-veggie-au-saint-marcellin-coleslaw-a-la-pomme][Burger à la tomme du Jura et avocat]]
+- [[https://www.quitoque.fr/recette/5083/croque-cheddar-champignons-et-epinards][Croque cheddar, champignons et épinards]]
+- [[https://www.quitoque.fr/recette/5072/spaghetti-au-poulet-et-a-la-moutarde][Penne carbonara végétale au tofu fumé]]
+- [[https://www.quitoque.fr/recette/4414/grilled-cheese-a-la-mozzarella-dop-pistou-de-basilic-et-epinards][Grilled cheese à la mozzarella DOP, pistou de basilic et épinards]]
+- [[https://www.panelinha.com.br/receita/Lasanha-de-ricota-com-espinafre][Lasanha de ricota com espinafre]]
+- [[https://www.thekitchn.com/recipe-butternut-squash-fettucine-alfredo-238127][Butternut Squash Fettuccine Alfredo]]
+- [[https://www.quitoque.fr/recette/5198/flammekueche-aux-deux-oignons-et-tofu-fume][Flammeküche]]
+- [[https://www.thekitchn.com/recipe-recommendation-risotto-71489][Risotto with Squash and Sage]]
+- [[https://www.panelinha.com.br/receita/Risoto-de-gorgonzola-e-pera][Risoto de gorgonzola e pêra]]
+- [[https://www.panelinha.com.br/receita/Torradinha-de-alho][Torradinha de alho]]
+- [[https://www.panelinha.com.br/receita/omelete-de-forno-salada-morna-de-tomate][omelete de forno salada morna de tomate]]
+- [[https://www.panelinha.com.br/receita/Crocante-parmesao][Crocante Parmesão]]
+- [[https://www.panelinha.com.br/receita/Risoto-de-alho-poro-acompanhado-de-linguicinha-calabresa][Risoto de alho-poró com linguicinha calabresa]]
+** Sobremesa
+- [[https://www.quitoque.fr/recette/2903/creme-chocolat-a-lavocat-et-cacahuetes-caramelisees-au-sesame][Crème chocolat à l'avocat et cacahuètes caramélisées au sésame]]
+
+* Organização
+** Banco de dados?
+** Excel
+- Estoque
+- Compras

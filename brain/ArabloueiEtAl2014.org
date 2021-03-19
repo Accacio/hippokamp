@@ -45,7 +45,7 @@
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::1++3.55;;annot-1-2]]
 :ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-2
 :END:
- but in AstromWittenmark1989 it supposes a i.i.d noise
+ but in AastroemWittenmark1989 it supposes a i.i.d noise
 
 *** TLS is unbiased when input and output have mean zero and are i.i.d and uncorrelated
 :PROPERTIES:

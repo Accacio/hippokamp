@@ -5,5 +5,5 @@
 
 * Resource allocation
 ** inequalities
-- even when $lambda$ is zero the projection onto the constraint set advances the
+- even when $\lambda$ is zero the projection onto the constraint set advances the
   algorithm to convergence

@@ -109,9 +109,8 @@ z^k&=&z^{k-1}+\rho(y^k-x^k)
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-16]]
 :ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-16
 :END:
-A. Glowinski and A. Marrocco, Sur l’approximation, par éléments finis d’ordre un, et la résolution, par pénalisation-dualité d’une classe de problèmes de Dirichlet non linéaires, Revue Française Au- tomat. Informat. Recherche Opérationnelle RAIRO Anal. Numer., 9 (1975), pp. 41–76.
-B. Gabay and B. Mercier, A dual algorithm for the solution of nonlinear variational problems via finite element approximation, Comput. Math. Appl., 2 (1976), pp. 17–40.
-
+- cite:GlowinskiMarroco1975
+- cite:GabayMercier1976
 *** Relation between [[file:admm.org][ADMM]] and Douglas Rachford
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-17]]
@@ -123,8 +122,8 @@ B. Gabay and B. Mercier, A dual algorithm for the solution of nonlinear variatio
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-18]]
 :ID:       ../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-18
 :END:
-J. Eckstein, Augmented Lagrangian and Alternating Minimization Methods for Convex Optimization: A Tutorial and Some Illustrative Computational Results, Tech. report RRR 32-2012, Rutgers Center for Operations Research, Rutgers University, New Brunswick, NJ, 2012.
-S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein, Distributed optimization and statistical learning via the alternating direction method of multipliers, Found. Trends Machine Learning, 3 (2011), pp. 1–122.
+- cite:Eckstein2012
+- cite:BoydEtAl2011
 
 *** deblurring problem
 :PROPERTIES:

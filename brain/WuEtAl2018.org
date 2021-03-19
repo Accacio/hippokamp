@@ -58,7 +58,7 @@ Satchidanandan, B.; Kumar, P.R. Dynamic watermarking: Active defense of networke
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::2++0.03;;annot-2-17]]
 :ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-2-17
 :END:
-Ding, D.; Han, Q.L.; Xiang, Y.; Ge, X.; Zhang, X.M. A survey on security control and attack detection for industrial cyber-physical systems. Neurocomputing 2018, 275, 1674–1683.
+cite:DingEtAl2018
 
 *** continuous time non-linear system
 :PROPERTIES:

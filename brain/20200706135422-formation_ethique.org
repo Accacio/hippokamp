@@ -1,6 +1,8 @@
 #+title: Formation Ethique
 - tags :: [[file:formations_these.org][Formations Doctorat]], [[file:20200706142234-ethique.org][Ethique]]
 
+<2020-07-17 ven.>
+
 * Théories Morales
 ** Example Tramway sans freins
 
