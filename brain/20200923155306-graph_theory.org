@@ -2,50 +2,60 @@
 #+OPTIONS: todo:nil num:nil timestamp:nil author:nil
 
 * Definitions
-** <<<Graph>>>
+
+- <<<Graph>>> ::
 A graph $\mathcal{X}$ consists of a vertex set $V(\mathcal{X})$ and an edge set $E(\mathcal{X})$.
-** <<<Edge>>>
+
+- <<<Edge>>> ::
 An edge is an unordered pair of vertices of $V(\mathcal{X})$
-** <<induced subgraph>>
+
+- <<induced subgraph>> ::
 Graph created from vertices and edges from the original graph
-** <<<Path>>>
+
+- <<<Path>>> ::
 A path is a sequence of distinct edges connecting 2 vertices.
 Length of a path is the number of such edges
 
-** <<<Neighbor>>> vertex
+- <<<Neighbor>>> vertex ::
 Adjacent vertex (connected by an edge)
 
-** <<<Complete Graph>>>
+- <<<Complete Graph>>> ::
 A graph which every pair of vertices is adjacent $K_v$
-** <<<Clique>>>
+
+- <<<Clique>>> ::
 Subset of vertices of undirected graph which <<induced subgraph>> is complete
 
-** <<<Distance>>> between vertices
+- <<<Distance>>> between vertices ::
 The distance $d_\mathcal{X}(x,y)$ is the length of the shortest path from $x$ to $y$.
 
-** <<<Complement>>> of a graph
+- <<<Complement>>> of a graph ::
 A complement $\bar{\mathcal{X}}$ of a graph $\mathcal{X}$ has the same vertex set as $\mathcal{X}$ but its edge set is equal to $E(K_{|V(\mathcal{X})|})\setminus E(\mathcal{X})$.
 
-** Empty
+- Empty graph ::
 No edges
 
-** Null
+- Null graph ::
 No edges nor vertices
 
-** (Dis)<<<Connected Graph>>>
+- (Dis)<<<Connected Graph>>> ::
 A graph where there is (not) a path between any two vertices of the graph
 
-** <<<Cycle>>>
+- <<<Cycle>>> ::
 A (sub)graph where every vertex has only 2 neighbors
-** <<<Chromatic>>> number $\chi(\mathcal{X})$
+
+- <<<Chromatic>>> number $\chi(\mathcal{X})$ ::
 Is the number of colors needed to color the graph such adjacent vertices are colored with different colors.
-** <<<Turán graph>>>
+
+- <<<Turán graph>>> ::
    A Turán graph $T(n,r)$ is a graph with $n$ vertices created by the algorithm:
    1. Partition vertices into $r$ disjoint sets $C_1,\dots,C_r$ such $|C_i|-|C_j|\leq1$ $\forall i,j \in\{1,\dots,r\}$
    2. Create edges between nodes not withing the same set
-** <<<chord>>>
+
+- <<<chord>>> ::
 An edge that does not belong to a cycle but connects two of its vertices.
-** <<<Chordal>>> graph
+
+- <<<Chordal>>> graph ::
 A graph in which each cycle of four or more vertice has a chord
-** Tree decomposition
+
+- Tree decomposition ::
  mapping of a graph into a tree where each node is a clique of the original graph.

@@ -1,1 +1,7 @@
 #+title: Statistics
+
+* Definitions
+- <<<random>>>ness :: lack of pattern or predictability
+- <<<random variable>>> :: variable whose values depend on random phenomenon
+- <<<covariance>>> $\mathrm{cov}(X,Y)$ :: Joint variability of two random variables
+- <<<variance>>> $\mathrm{var}(X)$ :: Joint variability of two identical random variables $\mathrm{var}(X)=\mathrm{cov}(X,X)$

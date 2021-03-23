@@ -1,0 +1,3 @@
+#+title: Save data using SQLite  |  Android Developers
+#+roam_key: https://developer.android.com/training/data-storage/sqlite
+- tags :: [[file:20210323095317-android.org][Android]], [[file:20200713160350-programming.org][Programming]], [[file:20210323095414-sql.org][SQL]]

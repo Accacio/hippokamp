@@ -2,7 +2,7 @@
 #+ROAM_KEY: cite:Frangipani2015
 #+ROAM_TAGS: thesis
 
-- tag :: [[file:20200422140353-estimation.org][estimation]]
+- tag :: [[file:20200422140353-estimation.org][Estimation]]
 
 * Frangipani2015
 :PROPERTIES:

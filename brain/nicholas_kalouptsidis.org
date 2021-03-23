@@ -1,0 +1,4 @@
+#+title: Nicholas Kalouptsidis
+#+roam_key: http://cgi.di.uoa.gr/~kalou/Welcome.html
+#+roam_tags: people
+#+roam_alias: "Kalouptsidis, N."

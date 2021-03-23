@@ -2,7 +2,7 @@
 #+ROAM_KEY: cite:LandauEtAl2011
 #+ROAM_TAGS: book
 
-- tags :: [[file:20200504162654-adaptive_control.org][adaptive control]], [[file:20200422140353-estimation.org][estimation]]
+- tags :: [[file:20200504162654-adaptive_control.org][Adaptive Control]], [[file:20200422140353-estimation.org][Estimation]]
 
 * LandauEtAl2011
 :PROPERTIES:

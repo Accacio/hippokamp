@@ -47,7 +47,8 @@ Project starts the 1th of november 2019
 #+RESULTS:
 
 * CSI
-
+- [[file:~/docsThese/docs/org/slideCSI-2020.org][2020]]
+- [[file:~/docsThese/docs/org/slideCSI-2021.org][2021]]
 * Words
 - mitigation
 * Ideias

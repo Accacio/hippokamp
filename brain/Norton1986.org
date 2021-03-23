@@ -1,0 +1,38 @@
+#+TITLE: Norton1986
+#+ROAM_KEY: cite:Norton1986
+#+ROAM_TAGS: book
+
+- tags ::
+- keywords :: [[file:20210323094314-identification.org][Identification]], [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]
+
+
+* An introduction to identification
+  :PROPERTIES:
+  :Custom_ID: Norton1986
+  :URL:
+  :AUTHOR: Norton, J. P.
+  :NOTER_DOCUMENT: %![Error: (wrong-type-argument stringp nil)]
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+*** Avoid linear dependece between regressors
+[[file:20210323110015-ordinary_least_squares.org][ordinary Least Squares]]
+#+begin_quote
+Two lessons can be drawn from Example 4.1.2. First, the model and the
+observation co-ordinates should be chosen to avoid approaching linear dependence
+between the regressors. Second, the sensitivity of the model coefficient
+estimates to noise may be much higher than that of the goodness of fit. The
+importance of avoiding high sensitivity varies according to whether interest
+centres on the accuracy of the coefficients or their ability to fit the
+observations.
+#+end_quote

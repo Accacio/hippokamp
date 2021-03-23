@@ -1,0 +1,2 @@
+#+title: SQL
+- tags :: [[file:20210323095435-database.org][Database]]

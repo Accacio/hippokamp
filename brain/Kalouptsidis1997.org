@@ -1,0 +1,28 @@
+#+TITLE: Kalouptsidis1997
+#+ROAM_KEY: cite:Kalouptsidis1997
+#+ROAM_TAGS: book
+
+- tags ::
+- keywords :: [[file:20210323094217-signal_processing.org][Signal Processing]], [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]
+
+- author :: [[file:nicholas_kalouptsidis.org][Nicholas Kalouptsidis]]
+
+* Signal Processing Systems
+  :PROPERTIES:
+  :Custom_ID: Kalouptsidis1997
+  :URL:
+  :AUTHOR: Kalouptsidis, N.
+  :NOTER_DOCUMENT: %![Error: (wrong-type-argument stringp nil)]
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES

@@ -1,8 +1,8 @@
-#+TITLE: AastromWittenmark1989: Adaptive Control
+#+TITLE: AastroemWittenmark1989: Adaptive Control
 #+ROAM_KEY: cite:AAstroemWittenmark1989
 #+ROAM_TAGS: book
 
-- tags :: [[file:20200504162654-adaptive_control.org][adaptive control]], [[file:20200422140353-estimation.org][estimation]]
+- tags :: [[file:20200504162654-adaptive_control.org][Adaptive Control]], [[file:20200422140353-estimation.org][Estimation]], [[file:20210323094314-identification.org][Identification]]
 - keywords ::
 
 
@@ -11,7 +11,7 @@
   :Custom_ID: AastroemWittenmark1989
   :URL: https://books.google.fr/books?id=VJ0eAQAAIAAJ
   :AUTHOR: \AAstr\"om, K.J., & Wittenmark, B.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/AastroemWittenmark1989.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/AastroemWittenmark1989.pdf
   :NOTER_PAGE:
   :END:
 

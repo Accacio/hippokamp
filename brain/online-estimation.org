@@ -1,5 +1,5 @@
 #+TITLE: online estimation
-- tags :: [[file:20200422140353-estimation.org][estimation]]
+- tags :: [[file:20200422140353-estimation.org][Estimation]]
 
 * recursive polynomial model estimator <= linear system
 * recursive  least squares estimator <= linear + nonlinear system

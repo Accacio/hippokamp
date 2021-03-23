@@ -1,2 +1,2 @@
-#+TITLE: adaptive control
+#+TITLE: Adaptive Control
  - tag :: [[file:20200504164021-control.org][control]]

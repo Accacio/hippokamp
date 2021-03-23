@@ -1,0 +1,6 @@
+#+title: ordinary Least Squares
+
+- regressands :: observed variable $y$
+- regressors :: observed variables $u$
+
+  $y=f(u,\theta)+e$

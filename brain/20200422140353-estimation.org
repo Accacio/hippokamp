@@ -1,2 +1,2 @@
-#+TITLE: estimation
+#+TITLE: Estimation
 #+ROAM_ALIAS: "Parameter Estimation"

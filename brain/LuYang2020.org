@@ -2,7 +2,7 @@
 #+ROAM_KEY: cite:LuYang2020
 #+ROAM_TAGS: article
 
-- tags :: [[file:20200422140353-estimation.org][estimation]], [[file:20200908140517-multi_agents.org][Multi-Agents]]
+- tags :: [[file:20200422140353-estimation.org][Estimation]], [[file:20200908140517-multi_agents.org][Multi-Agents]]
 - keywords ::
 
 
@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-State [[file:20200422140353-estimation.org][estimation]] of NCS, with faulty and malicious agents based on [[file:20200828102813-least_squares.org][Least-squares]]
+State [[file:20200422140353-estimation.org][Estimation]] of NCS, with faulty and malicious agents based on [[file:20200828102813-least_squares.org][Least-squares]]
 *** Model :lightSkyblue:
 - [[file:20200608100448-networked_control.org][Networked Control]] directed graph $\mathbb{G}=\{\mathbb{V}, \mathbb{E}\}$
 - single state without input
