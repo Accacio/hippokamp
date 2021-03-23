@@ -459,7 +459,7 @@ pag 37
 + Convergence of adaptive recursive least-squares algorithms
 *** READ cite:Frangipani2015
 [[note:Frangipani2015][org]] [[pdf:Frangipani2015][pdf]] [[mobi:Frangipani2015][mobi]] [[epub:Frangipani2015][epub]]
-+ Localização submarina utilizando uma única referência acústica via filtro UKF
++ Submarine Localization using one unique acoustique reference via UKF
 *** READ cite:Yamasaki2016
 [[note:Yamasaki2016][org]] [[pdf:Yamasaki2016][pdf]] [[mobi:Yamasaki2016][mobi]] [[epub:Yamasaki2016][epub]]
 + Adaptive robust altitude control scheme based on a smooth sliding mode controller
