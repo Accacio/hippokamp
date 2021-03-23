@@ -1,5 +1,6 @@
 #+title: ordinary Least Squares
 
+* Definitions
 - regressands :: observed variable $y$
 - regressors :: observed variables $u$
 
