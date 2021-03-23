@@ -1,0 +1,4 @@
+#+title: CTAN: Package chapterbib
+#+roam_key: https://www.ctan.org/pkg/chapterbib
+- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]
+  multiple bibliographies in a document
