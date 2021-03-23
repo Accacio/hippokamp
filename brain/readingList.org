@@ -4,10 +4,12 @@
 #+LINK: mobi file:~/docsThese/bibliography/%s.mobi
 #+LINK: epub file:~/docsThese/bibliography/%s.epub
 #+STARTUP: content
-#+OPTIONS: todo:nil num:nil timestamp:nil author:nil
+#+latex_header: \usepackage{natbib}
+#+OPTIONS: todo:nil num:nil timestamp:nil author:nil toc:nil
 #+roam_tags: organization
 
 #+TODO: TOREAD(t) READING(r) | READ(d) SKIMMED(s)
+
 - tags :: [[file:20200422131137-these.org][these]]
 
 * Kanban :noexport:
@@ -148,9 +150,9 @@
 |                                |                 | [[*cite:ElGhaoui2002][cite:ElGhaoui2002]]             |                             |
 #+END:
 
-* Articles
+* Articles 
 ** To read
-*** READING cite:Iiduka2019
+*** READING cite:Iiduka2019 
 [[note:Iiduka2019][org]] [[pdf:Iiduka2019][pdf]] [[mobi:Iiduka2019][mobi]] [[epub:Iiduka2019][epub]]
 *** TOREAD cite:ZhuEtAl2011
 [[note:ZhuEtAl2011][org]] [[pdf:ZhuEtAl2011][pdf]] [[mobi:ZhuEtAl2011][mobi]] [[epub:ZhuEtAl2011][epub]]
@@ -459,7 +461,9 @@ pag 37
 + Convergence of adaptive recursive least-squares algorithms
 *** READ cite:Frangipani2015
 [[note:Frangipani2015][org]] [[pdf:Frangipani2015][pdf]] [[mobi:Frangipani2015][mobi]] [[epub:Frangipani2015][epub]]
-+ Submarine Localization using one unique acoustique reference via UKF
+- Localização submarina utilzando uma
+  única referência acústiva via filtro UKF.
+
 *** READ cite:Yamasaki2016
 [[note:Yamasaki2016][org]] [[pdf:Yamasaki2016][pdf]] [[mobi:Yamasaki2016][mobi]] [[epub:Yamasaki2016][epub]]
 + Adaptive robust altitude control scheme based on a smooth sliding mode controller
@@ -491,6 +495,6 @@ pag 37
 [[note:ArabloueiEtAl2014][org]] [[pdf:ArabloueiEtAl2014][pdf]] [[mobi:ArabloueiEtAl2014][mobi]] [[epub:ArabloueiEtAl2014][epub]]
 *** READ cite:ElGhaoui2002
 [[note:ElGhaoui2002][org]] [[pdf:ElGhaoui2002][pdf]] [[mobi:ElGhaoui2002][mobi]] [[epub:ElGhaoui2002][epub]]
-* References
-bibliographystyle:IEEEtran
+* References :ignore:
+bibliographystyle:apalike
 bibliography:~/docsThese/bibliography.bib
