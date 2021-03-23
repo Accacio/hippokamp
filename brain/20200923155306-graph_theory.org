@@ -3,18 +3,25 @@
 
 * Definitions
 
-- <<<Graph>>> ::
-A graph $\mathcal{X}$ consists of a vertex set $V(\mathcal{X})$ and an edge set $E(\mathcal{X})$.
+- <<<Vertice>>> or <<<node>>> ::
+A vertice is the fundamental unit of _graph theory_
 
 - <<<Edge>>> ::
-An edge is an unordered pair of vertices of $V(\mathcal{X})$
+An edge is an unordered pair of vertices of vertex set $V(\mathcal{X})$
+- <<<Arc>>> ::
+An arc is an ordered pair of vertices of vertex set $V(\mathcal{X})$
+
+- Undirected <<<graph>>> ::
+A graph $\mathcal{X}$ consists of a vertex set $V(\mathcal{X})$ and an edge set $E(\mathcal{X})$.
+- <<<Directed graph>>> ::
+A graph $\mathcal{X}$ consists of a vertex set $V(\mathcal{X})$ and an arc set $A(\mathcal{X})$.
 
 - <<induced subgraph>> ::
-Graph created from vertices and edges from the original graph
+Graph created from vertices and edge​s from the original graph
 
 - <<<Path>>> ::
-A path is a sequence of distinct edges connecting 2 vertices.
-Length of a path is the number of such edges
+A path is a sequence of distinct edge​s connecting 2 vertices.
+Length of a path is the number of such edge​s
 
 - <<<Neighbor>>> vertex ::
 Adjacent vertex (connected by an edge)
@@ -32,10 +39,10 @@ The distance $d_\mathcal{X}(x,y)$ is the length of the shortest path from $x$ to
 A complement $\bar{\mathcal{X}}$ of a graph $\mathcal{X}$ has the same vertex set as $\mathcal{X}$ but its edge set is equal to $E(K_{|V(\mathcal{X})|})\setminus E(\mathcal{X})$.
 
 - Empty graph ::
-No edges
+No edge​s
 
 - Null graph ::
-No edges nor vertices
+No edge​s nor vertices
 
 - (Dis)<<<Connected Graph>>> ::
 A graph where there is (not) a path between any two vertices of the graph
@@ -49,7 +56,7 @@ Is the number of colors needed to color the graph such adjacent vertices are col
 - <<<Turán graph>>> ::
    A Turán graph $T(n,r)$ is a graph with $n$ vertices created by the algorithm:
    1. Partition vertices into $r$ disjoint sets $C_1,\dots,C_r$ such $|C_i|-|C_j|\leq1$ $\forall i,j \in\{1,\dots,r\}$
-   2. Create edges between nodes not withing the same set
+   2. Create edge​s between nodes not withing the same set
 
 - <<<chord>>> ::
 An edge that does not belong to a cycle but connects two of its vertices.
@@ -58,4 +65,4 @@ An edge that does not belong to a cycle but connects two of its vertices.
 A graph in which each cycle of four or more vertice has a chord
 
 - Tree decomposition ::
- mapping of a graph into a tree where each node is a clique of the original graph.
+ mapping of a graph into a tree where each vertice is a clique of the original graph.
