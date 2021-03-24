@@ -382,7 +382,7 @@ pag 37
 + Resilient [[file:20200709101933-dmpc.org][dMPC]] under [[file:20200722151944-attacks.org][Attack]] using [[file:20200813155010-bayesian_inference.org][Bayesian Inference]]
 *** READ cite:LuYang2020
 [[note:LuYang2020][org]] [[pdf:LuYang2020][pdf]] [[mobi:LuYang2020][mobi]] [[epub:LuYang2020][epub]]
-+ State [[file:20200422140353-estimation.org][estimation]] of NCS, with faulty and malicious agents based on
++ State estimation of NCS, with faulty and malicious agents based on
 *** READ cite:WakaikiEtAl2020
 [[note:WakaikiEtAl2020][org]] [[pdf:WakaikiEtAl2020][pdf]] [[mobi:WakaikiEtAl2020][mobi]] [[epub:WakaikiEtAl2020][epub]]
 + stability on NCS with DoS and quantization noise using observer-based controller
