@@ -1,0 +1,9 @@
+#+title: Group Theory
+- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+
+* Definitions
+- <<<Group>>> :: generalizes the concept of ordinary addition
+  + associative property :: $(a * b) * c = a * (b * c)$
+  + Identity Element :: $a * e = e * a = a$
+  + Inverse :: $(a*a')=(a'*a)=e$
+- <<<Abelian>>> Group or <<<Commutative>>> Group :: if operation is commutative $(a*b)=(b*a)$

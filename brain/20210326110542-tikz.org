@@ -1,0 +1,2 @@
+#+title: Tikz
+- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]], [[file:20200617111624-graphics.org][graphics]]

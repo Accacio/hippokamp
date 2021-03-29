@@ -1,0 +1,4 @@
+#+title: Introduction to Markov Modeling for Reliability
+#+roam_key: https://www.mathpages.com/home/kmath232/kmath232.htm
+
+- tags :: Reliability
