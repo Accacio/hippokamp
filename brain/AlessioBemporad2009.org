@@ -11,7 +11,7 @@
   :Custom_ID: AlessioBemporad2009
   :URL: https://doi.org/10.1007/978-3-642-01094-1_29
   :AUTHOR: Alessio, A., & Bemporad, A.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/AlessioBemporad2009.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/AlessioBemporad2009.pdf
   :NOTER_PAGE:
   :END:
 
@@ -30,22 +30,22 @@
 *** Online computing is a con of MPC
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::1++1.90;;annot-1-1]]
-:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-1-1
+:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-1-1
 :END:
 *** positive definite matrices
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::3++4.90;;annot-3-1]]
-:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-3-1
+:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-3-1
 :END:
 *** Implementation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::19++4.31;;annot-19-5]]
-:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-19-5
+:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-19-5
 :END:
 *** algorithms that avoid storing the polyhedral regions
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::19++4.31;;annot-19-6]]
-:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-19-6
+:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-19-6
 :END:
 cite:BaoticEtAl2008
 @article{BaoticEtAl2008,
@@ -91,7 +91,7 @@ cite:Tondel2003
 :PROPERTIES:
 :NOTER_PAGE:
 [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::7++3.99;;annot-7-13]]
-:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-7-13
+:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-7-13
 :END:
 cite:Zafirou1990
 @article{zafiriou1990,
@@ -107,5 +107,5 @@ cite:Zafirou1990
 *** Systematic way to handle multiple variables
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::2++1.23;;annot-2-1]]
-:ID:       ../docsThese/bibliography/AlessioBemporad2009.pdf-annot-2-1
+:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-2-1
 :END:

@@ -11,7 +11,7 @@
   :Custom_ID: Bouckaert2014
   :URL:
   :AUTHOR: Bouckaert, S.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/Bouckaert2014.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/Bouckaert2014.pdf
   :NOTER_PAGE:
   :END:
 

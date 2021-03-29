@@ -4,6 +4,6 @@
 
 * YildrimEtAl2020
 :PROPERTIES:
-:NOTER_DOCUMENT: ../docsThese/bibliography/YildrimEtAl2020.pdf
+:NOTER_DOCUMENT: ../../docsThese/bibliography/YildrimEtAl2020.pdf
 :END:
 - tag :: [[file:20200504113017-stability.org][stability]], [[file:20200512110355-large_scale_systems.org][large scale systems]]

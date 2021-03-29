@@ -11,7 +11,7 @@
   :Custom_ID: VelardeEtAl2017a
   :URL:
   :AUTHOR: Velarde, P., Maestre, J. M., Ishii, H., & Negenborn, R. R.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/VelardeEtAl2017a.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/VelardeEtAl2017a.pdf
   :NOTER_PAGE:
   :END:
 

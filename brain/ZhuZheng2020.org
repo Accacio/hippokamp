@@ -11,7 +11,7 @@
   :Custom_ID: ZhuZheng2020
   :URL:
   :AUTHOR: Y. Zhu, & W. X. Zheng
-  :NOTER_DOCUMENT: ../docsThese/bibliography/ZhuZheng2020.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/ZhuZheng2020.pdf
   :NOTER_PAGE:
   :END:
 
@@ -33,19 +33,19 @@ example of a unmanned ground vehicle UGV
 *** DoS in measurement and control
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuZheng2020.pdf::1++0.00;;annot-1-5]]
-:ID:       ../docsThese/bibliography/ZhuZheng2020.pdf-annot-1-5
+:ID:       ../../docsThese/bibliography/ZhuZheng2020.pdf-annot-1-5
 :END:
 
 *** discrete time linear system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuZheng2020.pdf::2++0.35;;annot-2-0]]
-:ID:       ../docsThese/bibliography/ZhuZheng2020.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/ZhuZheng2020.pdf-annot-2-0
 :END:
 
 *** observer based control
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuZheng2020.pdf::3++0.13;;annot-3-0]]
-:ID:       ../docsThese/bibliography/ZhuZheng2020.pdf-annot-3-0
+:ID:       ../../docsThese/bibliography/ZhuZheng2020.pdf-annot-3-0
 :END:
 
 

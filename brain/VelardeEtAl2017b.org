@@ -30,23 +30,23 @@
 *** Q and R are the same for all subsystems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::2++0.05;;annot-2-0]]
-:ID:       ../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-2-0
 :END:
 *** in this one, they use only 2 attacks Selfish and "Liar" agent
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::3++0.29;;annot-3-0]]
-:ID:       ../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-3-0
+:ID:       ../../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-3-0
 :END:
 *** inspired by other algorithms
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++0.08;;annot-4-0]]
-:ID:       ../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-0
+:ID:       ../../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-0
 :END:
 Ver [[file:DibajiIshii2015.org][DibajiIshii2015]] [[file:LeBlancEtAl2013.org][LeBlancEtAl2013]]
 *** ignore extreme values of variables
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++0.00;;annot-4-1]]
-:ID:       ../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-1
+:ID:       ../../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-1
 :END:
 
 *** vulnerabilities in lagrange-based dMPC scheme of consensus

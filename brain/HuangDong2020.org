@@ -11,7 +11,7 @@
   :Custom_ID: HuangDong2020
   :URL: http://www.ieee-jas.org//article/id/80762014-accf-491d-8d6d-98a231b68e10
   :AUTHOR: Huang, X., & Dong, J.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/HuangDong2020.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/HuangDong2020.pdf
   :NOTER_PAGE:
   :END:
 
@@ -30,19 +30,19 @@ Lots of references
 *** No packet dropout and no delay in the transmission channel
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/HuangDong2020.pdf::2++0.05;;annot-2-100]]
-:ID:       ../docsThese/bibliography/HuangDong2020.pdf-annot-2-100
+:ID:       ../../docsThese/bibliography/HuangDong2020.pdf-annot-2-100
 :END:
 
 *** sake of simplicity
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/HuangDong2020.pdf::2++0.05;;annot-2-101]]
-:ID:       ../docsThese/bibliography/HuangDong2020.pdf-annot-2-101
+:ID:       ../../docsThese/bibliography/HuangDong2020.pdf-annot-2-101
 :END:
 
 *** linear system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/HuangDong2020.pdf::2++1.17;;annot-2-102]]
-:ID:       ../docsThese/bibliography/HuangDong2020.pdf-annot-2-102
+:ID:       ../../docsThese/bibliography/HuangDong2020.pdf-annot-2-102
 :END:
 
 
@@ -53,5 +53,5 @@ cite:DingEtAl2018
 *** Reliable control in systems with intermittent communication
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/HuangDong2020.pdf::1++0.00;;annot-1-58]]
-:ID:       ../docsThese/bibliography/HuangDong2020.pdf-annot-1-58
+:ID:       ../../docsThese/bibliography/HuangDong2020.pdf-annot-1-58
 :END:

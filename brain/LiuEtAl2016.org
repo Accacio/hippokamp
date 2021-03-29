@@ -11,7 +11,7 @@
   :Custom_ID: LiuEtAl2016
   :URL:
   :AUTHOR: J. Liu, L. Zha, J. Cao, & S. Fei
-  :NOTER_DOCUMENT: ../docsThese/bibliography/LiuEtAl2016.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/LiuEtAl2016.pdf
   :NOTER_PAGE:
   :END:
 
@@ -38,21 +38,21 @@ How to design such controller and [[file:20200716170112-simulation.org][Simulati
 ** Interesting expression
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::1++0.35;;annot-1-0]]
-:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-1-0
+:ID:       ../../docsThese/bibliography/LiuEtAl2016.pdf-annot-1-0
 :END:
     ... is still a problem and the aim of this study is to shorten such a gap.
 
 ** switched in order to increase performance
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::1++0.41;;annot-1-1]]
-:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-1-1
+:ID:       ../../docsThese/bibliography/LiuEtAl2016.pdf-annot-1-1
 :END:
     When transmission bandwith is over occupied, use event-based control
 
 ** taking the delay into account
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.00;;annot-2-5]]
-:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-5
+:ID:       ../../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-5
 :END:
 delay modeled as $\eta(t) \in [\eta_0,\eta_1]$
 $u(t)=K x(t-\eta(t)), \quad t \in\left[t_{k} h+\tau_{t_{k}^{\prime}}, t_{k+1} h+\tau_{t_{k+1}}\right)$
@@ -60,38 +60,38 @@ $u(t)=K x(t-\eta(t)), \quad t \in\left[t_{k} h+\tau_{t_{k}^{\prime}}, t_{k+1} h+
 ** Linear System
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.04;;annot-2-0]]
-:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-0
 :END:
 
 ** time stamped packets to actuator
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.13;;annot-2-1]]
-:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-1
+:ID:       ../../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-1
 :END:
 
 ** network delays and packet dropouts are accounted for
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.18;;annot-2-2]]
-:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-2
+:ID:       ../../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-2
 :END:
 
 ** Same as note: [[switched in order to increase performance]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.26;;annot-2-3]]
-:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-3
+:ID:       ../../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-3
 :END:
 
 ** Time driven part of the control
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.40;;annot-2-4]]
-:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-4
+:ID:       ../../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-4
 :END:
 $u(t)=K x\left(t_{k} h\right), \quad t \in\left[t_{k} h+\tau_{t_{k}^{\prime}} t_{k+1} h+\tau_{t_{k+1}}\right)$
 
 ** time and event are controlled by $\alpha$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2016.pdf::2++0.51;;annot-2-6]]
-:ID:       ../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-6
+:ID:       ../../docsThese/bibliography/LiuEtAl2016.pdf-annot-2-6
 :END:
 $\alpha$ is a stochastic variable with Bernoulli Distribution
 \begin{aligned}

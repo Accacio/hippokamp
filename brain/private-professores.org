@@ -3,6 +3,7 @@
 Tentativa de listar todos professores que já tive
 
 1. Mamãe <3
+
 * Creche?
 * Tia Fátima
 * EDN
@@ -79,8 +80,9 @@ Solange
 - Ana Lucia Vaz da Silva
 - Ana Patrícia
 *** Física
-- Sérgio
-- Marcos
+1. Sérgio
+2. Marcos
+3. Marcos
 *** Biologia
 - Marcelo
 - Ana Maria
@@ -103,3 +105,28 @@ Solange
 - Greice Cohn
 *** Francês
 - Maria Theresa
+* UFRJ
+** 1° Período
+- [[https://folk.uib.no/dpi081/][Didier Jacques François Pilod]]
+- [[http://www.im.ufrj.br/index.php/pt/pessoal/docentes/docentes/185-luiz-carlos-guimaraes][Luiz Carlos Guimarães]]
+- [[www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
+** 2° Período
+- [[http://im.ufrj.br/~epmoura/][Eleonora Pinto de Moura]]
+** 3° Período
+- [[http://www.im.ufrj.br/index.php/pt/?option=com_content&view=article&id=83&Itemid=195][Anatoli Leontiev]]
+- [[http://www.coep.ufrj.br/~jacoud/][Alessandro Peixoto Jacoud]]
+** 4°
+- Liu Hsu
+** 5°
+
+* Supélec
+** ISA
+- Hervé Guéguen
+- Romain Bourdais
+- Nabil Sadou
+- Marie-Anne Lefebvre
+- Hervé Cormerais
+- Stanislav Aranovskiy
+- [[https://people.rennes.inria.fr/Gerardo.Rubino/][Gerardo Rubino]]
+* Doutorado
+- Jean-François Dupuy

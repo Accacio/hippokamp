@@ -10,7 +10,7 @@
 
 #+TODO: TOREAD(t) READING(r) | READ(d) SKIMMED(s)
 
-- tags :: [[file:20200422131137-these.org][these]]
+- tags :: [[file:20200422131137-these.org][These]]
 
 * Kanban :noexport:
 #+BEGIN: kanban

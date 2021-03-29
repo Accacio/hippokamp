@@ -1,3 +1,3 @@
 #+title: TikZ and org-mode
 #+roam_key: http://www.homepages.ucl.ac.uk/~ucahjde/blog/tikz.html
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]], [[file:20200619120854-org_mode.org][org-mode]]
+- tags :: [[file:20210326110542-tikz.org][Tikz]], [[file:20200619120854-org_mode.org][org-mode]]

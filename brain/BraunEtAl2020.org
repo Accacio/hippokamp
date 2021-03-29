@@ -11,7 +11,7 @@
   :Custom_ID: BraunEtAl2020
   :URL: https://www.iot.tu-berlin.de/fileadmin/fg336/IFAC2020SubmittedPreprint.pdf
   :AUTHOR: Braun, S., Albrecht, S., & Lucia, S.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/BraunEtAl2020.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/BraunEtAl2020.pdf
   :NOTER_PAGE:
   :END:
 
@@ -37,13 +37,13 @@ Use of Sensitivity, how state is sensible to changes in constrained variables an
 *** IEEE 30 bus test standard [[file:20200813161636-electric_grid_test_cases.org][Electric Grid Test Cases]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::1++0.14;;annot-1-0]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-1-0
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-1-0
 :END:
 
 *** show pros of distributed approaches
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::1++0.32;;annot-1-1]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-1-1
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-1-1
 :END:
 - decrease complexity
 - increase privacy between subsystems
@@ -51,49 +51,49 @@ Use of Sensitivity, how state is sensible to changes in constrained variables an
 *** give examples of use
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::1++0.40;;annot-1-2]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-1-2
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-1-2
 :END:
 
 *** uncertainty range can help robustness
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::1++0.42;;annot-1-3]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-1-3
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-1-3
 :END:
 
 *** TODO definitions of attack
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.00;;annot-2-0]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-0
 :END:
 PasqualettiEtAl2013
 *** TODO Attack identification in centralized systems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.00;;annot-2-1]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-1
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-1
 :END:
 Ding2008
 *** TODO weakly coupled subsystems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.00;;annot-2-2]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-2
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-2
 :END:
 PasqualettiEtAl2010
 *** TODO consensus control laws with bank of unknown-input observer
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.00;;annot-2-3]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-3
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-3
 :END:
 ShamesEtAl2011
 *** modification on u can't be measured
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.03;;annot-2-7]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-7
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-7
 :END:
 
 *** TODO nonlinear system using local estimator
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.13;;annot-2-4]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-4
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-4
 :END:
 BoemEtAl2018
 - each subsystem knows all possible faults that may occur
@@ -101,14 +101,14 @@ BoemEtAl2018
 *** possible attacks are not finite and known
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.17;;annot-2-9]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-9
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-9
 :END:
 if finite and known they restrict the idea of malicious attacks
 
 *** constrained agents using coupled variables
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.19;;annot-2-8]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-8
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-8
 :END:
 \begin{equation}\begin{aligned}
 x_{I}^{+} &=f_{I}\left(x_{I}, a_{I}\left(u_{I}\right), z_{\mathcal{N}_{I}}\right) \\
@@ -117,60 +117,60 @@ z_{I} &=h_{I}\left(x_{I}\right)
 *** nonlinear constraints
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.17;;annot-2-10]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-10
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-10
 :END:
 $g_{I}\left(x_{I}, a_{I}\left(u_{I}\right), z_{\mathcal{N}_{I}}\right) \leq 0$
 
 *** nonlinear system of systems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.35;;annot-2-5]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-5
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-5
 :END:
 *** discrete time
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::2++0.35;;annot-2-6]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-6
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-2-6
 :END:
 insteresting way to denote nonlinear discrete-time system
 \begin{equation}x^{+}=f(x, a(u))\end{equation}
 *** uncertainty represented by set of possible scenarios
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::3++0.04;;annot-3-0]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-3-0
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-3-0
 :END:
 *** attack detectors and attack identifiers
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::4++0.13;;annot-4-0]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-4-0
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-4-0
 :END:
 
 *** Can we use sensitivities to draw conclusion about local objectives?
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::5++0.00;;annot-5-2]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-5-2
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-5-2
 :END:
 
 *** Use of Sensitivities
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::5++0.00;;annot-5-3]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-5-3
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-5-3
 :END:
 
 
 *** centralized approach
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::5++0.44;;annot-5-0]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-5-0
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-5-0
 :END:
 *** decentralized approach
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::5++0.44;;annot-5-1]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-5-1
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-5-1
 :END:
 
 
 *** identify attack by the evolution of the coupling variables
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BraunEtAl2020.pdf::1++0.00;;annot-1-4]]
-:ID:       ../docsThese/bibliography/BraunEtAl2020.pdf-annot-1-4
+:ID:       ../../docsThese/bibliography/BraunEtAl2020.pdf-annot-1-4
 :END:

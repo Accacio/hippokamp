@@ -11,7 +11,7 @@
   :Custom_ID: AgbodjanEtAl2019
   :URL:
   :AUTHOR: Jesse-james Prince Agbodjan, Haessig, P., Bourdais, R., & Guéguen, H.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/AgbodjanEtAl2019.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/AgbodjanEtAl2019.pdf
   :NOTER_PAGE:
   :END:
 
@@ -28,10 +28,10 @@
 *** maximize comfort is equal demand power with power received
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AgbodjanEtAl2019.pdf::2++0.06;;annot-2-0]]
-:ID:       ../docsThese/bibliography/AgbodjanEtAl2019.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/AgbodjanEtAl2019.pdf-annot-2-0
 :END:
 *** power in shortage have critical minimal value
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AgbodjanEtAl2019.pdf::2++0.06;;annot-2-1]]
-:ID:       ../docsThese/bibliography/AgbodjanEtAl2019.pdf-annot-2-1
+:ID:       ../../docsThese/bibliography/AgbodjanEtAl2019.pdf-annot-2-1
 :END:

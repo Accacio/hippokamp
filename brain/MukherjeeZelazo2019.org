@@ -11,7 +11,7 @@
   :Custom_ID: MukherjeeZelazo2019
   :URL:
   :AUTHOR: D. Mukherjee, & D. Zelazo
-  :NOTER_DOCUMENT: ../docsThese/bibliography/MukherjeeZelazo2019.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/MukherjeeZelazo2019.pdf
   :NOTER_PAGE:
   :END:
 
@@ -31,32 +31,32 @@ Uses of Kharitonov's Theorem to study condition for consensus of $m$-th order li
 *** Kharitonov's theorem, consensus hight order systems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MukherjeeZelazo2019.pdf::1++0.00;;annot-1-6]]
-:ID:       ../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-1-6
+:ID:       ../../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-1-6
 :END:
 
 *** multi agent and consensus/synchronization
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MukherjeeZelazo2019.pdf::1++2.34;;annot-1-7]]
-:ID:       ../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-1-7
+:ID:       ../../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-1-7
 :END:
 
 *** uncertainties and pertubations from agent model and network parameters
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MukherjeeZelazo2019.pdf::1++2.34;;annot-1-8]]
-:ID:       ../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-1-8
+:ID:       ../../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-1-8
 :END:
 
 *** full-state consensus among network agents
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MukherjeeZelazo2019.pdf::2++6.79;;annot-2-1]]
-:ID:       ../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-2-1
+:ID:       ../../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-2-1
 :END:
 
 
 *** important result from cite:BhattacharyyaKeel1995
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MukherjeeZelazo2019.pdf::2++6.82;;annot-2-0]]
-:ID:       ../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-2-0
 :END:
 
 
@@ -64,7 +64,7 @@ Uses of Kharitonov's Theorem to study condition for consensus of $m$-th order li
 *** references
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MukherjeeZelazo2019.pdf::3++6.82;;annot-3-0]]
-:ID:       ../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-3-0
+:ID:       ../../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-3-0
 :END:
 - P. Wieland, J.-S. Kim, H. Scheu, and F. Allgöwer, “On consensus in multi-
 agent systems with linear high-order agents,” Proc. IFAC, vol. 41, no. 2,
@@ -77,5 +77,5 @@ Syst. Control Lett., vol. 53, no. 1, pp. 65–78, 2004.
 *** consensus achieved in complete graph
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MukherjeeZelazo2019.pdf::6++0.23;;annot-6-0]]
-:ID:       ../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-6-0
+:ID:       ../../docsThese/bibliography/MukherjeeZelazo2019.pdf-annot-6-0
 :END:

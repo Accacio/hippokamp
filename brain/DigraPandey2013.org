@@ -11,7 +11,7 @@
   :Custom_ID: DigraPandey2013
   :URL:
   :AUTHOR: Digra}, R. K., & R. K. Pandey
-  :NOTER_DOCUMENT: ../docsThese/bibliography/DigraPandey2013.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/DigraPandey2013.pdf
   :NOTER_PAGE:
   :END:
 
@@ -30,11 +30,11 @@
 *** Multi-agent based controller coordination of microgrid with critical loads under  normal, faulty and overload conditions.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DigraPandey2013.pdf::1++1.70;;annot-1-0]]
-:ID:       ../docsThese/bibliography/DigraPandey2013.pdf-annot-1-0
+:ID:       ../../docsThese/bibliography/DigraPandey2013.pdf-annot-1-0
 :END:
 
 *** FIPA Standard
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DigraPandey2013.pdf::1++3.76;;annot-1-1]]
-:ID:       ../docsThese/bibliography/DigraPandey2013.pdf-annot-1-1
+:ID:       ../../docsThese/bibliography/DigraPandey2013.pdf-annot-1-1
 :END:

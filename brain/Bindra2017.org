@@ -11,7 +11,7 @@
   :Custom_ID: Bindra2017
   :URL: 
   :AUTHOR: A. Bindra
-  :NOTER_DOCUMENT: ../docsThese/bibliography/Bindra2017.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/Bindra2017.pdf
   :NOTER_PAGE:
   :END:
 
@@ -29,7 +29,7 @@
 *** CrashOverride malware
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bindra2017.pdf::2++0.00;;annot-2-0]]
-:ID:       ../docsThese/bibliography/Bindra2017.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/Bindra2017.pdf-annot-2-0
 :END:
 
 

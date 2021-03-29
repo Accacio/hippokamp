@@ -11,7 +11,7 @@
   :Custom_ID: GossnerEtAl1997
   :URL: http://www.sciencedirect.com/science/article/pii/S0005109896002142
   :AUTHOR: Gossner, J., Kouvaritakis, B., & Rossiter, J.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/GossnerEtAl1997.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/GossnerEtAl1997.pdf
   :NOTER_PAGE:
   :END:
 
@@ -32,7 +32,7 @@ Coprime IIR filter
 *** system as IIR filter
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/GossnerEtAl1997.pdf::2++0.13;;annot-2-0]]
-:ID:       ../docsThese/bibliography/GossnerEtAl1997.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/GossnerEtAl1997.pdf-annot-2-0
 :END:
 
 \begin{array}{l}

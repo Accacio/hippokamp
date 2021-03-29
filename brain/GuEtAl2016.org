@@ -11,7 +11,7 @@
   :Custom_ID: GuEtAl2016
   :URL:
   :AUTHOR: J. Gu, M. Yang, J. Chen, H. Chung, C. Wang, Y. Chang, Y. Lee, …
-  :NOTER_DOCUMENT: ../docsThese/bibliography/GuEtAl2016.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/GuEtAl2016.pdf
   :NOTER_PAGE:
   :END:
 
@@ -30,6 +30,6 @@
 *** Example microgrid system with a multi-agent system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/GuEtAl2016.pdf::1++3.75;;annot-1-0]]
-:ID:       ../docsThese/bibliography/GuEtAl2016.pdf-annot-1-0
+:ID:       ../../docsThese/bibliography/GuEtAl2016.pdf-annot-1-0
 :END:
 

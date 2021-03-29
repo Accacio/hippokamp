@@ -1,5 +1,5 @@
 #+TITLE: Formations Doctorat
-- tags :: [[file:20200422131137-these.org][these]]
+- tags :: [[file:20200422131137-these.org][These]]
 
 * UBL
 - https://ed-mathstic.doctorat-bretagneloire.fr/sites/default/files/u50/Rennes/formations-complementaires-mathstic-regles-procedures.2018-02-20.pdf

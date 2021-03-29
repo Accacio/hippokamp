@@ -1,2 +1,3 @@
 #+title: Gilbert Strang
+#+roam_key: http://www-math.mit.edu/~gs/
 #+roam_tags: people

@@ -11,7 +11,7 @@
   :Custom_ID: LiuEtAl2019
   :URL:
   :AUTHOR: J. Liu, Z. Wu, D. Yue, & J. H. Park
-  :NOTER_DOCUMENT: ../docsThese/bibliography/LiuEtAl2019.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/LiuEtAl2019.pdf
   :NOTER_PAGE:
   :END:
 ** CATALOG
@@ -36,69 +36,69 @@ cite:LiuEtAl2016
 *** interesting citation ZhuMartinez2014
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::2++0.00;;annot-2-19]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-2-19
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-2-19
 :END:
 *** one objective
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::2++0.00;;annot-2-20]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-2-20
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-2-20
 :END:
 *** model of hybrid system have Bernoulli distribution
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::2++0.11;;annot-2-21]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-2-21
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-2-21
 :END:
 *** random deception attacks are non linear functions
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::2++0.17;;annot-2-22]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-2-22
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-2-22
 :END:
 *** linear continuous-time system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::2++0.17;;annot-2-23]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-2-23
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-2-23
 :END:
 *** closed loop behavior
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::3++0.00;;annot-3-26]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-26
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-26
 :END:
 
 *** hybrid control
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::3++0.04;;annot-3-23]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-23
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-23
 :END:
 *** proposition of hybrid-triggering scheme
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::3++0.06;;annot-3-24]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-24
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-24
 :END:
 *** inclusion of attack
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::3++0.28;;annot-3-25]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-25
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-25
 :END:
 *** [[file:20200910150144-mean_square_stability.org][Mean Square Stability]] (MSS)
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::3++1.18;;annot-3-29]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-29
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-29
 :END:
 
 *** attacker signal is nonlinear function
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::3++4.44;;annot-3-27]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-27
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-27
 :END:
 *** nonlinearity bound
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::3++6.79;;annot-3-28]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-28
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-28
 :END:
 $f^T(x)f(x)\leq x^TG^TGx$
 
 *** reference about Hybrid-driven stabilization of networked control systems LiuEtAl2016
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::10++0.08;;annot-10-3]]
-:ID:       ../docsThese/bibliography/LiuEtAl2019.pdf-annot-10-3
+:ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-10-3
 :END:

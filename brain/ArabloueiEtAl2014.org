@@ -11,7 +11,7 @@
   :Custom_ID: ArabloueiEtAl2014
   :URL:
   :AUTHOR: Arablouei, R., Doğançay, K., & Adalı, T.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/ArabloueiEtAl2014.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/ArabloueiEtAl2014.pdf
   :NOTER_PAGE:
   :END:
 
@@ -31,32 +31,32 @@
 *** unbiased estimation for errors-in-variables system identification
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::1++2.84;;annot-1-0]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-0
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-0
 :END:
 
 *** reduced computational complexity
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::1++2.84;;annot-1-1]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-1
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-1
 :END:
 
 *** LS used to estimate linear models considered noise-free
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::1++3.55;;annot-1-2]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-2
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-2
 :END:
  but in AastroemWittenmark1989 it supposes a i.i.d noise
 
 *** TLS is unbiased when input and output have mean zero and are i.i.d and uncorrelated
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::1++3.81;;annot-1-3]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-3
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-3
 :END:
 
 *** Expression
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::1++7.16;;annot-1-4]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-4
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-1-4
 :END:
 #+begin_quote
 Unlike the  bias-compensation-based algorithms ...
@@ -65,45 +65,45 @@ Unlike the  bias-compensation-based algorithms ...
 *** curious
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::2++0.00;;annot-2-0]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-2-0
 :END:
 
 *** bias
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::2++5.61;;annot-2-2]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-2-2
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-2-2
 :END:
 
 
 *** ergodic
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::2++7.16;;annot-2-1]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-2-1
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-2-1
 :END:
 from [[wikipedia:ergodic_process][wikipedia]]: any collection of random sampes from a process must represent the average statistical propertes of the entire process
 
 *** zero mean output noise
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::2++7.16;;annot-2-3]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-2-3
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-2-3
 :END:
 
 *** zero mean input noise
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::2++7.16;;annot-2-4]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-2-4
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-2-4
 :END:
 
 *** solution to DCD is an approximate
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::3++9.73;;annot-3-0]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-3-0
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-3-0
 :END:
 
 *** Design Variables of DCD
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::4++6.81;;annot-4-1]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-4-1
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-4-1
 :END:
 - M :: bits of entries of $\vec{u}_k$
 - N :: entries to update
@@ -112,25 +112,25 @@ from [[wikipedia:ergodic_process][wikipedia]]: any collection of random sampes f
 *** using bit-shifts instead of multiplications
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::4++9.73;;annot-4-0]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-4-0
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-4-0
 :END:
 [31]
 
 *** mé
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::5++1.03;;annot-5-0]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-5-0
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-5-0
 :END:
 
 *** BCRLS have some convergence problems for high number of iterations
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::7++9.29;;annot-7-0]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-7-0
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-7-0
 :END:
 
 *** Hadamard product
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::8++6.20;;annot-8-0]]
-:ID:       ../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-8-0
+:ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-8-0
 :END:
 Element-wise multiplication =.*=

@@ -11,7 +11,7 @@
   :Custom_ID: AastroemWittenmark1989
   :URL: https://books.google.fr/books?id=VJ0eAQAAIAAJ
   :AUTHOR: \AAstr\"om, K.J., & Wittenmark, B.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/AastroemWittenmark1989.pdf
+  :NOTER_DOCUMENT: ../../../docsThese/bibliography/AastroemWittenmark1989.pdf
   :NOTER_PAGE:
   :END:
 
@@ -29,13 +29,13 @@
 *** Real-time Parameter Estimation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AastroemWittenmark1989.pdf::70++0.00;;annot-70-0]]
-:ID:       ../docsThese/bibliography/AastroemWittenmark1989.pdf-annot-70-0
+:ID:       ../../docsThese/bibliography/AastroemWittenmark1989.pdf-annot-70-0
 :END:
 
 *** Theorem 3.2 :
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AastroemWittenmark1989.pdf::75++0.00;;annot-75-0]]
-:ID:       ../docsThese/bibliography/AastroemWittenmark1989.pdf-annot-75-0
+:ID:       ../../docsThese/bibliography/AastroemWittenmark1989.pdf-annot-75-0
 :END:
 if noise is independent random variable with zero mean and variance $\sigma^2$
 - $E\hat\theta=\theta^0$ :: unbiased estimation

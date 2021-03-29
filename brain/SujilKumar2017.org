@@ -11,7 +11,7 @@
   :Custom_ID: SujilKumar2017
   :URL:
   :AUTHOR: A. Sujil, & R. Kumar
-  :NOTER_DOCUMENT: ../docsThese/bibliography/SujilKumar2017.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/SujilKumar2017.pdf
   :NOTER_PAGE:
   :END:
 
@@ -39,13 +39,13 @@ Disturbances are :
 *** Multi-agent based system simulated in the presence of different events
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/SujilKumar2017.pdf::1++3.61;;annot-1-0]]
-:ID:       ../docsThese/bibliography/SujilKumar2017.pdf-annot-1-0
+:ID:       ../../docsThese/bibliography/SujilKumar2017.pdf-annot-1-0
 :END:
 
 *** Decentralized systems have better controllability, fault tolerance and adaptability as compared
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/SujilKumar2017.pdf::1++4.20;;annot-1-1]]
-:ID:       ../docsThese/bibliography/SujilKumar2017.pdf-annot-1-1
+:ID:       ../../docsThese/bibliography/SujilKumar2017.pdf-annot-1-1
 :END:
 
 - C.-S. Karavas, G. Kyriakarakos, K. G. Arvanitis, and G. Papadakis,
@@ -60,12 +60,12 @@ pp. 354–366, 2015.
 *** State flow for agent behavior
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/SujilKumar2017.pdf::1++6.80;;annot-1-2]]
-:ID:       ../docsThese/bibliography/SujilKumar2017.pdf-annot-1-2
+:ID:       ../../docsThese/bibliography/SujilKumar2017.pdf-annot-1-2
 :END:
 
 *** Proposed MAS
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/SujilKumar2017.pdf::4++0.00;;annot-4-0]]
-:ID:       ../docsThese/bibliography/SujilKumar2017.pdf-annot-4-0
+:ID:       ../../docsThese/bibliography/SujilKumar2017.pdf-annot-4-0
 :END:
 

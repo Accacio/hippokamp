@@ -1,2 +1,2 @@
 #+TITLE: Points These
-- tags :: [[file:20200422131137-these.org][these]]
+- tags :: [[file:20200422131137-these.org][These]]

@@ -11,7 +11,7 @@
   :Custom_ID: WuEtAl2018
   :URL: https://www.mdpi.com/2227-7390/6/10/173
   :AUTHOR: Wu, Z., Albalawi, F., Zhang, J., Zhang, Z., Durand, H., & Christofides, P. D.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/WuEtAl2018.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/WuEtAl2018.pdf
   :NOTER_PAGE:
   :END:
 
@@ -34,13 +34,13 @@
 *** neural networks detection with mpc
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::1++0.00;;annot-1-13]]
-:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-1-13
+:ID:       ../../docsThese/bibliography/WuEtAl2018.pdf-annot-1-13
 :END:
 
 *** compare model with measureed output
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::2++0.00;;annot-2-15]]
-:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-2-15
+:ID:       ../../docsThese/bibliography/WuEtAl2018.pdf-annot-2-15
 :END:
 Cárdenas, A.A.; Amin, S.; Lin, Z.S.; Huang, Y.L.; Huang, C.Y.; Sastry, S. Attacks against process control
 systems: Risk assessment, detection, and response. In Proceedings of the 6th ACM Symposium on
@@ -49,46 +49,46 @@ Information, Computer And Communications Security, Hong Kong, China, 22–24 Mar
 *** private excitation in system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::2++0.00;;annot-2-16]]
-:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-2-16
+:ID:       ../../docsThese/bibliography/WuEtAl2018.pdf-annot-2-16
 :END:
 Satchidanandan, B.; Kumar, P.R. Dynamic watermarking: Active defense of networked cyber–physical systems. Proc. IEEE 2017, 105, 219–240
 
 *** bayesian detection binray hypothesis, weighted least squares, $\chi^2$ -detector
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::2++0.03;;annot-2-17]]
-:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-2-17
+:ID:       ../../docsThese/bibliography/WuEtAl2018.pdf-annot-2-17
 :END:
 cite:DingEtAl2018
 
 *** continuous time non-linear system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::3++0.00;;annot-3-4]]
-:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-3-4
+:ID:       ../../docsThese/bibliography/WuEtAl2018.pdf-annot-3-4
 :END:
 
 *** constrained input
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::3++0.19;;annot-3-5]]
-:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-3-5
+:ID:       ../../docsThese/bibliography/WuEtAl2018.pdf-annot-3-5
 :END:
 
 *** origin is steady state
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::3++0.19;;annot-3-6]]
-:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-3-6
+:ID:       ../../docsThese/bibliography/WuEtAl2018.pdf-annot-3-6
 :END:
 
 *** Spatially Separated Operator
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::3++4.46;;annot-3-7]]
-:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-3-7
+:ID:       ../../docsThese/bibliography/WuEtAl2018.pdf-annot-3-7
 :END:
 
 
 *** cumulative sum detection
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::5++0.00;;annot-5-7]]
-:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-5-7
+:ID:       ../../docsThese/bibliography/WuEtAl2018.pdf-annot-5-7
 :END:
 $\begin{aligned}
 S(k) &=(S(k-1)+|\tilde{x}(t_k)-x(t_k)|-b)^{+}, S(0)=0 \\
@@ -104,6 +104,6 @@ $(P)^+=\left\{\begin{array}{ll} P, & \text { if } P\geq0 \\
 *** can be evaded by smart attackers
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2018.pdf::5++0.07;;annot-5-8]]
-:ID:       ../docsThese/bibliography/WuEtAl2018.pdf-annot-5-8
+:ID:       ../../docsThese/bibliography/WuEtAl2018.pdf-annot-5-8
 :END:
 

@@ -11,7 +11,7 @@
   :Custom_ID: YangEtAl2019
   :URL: http://www.sciencedirect.com/science/article/pii/S0167691119300507
   :AUTHOR: Yang, H., Li, Y., Dai, L., & Xia, Y.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/YangEtAl2019.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/YangEtAl2019.pdf
   :NOTER_PAGE:
   :END:
 
@@ -34,32 +34,32 @@ System of [[file:20200716170441-linear_system.org][Linear]] [[file:2020050411300
 *** system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2019.pdf::2++0.02;;annot-2-16]]
-:ID:       ../docsThese/bibliography/YangEtAl2019.pdf-annot-2-16
+:ID:       ../../docsThese/bibliography/YangEtAl2019.pdf-annot-2-16
 :END:
 
 
 *** objective
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2019.pdf::2++0.06;;annot-2-15]]
-:ID:       ../docsThese/bibliography/YangEtAl2019.pdf-annot-2-15
+:ID:       ../../docsThese/bibliography/YangEtAl2019.pdf-annot-2-15
 :END:
 
 *** error??
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2019.pdf::2++0.33;;annot-2-17]]
-:ID:       ../docsThese/bibliography/YangEtAl2019.pdf-annot-2-17
+:ID:       ../../docsThese/bibliography/YangEtAl2019.pdf-annot-2-17
 :END:
 
 *** Bernoulli Distribution??
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2019.pdf::2++0.33;;annot-2-18]]
-:ID:       ../docsThese/bibliography/YangEtAl2019.pdf-annot-2-18
+:ID:       ../../docsThese/bibliography/YangEtAl2019.pdf-annot-2-18
 :END:
 
 *** observer used to estimate state in case of attack
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2019.pdf::3++0.00;;annot-3-8]]
-:ID:       ../docsThese/bibliography/YangEtAl2019.pdf-annot-3-8
+:ID:       ../../docsThese/bibliography/YangEtAl2019.pdf-annot-3-8
 :END:
 
 

@@ -17,3 +17,88 @@
 ** Matrix Inverse bias
 - cite:ElGhaoui2002
   + other characterization of inverse error
+** Error Propagation chart
+:LOGBOOK:
+CLOCK: [2021-03-26 ven. 16:58]--[2021-03-26 ven. 17:23] =>  0:25
+:END:
+
+#+HEADER: :file img/errorPropagationBlock.png :imagemagick yes
+#+HEADER: :results file raw :headers '("\\usepackage{tikz}\\usetikzlibrary{positioning,arrows}")
+#+HEADER: :fit yes :imoutoptions -geometry 800 :iminoptions -density 1400
+#+HEADER: :eval no-export
+#+BEGIN_src latex
+\tikzset{%
+    block/.style={draw, fill=white, rectangle,
+            minimum height=2em, minimum width=3em},
+    input/.style={inner sep=0pt},
+    output/.style={inner sep=0pt},
+    sum/.style = {draw, fill=white, circle, minimum size=4mm, node distance=1.5cm, inner sep=0pt},
+}
+
+\begin{tikzpicture}[auto, node distance=1.5cm, on grid, >=latex']
+
+\node[input] (input) {};
+\node[input, above = of input] (input1) {};
+\node [sum, right = of input] (sum) {};
+\node [block, right = of sum] (controller) {RLS};
+\node [sum, right = of controller] (sum1) {};
+\node [block, right = of sum1] (filterinv) {$H^{-1}(s)$};
+\node [block, right = 2.5cm of filterinv] (system) {$G(s)$};
+\node [output, right = of system] (output) {};
+\node [output, above = of output] (output1) {};
+\node [block, above = of controller] (delay) {RLS};
+\node [sum, below = of sum1] (sum2) {};
+\node [block] (filter) at (sum2-|filterinv) {$H(s)$};
+
+\draw [draw,->] (input) node[above right] {$\theta$} -- (sum);
+\draw [->] (sum) -- node {$e_{i}$} (controller);
+\draw [->] (controller) -- node {} (sum1);
+\draw [->] (sum1) -- node[name=xi] {$\xi_{i}$} (filterinv);
+\draw [->] (filterinv) -- node[name=u, pos=.3] {$u_{i}$} (system);
+\draw [->] (system) -- (output) node [name=q, above left] {$q_{i}$};
+
+\draw [->] ([xshift=-5mm]q.south) |- (filter);
+\draw [->] (filter) -- node {} (sum2);
+\draw [draw,<-] (sum2) -- ++(90:.6cm) node[above]{$L_i+r_i$};
+
+\draw [->] (sum2) -| node[pos=0.99, right] {$-$}
+    node [pos=.25, above] {$\tilde{s}_i$} (sum);
+
+\draw [draw,->] (input1) node[above right] (lambda_tilde) {$\tilde \lambda$} -- (delay);
+\draw [->] (delay) -| node[] {}
+    node [near end] {} (sum1);
+
+\draw [->] (u.east|-system) |-
+    (output1) node[above left] (ui) {$u_i$};
+\end{tikzpicture}
+#+END_src
+
+#+RESULTS:
+[[file:img/errorPropagationBlock.png]]
+
+
+#+HEADER: :file img/errorPropagationBlock.png :imagemagick yes
+#+HEADER: :results file raw :headers '("\\usepackage{tikz}\\usetikzlibrary{positioning,arrows}")
+#+HEADER: :fit yes :imoutoptions -geometry 800 :iminoptions -density 1400
+#+HEADER: :eval no-export
+#+BEGIN_src latex
+\tikzset{%
+    block/.style={draw, fill=white, rectangle,
+            minimum height=2em, minimum width=3em},
+    input/.style={inner sep=0pt},
+    output/.style={inner sep=0pt},
+    sum/.style = {draw, fill=white, circle, minimum size=4mm, node distance=1.5cm, inner sep=0pt},
+}
+
+\begin{tikzpicture}[auto, node distance=1.5cm, on grid, >=latex']
+\node[input] (init) {};
+\node[input,above = of init] (input) {};
+\node[input,under = of init] (input2) {};
+\node[input,right = of input2] (branching) {};
+\node [block, right = of branching,minimum height=3em] (sum) {RLS};
+\draw[->] (input) ---- (sum. 210);
+\end{tikzpicture}
+#+END_src
+
+#+RESULTS:
+[[file:img/errorPropagationBlock.png]]

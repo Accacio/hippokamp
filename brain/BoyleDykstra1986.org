@@ -12,7 +12,7 @@ pag 37
   :Custom_ID: BoyleDykstra1986
   :URL:
   :AUTHOR: Boyle, J. P., & Dykstra, R. L.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/BoyleDykstra1986.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/BoyleDykstra1986.pdf
   :NOTER_PAGE: 37
   :END:
 
@@ -32,49 +32,49 @@ pag 37
 *** Projection onto the intersection by performing a series of projection onto the simpler regions
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoyleDykstra1986.pdf::37++2.58;;annot-37-0]]
-:ID:       ../docsThese/bibliography/BoyleDykstra1986.pdf-annot-37-0
+:ID:       ../../docsThese/bibliography/BoyleDykstra1986.pdf-annot-37-0
 :END:
 
 *** valid for hilbert spaces not only $\mathbb{R}^n$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoyleDykstra1986.pdf::37++2.58;;annot-37-1]]
-:ID:       ../docsThese/bibliography/BoyleDykstra1986.pdf-annot-37-1
+:ID:       ../../docsThese/bibliography/BoyleDykstra1986.pdf-annot-37-1
 :END:
 
 *** minimize distance to set
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoyleDykstra1986.pdf::38++5.95;;annot-38-0]]
-:ID:       ../docsThese/bibliography/BoyleDykstra1986.pdf-annot-38-0
+:ID:       ../../docsThese/bibliography/BoyleDykstra1986.pdf-annot-38-0
 :END:
 
 *** Successive cyclic projections onto Ci converge if they are closed subspaces 
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoyleDykstra1986.pdf::39++0.00;;annot-39-0]]
-:ID:       ../docsThese/bibliography/BoyleDykstra1986.pdf-annot-39-0
+:ID:       ../../docsThese/bibliography/BoyleDykstra1986.pdf-annot-39-0
 :END:
 
 *** Hilbert Space
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoyleDykstra1986.pdf::39++7.18;;annot-39-1]]
-:ID:       ../docsThese/bibliography/BoyleDykstra1986.pdf-annot-39-1
+:ID:       ../../docsThese/bibliography/BoyleDykstra1986.pdf-annot-39-1
 :END:
 
 *** strongly convergence
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoyleDykstra1986.pdf::40++0.00;;annot-40-0]]
-:ID:       ../docsThese/bibliography/BoyleDykstra1986.pdf-annot-40-0
+:ID:       ../../docsThese/bibliography/BoyleDykstra1986.pdf-annot-40-0
 :END:
 A sequence $\{x_n\}$ strongly converges to $x$ if $\|x_n-x\|\rightarrow0$  denoted as $x_n\overset{\mathrm{s}}{\rightarrow}x$
 
 *** weak convergence
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoyleDykstra1986.pdf::40++0.00;;annot-40-1]]
-:ID:       ../docsThese/bibliography/BoyleDykstra1986.pdf-annot-40-1
+:ID:       ../../docsThese/bibliography/BoyleDykstra1986.pdf-annot-40-1
 :END:
 A sequence $\{x_n\}$ weakly converges to $x$ if $x_n\cdot y\rightarrow x\cdot y$  denoted as $x_n\overset{\mathrm{w}}{\rightarrow}x$
 
 *** algorithm to project
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoyleDykstra1986.pdf::41++0.00;;annot-41-0]]
-:ID:       ../docsThese/bibliography/BoyleDykstra1986.pdf-annot-41-0
+:ID:       ../../docsThese/bibliography/BoyleDykstra1986.pdf-annot-41-0
 :END:

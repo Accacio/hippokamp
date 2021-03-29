@@ -11,7 +11,7 @@
   :Custom_ID: RamosEtAl2021
   :URL: https://www.sciencedirect.com/science/article/pii/S0167691120302243
   :AUTHOR: Ramos, G., Silvestre, D., & Silvestre, C.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/RamosEtAl2021.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/RamosEtAl2021.pdf
   :NOTER_PAGE:
   :END:
 

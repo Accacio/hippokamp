@@ -11,7 +11,7 @@
   :Custom_ID: ElGhaoui2002
   :URL: https://www.sciencedirect.com/science/article/pii/S0024379501002737
   :AUTHOR: El Ghaoui, L.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/ElGhaoui2002.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/ElGhaoui2002.pdf
   :NOTER_PAGE:
   :END:
 
@@ -30,13 +30,13 @@
 *** new quantity to characterize inversion error
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::1++2.54;;annot-1-0]]
-:ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-1-0
+:ID:       ../../docsThese/bibliography/ElGhaoui2002.pdf-annot-1-0
 :END:
 
 *** The inversion error depends on the condition number $\kappa(A)$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::2++0.00;;annot-2-0]]
-:ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/ElGhaoui2002.pdf-annot-2-0
 :END:
 ${\|(A+\Delta A)^{-1}-A^{-1} \|\over\|A^{-1} \|}\leq\kappa(A){\|\Delta A\|\over\|A\|}$
 
@@ -45,45 +45,45 @@ cite:demmel1992
 *** structured condition number depends on the structure of the matrix
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::2++0.00;;annot-2-1]]
-:ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-2-1
+:ID:       ../../docsThese/bibliography/ElGhaoui2002.pdf-annot-2-1
 :END:
 
 *** the value of the inverse with error is not classical inverse but $a\over (a^2-\rho^2)$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::2++5.97;;annot-2-2]]
-:ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-2-2
+:ID:       ../../docsThese/bibliography/ElGhaoui2002.pdf-annot-2-2
 :END:
 
 *** (LFR) linear fractional representation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::3++0.00;;annot-3-2]]
-:ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-3-2
+:ID:       ../../docsThese/bibliography/ElGhaoui2002.pdf-annot-3-2
 :END:
 
 
 *** pertubation $\rho$ of error $\Delta$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::3++0.28;;annot-3-0]]
-:ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-3-0
+:ID:       ../../docsThese/bibliography/ElGhaoui2002.pdf-annot-3-0
 :END:
 $\Delta_p=\{\Delta\in\mathbf{\Delta}\,|\,\|\Delta\|\leq\rho\}$
 
 *** invertability radius
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::3++0.28;;annot-3-1]]
-:ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-3-1
+:ID:       ../../docsThese/bibliography/ElGhaoui2002.pdf-annot-3-1
 :END:
 largest value of $\rho$ such $\mathrm{det}(I-D\Delta)\neq 0$
 
 *** error bounds for linear system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::4++1.29;;annot-4-0]]
-:ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-4-0
+:ID:       ../../docsThese/bibliography/ElGhaoui2002.pdf-annot-4-0
 :END:
 - [14] N.J. Higham, Accuracy and Stability of Numerical Algorithms, SIAM, Philadelphia, PA, 1996.
 
 *** Vandermonde Matrix
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ElGhaoui2002.pdf::7++1.41;;annot-7-0]]
-:ID:       ../docsThese/bibliography/ElGhaoui2002.pdf-annot-7-0
+:ID:       ../../docsThese/bibliography/ElGhaoui2002.pdf-annot-7-0
 :END:

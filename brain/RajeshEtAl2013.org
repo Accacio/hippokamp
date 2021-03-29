@@ -11,7 +11,7 @@
   :Custom_ID: RajeshEtAl2013
   :URL:
   :AUTHOR: R. Rajesh, K. K. Bajaj, S. R. R. Dhiwaakar Purusothaman, & V. Vijayaraghavan
-  :NOTER_DOCUMENT: ../docsThese/bibliography/RajeshEtAl2013.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/RajeshEtAl2013.pdf
   :NOTER_PAGE:
   :END:
 
@@ -30,13 +30,13 @@
 *** Framework for MAS with simulation in rural Indian micro-grid
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/RajeshEtAl2013.pdf::1++6.43;;annot-1-0]]
-:ID:       ../docsThese/bibliography/RajeshEtAl2013.pdf-annot-1-0
+:ID:       ../../docsThese/bibliography/RajeshEtAl2013.pdf-annot-1-0
 :END:
 
 *** agents divided in hierarchic levels
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/RajeshEtAl2013.pdf::3++3.61;;annot-3-0]]
-:ID:       ../docsThese/bibliography/RajeshEtAl2013.pdf-annot-3-0
+:ID:       ../../docsThese/bibliography/RajeshEtAl2013.pdf-annot-3-0
 :END:
 
 

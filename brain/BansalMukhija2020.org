@@ -11,7 +11,7 @@
   :Custom_ID: BansalMukhija2020
   :URL:
   :AUTHOR: K. Bansal, & P. Mukhija
-  :NOTER_DOCUMENT: ../docsThese/bibliography/BansalMukhija2020.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/BansalMukhija2020.pdf
   :NOTER_PAGE:
   :END:
 
@@ -36,44 +36,44 @@
 *** hybrid triggering
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::1++0.18;;annot-1-0]]
-:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-1-0
+:ID:       ../../docsThese/bibliography/BansalMukhija2020.pdf-annot-1-0
 :END:
 
 *** aperiodic sampled-data control
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::2++0.00;;annot-2-0]]
-:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/BansalMukhija2020.pdf-annot-2-0
 :END:
 
 *** control part under attack and part normal behavior
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::3++0.13;;annot-3-1]]
-:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-1
+:ID:       ../../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-1
 :END:
 
 *** new value sent if condition is violated
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::3++0.19;;annot-3-2]]
-:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-2
+:ID:       ../../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-2
 :END:
 
 *** condition for not triggering
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::3++0.24;;annot-3-3]]
-:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-3
+:ID:       ../../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-3
 :END:
 
 
 *** coupled discrete time linear systems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::3++0.33;;annot-3-0]]
-:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-0
+:ID:       ../../docsThese/bibliography/BansalMukhija2020.pdf-annot-3-0
 :END:
 
 *** computation of MIET
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::7++0.06;;annot-7-0]]
-:ID:       ../docsThese/bibliography/BansalMukhija2020.pdf-annot-7-0
+:ID:       ../../docsThese/bibliography/BansalMukhija2020.pdf-annot-7-0
 :END:
 
 

@@ -11,7 +11,7 @@
   :Custom_ID: KatewaEtAl2021
   :URL: https://www.sciencedirect.com/science/article/pii/S0005109820306282
   :AUTHOR: Katewa, V., Anguluri, R., & Pasqualetti, F.
-  :NOTER_DOCUMENT: ../docsThese/bibliography/KatewaEtAl2021.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/KatewaEtAl2021.pdf
   :NOTER_PAGE:
   :END:
 
@@ -31,25 +31,25 @@
 *** quantify privacy level based on estimation error and compare different privacy methods
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KatewaEtAl2021.pdf::1++1.86;;annot-1-59]]
-:ID:       ../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-59
+:ID:       ../../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-59
 :END:
 
 *** local attack detection using only local information
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KatewaEtAl2021.pdf::1++1.86;;annot-1-60]]
-:ID:       ../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-60
+:ID:       ../../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-60
 :END:
 
 *** limited exchange due to confidential information
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KatewaEtAl2021.pdf::1++6.61;;annot-1-61]]
-:ID:       ../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-61
+:ID:       ../../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-61
 :END:
 
 *** references for centralized attack detection and estimation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KatewaEtAl2021.pdf::1++7.15;;annot-1-62]]
-:ID:       ../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-62
+:ID:       ../../docsThese/bibliography/KatewaEtAl2021.pdf-annot-1-62
 :END:
 - cite:FawziEtAl2014
   https://ieeexplore.ieee.org/document/6727407
@@ -62,5 +62,5 @@ Bullo (2015), cen
 *** expression showing the difference of approach
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KatewaEtAl2021.pdf::2++5.16;;annot-2-54]]
-:ID:       ../docsThese/bibliography/KatewaEtAl2021.pdf-annot-2-54
+:ID:       ../../docsThese/bibliography/KatewaEtAl2021.pdf-annot-2-54
 :END:

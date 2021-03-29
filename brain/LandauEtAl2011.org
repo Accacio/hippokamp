@@ -6,7 +6,7 @@
 
 * LandauEtAl2011
 :PROPERTIES:
-:NOTER_DOCUMENT: ../docsThese/bibliography/LandauEtAl2011.pdf
+:NOTER_DOCUMENT: ../../docsThese/bibliography/LandauEtAl2011.pdf
 :END:
 
 
@@ -25,5 +25,5 @@
 *** RLS
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LandauEtAl2011.pdf::81++0.00;;annot-81-8]]
-:ID:       ../docsThese/bibliography/LandauEtAl2011.pdf-annot-81-8
+:ID:       ../../docsThese/bibliography/LandauEtAl2011.pdf-annot-81-8
 :END:

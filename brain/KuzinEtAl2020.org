@@ -11,7 +11,7 @@
   :Custom_ID: KuzinEtAl2020
   :URL:
   :AUTHOR: A. Y. Kuzin, G. L. Demidova, D. V. Lukichev, & N. A. Poliakov
-  :NOTER_DOCUMENT: ../docsThese/bibliography/KuzinEtAl2020.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/KuzinEtAl2020.pdf
   :NOTER_PAGE:
   :END:
 
@@ -30,12 +30,12 @@
 *** implentation of multi-agent distributed control system with hardware-in-the-loop
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KuzinEtAl2020.pdf::1++0.00;;annot-1-0]]
-:ID:       ../docsThese/bibliography/KuzinEtAl2020.pdf-annot-1-0
+:ID:       ../../docsThese/bibliography/KuzinEtAl2020.pdf-annot-1-0
 :END:
 
 *** Communication of the agents
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KuzinEtAl2020.pdf::2++0.79;;annot-2-0]]
-:ID:       ../docsThese/bibliography/KuzinEtAl2020.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/KuzinEtAl2020.pdf-annot-2-0
 :END:
 Agents implemented with JADE

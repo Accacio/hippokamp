@@ -11,7 +11,7 @@
   :Custom_ID: Iiduka2019
   :URL:
   :AUTHOR: H. Iiduka
-  :NOTER_DOCUMENT: ../docsThese/bibliography/Iiduka2019.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/Iiduka2019.pdf
   :NOTER_PAGE:
   :END:
 
@@ -30,18 +30,18 @@
 *** distributed algorithms to maximize utility
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::1++0.00;;annot-1-2]]
-:ID:       ../docsThese/bibliography/Iiduka2019.pdf-annot-1-2
+:ID:       ../../docsThese/bibliography/Iiduka2019.pdf-annot-1-2
 :END:
 
 *** projections onto half-spaces
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::2++1.29;;annot-2-0]]
-:ID:       ../docsThese/bibliography/Iiduka2019.pdf-annot-2-0
+:ID:       ../../docsThese/bibliography/Iiduka2019.pdf-annot-2-0
 :END:
 
 *** private information
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::3++3.87;;annot-3-0]]
-:ID:       ../docsThese/bibliography/Iiduka2019.pdf-annot-3-0
+:ID:       ../../docsThese/bibliography/Iiduka2019.pdf-annot-3-0
 :END:
 - information only user $i$ knows

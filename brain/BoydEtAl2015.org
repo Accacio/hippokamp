@@ -5,7 +5,7 @@
 
 * BoydEtAl2015
 :PROPERTIES:
-:NOTER_DOCUMENT: ../docsThese/bibliography/BoydEtAl2015.pdf
+:NOTER_DOCUMENT: ../../docsThese/bibliography/BoydEtAl2015.pdf
 :END:
 
 ** CATALOG
@@ -22,20 +22,20 @@
 *** algo primal decomposition
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::4++0.00;;annot-4-0]]
-:ID:       ../docsThese/bibliography/BoydEtAl2015.pdf-annot-4-0
+:ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-4-0
 :END:
 *** algo dual decomposition
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::7++0.00;;annot-7-0]]
-:ID:       ../docsThese/bibliography/BoydEtAl2015.pdf-annot-7-0
+:ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-7-0
 :END:
 *** algo primal decomposition with Constraints
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::12++0.00;;annot-12-0]]
-:ID:       ../docsThese/bibliography/BoydEtAl2015.pdf-annot-12-0
+:ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-12-0
 :END:
 *** algo dual decomposition with Constraints
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::13++0.00;;annot-13-0]]
-:ID:       ../docsThese/bibliography/BoydEtAl2015.pdf-annot-13-0
+:ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-13-0
 :END:
