@@ -1,6 +1,8 @@
 #+title: Recursion (GNU make)
 #+roam_key: https://www.gnu.org/software/make/manual/html_node/Recursion.html
-- tags ::[[file:20200428005424-linux.org][ linux]], [[file:20200713160350-programming.org][Programming]]
+
+- tags :: [[file:20200428005424-linux.org][linux]], [[file:20200713160350-programming.org][Programming]]
+
 
 - Make can be called recursively
 #+begin_src makefile
