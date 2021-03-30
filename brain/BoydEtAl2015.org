@@ -1,7 +1,8 @@
 #+title: BoydEtAl2015
 #+ROAM_KEY: cite:BoydEtAl2015
 #+ROAM_TAGS: article
-- tags :: [[file:20200427164136-decomposition.org][decomposition]]
+
+- tags :: [[file:20200427164136-decomposition.org][Decomposition]]
 
 * BoydEtAl2015
 :PROPERTIES:

@@ -2,7 +2,7 @@
 #+ROAM_KEY: cite:BoydVandenberghe2004
 #+ROAM_TAGS: book
 
-- tags :: [[file:20200709102805-optimization.org][optimization]]
+- tags :: [[file:20200709102805-optimization.org][Optimization]]
 - keywords ::
 
 

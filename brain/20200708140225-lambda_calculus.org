@@ -1,2 +1,2 @@
-#+title: lambda calculus
-- tags :: programming, [[file:20200424163014-mathematics.org][mathematics]]
+#+title: Lambda Calculus
+- tags :: [[file:20200713160350-programming.org][Programming]], [[file:20200424163014-mathematics.org][Mathematics]]

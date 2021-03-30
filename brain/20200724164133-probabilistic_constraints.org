@@ -1,2 +1,2 @@
 #+title: Probabilistic Constraints
-- tags :: [[file:20200716170653-probability.org][Probability]], [[file:20200709102805-optimization.org][optimization]]
+- tags :: [[file:20200716170653-probability.org][Probability]], [[file:20200709102805-optimization.org][Optimization]]

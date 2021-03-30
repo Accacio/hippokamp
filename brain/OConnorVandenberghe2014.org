@@ -2,7 +2,7 @@
 #+ROAM_KEY: cite:OConnorVandenberghe2014
 #+ROAM_TAGS: article SIAM
 
-- tags :: [[file:admm.org][ADMM]], [[file:20200427164136-decomposition.org][decomposition]]
+- tags :: [[file:admm.org][ADMM]], [[file:20200427164136-decomposition.org][Decomposition]]
 - keywords ::
 
 * Primal-Dual Decomposition by Operator Splitting and Applications to Image Deblurring

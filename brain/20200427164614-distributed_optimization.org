@@ -1,4 +1,4 @@
-#+TITLE: distributed optimization
+#+TITLE: Distributed Optimization
 #+roam_tags: concept
 
-- tags :: [[file:20200709102805-optimization.org][optimization]]
+- tags :: [[file:20200709102805-optimization.org][Optimization]]

@@ -1,7 +1,9 @@
 #+TITLE: Alternating Direction Method of Multipliers
 #+ROAM_ALIAS: ADMM
 #+ROAM_KEY: https://web.stanford.edu/~boyd/admm.html
-- tags :: [[file:20200427164136-decomposition.org][decomposition]]
+
+- tags :: [[file:20200427164136-decomposition.org][Decomposition]]
+
 https://web.stanford.edu/~boyd/admm.html
 
 Alternating Direction Method of Multipliers

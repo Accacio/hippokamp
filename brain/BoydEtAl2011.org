@@ -2,11 +2,12 @@
 #+ROAM_KEY: cite:BoydEtAl2011
 #+ROAM_TAGS: book
 
+- tag :: [[file:20200427164136-decomposition.org][Decomposition]], [[file:20200427164614-distributed_optimization.org][Distributed Optimization]]
+
 * BoydEtAl2011
 :PROPERTIES:
 :NOTER_DOCUMENT: ../../docsThese/bibliography/BoydEtAl2011.pdf
 :END:
-- tag :: [[file:20200427164136-decomposition.org][decomposition]], [[file:20200427164614-distributed_optimization.org][distributed optimization]],
 ** augmented lagrangian
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2011.pdf::13++0.13;;annot-13-0]]

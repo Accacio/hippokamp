@@ -2,7 +2,7 @@
 #+ROAM_KEY: cite:TanikawaMukai1983a
 #+ROAM_TAGS: article
 
-- tags :: [[file:20200427164614-distributed_optimization.org][distributed optimization]]
+- tags :: [[file:20200427164614-distributed_optimization.org][Distributed Optimization]]
 - keywords ::
 
 
