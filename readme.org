@@ -1,21 +1,22 @@
 #+TITLE: 🧠
-* What is this?
+* Hippokamp
+** What is this?
 - This is a "second brain" for my own use.
 - This repo may increase rapidly.
 - like my thought process, notes won't be ordered. they are interlinked.
 - Notes may be in portuguese, french or english.
-* What it is not?
+** What it is not?
 - A wiki
 - a FAQ
 - "un pipe"
-* HTML version
+** HTML version
 Coming soon in a web browser near you
-* Some interesting notes (maybe)
+** Some interesting notes (maybe)
 - [[file:brain/20200504164021-control.org][Control]]
 - [[file:brain/20200923155306-graph_theory.org][Graph Theory]]
-* Cool articles
+** Cool articles
 - [[file:brain/GilbertEtAl1988.org][GilbertEtAl1988: A fast procedure for computing the distance between complex objects in three-dimensional space]]
-* Cool comics
+** Cool comics
 - [[file:brain/xkcd_s_keyboard_leopard.org][xkcd: s/keyboard/leopard/]]
-* List of recipes
+** List of recipes
 - [[file:brain/20210319185651-meal_planning.org][Meal Planning]]
