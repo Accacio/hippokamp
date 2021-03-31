@@ -6,6 +6,16 @@
 * Planning
 #+BEGIN_SRC plantuml :file img/ganttThese.png :exports results
 printscale monthly
+<style>
+ganttDiagram {
+    task {
+        BackGroundColor Lavender
+        LineColor LightBlue
+    }
+    milestone {
+    }
+}
+</style>
 Project starts the 2019-11-01
 today is 30 days after start and is colored in #AAF
 -- CSI --
@@ -33,7 +43,7 @@ today is 30 days after start and is colored in #AAF
 [ Auto 21/22] as [V4] starts 2021-09-16 and ends 2021-10-16
 
 [V1] is colored in LightGreen/LightBlue
-[V2] is 50% completed
+[V2] is 80% completed
 [V3] is 0% completed
 [V4] is 0% completed
 
@@ -45,47 +55,33 @@ today is 30 days after start and is colored in #AAF
 [V3] displays on same row as [V2]
 [V4] displays on same row as [V3]
 
--- Thesis --
+-- Research --
 [ Bibliography ] as [B1] starts at 2019-11-01 and ends 2022-08-31
-[Thesis writing] as [W1] starts at 2022-02-25 and lasts 180 days
-[Presentation] as [W2] starts at 2022-08-30 and lasts 90 days
 
 [B1] is 40% completed
 [B1] links to [[https://gitlab.com/Accacio/docsthese/raw/master/bibliography.bib]]
-[W1] is 0% completed
-[W2] is 0% completed
 
-[B1] is colored in Lavender/LightBlue
-[W1] is colored in Lavender/LightBlue
-[W2] is colored in Lavender/LightBlue
+[First running example] as [Ex1] happens at 2019-12-01
+[N-agents | Eq. Constraints] as [Ex2] happens at 2020-10-01
+[Ex2] displays on same row as [Ex1]
 
+[N-agents | Ineq. Constraints] as [Ex3] happens at 2021-05-01
+[Ex3] displays on same row as [Ex2]
 
--- Research --
-[First running example] happens at 2019-12-01
-
-[Detection (S1)] as [D1] starts at 2020-02-01 and lasts 30 days
+[Projections onto halfspaces and hyperplanes] starts at 2021-01-15 and ends at 2021-02-16
+[Identification of steps and common problems to solve ] as [D1] starts at 2020-02-01 and lasts 30 days
 [Isolation (S1)] as [I1] starts after [D1]'s end and lasts 15 days
 [Recovery (S1)] as [R1] starts after [I1]'s end and lasts 15 days
 
-[D1] is colored in Lavender/LightBlue
-[I1] is colored in Lavender/LightBlue
-[R1] is colored in Lavender/LightBlue
 
 [Detection (S2)] as [D2] starts at 2020-07-07 and lasts 40 days
 [Isolation (S2)] as [I2] starts after [D2]'s end and lasts 30 days
 [Recovery (S2)] as [R2] starts after [I2]'s end and lasts 25 days
 
-[D2] is colored in Lavender/LightBlue
-[I2] is colored in Lavender/LightBlue
-[R2] is colored in Lavender/LightBlue
-
-[Detection (S3)] as [D3] starts 32 weeks after [D2]'s end with white bold link and lasts 30 days
+[Propagation of Est. Error ] as [D3] starts 32 weeks after [D2]'s end with white bold link and lasts 30 days
 [Isolation (S3)] as [I3] starts after [D3]'s end and lasts 30 days
 [Recovery (S3)] as [R3] starts after [I3]'s end and lasts 25 days
 
-[D3] is colored in Lavender/LightBlue
-[I3] is colored in Lavender/LightBlue
-[R3] is colored in Lavender/LightBlue
 
 [D3] is 0% completed
 [I3] is 0% completed
@@ -94,10 +90,6 @@ today is 30 days after start and is colored in #AAF
 [Detection (S4)] as [D4] starts 18 weeks after [D3]'s end with white bold link and lasts 30 days
 [Isolation (S4)] as [I4] starts after [D4]'s end and lasts 30 days
 [Recovery (S4)] as [R4] starts after [I4]'s end and lasts 25 days
-
-[D4] is colored in Lavender/LightBlue
-[I4] is colored in Lavender/LightBlue
-[R4] is colored in Lavender/LightBlue
 
 [D4] is 0% completed
 [I4] is 0% completed
@@ -131,8 +123,7 @@ today is 30 days after start and is colored in #AAF
 [I5] displays on same row as [I2]
 [R5] displays on same row as [R2]
 
-[Documentation (code)] as [Doc1] starts at 2020-01-01 and ends 2022-08-01
-[Doc1] is colored in Lavender/LightBlue
+[Documentation (code + text)] as [Doc1] starts at 2020-01-01 and ends 2022-08-01
 [Doc1] is 40% completed
 
 -- Writing --
@@ -145,6 +136,7 @@ today is 30 days after start and is colored in #AAF
 [Systol 2021] happens at 2021-04-19
 [Systol 2021 (writing)] as [A3] starts at 2021-03-18 and lasts 30 days
 
+
 [Article 2] as [A4] happens at 4 weeks after [R3]'s end
 [Article 3] as [A5] happens at 4 weeks after [R4]'s end
 [Article 4] as [A6] happens at 4 weeks after [R5]'s end
@@ -155,15 +147,10 @@ today is 30 days after start and is colored in #AAF
 [A5] displays on same row as [A4]
 [A6] displays on same row as [A5]
 
-[A1] is colored in Lavender/LightBlue
-[A2] is colored in Lavender/LightBlue
-[A3] is colored in Lavender/LightBlue
-
 [A3] is 10% completed
 /'
  ' colors
  '/
-
 [CDC 2020] is colored in red
 [ECC 2021] is colored in red
 [Systol 2021] is colored in lightblue
@@ -173,7 +160,10 @@ today is 30 days after start and is colored in #AAF
 [ECC 2021] displays on same row as [CDC 2020]
 [Systol 2021] displays on same row as [ECC 2021]
 
-
+[Thesis writing] as [W1] starts at 2022-02-25 and lasts 180 days
+[Presentation] as [W2] starts at 2022-08-30 and lasts 90 days
+[W1] is 0% completed
+[W2] is 0% completed
 #+END_SRC
 
 #+RESULTS:
@@ -194,6 +184,12 @@ done
 - [[file:~/docsThese/docs/org/slideCSI-2022.org][2022]]
 :end:
 
+* Problems normally found
+- Negotiation
+  + Projection
+    - Hyperplanes/HalfSpaces
+  + Estimation
+    - Richness of signal
 * Words
 - mitigation
 * Expressions
