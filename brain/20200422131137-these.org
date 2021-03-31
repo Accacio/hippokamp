@@ -179,9 +179,6 @@ today is 30 days after start and is colored in #AAF
 #+RESULTS:
 [[file:img/ganttThese.png]]
 
-#+ATTR_HTML: :width 300
-#+ATTR_LATEX: :width \textwidth
-#+RESULTS:
 
 * CSI
 #+begin_src bash :results drawer :exports results
@@ -197,48 +194,47 @@ done
 - [[file:~/docsThese/docs/org/slideCSI-2022.org][2022]]
 :end:
 
-
 * Words
 - mitigation
 * Expressions
 #+begin_src bash :results drawer :exports results
-awk '/*** Expressions/,/*** References/' *[0-9][0-9][0-9][0-9].org | grep -v "Expressions\|References" | sort
+awk '/*** Expressions/,/*** References/{print   " [[file:"FILENAME"::*Expressions]["$0"]]"}' *[0-9][0-9][0-9][0-9].org | grep -v "*** Expressions\|References" | sort
 #+end_src
 
 #+RESULTS:
 :results:
-- aim to shorten the gap
-- a key feature of the proposed method
-- approach
-- As another direction of work
-- Attack identification and mitigation
-- By ignoring x, the model is reduced to
-- deliberately
-- Due to
-- each node is an agent (and thus we use the terms interchangeably)
-- future research directions in ...
-- hindering
-- However, different from the method proposed by ... our methodology deals with
-- in a ... fashion
-- In all the previous works
-- In contrast to
-- In contrast to these works,
-- Instead
-- In this regard
-- investigated
-- Moreover
-- More specifically, the contributions of this paper are the following results
-- Motivated by this
-- One thus hopes
-- On the theoretical side
-- Recently
-- The Drawback
-- The main advantages of such approaches include
-- This paper extends the results of ...
-- to show effectivenes of algo
-- Trivially separable
-- Unlike
-- Unlike ... where ..., in the proposed
+ [[file:AnandutaEtAl2020.org::*Expressions][- Attack identification and mitigation]]
+ [[file:AnandutaEtAl2020.org::*Expressions][- However, different from the method proposed by ... our methodology deals with]]
+ [[file:AnandutaEtAl2020.org::*Expressions][- In this regard]]
+ [[file:AnandutaEtAl2020.org::*Expressions][- Recently]]
+ [[file:AnandutaEtAl2020.org::*Expressions][- The main advantages of such approaches include]]
+ [[file:AnandutaEtAl2020.org::*Expressions][- Trivially separable]]
+ [[file:ArabloueiEtAl2014.org::*Expressions][- Unlike]]
+ [[file:BansalMukhija2020.org::*Expressions][- Unlike ... where ..., in the proposed]]
+ [[file:BourdaisEtAl2012.org::*Expressions][- In all the previous works]]
+ [[file:BraunEtAl2020.org::*Expressions][- approach]]
+ [[file:BraunEtAl2020.org::*Expressions][- In contrast to]]
+ [[file:BraunEtAl2020.org::*Expressions][- Instead]]
+ [[file:GrimsmanEtAl2019.org::*Expressions][- each node is an agent (and thus we use the terms interchangeably)]]
+ [[file:GrimsmanEtAl2019.org::*Expressions][- More specifically, the contributions of this paper are the following results]]
+ [[file:KatewaEtAl2021.org::*Expressions][- In contrast to these works,]]
+ [[file:KolarijaniEtAl2020.org::*Expressions][- a key feature of the proposed method]]
+ [[file:KolarijaniEtAl2020.org::*Expressions][- future research directions in ...]]
+ [[file:KolarijaniEtAl2020.org::*Expressions][- hindering]]
+ [[file:KolarijaniEtAl2020.org::*Expressions][- in a ... fashion]]
+ [[file:KolarijaniEtAl2020.org::*Expressions][- Moreover]]
+ [[file:KolarijaniEtAl2020.org::*Expressions][- One thus hopes]]
+ [[file:KolarijaniEtAl2020.org::*Expressions][- On the theoretical side]]
+ [[file:KolarijaniEtAl2020.org::*Expressions][- This paper extends the results of ...]]
+ [[file:LiuEtAl2016.org::*Expressions][- aim to shorten the gap]]
+ [[file:LiuEtAl2016.org::*Expressions][- Due to]]
+ [[file:LiuEtAl2016.org::*Expressions][- The Drawback]]
+ [[file:LiuEtAl2019.org::*Expressions][- investigated]]
+ [[file:LuYang2020.org::*Expressions][- deliberately]]
+ [[file:MukherjeeZelazo2019.org::*Expressions][- As another direction of work]]
+ [[file:WuEtAl2018.org::*Expressions][- Motivated by this]]
+ [[file:YangEtAl2019.org::*Expressions][- By ignoring x, the model is reduced to]]
+ [[file:YangEtAl2019.org::*Expressions][- to show effectivenes of algo]]
 :end:
 
 * Ideias & Perguntas
