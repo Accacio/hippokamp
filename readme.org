@@ -9,8 +9,13 @@
 - A wiki
 - a FAQ
 - "un pipe"
-** HTML version
-Coming soon in a web browser near you
+** Why hippokamp?
+- Hyppokamps are mythological creatures with horse's body and fish's tail.
+- [[https://en.wikipedia.org/wiki/Julius_Caesar_Aranzi][Giulio Cesare Aranzio]] named a part of the brain hippocampus, due to its shape.
+From wikipedia the hippocampus is :
+#+begin_quote
+… under the cerebral cortex. It is important in spatial memory and navigation, and _helps turn short-term memory into long-term memory_.
+#+end_quote
 ** Some interesting notes (maybe)
 - [[file:brain/20200504164021-control.org][Control]]
 - [[file:brain/20200923155306-graph_theory.org][Graph Theory]]
@@ -20,3 +25,5 @@ Coming soon in a web browser near you
 - [[file:brain/xkcd_s_keyboard_leopard.org][xkcd: s/keyboard/leopard/]]
 ** List of recipes
 - [[file:brain/20210319185651-meal_planning.org][Meal Planning]]
+** HTML version
+the HTML version of these notes is [[https://accacio.gitlab.io/Accacio/brain][here]]
