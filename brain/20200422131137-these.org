@@ -3,42 +3,177 @@
 
 - tags :: [[file:20200406135143-secure_dmpc.org][Secure dMPC]], [[file:20200427105830-cybersecurity.org][Cyber-Security]]
 
-#+BEGIN_SRC plantuml :file img/ganttThese.png
+* Planning
+#+BEGIN_SRC plantuml :file img/ganttThese.png :exports results
 printscale monthly
-Project starts the 1th of november 2019
--- Initial Studies --
-[ Bibliography ]  as [T1] lasts 900 days
-[T1] is 20% completed
-[T1] links to [[file://../../docsThese/bibliography.bib]]
-[ Detection ] as [T2] starts at 1st January 2020 and lasts 880 days
-[ Isolation ] as [T3] starts at 1st January 2020 and lasts 880 days
-[ Recovery ] as [T4] starts at 1st January 2020 and lasts 880 days
-[Thesis writing] as [T5] starts at 30th of february 2022 and lasts 180 days
-[T2] is 15% completed
-[T3] is 15% completed
-[T4] is 15% completed
--- Simple System --
-[First running example] happens at 1st of december 2019
-[ Detection in Simple System ] as [T2] starts at 1st January 2020 and lasts 880 days
-[ Isolation ] as [T3] starts at 1st January 2020 and lasts 880 days
-[ Recovery ] as [T4] starts at 1st January 2020 and lasts 880 days
-[Detection in Simple System] happens at 1st of april 2020
-[Isolation in Simple System] happens at 1st of april 2020
-[Recovery in Simple System] happens at 1st of april 2020
--- Complex System --
-[Detection in Complex System] as [DCS] happens at 1st of october 2020
-[Isolation in Complex System] as [ICS] happens at 1st of november 2020
-[Recovery in Complex System] as [RCS] happens at 1st of january 2021
--- Writing --
-[Article 1] happens at [ICS]'s end
-[Isolation in Complex System] happens at 1st of november 2020
-[Recovery in Complex System] happens at 1st of january 2021
+Project starts the 2019-11-01
+today is 30 days after start and is colored in #AAF
+-- CSI --
+[CSI 2020] happens at 2020-06-03
+[CSI 2021] happens at 2021-05-03
 
-[T1] is colored in Lavender/LightBlue
-[T2] is colored in Lavender/LightBlue
-[T3] is colored in Lavender/LightBlue
-[T4] is colored in Lavender/LightBlue
-[T5] is colored in Lavender/LightBlue
+[CSI 2020] is colored in blue
+[CSI 2021] is colored in blue
+
+-- Formations --
+[MSER] as [F1] happens at 2020-03-02
+[DSC] as [F2] happens at 2020-06-22
+[Ethics] as [F3] happens at 2020-07-17
+[Data Driven Model Learning] as [F4] happens at 2021-04-06
+[F1] is colored in lightgreen
+[F2] is colored in lightgreen
+[F3] is colored in lightgreen
+[F4] is colored in lightblue
+
+-- Teaching --
+[ Auto 20/21 ] as [V1] starts 2020-09-16 and ends 2020-10-16
+[ µGrid 20/21] as [V2] starts 2021-03-16 and ends 2021-4-06
+
+[ MPC 20/21] as [V3] starts 2021-07-16 and ends 2021-7-16
+[ Auto 21/22] as [V4] starts 2021-09-16 and ends 2021-10-16
+
+[V1] is colored in LightGreen/LightBlue
+[V2] is 50% completed
+[V3] is 0% completed
+[V4] is 0% completed
+
+[V2] is colored in LightGreen/LightBlue
+[V3] is colored in LightGreen/LightBlue
+[V4] is colored in LightGreen/LightBlue
+
+[V2] displays on same row as [V1]
+[V3] displays on same row as [V2]
+[V4] displays on same row as [V3]
+
+-- Thesis --
+[ Bibliography ] as [B1] starts at 2019-11-01 and ends 2022-08-31
+[Thesis writing] as [W1] starts at 2022-02-25 and lasts 180 days
+[Presentation] as [W2] starts at 2022-08-30 and lasts 90 days
+
+[B1] is 40% completed
+[B1] links to [[https://gitlab.com/Accacio/docsthese/raw/master/bibliography.bib]]
+[W1] is 0% completed
+[W2] is 0% completed
+
+[B1] is colored in Lavender/LightBlue
+[W1] is colored in Lavender/LightBlue
+[W2] is colored in Lavender/LightBlue
+
+
+-- Research --
+[First running example] happens at 2019-12-01
+
+[Detection (S1)] as [D1] starts at 2020-02-01 and lasts 30 days
+[Isolation (S1)] as [I1] starts after [D1]'s end and lasts 15 days
+[Recovery (S1)] as [R1] starts after [I1]'s end and lasts 15 days
+
+[D1] is colored in Lavender/LightBlue
+[I1] is colored in Lavender/LightBlue
+[R1] is colored in Lavender/LightBlue
+
+[Detection (S2)] as [D2] starts at 2020-07-07 and lasts 40 days
+[Isolation (S2)] as [I2] starts after [D2]'s end and lasts 30 days
+[Recovery (S2)] as [R2] starts after [I2]'s end and lasts 25 days
+
+[D2] is colored in Lavender/LightBlue
+[I2] is colored in Lavender/LightBlue
+[R2] is colored in Lavender/LightBlue
+
+[Detection (S3)] as [D3] starts 32 weeks after [D2]'s end with white bold link and lasts 30 days
+[Isolation (S3)] as [I3] starts after [D3]'s end and lasts 30 days
+[Recovery (S3)] as [R3] starts after [I3]'s end and lasts 25 days
+
+[D3] is colored in Lavender/LightBlue
+[I3] is colored in Lavender/LightBlue
+[R3] is colored in Lavender/LightBlue
+
+[D3] is 0% completed
+[I3] is 0% completed
+[R3] is 0% completed
+
+[Detection (S4)] as [D4] starts 18 weeks after [D3]'s end with white bold link and lasts 30 days
+[Isolation (S4)] as [I4] starts after [D4]'s end and lasts 30 days
+[Recovery (S4)] as [R4] starts after [I4]'s end and lasts 25 days
+
+[D4] is colored in Lavender/LightBlue
+[I4] is colored in Lavender/LightBlue
+[R4] is colored in Lavender/LightBlue
+
+[D4] is 0% completed
+[I4] is 0% completed
+[R4] is 0% completed
+
+[Detection (S5)] as [D5] starts 18 weeks after [D4]'s end with white bold link and lasts 30 days
+[Isolation (S5)] as [I5] starts after [D5]'s end and lasts 30 days
+[Recovery (S5)] as [R5] starts after [I5]'s end and lasts 25 days
+
+[D5] is colored in Lavender/LightBlue
+[I5] is colored in Lavender/LightBlue
+[R5] is colored in Lavender/LightBlue
+
+[D5] is 0% completed
+[I5] is 0% completed
+[R5] is 0% completed
+
+[D1] displays on same row as [D2]
+[I1] displays on same row as [I2]
+[R1] displays on same row as [R2]
+
+[D3] displays on same row as [D2]
+[I3] displays on same row as [I2]
+[R3] displays on same row as [R2]
+
+[D4] displays on same row as [D2]
+[I4] displays on same row as [I2]
+[R4] displays on same row as [R2]
+
+[D5] displays on same row as [D2]
+[I5] displays on same row as [I2]
+[R5] displays on same row as [R2]
+
+[Documentation (code)] as [Doc1] starts at 2020-01-01 and ends 2022-08-01
+[Doc1] is colored in Lavender/LightBlue
+[Doc1] is 40% completed
+
+-- Writing --
+[CDC 2020] happens at 2020-03-17
+[CDC 2020 (writing)] as [A1] starts at 2020-02-15 and lasts 30 days
+
+[ECC 2021] happens at 2020-11-25
+[ECC 2021 (writing)] as [A2] starts at 2020-10-25 and lasts 30 days
+
+[Systol 2021] happens at 2021-04-19
+[Systol 2021 (writing)] as [A3] starts at 2021-03-18 and lasts 30 days
+
+[Article 2] as [A4] happens at 4 weeks after [R3]'s end
+[Article 3] as [A5] happens at 4 weeks after [R4]'s end
+[Article 4] as [A6] happens at 4 weeks after [R5]'s end
+[A4] is colored in lightblue
+[A5] is colored in lightblue
+[A6] is colored in lightblue
+
+[A5] displays on same row as [A4]
+[A6] displays on same row as [A5]
+
+[A1] is colored in Lavender/LightBlue
+[A2] is colored in Lavender/LightBlue
+[A3] is colored in Lavender/LightBlue
+
+[A3] is 10% completed
+/'
+ ' colors
+ '/
+
+[CDC 2020] is colored in red
+[ECC 2021] is colored in red
+[Systol 2021] is colored in lightblue
+
+[A2] displays on same row as [A1]
+[A3] displays on same row as [A2]
+[ECC 2021] displays on same row as [CDC 2020]
+[Systol 2021] displays on same row as [ECC 2021]
+
+
 #+END_SRC
 
 #+RESULTS:
@@ -49,12 +184,66 @@ Project starts the 1th of november 2019
 #+RESULTS:
 
 * CSI
+#+begin_src bash :results drawer :exports results
+for i in {2020..2022}; do
+    echo - [[file:~/docsThese/docs/org/slideCSI-$i.org][$i]]
+done
+#+end_src
+
+#+RESULTS:
+:results:
 - [[file:~/docsThese/docs/org/slideCSI-2020.org][2020]]
 - [[file:~/docsThese/docs/org/slideCSI-2021.org][2021]]
+- [[file:~/docsThese/docs/org/slideCSI-2022.org][2022]]
+:end:
+
+
 * Words
 - mitigation
-* Ideias
+* Expressions
+#+begin_src bash :results drawer :exports results
+awk '/*** Expressions/,/*** References/' *[0-9][0-9][0-9][0-9].org | grep -v "Expressions\|References" | sort
+#+end_src
+
+#+RESULTS:
+:results:
+- aim to shorten the gap
+- a key feature of the proposed method
+- approach
+- As another direction of work
+- Attack identification and mitigation
+- By ignoring x, the model is reduced to
+- deliberately
+- Due to
+- each node is an agent (and thus we use the terms interchangeably)
+- future research directions in ...
+- hindering
+- However, different from the method proposed by ... our methodology deals with
+- in a ... fashion
+- In all the previous works
+- In contrast to
+- In contrast to these works,
+- Instead
+- In this regard
+- investigated
+- Moreover
+- More specifically, the contributions of this paper are the following results
+- Motivated by this
+- One thus hopes
+- On the theoretical side
+- Recently
+- The Drawback
+- The main advantages of such approaches include
+- This paper extends the results of ...
+- to show effectivenes of algo
+- Trivially separable
+- Unlike
+- Unlike ... where ..., in the proposed
+:end:
+
+* Ideias & Perguntas
 ** se a variação de um tempo para outro for pequena pode tentar estimar o gradiente?? algo como expansão de taylor de 2 ordem
 ** verificar erro de estimação
 - $\|T-\hat T\|\leq\epsilon$
 - $\kappa(\hat T)=f(\kappa(T),\epsilon)$
+** [[file:daily/2021-03-30.org::*porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?][porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?]]

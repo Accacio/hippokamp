@@ -33,8 +33,7 @@ Resilient [[file:20200709101933-dmpc.org][dMPC]] under [[file:20200722151944-att
 - In this regard
 - Recently
 - The main advantages of such approaches include
-- However, differ-
-ent from the method proposed by ... our methodology deals with
+- However, different from the method proposed by ... our methodology deals with
 - Trivially separable
 - Attack identification and mitigation
 *** References :violet:
