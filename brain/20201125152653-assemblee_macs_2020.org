@@ -1,5 +1,5 @@
 #+title: Assemblée MACS 2020
-- tags :: [[file:20200422134152-assemblees.org][assemblées]], [[file:20201125152727-gdr_macs.org][gdr MACS]]
+- tags :: [[file:20200422134152-assemblees.org][Assemblées]], [[file:20201125152727-gdr_macs.org][gdr MACS]]
 
 * cours doctorants
   - simulation
