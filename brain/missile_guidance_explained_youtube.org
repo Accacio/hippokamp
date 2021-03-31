@@ -1,0 +1,3 @@
+#+title: Missile guidance explained - YouTube
+#+roam_key: https://www.youtube.com/watch?v=c-FT0T9Ei-4
+- tags :: [[file:20200504164021-control.org][Control]]
