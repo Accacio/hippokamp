@@ -1,0 +1,13 @@
+#+title: Error Propagation
+
+- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+
+* Partial derivatives Algorithm
+- $Y=f(X_1,X_2,\dots,X_n)$
+- $y^2=\sum\limits_{i=1}^{n}{\partial Y\over \partial X_i}^2x_i^2$
+** Operations
+- Addition :: $(A\pm a)+(B\pm b)+\dots+(N\pm n)=A+B+\dots+N\pm \sqrt{a^2+b^2+\dots+n^2}$
+- Subtraction :: $(A\pm a)-(B\pm b)-\dots+(N\pm n)=A-B-\dots-N\pm \sqrt{a^2+b^2+\dots+n^2}$
+- Mutiplication :: $(A\pm a)(B\pm b)\dots+(N\pm n)=AB\dotsN\left(1\pm \sqrt{({a\over A})^2+({b\over B})^2+\dots+({n\over N})^2}\right)$
+- Division :: ${(A\pm a)\over (B\pm b)}={A\over B}\left(1\pm \sqrt{({a\over A})^2+({b\over B}^2)}\right)$
+this is a text.

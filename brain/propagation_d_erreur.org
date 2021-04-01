@@ -1,0 +1,3 @@
+#+title: Propagation d'erreur
+#+roam_key: http://robert.mellet.pagesperso-orange.fr/p_err/p_err_01.htm
+- tags :: [[file:20210401171755-error_propagation.org][Error Propagation]]
