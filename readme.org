@@ -26,4 +26,4 @@ From wikipedia the hippocampus is :
 ** List of recipes
 - [[file:brain/20210319185651-meal_planning.org][Meal Planning]]
 ** HTML version
-the HTML version of these notes is [[https://accacio.gitlab.io/Accacio/brain][here]]
+the HTML version of these notes is [[https://accacio.gitlab.io/brain][here]]
