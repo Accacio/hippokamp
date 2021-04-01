@@ -25,5 +25,6 @@
 * Organização
 ** Banco de dados?
 ** Excel
+- [[https://www.dropbox.com/preview/Evelise_Rafael/Organiza%C3%A7%C3%A3o/Planejador%20simples%20de%20refei%C3%A7%C3%B5es%201.xlsx?role=personal][Planejador]]
 - Estoque
 - Compras
