@@ -18,7 +18,7 @@ Formation, Localization problems
 <2020-06-22 lun.>
 agent i , speed heading
 
-$\theta_i(t+1)=\frac{1}{n_i(t)}\sum_{j\inN_i(t)} \theta_j(t)$
+$\theta_i(t+1)=\frac{1}{n_i(t)}\sum_{j\in N_i(t)} \theta_j(t)$
 # TODO compact set subset, bounded and closed. all real values, normed space.
 # closed complement of open set
 # open set every point has a sufficiently close point
