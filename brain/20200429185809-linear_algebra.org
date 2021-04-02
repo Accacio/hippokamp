@@ -9,3 +9,8 @@
 * Matrices
 - Vandermonde ::
   $V=\left[\begin{matrix}1 &\alpha_1&\alpha_1^{2}&\dots&\alpha_1^{n-1}\\ 1& \alpha_2&\alpha_2^{2}&\dots&\alpha_2^{n-1}\\\vdots&\vdots&\vdots&\ddots&\vdots\\1&\alpha_m&\alpha_m^2&\dots&\alpha_m^{n-1}\end{matrix} \right]$
+
+* Hadamard product
+or Schur product
+$A\circ B=$
+Element-wise multiplication =.*=

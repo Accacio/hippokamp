@@ -2,5 +2,7 @@
 #+roam_key: https://en.wikipedia.org/wiki/Matrix_calculus
 - tags :: [[file:20200429185809-linear_algebra.org][Linear Algebra]], [[file:20210301094534-calculus.org][Calculus]]
 
+https://en.wikipedia.org/wiki/Matrix_calculus
+
 * Identities
   - quadratic :: $\frac{\partial \vec{x}^tA\vec{x}}{\partial \vec{x}}=2\vec{x}^TA$

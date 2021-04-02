@@ -1,0 +1,6 @@
+#+title: Eigen
+#+roam_key: https://eigen.tuxfamily.org/index.php?title=Main_Page
+
+https://eigen.tuxfamily.org/index.php?title=Main_Page
+
+- tags :: [[file:20210402144836-linear_algebra_software_libraries.org][Linear Algebra Software/Libraries]], [[file:20200708151656-c_c.org][C/C++]]

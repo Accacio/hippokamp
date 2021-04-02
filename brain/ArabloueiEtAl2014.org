@@ -128,9 +128,8 @@ from [[wikipedia:ergodic_process][wikipedia]]: any collection of random sampes f
 :ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-7-0
 :END:
 
-*** Hadamard product
+*** [[file:20200429185809-linear_algebra.org::*Hadamard product][Hadamard product]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArabloueiEtAl2014.pdf::8++6.20;;annot-8-0]]
 :ID:       ../../docsThese/bibliography/ArabloueiEtAl2014.pdf-annot-8-0
 :END:
-Element-wise multiplication =.*=
