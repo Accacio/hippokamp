@@ -48,8 +48,81 @@ pdf:~/these/formations/Data-driven/MATERIAL_TO_BE_SENT/SLIDES_THEORY_APRIL_6_7/s
       + Data
     - Model Set
     - Identification criterion
+* Prediction Error Identification
+<2021-04-06 mar. 15:19-16:35>
+** Introduction about Prediction Error Identification
+*** Assumptions
+**** System TF $G_0(z)$ and Error TF $H_0(z)$
+- $H_0$ is stable, inversibly stable and [[file:20200504164021-control.org::*Monic Transfer function][monic]]
+- $e(t)$ is a white noite
+  + $E[e(t)]=0$
+  + $Re(\tau)\stackrel{\triangle}{= }E[e(t)(et-\tau)]=\sigma^2\cdot\delta(\tau)$
+** Objective
+- find best parametric models $g(z,\theta)$ and $H(z,\theta)$
+** Predictor $\hat y(t,\theta)$ in identification and prediction error $\epsilon(t,\theta)$
+$\epsilon(t,\theta)\stackrel{\triangle}{= }H(z-\theta)^{-1} (y(t)-G(z,\theta)u(t))\,\,\forallt=1..N$
+** Properties of the prediction error $\epsilon(t,\theta)$
+1. given $\theta$ and $Z^N$, then $\epsilon(t,\theta)$ computable
+2. $\epsilon(t,\theta_0)=e(t)$
+3. $\epsilon(t,\theta_0)\neq$ white noise for all $\theta\neq\theta_0$
+4. $\theta_0$ minimizes power $\bar E[\epsilon^2(t,\theta)]$ of $\epsilon(\theta)$
+   a. $\bar E[\epsilon^2(t,\theta)\stackrel{\triangle}{= }\lim_{n\to\infty}{1\over N}\sum_ {t=1}^{N}\epsilon^2(t,\theta)$
+
+** Mathematical Criterion for prediction error identification
+*** Optimization problem
+- Cost function :: $\hat V(\theta)=\hat E[\epsilon^2(t,\theta)]=\lim_{N\to\infty}{1\over N}\sum_{t=1}^NE[\epsilon^2(t,\theta)]$
+- Criterion is impossible since N cannot be $\infty$
+*** Tractable Identification Criterion
+- Cost function :: $V_{N}(\theta,Z^N)={1\over N}\sum_{t=1}^N\epsilon^2(t,\theta)$
+- Estimation through minimization of $V_N$ :: $\hat \theta_N=\mathrm{arg}\, \underset{\theta}{\min}\, V_N(\theta,Z^N)$
+** Black box model structures
+*** General parametrization used in Matlab Toolbox
+pdf:~/these/formations/Data-driven/MATERIAL_TO_BE_SENT/SLIDES_THEORY_APRIL_6_7/slides_spring_2.pdf::32
+- $G(z,\theta)={z^{-n_k}B(z,\theta)\over F(z,\theta)A(z,\theta)}$ and $H(z,\theta)={C(z,\theta)\over D(z,\theta)A(z,\theta)}$
+- common dynamics use $A(z,\theta)$
+- Usually $A(z,\theta)$ is 1
+*** Model Structures used in practice
+- ARX - $n_k$, $A$ and $B$
+- ARMAX $n_k$ $B$ $A$ $C$
+- OE - Output Error $n_k$ $B$ $F$
+- FIR $n_k$ $B$
+- BJ - Box-Jenkins (can represent anything) $B$ $C$ $F$ $D$ $n_k$ <= recommended
+
+** Computation
+- if $y(t,\theta)$ is linear w.r.t. $\theta$ FIR or ARX
+
+
+- Least Squares :: $\hat \theta = \left[{1 \over N} \sum_{t=1}^N\phi(t)\phi^T(t)\right]^{-1}\cdot\left[{1 \over N} \sum_{t=1}^N\phi(t)y(t)\right]$
+** Conditions on experimental data
+<2021-04-06 mar. 16:55-17:55>
+#+begin_quote
+has a unique solution θ ∗ (i.e. θ ∗ = θ 0 when S ∈ M) if the
+input signal u(t) that is chosen to generate the experimental
+data is sufficiently rich.
+#+end_quote
+
+* Videos
+- 6 April 2021
+  + INTRODUCTION (slides_spring_1.pdf) :: https://replay.ec-lyon.fr/video/0782-2021-spring-school-linear-systemidentification-video-1-introduction/
+  + PREDICTION ERROR IDENTIFICATION (slides_spring_2.pdf) :: https://replay.ec-lyon.fr/video/0775-2021-spring-school-linear-systemidentification-video-2/
+- 7 April 2021
+- PREDICTION ERROR IDENTIFICATION (cont’d) (slides_spring_2.pdf) :: https://replay.ec-lyon.fr/video/0776-2021-spring-school-linear-systemidentification-video-3/
+  https://replay.ec-lyon.fr/video/0777-2021-spring-school-linear-systemidentification-video-4/
+  https://replay.ec-lyon.fr/video/0778-2021-spring-school-linear-systemidentification-video-5/
+- ETFE (slides_spring_3.pdf) :: https://replay.ec-lyon.fr/video/0780-2021-spring-school-linear-systemidentification-video-6/
+- EXPERIMENT DESIGN (slides_spring_4.pdf) :: https://replay.ec-lyon.fr/video/0781-2021-spring-school-linear-systemidentification-video-7/
+- MATLAB TOOLBOX (presentation of the system identification toolbox of Matlab
+for the computer exercises) :: https://replay.ec-lyon.fr/video/0843-2021-spring-school-linear-systemidentification-toolbox/
+- ADDITIONAL VIDEO :: Hereunder you will find an additional video corresponding to some slides in the file
+slides_spring_2.pdf (slides 143-161) that will not be covered on 7 April due to lack
+of time:
+https://replay.ec-lyon.fr/video/0779-2021-spring-school-linear-systemidentification-extra-video-pei/
 * Bibliography
-** General books on System Identification: - Lennart Ljung, /System Identification: theory for the user/ Prentice Hall, 1999 - Paul Van den Hof, /System Identification: data-driven modeling of dynamic systems/, 2020. Available at http://www.publications.pvandenhof.nl/5SMB0/ManuscrSysid_Febr2020.pdf - Rik Pintelon and Johan Schoukens, /System Identification: a frequency-domain approach/, Wiley 2012
-**  A software for the design of optimal identification experiments (course of
-Friday afternoon) is available. See
-https://hal.archives-ouvertes.fr/hal-03175027/document
+
+** General books on System Identification:
+- Lennart Ljung, /System Identification: theory for the user/ Prentice Hall, 1999
+- Paul Van den Hof, /System Identification: data-driven modeling of dynamic systems/, 2020. Available at http://www.publications.pvandenhof.nl/5SMB0/ManuscrSysid_Febr2020.pdf
+- Rik Pintelon and Johan Schoukens, /System Identification: a frequency-domain approach/, Wiley 2012
+
+** A software for the design of optimal identification experiments (course of Friday afternoon) is available.
+See https://hal.archives-ouvertes.fr/hal-03175027/document

@@ -27,3 +27,7 @@ In the event that the position that it is in is not the position that it wasn't,
 
 The missile guidance computer scenario works as follows. Because a variation has modified some of the information the missile has obtained, it is not sure just where it is. However, it is sure where it isn't, within reason, and it knows where it was. It now subtracts where it should be from where it wasn't, or vice-versa, and by differentiating this from the algebraic sum of where it shouldn't be, and where it was, it is able to obtain the deviation and its variation, which is called error.
 #+end_quote
+
+* Definitions
+** Monic Transfer function
+First term is 1 -> $H_o(z)=1+\sum_{k=1}^\infty h_0(k)z^{-k}$

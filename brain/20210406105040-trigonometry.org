@@ -1,0 +1,8 @@
+#+title: Trigonometry
+
+- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+
+* Identities
+- $\sin^2(\alpha)+\cos^2(\alpha)=1$
+- $\sin(\alpha+\beta)=\sin(\alpha)$
+- $\sin(\alpha)\sin(\beta)={1\over 2}(\cos(\alpha-\beta)-\cos(\alpha+\beta))$

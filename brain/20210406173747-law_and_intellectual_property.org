@@ -1,0 +1,132 @@
+#+title: Law and Intellectual Property
+- tags :: [[file:formations_these.org][Formations Doctorat]]
+
+* Introduction
+- French Law
+- Contract Law
+- Intellectual Property
+  + Author rights
+    - Software
+    - Artistic
+** The Rule of Law
+- Social discipline
+- Sanction :: condemned if not respected
+- Legal rule vs. moral rule and natural law
+*** Example: Adultery
+- 1970s
+  + divorce
+  + sue 3rd party
+- 2000s
+  + 3rd party doesn't have nothing to do
+*** Example: Madame Sauvage
+https://fr.wikipedia.org/wiki/Affaire_Jacqueline_Sauvage
+- Killed husband who beat/raped her
+  + Condemned Presidential grace
+** General characteristics
+- It targets everyone (or some specific kind of people)
+- It is applied equally
+- Mandatory (difference between imperative and complementary)
+- Validity characteristic (legislator)
+- Once the rule is chosen
+** Classification of legal rules
+- Public Law :: States
+  + Constitutional law
+  + Administrative law
+  + International public law
+- Private Law :: Individuals
+  + International law
+  + Civil, commercial, labor law
+  + 1804 - Napoleon creates Civil Code
+- example of mixed: criminal
+  can be considered civil (private) and public ( protecting the state )
+* The Sources of Rule of Law
+** Before the french revolution
+- Northern customary/common law (germans)
+- south of France (Romans)
+- «ordinances» and «edicts of the king»
+- Parliamentary decisions
+- Canon law \to Church
+** Sources of contemporary Law
+- International sources
+- Constitution
+  + International treaties
+- The European Council and Commission can take decisions affecting citizens. These decisions are mandatory
+** National Sources
+The Law and regulations
+- The Law is the body of rules approved by a vote in Parliament
+- definition it's
+- decrees and orders concerning individual matters are note deemed to fall under the rule of law
+** Respective fields of law and regulations
+- Parliament (the law):
+  - «personal status»
+  - fundamental principles
+- Executive branch
+  + all rules not subordinate to a law
+  + exceptions [[https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241024/][articles 38]] and [[https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241008/][16 constitution]]
+** Drafting of a law
+*** Drafting of a law
+- Prime Minister and members of Parliament
+- Verification of the law's compliance
+  + constitutionality by the constitutional council
+  + preliminary ruling on constitutionality
+- Review of the legality of the regulation
+  - =A posteriori=
+    - «voie d'action», way of an action
+      - Citizen has legitimate interest and goes to the judge
+    - «voie d'exception», way of plea,
+      - Citizen defends yourself (regulation is still applied to other people)
+- Repeal of laws and regulations
+  - A time limit is rarely mentioned
+  - In principle, the text must be repealed, expressly or tacitly
+    + expressly :: the law is repealed
+    + tacitly :: new law contradicts older
+  - The laws and regulations cannot fall into abeyance
+*** Case Law or Judicial precedence
+- The Judge is meant to enforce the law
+- Judicil precendence creates the law when:
+  - the wording of the law is unclear, imprecise, ambiguous or obscure
+  - a new and unpredicted situation occurs, for example: road accidents
+    [[https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024496784/][article 4]]
+
+Do judges create the rule of law?
+Two different rules:
+- Prohibition of regulatory judgments
+- [[https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042075][Art 1335]] Civil Code: "a judgment is binding on the parties to the proceedings and not on others"
+The ranking of the jurisdiction
+Do judges create the rule of law?
+#+begin_quote
+No, but may have influence on the legal system
+#+end_quote
+*** Other Sources
+- Customs: "established pratice"
+- Legal doctrine
+** The Applicability of law in space
+*** The Applicability of law in space
+- Principles: French law applies throughout the entire country to everyone living in the national territory
+- One exception: local legal systems survive in Alsace Lorraine and in some territories outside continental France
+  Alsace Lorraine \to WWI
+*** Law in Time
+Notion of conflict of law in time
+- art2 civilcode "The new law is only applicable for the future;it has no retroactive effect"
+- in addition it may automaticallly be applied to present legal situations
+Exception:
+- Retroactive law by nature: more clement criminal laws, interpretative laws
+  - interpretative laws :: new law explain better
+- Decision of the legislative power
+** Subjective Rights
+*** Different Categories
+Patrimonial rights
+- Patrimony (property) all the pecuniary rights and obligations vested in an individual
+  + Legal universality that makes it different from the elements com
+  + Patrimony is linked to the individual, inalienable.
+*** Patrimonial Rights
+- Rights in rem have things as a subject
+  + Principle rights in rem / property right
+    - usus, fructus, abusus
+      + usus :: use
+      + fructus :: make money out of what you have
+      + abusus :: capacity of disposal (destroy or sell)
+    - «Rente Viagère»
+      + Example [[https://fr.wikipedia.org/wiki/Jeanne_Calment][Jeanne Calment]] :: Buyer paid 2x the price of
+  + other dismemberment of property rights
+- Rights in rem accessories, as the pledg

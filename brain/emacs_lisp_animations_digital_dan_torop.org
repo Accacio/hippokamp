@@ -1,0 +1,6 @@
+#+title: Emacs Lisp Animations | Digital | Dan Torop
+#+roam_key: http://dantorop.info/project/emacs-animation/
+
+http://dantorop.info/project/emacs-animation/
+
+- tags :: Emacs, Lisp

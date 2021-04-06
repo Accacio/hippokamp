@@ -1,4 +1,6 @@
 #+TITLE: Formations Doctorat
+#+roam_tags: courses
+
 - tags :: [[file:20200422131137-these.org][These]]
 
 * UBL
@@ -18,3 +20,4 @@
 **** [[file:20200622105521-distributed_control_and_computation.org][Distributed Control and Computation]]
 **** [[file:20200910093618-modelisation_statistique_des_evenements_rares.org][Modélisation Statistique des Événements Rares]]
 **** [[file:spring_school_on_data_driven_model_learning_of_dynamic_systems.org][Spring School on Data-driven Model Learning of Dynamic Systems]]
+**** [[file:20210406173747-law_and_intellectual_property.org][Law and Intellectual Property]]

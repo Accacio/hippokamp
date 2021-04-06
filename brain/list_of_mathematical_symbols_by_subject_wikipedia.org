@@ -1,5 +1,8 @@
 #+title: List of mathematical symbols by subject - Wikipedia
 #+roam_key: https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject
+
+https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject
+
 - tags :: [[file:20200424163014-mathematics.org][Mathematics]], [[file:20200424101609-latex.org][LaTeX/TeX]]
 
 
