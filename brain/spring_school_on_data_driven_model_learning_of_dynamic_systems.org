@@ -1,10 +1,53 @@
 #+title: Spring School on Data-driven Model Learning of Dynamic Systems
+#+OPTIONS: toc:nil
 #+roam_key: https://spring-id-2021.sciencesconf.org/
 #+ROAM_TAGS: courses
 
 - tags :: [[file:formations_these.org][Formations Doctorat]]
 
 
+* System Identification: data-based modeling
+<2021-04-06 mar. 14:00-15:00>
+- professor :: [[file:xavier_bombois.org][Xavier Bombois]]
+
+** Dynamical systems
+** Data-based modeling
+*** DC motor
+- Input :: Applied voltage [V]
+- Output ::  measured rotation speed [rad/s]
+**** Collect data
+**** Model
+- Model :: Discrete Time Transfer Function
+  Collected data has been created by "computer"
+  - ZOH + Continuous System + Sampling
+- Motor is linear?? Not??
+- Find model that reduces $\epsilon(t)=y(t)-\hat y(t)$
+*** Why it is useful?
+- First-principle modeling = modeling using the laws of physics
+**** Example 1: Track Tracking in a Cd Player
+- Arm is supposed rigid -> model is a second order integrator
+- first-principle doesn't work sometimes (error on hypothesis)
+**** [#A] Example 2: Signal equalization in mobile telephony
+- First-principle is almost impossible (mobile moves, different environments)
+- Received signal is made up from several delayed versions of the input signal (reflexions and refractions)
+- [[https://en.wikipedia.org/wiki/Wiener_filter][Wiener filter]]
+***** Use of a known sequence
+- Training sequence is sent before the signal of interest, so channel can be estimated ( mobile can be moving )
+- FIR order 6
+*** Players in system [[file:20210323094314-identification.org][Identification]]
+- Input $u(t)$ (freely chosen)
+- Ouput $y(t)$ (can be measured)
+  + Contribution due to $u(t)$ :: $u(t)$ $G_Ou(t)$
+  + Contribution independent of $u(t)$ :: disturbance $v(t)$
+*** Identification procedure
+pdf:~/these/formations/Data-driven/MATERIAL_TO_BE_SENT/SLIDES_THEORY_APRIL_6_7/slides_spring_1.pdf::25
+- Prior Knowledge
+- Validate model
+  + Construct Model
+    - Experiment design
+      + Data
+    - Model Set
+    - Identification criterion
 * Bibliography
 ** General books on System Identification: - Lennart Ljung, /System Identification: theory for the user/ Prentice Hall, 1999 - Paul Van den Hof, /System Identification: data-driven modeling of dynamic systems/, 2020. Available at http://www.publications.pvandenhof.nl/5SMB0/ManuscrSysid_Febr2020.pdf - Rik Pintelon and Johan Schoukens, /System Identification: a frequency-domain approach/, Wiley 2012
 **  A software for the design of optimal identification experiments (course of
