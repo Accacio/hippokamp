@@ -1,3 +1,5 @@
-#+title: Spring School on Data-driven Model Learning of Dynamic Systems - Sciencesconf.org
+#+title: Spring School on Data-driven Model Learning of Dynamic Systems
 #+roam_key: https://spring-id-2021.sciencesconf.org/
+#+ROAM_TAGS: courses
+
 - tags :: [[file:formations_these.org][Formations Doctorat]]
