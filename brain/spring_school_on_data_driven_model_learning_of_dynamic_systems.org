@@ -3,3 +3,10 @@
 #+ROAM_TAGS: courses
 
 - tags :: [[file:formations_these.org][Formations Doctorat]]
+
+
+* Bibliography
+** General books on System Identification: - Lennart Ljung, /System Identification: theory for the user/ Prentice Hall, 1999 - Paul Van den Hof, /System Identification: data-driven modeling of dynamic systems/, 2020. Available at http://www.publications.pvandenhof.nl/5SMB0/ManuscrSysid_Febr2020.pdf - Rik Pintelon and Johan Schoukens, /System Identification: a frequency-domain approach/, Wiley 2012
+**  A software for the design of optimal identification experiments (course of
+Friday afternoon) is available. See
+https://hal.archives-ouvertes.fr/hal-03175027/document
