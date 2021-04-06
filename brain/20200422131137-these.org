@@ -228,6 +228,7 @@ awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressio
 - [[file:LiuEtAl2019.org::*Expressions][investigated]]
 - [[file:LuYang2020.org::*Expressions][deliberately]]
 - [[file:MukherjeeZelazo2019.org::*Expressions][As another direction of work]]
+- [[file:Reams1999.org::*Expressions][lemmas are essentially well-known however for completeness we provide short proofs.]]
 - [[file:WuEtAl2018.org::*Expressions][Motivated by this]]
 - [[file:YangEtAl2019.org::*Expressions][By ignoring x, the model is reduced to]]
 - [[file:YangEtAl2019.org::*Expressions][to show effectivenes of algo]]
@@ -239,3 +240,5 @@ awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressio
 - $\|T-\hat T\|\leq\epsilon$
 - $\kappa(\hat T)=f(\kappa(T),\epsilon)$
 ** [[file:daily/2021-03-30.org::*porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?][porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?]]
+* Documents
+file:~/these/DocAdm/
