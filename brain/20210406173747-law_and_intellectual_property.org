@@ -1,5 +1,9 @@
 #+title: Law and Intellectual Property
+#+roam_tags: courses
+
 - tags :: [[file:formations_these.org][Formations Doctorat]]
+
+- professor :: Karim Tadrist
 
 * Introduction
 - French Law
@@ -10,7 +14,7 @@
     - Artistic
 ** The Rule of Law
 - Social discipline
-- Sanction :: condemned if not respected
+- Sanction (condemned if not respected)
 - Legal rule vs. moral rule and natural law
 *** Example: Adultery
 - 1970s
@@ -39,6 +43,7 @@ https://fr.wikipedia.org/wiki/Affaire_Jacqueline_Sauvage
   + 1804 - Napoleon creates Civil Code
 - example of mixed: criminal
   can be considered civil (private) and public ( protecting the state )
+- [[https://fr.wikipedia.org/wiki/Affaire_Perruche][Affaire Perruche]]
 * The Sources of Rule of Law
 ** Before the french revolution
 - Northern customary/common law (germans)
@@ -120,13 +125,157 @@ Patrimonial rights
   + Legal universality that makes it different from the elements com
   + Patrimony is linked to the individual, inalienable.
 *** Patrimonial Rights
-- Rights in rem have things as a subject
-  + Principle rights in rem / property right
-    - usus, fructus, abusus
-      + usus :: use
-      + fructus :: make money out of what you have
-      + abusus :: capacity of disposal (destroy or sell)
-    - «Rente Viagère»
-      + Example [[https://fr.wikipedia.org/wiki/Jeanne_Calment][Jeanne Calment]] :: Buyer paid 2x the price of
-  + other dismemberment of property rights
-- Rights in rem accessories, as the pledg
+- Rights in rem
+  + Rights in rem have things as a subject
+    - Principle rights in rem / property right
+      + usus, fructus, abusus
+        - usus :: use
+        - fructus :: make money out of what you have
+        - abusus :: capacity of disposal (destroy or sell)
+      + «Rente Viagère»
+        - Example [[https://fr.wikipedia.org/wiki/Jeanne_Calment][Jeanne Calment]] :: Buyer paid 2x the price of
+    - other dismemberment of property rights
+  + Rights in rem accessories, as the pledg
+- Intellectual rights (attached to the author)
+  + Intellectual property
+    - Literary and artistic property
+      + [[https://en.wikipedia.org/wiki/Alfred_de_Musset][Alfred de Musset]] , ripped painting
+    - Industrial property
+  + "Right of clientele"
+**** Statutory regime
+  - can be comemercialized
+    + ceases = you can trasmit them "between the living" or "because of death"
+  - they may be seized
+  - they may become extinct
+    - patents 20years
+*** Extra Patrimonial Rights
+- Familiy rights such as parental rights
+- Rights of individuals
+  + Right to one's name
+  + Honor rights protected by civil and criminal ruings
+  + image rights
+  + right to privacy
+  + the moral right of the author
+**** Statutory regime
+- non-marketable
+- non bequeathed
+- cannot be seized
+- imprescriptible/inalienable
+* Sources of subjective rights
+** Legal Acts and legal facts
+- bilateral or unilateral acts
+- Act :: a contract (anticipated) even oral (buying, transport)
+  - can be unilateral (ex: Will)
+- Fact :: not anticipated
+- legal facts can also be a source of law
+[[https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042179/][article 1342-3]] et seq
+** Subject of the proof
+- the persons who claims a right must prove it
+- Principle: «actori incumbit probatio»
+  - we make a disctinction between the demander and the defender
+- "Back and forth" movement of the proof
+- the judge stays neutral in seeking the proof
+** Exception to the legal proof system through the legal presumption system
+- simple presumptions
+  - can be refuted (needs a "beginning of proof")
+- Irrefragable presumption: explanation in [[https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042212/][art 1351]]
+ and the authority of the case adjudicated
+- example [[https://fr.wikipedia.org/wiki/Patrick_Dils][Patrick Dils]]
+** Systems of Legal Evidence
+- Freedom of evidence
+- Legally defined system
+
+  - Criminal law, evidence is free
+  - Civil Law, the system is mixed
+    + Facts are freely proved
+    + Legal acts follow the principle of legal evidence
+** The notion of written Evidence
+Written evidence is binding on the judge
+- sequence of "letters, number, printed or other symbols ..." [[https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041956/][art 1316]]
+-
+  - evidence
+- the person must be identified
+- conservation
+** Writing on a tangible medium
+Authentic act is executed by public officers (civil registrar, usher/baillif, notary)
+- notarial deed, comprised of a "minute" and authentic copy to parties. Copy is enforceeable
+- document is considered valid until it is recoded as false
+*** Private Deed
+- many original as parties 1325
+- commitment to pay should bear the amount or the quantity in number and letters
+- binding unless proved otherwise
+** Untangible
+[[https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006437841/2000-03-14][Art 1316-4]] Signature
+#+begin_quote
+La signature nécessaire à la perfection d'un acte juridique identifie celui qui l'appose. Elle manifeste le consentement des parties aux obligations qui découlent de cet acte. Quand elle est apposée par un officier public, elle confère l'authenticité à l'acte.
+
+Lorsqu'elle est électronique, elle consiste en l'usage d'un procédé fiable d'identification garantissant son lien avec l'acte auquel elle s'attache. La fiabilité de ce procédé est présumée, jusqu'à preuve contraire, lorsque la signature électronique est créée, l'identité du signataire assurée et l'intégrité de l'acte garantie, dans des conditions fixées par décret en Conseil d'Etat.
+#+end_quote
+*** Electronic Signature
+- Finalization of the document
+- identifying function
+  - "To be able to associate the sign to a defined signatory"
+- Agreement to the document
+- Authentication Function
+- Validity ad validate art 1174
+**** Technical requirements
+- Art 1367 §2
+- Decree : more details
+** Electronic archives
+- original copies \to as many as
+*** Validity of the copy
+the copy is defined as any literal reproduction of an original.
+- Afnor Z 42-103 makes it possible to retrieve all the information required for the purposes for which the document is intended
+- A copy is valid if the original doesn't exist
+** Others forms of evidence
+- Evidence through a witness
+  + This is the opposite of "commune renommée" (common repute)
+- Evidence by the presumption of facts
+** Others forms of evidence
+Proof by admission is "proof positive" in judicial inquiries
+- Judge is bound
+- Irrevocable in principle
+- It is not binding if its is extra judicial
+Proof by oath ( ask for swear )
+- Decisive oath (art 1358 et seq) is requested by a party to the opponent.
+- An additional oath may be requested by the judge complementing other evidence and is not binding
+** Use of Evidence
+for statutory facts, evidence is free
+- for civil status or filiation, with teh exception of some legal resources
+- Proof provided by legal documents art 1341
+  + Documentary evidence
+  + prima facie evidence
+** Use of Evidence
+- in the event of material or moral impossibility
+- inferior €1500 can be proved by all menas
+* The Legal System
+** Essential Principles
+*** Dual jurisdiction is typically FRench
+- administrative jurisdiction
+- judicial jurisdiction
+- court of jurisdictional conflict
+*** Double degree of jurisdiction
+  - fundamental guarantee
+  - exclusion for minor cases
+** Criminal Jurisdictions
+- tribunal de police (local police court)
+- Tribunal correctionnel (magsitrates' court)
+  - délit \to délinquent
+- Cour d'assises
+  - Crimes \to criminal
+  - popular jury
+- Exceptional jurisdiction
+  - cour d'assises des mineurs
+  - juge des enfants
+  - tribunal pour enfant,
+  - cour de justice de la République \to members of government
+** Civil Jurisdicitions
+- en première instane
+  + judicial court mergint the formem tribunaux de grande instance and trinuanux dinstance
+  + a subsection of the judicial cout bein a "local court"
+- Cour d'appel
+- Cour de cassation | rules on the law
+  claim the law is not applied
+  - six chambers
+  - a mixed chamber
+  - a plenary assembly
