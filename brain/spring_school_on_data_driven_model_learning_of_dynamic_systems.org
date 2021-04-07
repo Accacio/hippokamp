@@ -1,5 +1,5 @@
 #+title: Spring School on Data-driven Model Learning of Dynamic Systems
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:nil -:nil ^:nil
 #+roam_key: https://spring-id-2021.sciencesconf.org/
 #+ROAM_TAGS: courses
 
@@ -56,7 +56,7 @@ pdf:~/these/formations/Data-driven/MATERIAL_TO_BE_SENT/SLIDES_THEORY_APRIL_6_7/s
 - $H_0$ is stable, inversibly stable and [[file:20200504164021-control.org::*Monic Transfer function][monic]]
 - $e(t)$ is a white noite
   + $E[e(t)]=0$
-  + $Re(\tau)\stackrel{\triangle}{= }E[e(t)(et-\tau)]=\sigma^2\cdot\delta(\tau)$
+  + $R_e(\tau)\stackrel{\triangle}{= }E[e(t)e(t-\tau)]=\sigma^2\cdot\delta(\tau)$
 ** Objective
 - find best parametric models $g(z,\theta)$ and $H(z,\theta)$
 ** Predictor $\hat y(t,\theta)$ in identification and prediction error $\epsilon(t,\theta)$
@@ -100,23 +100,178 @@ has a unique solution θ ∗ (i.e. θ ∗ = θ 0 when S ∈ M) if the
 input signal u(t) that is chosen to generate the experimental
 data is sufficiently rich.
 #+end_quote
+** Revision
+<2021-04-07 mer. 08:00-08:15>
+** Statistical distribution of the identified model
+<2021-04-07 mer. 08:15-08:49>
+$cov(G(e^{j\omega,\hat\theta_N}))=E[|G(e^{j\omega},\hat\theta_N)-G(e^{j\omega},\theta_0)|^2]\approx\Lambda_{G}(e^{j\omega},\theta_0)(E[(\hat\theta_N-\theta_0)(\hat\theta_N-\theta_0)^T])\Lambda^\star_G$
+- The larger N and/or the larger the power of u(t), the smaller $cov(G(e j\omega , θ̂ N ))$
+** Validation
+use standard deviation $\sqrt{cov(G(e^{j\omega},\hat\theta_N))}$
+- $|G(e^{j\omega},\hat\theta_N)-G(e^{j\omega},\theta_0)|<2.45\sqrt{cov(G(e^{j\omega},\hat\theta_N))}$ w.p. 95%
+  + 2.45 is the $2\sigma$ confidence intervals for complex-valued normal distribution
+- using Nyquist plot each point of the nominal Nyquist plot has a circle with radius $2.45\sigma$
+** What is a small $\sqrt{\sigma}$?
+- rule of thumb :: $\sqrt{cov(G(e^{j\omega},\hat\theta_N)}<0.1|G(e^{j\omega},\hat\theta_N)|$ in the bandwidth
+** What if it appears too large?
+- new identification experiment has to be achieved
+  - Options:
+    + increase power of $u$
+    + increase $N$
+    + excite frequencies where the variance is not good
+** A special case of undermodeling
+<2021-04-07 mer. 09:25-10:38>
+- $\mathcal{S}\notin \mathcal{M}$
+- $\theta_0$ doesn't exist but still there is a $\theta^\star$
+- Important case $\mathcal{S}\notin\mathcal{M}$, $G_0\in\mathcal{G}$
+  - order of $G_0$ can come from insight
+  - $H_0$ is bit more difficult
+** What can be said about $\theta^\star$
+- 2 cases:
+  - $\mathcal{M}$ no common parameters in $G(\theta)$ and $H(\theta)$ (ex: OE, BJ, FIR)
+  - $\mathcal{M}$ with common parameters in $G(\theta)$ and $H(\theta)$ (ex: ARX, ARMAX)
+- If we have no common parameters \to $G(z,\eta^\star)=G(z,\eta_0)=G_0(z)$
+** Choice and validation of model order and structure
+- How can we verify assumptions? *
+  + model structure validation
+*** Model structure validation: «a posteriori» verification
+- based on $\hat\theta_N$ and $Z^N$, determine if the chosen model structure is:
+  + $\mathcal{S}\in\mathcal{M}$
+  + $\mathcal{S}\notin\mathcal{M}$ with $G_0\in\mathcal{G}$
+  + $\mathcal{S}\notin\mathcal{M}$ with $G_0\notin\mathcal{G}$
+*** Model structure validation: Asymptotic case ($N\to\infty$)
+- Identified parameter is $\theta^\star$
+- Validation considering $R_\epsilon(\tau)$ and $R_{\epsilon u}(\tau)$ of $\epsilon(t,\theta^\star)$
+**** Situation A
+ $R_\epsilon(\tau)=\sigma_e^2\delta(\tau)$ and $R_{\epsilon u}(\tau)=0\,\forall\tau$
+- $\epsilon(t,\theta^\star)=0\cdot u(t)+e(t)\leftrightarrow G(\theta^\star)=G_0$ and $H(\theta^\star)=H_0\leftrightarrow \mathcal{S}\in\mathcal{M}$
+**** Situation B
+ $R_\epsilon(\tau)\neq\sigma_e^2\delta(\tau)$ and $R_{\epsilon u}(\tau)=0\,\forall\tau$
+- $\epsilon(t,\theta^\star)=0\cdot u(t)+{H_0\over H(\theta^\star)}e(t)\leftrightarrow G(\theta^\star)=G_0$ and $H(\theta^\star)\neq H_0\leftrightarrow \mathcal{S}\notin\mathcal{M}$ with $G_0\in\mathcal{G}$ for $\mathcal{M}$ OE, BJ or FIR
+**** Situation C
+ $R_\epsilon(\tau)\neq\sigma_e^2\delta(\tau)$ and $\exists \tau s.t.\,R_{\epsilon u}(\tau)\neq0$
+- or $\mathcal{S}\neq\mathcal M with G_0\in\mathcal G$ for $\mathcal M$ ARX or ARMAX
+- or $\mathcal{S}\neq\mathcal M with G_0\notin\mathcal G$
+*** Model structure validation: Pratical case ($N<\infty$)
+- when $N$ is finite, even if $\mathcal S\in\mathcal M$:
+  + $\hat R_\epsilon^N(\tau)$ will not be $0\, \forall \tau\neq 0$
+  + $\hat R_{\epsilon u}^N(\tau)$ will not be $0\, \forall \tau$
+- *BUT* they will be small.
+  - In general smaller than when $\mathcal S\neq\mathcal M$
+- We can use distribution using 99%-confidence region
+| Case                                             | $\hat R_{\epsilon}^N(\tau)$ | $\hat R_{\epsilon u}^N(\tau)$ |
+| $\mathcal{S}\in\mathcal{M}$                        | \in confidence      | \in                   |
+| $\mathcal{S}\notin\mathcal{M}$ with $G_0\in\mathcal{G}$ | \notin                 | \in                   |
+| $\mathcal{S}\notin\mathcal{M}$ with $G_0\notin\mathcal{G}$ | \notin                 | \notin                   |
+*** Example
+- [[https://fr.mathworks.com/help/ident/ref/resid.html?searchHighlight=resid&s_tid=doc_srchtitle][resid]] function in matlab
+** Typical procedure to identify
+<2021-04-07 mer. 09:25-10:38>
+1. Choose $u(t)$ and collect $Z^N$
+2. Choose model of $\mathcal M$
+3. Identification of the $G(z,\hat\theta_N)$ and $H(z,\hat\theta_N)$
+4. Is $\mathcal S \in \mathcal M$?
+   a. Yes ? Go to 5
+   b. No ? Go to 2 and choose another model for $\mathcal M$
+5. Is $\sqrt{cov(G(e^{j\omega},\hat\theta_N))}$ ($\sqrt{cov(H(e^{j\omega},\hat\theta_N))}$) small?
+   b. Yes? Stop
+   a. No? Go back to 1
+
+* Frequency-domain Identification (ETFE)
+** General objective
+** Empirical Transfer Function Estimate (ETFE)
+- Time-Domain data \to Frequency-Domain data via (scaled) Fourier Transform
+*** Practical aspects
+  - Information contained from $t=0\dots(N-1)$ is contained at the $N\over2$ frequencies $\omega_k={2\pi\over N}k$ k=0,1... located in $[0,\pi]$
+  - if using multi-sine you only have the signal for those frequencies
+** Statistical properties of the ETFE
+- stochastic noise $v(t)$ \to ETFE is different at each experiment
+*** Variance of the ETFE
+$cov(\hat G(e^{j\omega k}))$ \to $\Phi_v(\omega)\over\Phi_u(\omega)$
+- with white noise estimate is worse
+  + unlike for a multisine, the variance is not proportional to $1\over N$, variance only proportional to $1\over\sigma^2_u$
+** Smoothing of ETFE through the use of windows
+- ex: use hamming window $W_\gamma$
+*** How to choose $\gamma$?
+- SPA
+  - since ($G_0(z)$ stable) variance of $\hat R_{yu}(\tau)$ is the same for all $\tau$,  removing greater values $\tau$
+* Pratical issues when designing the identification experiment
+** Preparatory experiments
+- noise measurement on the output
+- step response analysis
+  + area of linearity
+  + time constants
+  + static gain
+  + delay of the system
+** Choice of the sampling frequency $\omega_s={2\pi\over T_s}$
+- High $\omega_s$ induces numerical problems
+  + T_s should not be too small w.r.t. time response of the system
+    - Rule of thumb \to 1 decade after
+  + $A_d=e^{A_{cont}T_s}\to I$ when $T_s\to0$
+* System Identification Toolbox MATLAB
+<2021-04-07 mer. 14:00-14:25>
+- present
+* Computer Session 1 - 7 avril
+** Part 1
+*** Q1
+- using OE model structure we have $n_k$ $B$ $F$ to identify
+  + since $n_b=2$ and $n_f=4$ we have $n_G=6$ and using PEI u has to be persistently excited of order at least $n_G$
+*** Q2
+Since full order estimation is used; $\mathcal S \in \mathcal M$ and then $\theta^\star=\theta_0$
+*** Q3
+Yes, they do, both autocorrelation and cross correlation stands inside the confidence bounds.
+*** Q4
+Since it is ARX, it is supposed that G and H have the same dynamics, so no.
+*** Q5
+Yes they do not lie in the confidence bounds, $G\notin\mathcal G$ but nothing can be said about H
+
+*** Q6
+#+begin_src matlab
+idGo = idpoly([],[0 0 0 0.10276 0.18123],[],[],[1 -1.99185 2.20265 -1.84083 0.89413])
+#+end_src
+** Part 2
+*** Q1
+Yes, it contains the same structure
+*** Q2
+Yes
+*** Q3
+No, $G\in\mathcal G$ but $H\in\mathcal H$
+*** Q4
+Yes, they confirm
+*** Q5
+#+begin_src matlab
+idGo = idpoly([1 -1.99185 2.20265 -1.84083 0.89413],[0 0 0 0.10276 0.18123],[],[],[])
+#+end_src
+yes, same conclusions
+* Computer Session 2 - 7 avril
+** Questions
+*** Q1
+plot impulse unfiltered using =cra([y u],999,0,1)= se that after 600 there is no more increase in value, since correlation value is equal for all $\tau$
+*** Q2
+Using [4 4 4 4 1] cross correlation respects confidence bounds, so $G\in\mathcal G$ increase for H
+*** Q5
+Resonance peak near $0.5$ rad/s
+*** Q6
+[0 0.2] rad/s
+use =(y-lsim(bj53551,u))=<0.4 \to not negligible
+* Computer Session 3 - 7 avril
+** Questions
 
 * Videos
 - 6 April 2021
   + INTRODUCTION (slides_spring_1.pdf) :: https://replay.ec-lyon.fr/video/0782-2021-spring-school-linear-systemidentification-video-1-introduction/
   + PREDICTION ERROR IDENTIFICATION (slides_spring_2.pdf) :: https://replay.ec-lyon.fr/video/0775-2021-spring-school-linear-systemidentification-video-2/
 - 7 April 2021
+
+
 - PREDICTION ERROR IDENTIFICATION (cont’d) (slides_spring_2.pdf) :: https://replay.ec-lyon.fr/video/0776-2021-spring-school-linear-systemidentification-video-3/
   https://replay.ec-lyon.fr/video/0777-2021-spring-school-linear-systemidentification-video-4/
   https://replay.ec-lyon.fr/video/0778-2021-spring-school-linear-systemidentification-video-5/
 - ETFE (slides_spring_3.pdf) :: https://replay.ec-lyon.fr/video/0780-2021-spring-school-linear-systemidentification-video-6/
 - EXPERIMENT DESIGN (slides_spring_4.pdf) :: https://replay.ec-lyon.fr/video/0781-2021-spring-school-linear-systemidentification-video-7/
-- MATLAB TOOLBOX (presentation of the system identification toolbox of Matlab
-for the computer exercises) :: https://replay.ec-lyon.fr/video/0843-2021-spring-school-linear-systemidentification-toolbox/
-- ADDITIONAL VIDEO :: Hereunder you will find an additional video corresponding to some slides in the file
-slides_spring_2.pdf (slides 143-161) that will not be covered on 7 April due to lack
-of time:
-https://replay.ec-lyon.fr/video/0779-2021-spring-school-linear-systemidentification-extra-video-pei/
+- MATLAB TOOLBOX (presentation of the system identification toolbox of Matlab for the computer exercises) :: https://replay.ec-lyon.fr/video/0843-2021-spring-school-linear-systemidentification-toolbox/
+- ADDITIONAL VIDEO :: Hereunder you will find an additional video corresponding to some slides in the file slides_spring_2.pdf (slides 143-161) that will not be covered on 7 April due to lack of time: https://replay.ec-lyon.fr/video/0779-2021-spring-school-linear-systemidentification-extra-video-pei/
+
 * Bibliography
 
 ** General books on System Identification:
