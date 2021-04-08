@@ -257,13 +257,298 @@ use =(y-lsim(bj53551,u))=<0.4 \to not negligible
 * Computer Session 3 - 7 avril
 ** Questions
 
+* Closed-loop Identification
+- professor  :: Paul Van der Hof
+
+- [[https://en.wikipedia.org/wiki/Youla%E2%80%93Kucera_parametrization][Youla parametrization]]
+** Direct Identification method
+**** Data Informativity
+is the data sufficiently informative so
+**** Parsseval's relation
+**** Relaxation of persistence excitation condition on r
+if $r=0$ $\phi_z$ is rank deficient
+**** Can be achieved
+- persistently excitin u in open loop
+- closed loop
+  + presence of r
+  + controller of sufficiently high order
+  + time varying non linear controller
+**** Summary
+- consisten estimates if $S\in\mathcal M$
+- excitation conditions can be realizea exciten r signal by excit
+- no consis when only G\inmath g
+- no free excitation of inuput
+- unstable plants can be modeeled with arx armax
+- *but noise modeles need to be accure estimated*
+- in situatio consist, maxiumu likelihood resuls remain valid cramer rao lower bound
+- result remain valid for non linea or time varyin controller
+** Indirect identification methods
+- Main step
+  + additional use of r
+  + use knowledge of C
+  + utilizin the linearit of the closed loop system (linear controller)
+- Several indirect methods
+*** Coprime factor approach
+- $y = G_0S_0r+S_0v$  \to G
+  + estimate G_0S_0 is like an open loop estimation
+- $u = S_or+CS_0v$
+  + estimate S_0 is like an open loop estimation
+- Estimate transfers $r \to [y\\u]$
+- Predictor model
+- Estimate $\hat G={G_0S_0\over S_0}$
+**** Consistency result
+- $\hat G$ is a consistent estimate of $G_0$ if $H_{ind}(q,\eta)$ is parameterized independently from $\theta$
+- N.B. we do not need to estimate a nois model to obtain a consistent estimate of $G_0$
+*** Projection methors (two-stage / IV)
+- decompose $u(t)=u^r(t)+u^e(t)$
+- then $y(t)=G_0u^r(t)+G_0u^e(t)+H_0e(t)$
+**** How to estimate $u^r(t)$?
+- identify $G_{ur}$ (open-loop problem)
+- Simulate $\hat u^r(t)=\hat G_{ur}(q)r(t)$
+- use $\hat u^r(t)$ to identify $G_0$
+
+
+*** Discussion
+- consistency results of $G\in\mathcal G$
+- effective use of $r$
+- hard to prespecify the model order of estimate (quotient of two estimates)
+*** Asymptotic variance
+**** Direct method
++ variance results of the open-loop situation remain valid provided that have consistence $s \in mathhcal m$
++ includes maximum likelihood properties of the estimates mini variance asymptotically
++ both r and e contribute o variance reduction of \hat g unless n\to infty
++ asymptotic-in-order-of-G-and-H result for n $N\to \infty$
+  $var\hat G(e^{i\omega}) \approx {n\over N}{ \phi_v(\omega) \over\phi_u^r(\omega)})$
+**** indirect method
+- typically reference r is used as input for identification
+- typical variance result
+  $var\hat G(e^{i\omega}) \approx {n\over N}{ \phi_v\omega \over\phi_u^r(\omega)})$
+- only the reference-pare of the input signal contributes to variance reduction
+- for finite model orders: neglecting u^e as input signal contributes to a worse SN-ratio
+*** Model validation in cloed-loop
+**** for all indirect methods:
+validation with correlation tests as in open-loop
+**** for direct method: careful with test on $R_{\epsilon u}(\tau)$
+- past of e affects future of u
+  $R_{ue}(\tau)\ne0\,\tau>0$
+  $R_{eu}(\tau)\ne0\,\tau<0$
+  if H(\þheta)=H_0 ok, if not, consistency fails
+* Dynamics networks modeling
+** Introduction
+*** Dynamic networks
+ - overall trend
+   + interconnected and large scale
+   + systmes of systems
+   + distributed control modeling monitoring Optimization
+   + Data (big data, machine learning, AI)
+
+ - Learning models/actions form data
+
+*** Distributed/multi-agent control
+- both physical and communication links between systems $G_i$ and controllers $C_i$
+*** Network models
+**** State space representation
+  - characteristcs
+    - states as nodes in a directed graph
+    - state transition (1 step in time) reflected by $a_{ij}$
+    - transitions are encoded in *links*
+    - effect of transitions are summed in the nodes
+    - self loops are allowed
+    - actuation ($u$) and sensing ($y$) reflected by separate links
+  - For data-driven modeling problems \to Module representation
+    + stronger role for measurable inputs and outputs
+**** Module representation
+  - modules ( TFs )
+  - Vertices are node signals
+  - basic building block
+    $w_j(t)=\sum\limits_{i\in\mathcal N_j}G^0_{jk}(q)w_k(t)+r_j(t)+v_j(t)$
+  - Collect all equations:
+    - $w(t)=G^0(q)w(t)+R^0(q)r(t)+H^0(q)e(t)$
+    - $w(t)=G^0(q)w(t)+R^0(q)r(t)+v(t)$
+      $cov(e)=\Lambda$
+    - G^0(q) is [[file:20200429185809-linear_algebra.org::*Hollow][hollow]]
+  - Assumptions
+    + total of L nodes no selfloops
+    + network is well posed $(I-G^0)^{-1}$ exists
+    + modules are dynamic LTI proper, may be unstable
+    + disturbances canbe correlated: $H^0$ not necessarily diagonal
+*** Example: Networks of (damped) oscillators
+*** Example: Networks of (damped) oscillators
+Gudi rawlings jouran ALchF Journal 52(6) doi:21982210.2008
+*** Data-driven modeling
+*** Model learning problems
+- Under which condition can we estimate the topology and/org dynamics of the full network?
+- How/when can we learn a local module from data (with known/unknown topology)? Which signals to measure?
+- Where to optimally locate sensors and actuators, and design experiments?
+- Same questions for subnetwork
+- Can we benefit from a priori Known modules? (ex: controllers)
+- Fault detection and diagnosis; detect/ handle nonlinear elements
+- Can we distribute the computations?
+*** Dynamic network setup - graph
+- Mason
+*** From SISO to MISO
+MISO mappings may be non linear
+*** Disturbance modeling - reduced rank noise
+- if $dim(e)<dim(v)$: reduced rank
+  - $H(z)$ is nonsquare \to problem with inversion for calculation of $\epsilon$
+  - Spectral density $\Phi_v(z)=H(z)\LambdaH^T(z^{-1})$ is singular
+*** Disturbance modeling - reduced rank noise
+- unique spectral factorizations:
+
+1. $\Phi_v(z)=H(z)\Lambda H^T(z^{-1})$
+  a. $H(z):\mathbb{R}^{ L\times L}$,
+  b. $\lambda :\mathbb{R}^{L\times L}$ singular
+2. $\Phi_v(z)=\tilde H(z)\tilde \Lambda \tilde H^T(z^{-1})$
+  a. $\tilde H(z):\mathbb{R}^{ L\times p}$,
+  b. $\tilde \lambda :\mathbb{R}^{p\times p}$ regular
+*** Summary
+- several different approaches
+- typical TF approach to include structure (topology)
+- new data-driven challenges
+
+* a
+<2021-04-08 jeu. 14:00-14:35>
+** Single module identification
+- naive local approaches
+  + based on w2 an w1
+  + T_{w_2r_1}T^{-1}_{w_1r_1}
+- do note work because of parallel paths
+** Single module identification - full miso situation
+- MISO ident prob
+  + to be addressed by a closed-loop identification method (direct or indirect)
+** Indirect methods
+- MISO
+  + select output $w_j$ and all its in-neighbors $w_\mathcal N$ as predictor output; $r_\mathcal D$ as predictor input
+  + Estimate $\bar T_{\mathcal Nr}$ and $\bar T_{jr}$ consistently, and determine $\hat G_{j\mathcal N}=\hat T_{jr}\hat T^{-1}_{\mathcal Nr}$
+  + or thorou IV or two stage method
+  + freedo in location of r-signals
+- Condition for consistency of \hat Gji
+  + G^0\in G no noise requ
+  + persint ex \phi rd > 0
+  + ...
+** Direct mehod
+- Estimate transfer $w_\mathcal N\to w_j$ and model the disturbance process on the output
+- provided the is enough excitation through external signals $r$ and $e$
+- Conditions $\hat G_{ij}$
+  + s\in Mathcal M
+  + $\Phi_v$ is diagonal
+  + every loop aroun wj has a delay
+  + $\Phi_k(w) > 0$ with $k(t)= [w_j w_\mathcal N]^T$
+** Summary
+- all ocal nodes are measured
+- closed-loop idenetication can be used
+*** indirect
+- noise models not required
+- more expensiv exprimien
+*** directhk
+- noise models required
+- minimuù varianc results
+- requires dainoganl noise spectrum
+*** both
+- non convex algorithms are poorly scalable to large dimensions
+** Empirical bayes method in local module identification
+- MISO identification with all modules parameterized
+- Brings 2 major problems
+  + large number of parameters to estimate
+  + model order selection step for each module CV AIC BIC
+** Solution strategy
+- divide models
+- use gaussian process
+** Empirical Bayes
+- Parametric model  and (gaussian process +TC Kernel)
+
+** Model parameters and hperparameters
+- marginal pdf of wj p(wj;eta)
+- depends on eta (has \lambdas and \betas as \sigma_j^2)
+
+** algorithms for multi stage/sequential methods
+*** Two staged method Empirical Bayes
+*** model order reduction Steiglitz McBride (MORSM)
+*** weighted null-space fitting (WNSF)
+* Network Identifiability - Analysis
+** Introduction - classical situations
+-  models are indistinguishable from data if ther predictor filter are the same
+** Introduction - classical situations
+- if parameters are equal \to TFs are equal \to predictor filters equal \to predictor are equal
+  - Identifiability of model structure
+** Network Identifiability problem
+- the network model can be transformed with any rational P(q) resulting to an equivalent model
+- \to Nonuniqueness, unless there are structural constraints on G, R, H
+** Network Identifiability problem
+- Is there a unique map from $(T_{wr},\Phi_{\bar v})$ to $(G R H)$?
+** Network Identifiability
+- network defined by (G^0,R^0,H^0,\Lambda^0)
+- network model defined by (G,R,H,\Lambda)
+- network mode set by defined by $\mathcal M={M(\theta) =(G(\theta),R(\theta),H(\theta),\Lambda(\theta)),\theta\in\Theta}$
+*** Definition
+- For a network model set $\mathcal M$ consider a model $M(\theta_0)$ if $\forall M(\theta_1)$ the $T_{wr}(q,\theta_0)=T_{wr}(q,\theta_1)$ and $\Phi_{\bar v}(w,\theta_0)=\Phi_{\bar v}(w,\theta_1)$
+** Network Identifiability
+- under which conditions does $\Phi_{\bar v}=(I-G)^{-1}H\LambdaH^\star(I-G)^{-\star}$ provides a unique $T_{we}=(I-G)^-1H$
+- Proposition
+  1. modules in G are strictly proper
+  2. no alebraic loops in G(\theta) and $H^\infty\Lmabda {H^\infty}^T$
+** First (conservative ) networked identifiability result
+- full excitations case \to Q makes all nodes independently excited
+** Second networked identifiability result
+- number of parametrized in [G H R] < K+p
+$\breve T$
+** Generic identifiability
+- Bazanella et al CDC 2017
+** Generic rank
+** Discussion identifiability
+single property identifiability
+** Summary
+- determined by
+  + topology
+  + presence and location of external signals
+  + presence and correlation structure of disturbances
+- two different concepts:
+  - global (algebraic)
+  - generic (path-based conditions)
+- Presented results all w assumed to be measurable
+- fully applicable to situation p< L reduce rank noise
+- full excitation case and general case
+- results not yet suited for synthesis
+* Network identifiability - Synthesis
+** Network identifiability - Synthesis
+** Synthesis
+- question?
+** Network identifiability - Synthesis
+- definition Pseudotree
+  - simple directed graph if for all vertices $i$ the number of neighbors is $\leq1$
+** Network identifiability - Synthesis
+- Strategy
+  - cover the graph with set of disjoint pseudotrees
+  - excite one of the roots of each pseudotree
+** Network identifiability - Synthesis
+- is identifiable if
+  + K pseudotrees and K external signals noises
+** Network identifiability - Synthesis
+- set every node to be a pseudotree and then merge
+** discussion identifiability - Synthesis
+- node signals can not all be measured
+  + separate problem | BazanellaEtAL CDC 2019
+  + Situation analysed using concept of immersion | Dankers et al TAC 2016
+
+* Single module identification
+** Immersion
+Full system identification
+* Single module identification - local direct method
+** Confounding variable:
+- Confounding variable :: unmeasured signal that has (unmeasured paths) to both the input and output of an estimation problem.
+***  algo
+1. select input $w_i$ and out $w_j$
+2. add inputs to satisfy the parallelr and loop condit
+3. check on direct confound \to add output and return to setp2
+4. check on indirect confounding variables
+   a. add output an goto 2 or
+   b. add input
+
 * Videos
-- 6 April 2021
-  + INTRODUCTION (slides_spring_1.pdf) :: https://replay.ec-lyon.fr/video/0782-2021-spring-school-linear-systemidentification-video-1-introduction/
-  + PREDICTION ERROR IDENTIFICATION (slides_spring_2.pdf) :: https://replay.ec-lyon.fr/video/0775-2021-spring-school-linear-systemidentification-video-2/
-- 7 April 2021
-
-
+** 6 April 2021
+- INTRODUCTION (slides_spring_1.pdf) :: https://replay.ec-lyon.fr/video/0782-2021-spring-school-linear-systemidentification-video-1-introduction/
+- PREDICTION ERROR IDENTIFICATION (slides_spring_2.pdf) :: https://replay.ec-lyon.fr/video/0775-2021-spring-school-linear-systemidentification-video-2/
+** 7 April 2021
 - PREDICTION ERROR IDENTIFICATION (cont’d) (slides_spring_2.pdf) :: https://replay.ec-lyon.fr/video/0776-2021-spring-school-linear-systemidentification-video-3/
   https://replay.ec-lyon.fr/video/0777-2021-spring-school-linear-systemidentification-video-4/
   https://replay.ec-lyon.fr/video/0778-2021-spring-school-linear-systemidentification-video-5/
@@ -271,6 +556,7 @@ use =(y-lsim(bj53551,u))=<0.4 \to not negligible
 - EXPERIMENT DESIGN (slides_spring_4.pdf) :: https://replay.ec-lyon.fr/video/0781-2021-spring-school-linear-systemidentification-video-7/
 - MATLAB TOOLBOX (presentation of the system identification toolbox of Matlab for the computer exercises) :: https://replay.ec-lyon.fr/video/0843-2021-spring-school-linear-systemidentification-toolbox/
 - ADDITIONAL VIDEO :: Hereunder you will find an additional video corresponding to some slides in the file slides_spring_2.pdf (slides 143-161) that will not be covered on 7 April due to lack of time: https://replay.ec-lyon.fr/video/0779-2021-spring-school-linear-systemidentification-extra-video-pei/
+** 8 April 2021
 
 * Bibliography
 
