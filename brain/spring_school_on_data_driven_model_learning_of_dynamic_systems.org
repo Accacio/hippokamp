@@ -60,7 +60,7 @@ pdf:~/these/formations/Data-driven/MATERIAL_TO_BE_SENT/SLIDES_THEORY_APRIL_6_7/s
 ** Objective
 - find best parametric models $g(z,\theta)$ and $H(z,\theta)$
 ** Predictor $\hat y(t,\theta)$ in identification and prediction error $\epsilon(t,\theta)$
-$\epsilon(t,\theta)\stackrel{\triangle}{= }H(z-\theta)^{-1} (y(t)-G(z,\theta)u(t))\,\,\forallt=1..N$
+$\epsilon(t,\theta)\stackrel{\triangle}{= }H(z-\theta)^{-1} (y(t)-G(z,\theta)u(t))\,\,\forall t=1..N$
 ** Properties of the prediction error $\epsilon(t,\theta)$
 1. given $\theta$ and $Z^N$, then $\epsilon(t,\theta)$ computable
 2. $\epsilon(t,\theta_0)=e(t)$
@@ -159,10 +159,10 @@ use standard deviation $\sqrt{cov(G(e^{j\omega},\hat\theta_N))}$
 - *BUT* they will be small.
   - In general smaller than when $\mathcal S\neq\mathcal M$
 - We can use distribution using 99%-confidence region
-| Case                                             | $\hat R_{\epsilon}^N(\tau)$ | $\hat R_{\epsilon u}^N(\tau)$ |
-| $\mathcal{S}\in\mathcal{M}$                        | \in confidence      | \in                   |
-| $\mathcal{S}\notin\mathcal{M}$ with $G_0\in\mathcal{G}$ | \notin                 | \in                   |
-| $\mathcal{S}\notin\mathcal{M}$ with $G_0\notin\mathcal{G}$ | \notin                 | \notin                   |
+| Case                                                    | $\hat R_{\epsilon}^N(\tau)$          | $\hat R_{\epsilon u}^N(\tau)$    |
+| $\mathcal{S}\in\mathcal{M}$                               | $\in$ confidence bound       | $\in$ confidence bound   |
+| $\mathcal{S}\notin\mathcal{M}$ with $G_0\in\mathcal{G}$ | $\notin$ confidence bound  | $\in$ confidence bound |
+| $\mathcal{S}\notin\mathcal{M}$ with $G_0\notin\mathcal{G}$        | $\notin$ confidence bound       | $\notin$ confidence bound   |
 *** Example
 - [[https://fr.mathworks.com/help/ident/ref/resid.html?searchHighlight=resid&s_tid=doc_srchtitle][resid]] function in matlab
 ** Typical procedure to identify
