@@ -391,7 +391,7 @@ MISO mappings may be non linear
 *** Disturbance modeling - reduced rank noise
 - if $dim(e)<dim(v)$: reduced rank
   - $H(z)$ is nonsquare \to problem with inversion for calculation of $\epsilon$
-  - Spectral density $\Phi_v(z)=H(z)\LambdaH^T(z^{-1})$ is singular
+  - Spectral density $\Phi_v(z)=H(z)\Lambda H^T(z^{-1})$ is singular
 *** Disturbance modeling - reduced rank noise
 - unique spectral factorizations:
 
@@ -483,10 +483,10 @@ MISO mappings may be non linear
 *** Definition
 - For a network model set $\mathcal M$ consider a model $M(\theta_0)$ if $\forall M(\theta_1)$ the $T_{wr}(q,\theta_0)=T_{wr}(q,\theta_1)$ and $\Phi_{\bar v}(w,\theta_0)=\Phi_{\bar v}(w,\theta_1)$
 ** Network Identifiability
-- under which conditions does $\Phi_{\bar v}=(I-G)^{-1}H\LambdaH^\star(I-G)^{-\star}$ provides a unique $T_{we}=(I-G)^-1H$
+- under which conditions does $\Phi_{\bar v}=(I-G)^{-1}H\Lambda H^\star(I-G)^{-\star}$ provides a unique $T_{we}=(I-G)^-1H$
 - Proposition
   1. modules in G are strictly proper
-  2. no alebraic loops in G(\theta) and $H^\infty\Lmabda {H^\infty}^T$
+  2. no alebraic loops in G(\theta) and $H^\infty\Lambda {H^\infty}^T$
 ** First (conservative ) networked identifiability result
 - full excitations case \to Q makes all nodes independently excited
 ** Second networked identifiability result
