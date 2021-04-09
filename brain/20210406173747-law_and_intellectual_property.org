@@ -3,7 +3,7 @@
 
 - tags :: [[file:formations_these.org][Formations Doctorat]]
 
-- professor :: Karim Tadrist
+- lecturer :: Karim Tadrist
 
 * Introduction
 - French Law

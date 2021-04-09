@@ -8,7 +8,7 @@
 
 * System Identification: data-based modeling
 <2021-04-06 mar. 14:00-15:00>
-- professor :: [[file:xavier_bombois.org][Xavier Bombois]]
+- lecturer :: [[file:xavier_bombois.org][Xavier Bombois]]
 
 ** Dynamical systems
 ** Data-based modeling
@@ -258,7 +258,7 @@ use =(y-lsim(bj53551,u))=<0.4 \to not negligible
 ** Questions
 
 * Closed-loop Identification
-- professor  :: Paul Van der Hof
+- lecturer  :: Paul Van der Hof
 
 - [[https://en.wikipedia.org/wiki/Youla%E2%80%93Kucera_parametrization][Youla parametrization]]
 ** Direct Identification method
