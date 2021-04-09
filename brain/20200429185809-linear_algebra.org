@@ -9,6 +9,10 @@ A "rectangular" array of scalar values
   $V=\left[\begin{matrix}1 &\alpha_1&\alpha_1^{2}&\dots&\alpha_1^{n-1}\\ 1& \alpha_2&\alpha_2^{2}&\dots&\alpha_2^{n-1}\\\vdots&\vdots&\vdots&\ddots&\vdots\\1&\alpha_m&\alpha_m^2&\dots&\alpha_m^{n-1}\end{matrix} \right]$
 ** Hollow
 Square Matrix wich diagonal is zero
+** Sparse Matrix
+- most elements are zero
+*** r-sparse
+r elements different from zero
 * Operations
 ** Matrix product
 given 2 matrices $A:\mathbb{R}^{m\times n}$, $B:\mathbb{R}^{n\times p}$, their product
