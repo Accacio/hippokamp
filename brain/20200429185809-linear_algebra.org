@@ -4,6 +4,9 @@
 * Definitions
 ** Matrix
 A "rectangular" array of scalar values
+** Vector
+A "linear" array of scalar values
+They can be row vectors or column vectors
 * Types of Matrices
 ** Vandermonde
   $V=\left[\begin{matrix}1 &\alpha_1&\alpha_1^{2}&\dots&\alpha_1^{n-1}\\ 1& \alpha_2&\alpha_2^{2}&\dots&\alpha_2^{n-1}\\\vdots&\vdots&\vdots&\ddots&\vdots\\1&\alpha_m&\alpha_m^2&\dots&\alpha_m^{n-1}\end{matrix} \right]$
@@ -14,24 +17,29 @@ Square Matrix wich diagonal is zero
 *** r-sparse
 r elements different from zero
 * Operations
-** Matrix product
+** Matrices
+*** Matrix product
 given 2 matrices $A:\mathbb{R}^{m\times n}$, $B:\mathbb{R}^{n\times p}$, their product
  $AB=C:\mathbb{R}^{m\times p}$ is determined by its elements ${(i,j)}$:
  $$C_{i,j}=\sum\limits_{k=1}^{n}A_{i,k}B_{k,j}$$
+*** Induced Norm
 
-** Hadamard product
+*** Hadamard product
 - or Schur product
 
 $(A\circ B)_{ij}=(a_{ij}b_{ij})$
 Element-wise multiplication =.*=
 
-** Hadamard root
-** Hadamard inverse
+*** Hadamard root
+*** Hadamard inverse
 $A^{\circ(-1)}= ({1\over a_{ij}})$
-** Hadamard exponential
+*** Hadamard exponential
 $e^{\circ A}= (e^{a_{ij}})$
 
 * Identities
 - $(\Gamma H \Gamma^T)^T=\Gamma H \Gamma^T$ if $H^T=H$
 - $(AB)^T = B^TA^T$
 - $(AB)^{-1 } = B^{-1}A^{-1}$
+* Properties of a Matrix
+** Conditioning
+Given $A:\mathbb R^{n\times n}$ inversible, a norm $\|\cdot\|$ defined for $\mathbb R^{n}$ and a induced norm $\|\cdot\|$ for $\mathbb R^{n\times n}$. The conditioning of a matrix is given by: $$\mathfb {cond}(A)=\|A\|\|A^{-1}\|$$
