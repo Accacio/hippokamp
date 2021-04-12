@@ -191,7 +191,7 @@ $cov(\hat G(e^{j\omega k}))$ \to $\Phi_v(\omega)\over\Phi_u(\omega)$
 - with white noise estimate is worse
   + unlike for a multisine, the variance is not proportional to $1\over N$, variance only proportional to $1\over\sigma^2_u$
 ** Smoothing of ETFE through the use of windows
-- ex: use hamming window $W_\gamma$
+- ex: use [[https://fr.mathworks.com/help/signal/ref/hamming.html][Hamming window]] $W_\gamma$
 *** How to choose $\gamma$?
 - SPA
   - since ($G_0(z)$ stable) variance of $\hat R_{yu}(\tau)$ is the same for all $\tau$,  removing greater values $\tau$
