@@ -543,6 +543,82 @@ Full system identification
 4. check on indirect confounding variables
    a. add output an goto 2 or
    b. add input
+* From sparsity-inducing estimation to hybrid system identification
+<2021-04-09 ven. 08:30-09:34>
+- lecturer :: Laurent Bako
+
+** System identification
+- inference of mathematical models from input-output
+*** Basic principle of system [[file:20210323094314-identification.org][Identification]]
+1. Run experiment collect (input output samples)
+2. Fit data to chosen model (by [[file:20200709102805-optimization.org][Optimization]])
+3. Check performance
+*** Sparsity-inducing [[file:20200709102805-optimization.org][Optimization]]
+- minimization of the cardinality o a set
+  + Candès, Donoho etc
+- Numerous applications in signal/image processing, information theory and machine learning...
+
+*** Data-generating system
+- $y_t=f^o(z_t)+v_t$
+- $z_t$ is the regressor
+- $f o$ is an unknown(possibly nonlinear) function
+- $v_t$ represents model mismatches or measurement noise
+
+*** Static/Dynamic
+- static if z is unstructered multivariate
+- dynamic if have structure \to (N-ARX) or (N-FIR)
+*** Selection of a performance index
+$V_N(\theta)={1 \over N}\sum_{t=1}^Nl(\epsilon_t(\theta))$
+- $\theta^\star$ minimizes $V_N(\theta)$
+*** Estimator design
+- different functions for $l(\epsilon)$
+**** Examples for $l$
++ if $v_t$ pertains to [[file:20200429185809-linear_algebra.org::*r-sparse][r-sparse]] I_0 binary
++ Quadratic loss $l(\epsilon)=\epsilon^2$
++ Absolute $l(\epsilon)=|\epsilon|$
+ ...
+
+ OBS: careful with large errors (try something "linear" for large errors like Vapnik or Huber)
+*** Regression problem
+- noise-free and moderate noise Least Squares can do the job well
+  + but not in finite time
+- Impulsive noise
+  + Least Absolute deviation (LAD) can provide the exact parameter under sparsity assumption
+  + performance does not depend on noise amplitude
+** Sparsity-inducing robust estimation
+<2021-04-09 ven. 09:47-10:52>
+*** Robust estimation problem
+$v_t=f_t+e_t$
+- $e_t$ is a dense noise sequence
+- $f_t$ is a sparse noise sequence
+*** No dense noise
+- $e_t=0$
+- use of approximation of $l_0$ norm
+*** When is the LAD estimator well-defined?
+*** Some notations
+- $\mathbb I^-$ negative error
+- $\mathbb I^+$ positive error
+- $\mathbb I^0$
+*** Characterization of the solution set $\Psi(y,X)$
+** Hybrid Systems
+*** Example of switched system
+- SEPIC DC-DC Converter
+** Switched system identification
+*** Direct approach
+- algorithm for partition data
+*** Generalized Principal Component Analysis
+- VidalEtAl CDC2003
+
+
+* Design of optimal identification experiments
+<2021-04-09 ven. 14:06-15:00>
+- lecturer :: [[file:xavier_bombois.org][Xavier Bombois]]
+** Reminders and introduction
+** Optimal experiment design
+- robust control considerations $r_{adm}(\omega)$
+- By choosing N or the power of $u(t)$ sufficiently large \to multiple solutions!
+** Convexification of the optimization problem
+
 
 * Videos
 ** 6 April 2021
