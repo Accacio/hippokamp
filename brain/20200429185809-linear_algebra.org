@@ -7,6 +7,10 @@ A "rectangular" array of scalar values
 ** <<<Vector>>>
 A "linear" array of scalar values
 They can be row vectors or column vectors
+*** Row Vector
+$\vec{x}=[x_1\, x_2\, \dots\, x_N]$
+*** Column Vector
+$\vec{x}=\left[\begin{matrix}x_1\\ x_2\\ \vdots\\ x_N\end{matrix}\right]$
 * Types of Matrices
 ** Vandermonde
   $V=\left[\begin{matrix}1 &\alpha_1&\alpha_1^{2}&\dots&\alpha_1^{n-1}\\ 1& \alpha_2&\alpha_2^{2}&\dots&\alpha_2^{n-1}\\\vdots&\vdots&\vdots&\ddots&\vdots\\1&\alpha_m&\alpha_m^2&\dots&\alpha_m^{n-1}\end{matrix} \right]$
