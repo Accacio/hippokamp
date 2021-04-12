@@ -293,7 +293,7 @@ if $r=0$ $\phi_z$ is rank deficient
   + estimate G_0S_0 is like an open loop estimation
 - $u = S_or+CS_0v$
   + estimate S_0 is like an open loop estimation
-- Estimate transfers $r \to [y\\u]$
+- Estimate transfers $r \to \left[\begin{matrix}y\\u\end{matrix}\right]$
 - Predictor model
 - Estimate $\hat G={G_0S_0\over S_0}$
 **** Consistency result
