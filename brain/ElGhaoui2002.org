@@ -1,6 +1,6 @@
 #+TITLE: ElGhaoui2002: Inversion error, condition number, and approximate inverses of uncertain matrices
 #+ROAM_KEY: cite:ElGhaoui2002
-#+ROAM_TAGS: article
+#+ROAM_TAGS: read article
 
 - tags ::
 - keywords :: Structured matrix, Condition number, Linear fractional representation, Semidefinite programming, Vandermonde system, Total least squares
