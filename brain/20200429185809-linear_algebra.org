@@ -42,4 +42,4 @@ $e^{\circ A}= (e^{a_{ij}})$
 - $(AB)^{-1 } = B^{-1}A^{-1}$
 * Properties of a Matrix
 ** Conditioning
-Given $A:\mathbb R^{n\times n}$ inversible, a norm $\|\cdot\|$ defined for $\mathbb R^{n}$ and a induced norm $\|\cdot\|$ for $\mathbb R^{n\times n}$. The conditioning of a matrix is given by: $$\mathfb {cond}(A)=\|A\|\|A^{-1}\|$$
+Given $A:\mathbb R^{n\times n}$ inversible, a norm $\|\cdot\|$ defined for $\mathbb R^{n}$ and a induced norm $\|\cdot\|$ for $\mathbb R^{n\times n}$. The conditioning of a matrix is given by: $$\mathrm {cond}(A)=\|A\|\|A^{-1}\|$$
