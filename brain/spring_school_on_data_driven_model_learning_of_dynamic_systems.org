@@ -332,7 +332,7 @@ validation with correlation tests as in open-loop
 - past of e affects future of u
   $R_{ue}(\tau)\ne0\,\tau>0$
   $R_{eu}(\tau)\ne0\,\tau<0$
-  if H(\þheta)=H_0 ok, if not, consistency fails
+  if $H(\theta)=H_0$ ok, if not, consistency fails
 * Dynamics networks modeling
 ** Introduction
 *** Dynamic networks
