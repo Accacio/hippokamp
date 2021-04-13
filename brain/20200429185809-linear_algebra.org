@@ -55,14 +55,15 @@ $e^{\circ A}= (e^{a_{ij}})$
 - $(AB)^T = B^TA^T$
 - $(AB)^{-1 } = B^{-1}A^{-1}$
 
-* Properties of a Matrix
-** <<<Eigenvalue>>>
+* Properties
+** Matrix
+*** <<<Eigenvalue>>>
 Given a $n$ square matrix $A$, its eigenvalues $\lambda:\mathbb C$ associated with the eigenvectors $\vec v$ are such $$A\vec v = \lambda\vec v$$
-** <<<Eigenvector>>>
+*** <<<Eigenvector>>>
 Given a $n$ square matrix $A$, its eigenvectors $\vec v:\mathbb R^{n},\vec x^T\vec x\neq0$ associated with the eigenvalues $\lambda$ are such $$A\vec v = \lambda\vec v$$
 
-** Spectral radius
+*** Spectral radius
 Given a n square matrix $A$, and its eigenvalues $\lambda$, its spectral radius is $$\rho(A)=\mathrm{max}\{|\lambda_i|:\lambda_i \in \lambda\}$$
 
-** Conditioning
+*** Conditioning
 Given $A:\mathbb R^{n\times n}$ invertible, a norm $\|\cdot\|$ defined for $\mathbb R^{n}$ and a induced norm $\|\cdot\|$ for $\mathbb R^{n\times n}$. The conditioning of a matrix is given by: $$\kappa(A)=\|A\|\|A^{-1}\|$$
