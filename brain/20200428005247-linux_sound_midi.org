@@ -1,3 +1,3 @@
 #+TITLE: linux sound midi
 #+ROAM_KEY: http://linux-sound.org/midi.html
-- tags :: [[file:20200423095046-music.org][music]], [[file:20200428005424-linux.org][linux]]
+- tags :: [[file:20200423095046-music.org][Music]], [[file:20200428005424-linux.org][linux]]
