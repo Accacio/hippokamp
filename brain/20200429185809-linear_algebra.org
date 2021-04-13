@@ -12,6 +12,8 @@ $\vec{x}=[x_1\, x_2\, \dots\, x_N]$
 *** Column Vector
 $\vec{x}=\left[\begin{matrix}x_1\\ x_2\\ \vdots\\ x_N\end{matrix}\right]$
 * Types of Matrices
+** <<<Square>>>
+$A:\mathbb R^{n\times n},\, n\in\mathbb Z^{+}_{\varnothing}$
 ** Vandermonde
   $V=\left[\begin{matrix}1 &\alpha_1&\alpha_1^{2}&\dots&\alpha_1^{n-1}\\ 1& \alpha_2&\alpha_2^{2}&\dots&\alpha_2^{n-1}\\\vdots&\vdots&\vdots&\ddots&\vdots\\1&\alpha_m&\alpha_m^2&\dots&\alpha_m^{n-1}\end{matrix} \right]$
 ** Hollow
@@ -30,7 +32,7 @@ given 2 matrices $A:\mathbb{R}^{m\times n}$, $B:\mathbb{R}^{n\times p}$, their p
  $$C_{i,j}=\sum\limits_{k=1}^{n}A_{i,k}B_{k,j}$$
 
 *** <<<Induced Norm>>>
-given a vector $\vec{x}:\mathbb R^{n}$ and a norm $\|\cdot\|$ defined for $\mathbb R^{n}$, the induced norm $\|A\|$ for a matrix $A:\mathbb R^{n\times n}$ is: $$\|A\|=\|A\vec{x}\|$$
+given a vector $\vec{x}:\mathbb R^{n}$ and a norm $\|\cdot\|$ defined for $\mathbb R^{n}$, the induced norm $\|A\|$ for a matrix $A:\mathbb R^{n\times n}$ is: $$\|A\|=\mathrm{sup}\{\|A\vec{x}\|:\vec x\in\mathbb R^{n},\|\vec x\|=1\}$$
 
 *** Hadamard product
 - or Schur product
@@ -54,5 +56,13 @@ $e^{\circ A}= (e^{a_{ij}})$
 - $(AB)^{-1 } = B^{-1}A^{-1}$
 
 * Properties of a Matrix
+** <<<Eigenvalue>>>
+Given a $n$ square matrix $A$, its eigenvalues $\lambda:\mathbb C$ associated with the eigenvectors $\vec v$ are such $$A\vec v = \lambda\vec v$$
+** <<<Eigenvector>>>
+Given a $n$ square matrix $A$, its eigenvectors $\vec v:\mathbb R^{n},\vec x^T\vec x\neq0$ associated with the eigenvalues $\lambda$ are such $$A\vec v = \lambda\vec v$$
+
+** Spectral radius
+Given a n square matrix $A$, and its eigenvalues $\lambda$, its spectral radius is $$\rho(A)=\mathrm{max}\{|\lambda_i|:\lambda_i \in \lambda\}$$
+
 ** Conditioning
-Given $A:\mathbb R^{n\times n}$ inversible, a norm $\|\cdot\|$ defined for $\mathbb R^{n}$ and a induced norm $\|\cdot\|$ for $\mathbb R^{n\times n}$. The conditioning of a matrix is given by: $$\kappa(A)=\|A\|\|A^{-1}\|$$
+Given $A:\mathbb R^{n\times n}$ invertible, a norm $\|\cdot\|$ defined for $\mathbb R^{n}$ and a induced norm $\|\cdot\|$ for $\mathbb R^{n\times n}$. The conditioning of a matrix is given by: $$\kappa(A)=\|A\|\|A^{-1}\|$$
