@@ -294,3 +294,88 @@ for statutory facts, evidence is free
 ** 'Instantaneous Contratcs'
 ** Unlimited in time or with a termination date
 ** Renewals
+** Defects in consent (Void Contracts)
+*** Vice of consent
+**** Mistake
+- «in concreto»
+  - in detail
+- «in abstracto»
+***** Obstacle
+- there's no meeting of the consents or the mistake is about the object itself
+- it could be a confirmation
+- Ex. [[https://fr.wikipedia.org/wiki/Affaire_du_Poussin][Poussin]]
+***** The irrelevant mistake
+- The motivation
+- The value
+  - Ex. sell by inferior value
+- The inexcusable mistake: «de non vigilantibus non curat praetor»
+- The material mistake doesn’t lead to the annulment but has to be modified. This modification could be refused if it creates a prejudice and the victim has good faith "Bonne foi"
+**** The DOL
+- « The dol is a cause of annulment of the contract when the tactics used by a party are so much, that it would be evident that, without those tactics, the other party wouldn’t have agreed. It’s not presumed and has to be proved. »
+  + Dishonesty comes from the word tactic
+    - Lie even without external actions
+    - Overstatement is not taken into consideration depending on the case
+    - «réticence dolosive» (stay silent about some information you must communicate)
+- Dol is normally originated from the other party
+  - Exception if fraudulent collusion
+  - Exception if unilateral document
+**** Violence
+- Foundations:
+  + Art 1111 anc C.civ: « Violence against the one who has entered into agreement, is a cause of annulment, even if it has been exerted by a third person for the benefit of the one who has participated to the contract. »
+  + Art 1112: anc « There’s violence when the nature of the acts is to impress frightened off the reasonable person, and it can inspire her the fear of exposing herself or her fortune to a significant and *immediate risk* »
+- Means:
+  - morale pain
+  - physical pain
+  - exploiting the weakness if it generate an important mistake
+  - simple reverential fear is excluded
+    + father push decision
+- Since 2002, the notion has been extended to the economical violence
+  + Conditions:
+    - Determinant (appreciation in concreto)
+    - Emanate from a human being
+    - sometimes reduction of the agreement for some maritime rescue for instance
+*** The Lesion
+- Objective misbalances of reciprocal obligations
+
+- Security of the contract principal
+- Exception the incapables, the sales of real estate.
+** The Protective Legislation of the consumer
+- Result of the consumption society
+- Information obligation has 3 degrees
+  + Commercial advertisement that will be sanctioned if it's false
+    - Comparative puclicity authorized since 1992 if it's loyal
+  + Information on the product
+    - Imposed by price labeling, quality labels, manual mentions...
+    - Generalization throur Neiertz law e Neiertz law
+      #+begin_quote
+      every professional seller of goods or service provider, must, before the conclusion, put the
+      consumer in situation of knowing what are the main characteristics of the good or service
+      #+end_quote
+  + Personalized information
+    - Often by the jurisprudence, the professional seller within the frame of his duty to inform, advise or recommend
+*** Repent Cooling off withdraw
+- Reinforcing the consent
+- Money given as guarantee or payment is regulated
+- or period is anticipated (cooling off)
+- or a possibility of withdraw is preserved (distant sales, loan etc)
+** Object and cause
+*** Object of the obligation or object of the contract
+- object of the obligation
+- object of the contract
+**** Existence
+- included for future things
+- If the thing perishes \to who handles the risk or caducity
+  - ex. if your loaned house disappears you don't get the money back
+- Interdiction of pact respecting a future succession or the global assignment of future work
+**** Determined or determinable
+- kind determined
+**** Possible and licit
+- licit refers to the notion of taboo
+- Licit is also a notion attached to some contracts
+*** The cause
+- cause and object of the other party are reciprocal
+
+- it's used at the moment of the contract to appreciate if it's licit and if it exists
+  + ex. renting appartment if it disappears the cause cease to exist
+
+- It should last during the whole contract. If one obligation disappear, the reciprocity should disappear
