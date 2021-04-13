@@ -1,6 +1,42 @@
 #+title: Meal Planning
 - tags :: comidinhas
 
+* Organização
+** Excel
+- [[https://www.dropbox.com/preview/Evelise_Rafael/Organiza%C3%A7%C3%A3o/Planning_refeicoes.xlsx][Planejador]]
+- Estoque
+- Compras
+
+** Banco de dados?
+*** Tabelas
+**** Ingredientes
+Ex:
+| ID | Nome Ingrediente      |
+|  0 | "Champignon de Paris" |
+
+**** Receitas
+Ex:
+| ID | Nome Receita                            |
+|  0 | "Penne carbonara végétale au tofu fumé" |
+
+**** Unidade
+Ex:
+| ID | Nome Unidade     | Símbolo          |
+|  0 | "grama"          | "g"              |
+|  1 | "mili litros"    | "ml"             |
+|  2 | "colher de sopa" | "colher de sopa" |
+|  3 | "colher de café" | "colher de café" |
+**** Conversão de Unidade
+Ex:
+| ID Unidade 1 | ID Unidade 2 | Valor |
+|            2 |            1 |    15 |
+|            3 |            1 |     2 |
+
+**** Ingredientes de Receitas
+Ex:
+| ID  Receita | ID Ingrediente | Quantidade | ID Unidade |
+|           0 |              0 |        250 |          0 |
+
 * Comida
 ** Sites de Receitas
 - https://quitoque.fr
@@ -22,9 +58,5 @@
 ** Sobremesa
 - [[https://www.quitoque.fr/recette/2903/creme-chocolat-a-lavocat-et-cacahuetes-caramelisees-au-sesame][Crème chocolat à l'avocat et cacahuètes caramélisées au sésame]]
 
-* Organização
-** Banco de dados?
-** Excel
-- [[https://www.dropbox.com/preview/Evelise_Rafael/Organiza%C3%A7%C3%A3o/Planning_refeicoes.xlsx][Planejador]]
-- Estoque
-- Compras
+* Links
+- https://www.eufic.org/en/explore-seasonal-fruit-and-vegetables-in-europe
