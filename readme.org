@@ -1,4 +1,4 @@
-#+TITLE: 🧠
+#+TITLE: Hippokamp
 * Hippokamp
 ** What is this?
 - This is a "second brain" for my own use.
