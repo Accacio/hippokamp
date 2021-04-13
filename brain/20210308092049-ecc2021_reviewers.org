@@ -144,25 +144,25 @@ created by …
 
 * Resume
 ** Reviewer 2
-- Needs more guidance to the reader
-- competing approaches in literature?
-- connection with attack resilient control techniques.
+**** Needs more guidance to the reader
+**** competing approaches in literature?
+**** connection with attack resilient control techniques.
 *** Detailed
-- comments on why use equality constraints
-- why use lagrangian relaxation? Explain better the quantity decomposition
-- meaning of $T_j$. Explicit that $\tilde \lambda$ is sent
-- what is \delta_i? maybe remove it
-- hard to follow the negotiation failed state for high values
-- estimation procedure not presented in a clear way
-- guarantee on unbiased estimation?
-- not clear how estimation and optimization alg. are combined. Pseudo-code
-- What happens if all agents are greedy?
+**** comments on why use equality constraints
+**** why use lagrangian relaxation? Explain better the quantity decomposition
+**** meaning of $T_j$. Explicit that $\tilde \lambda$ is sent
+**** what is \delta_i? maybe remove it
+**** hard to follow the negotiation failed state for high values
+**** estimation procedure not presented in a clear way
+**** guarantee on unbiased estimation?
+**** not clear how estimation and optimization alg. are combined. Pseudo-code
+**** What happens if all agents are greedy?
 ** Reviewer 5
-- Theoretical considerations on the effectiveness of the proposed algorithm
+*** Theoretical considerations on the effectiveness of the proposed algorithm
 ** Reviewer 6
-- Introduction could be extended, other results
-- Contribution could be more clear in the introduction
+**** Introduction could be extended, other results
+**** Contribution could be more clear in the introduction
 *** Language
-- local criterion is local cost functions
-- voluntary hacking
-- sentences should not be  single sentences ??
+**** local criterion is local cost functions
+**** voluntary hacking
+**** sentences should not be  single sentences ??
