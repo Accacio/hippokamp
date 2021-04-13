@@ -1,4 +1,6 @@
 #+title: cdc2020 Reviewers
+#+roam_tags: reviewers
+
 - tags :: [[file:20210120110649-conference_on_decision_and_control.org][Conference on Decision and Control]]
 
 * Comments
