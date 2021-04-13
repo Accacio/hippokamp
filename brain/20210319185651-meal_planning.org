@@ -16,8 +16,9 @@ Ex:
 
 **** Receitas
 Ex:
-| ID | Nome Receita                            |
-|  1 | "Penne carbonara végétale au tofu fumé" |
+| ID | Nome Receita                            | Porções | Site                                                                      |
+|  1 | "Penne carbonara végétale au tofu fumé" |       2 | https://www.quitoque.fr/recette/5072/spaghetti-au-poulet-et-a-la-moutarde |
+|    |                                         |         |                                                                           |
 
 **** Unidade
 Ex:
