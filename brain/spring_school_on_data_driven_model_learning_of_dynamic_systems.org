@@ -86,7 +86,7 @@ pdf:~/these/formations/Data-driven/MATERIAL_TO_BE_SENT/SLIDES_THEORY_APRIL_6_7/s
 - ARMAX $n_k$ $B$ $A$ $C$
 - OE - Output Error $n_k$ $B$ $F$
 - FIR $n_k$ $B$
-- BJ - Box-Jenkins (can represent anything) $B$ $C$ $F$ $D$ $n_k$ <= recommended
+- BJ - Box-Jenkins (can represent anything) $B$ $C$ $F$ $D$ $n_k$ \Leftarrow recommended
 
 ** Computation
 - if $y(t,\theta)$ is linear w.r.t. $\theta$ FIR or ARX
