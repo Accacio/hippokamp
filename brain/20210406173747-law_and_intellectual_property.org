@@ -379,3 +379,54 @@ for statutory facts, evidence is free
   + ex. renting appartment if it disappears the cause cease to exist
 
 - It should last during the whole contract. If one obligation disappear, the reciprocity should disappear
+*** The Good Faith
+**** Sanctions
+- forced termination
+- forced continuation
+**** close to abuse of right
+- Motivation Control
+- Limit of the notion
+** Contractual responsability
+- Notion of tort responsibility
+  - A damage
+    - Certain
+      + moral prejudice, loss of a chance
+    - Direct
+    - personal
+    - predictable
+  - A fault
+- Means obligation and result obligation
+  + understanding notion
+  + discussion
+  + solving the problem
+** Obligation as to results
+- Fault = absence of expected result
+- Exemption:
+  - «Force majeure»
+  - Third-party action
+  - Responsibility of the victim
+** Obligation of means
+- use all reasonable means
+- evidentiary question
+- need to observe an infringement
+- appreciation of the infringement
+** Relativity of notions
+- criterion: hazard
+* Intellectual Property
+** Substantive Law
+** Protected Works
+*** Criteria
+- Original works
+- Materialized works
+*** Exclusion of mere ideas
+- form is unimportant
+- originality lies in the form
+- Identical principle used in patent law
+- «Ideas are free to be used» (Dubois)
+- Protection possible via civil liability or unfair competition
+** Originality
+- personal stamp of the author on his/her creation
+** Protection without formalities
+** Indifference
+- genre :: category of artistic composition
+- form :: form of expression
