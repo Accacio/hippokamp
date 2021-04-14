@@ -1,2 +1,2 @@
-#+TITLE: français
-- tag :: [[file:20200608092138-languages.org][languages]]
+#+TITLE: Français
+- tag :: [[file:20200608092138-languages.org][Languages]]
