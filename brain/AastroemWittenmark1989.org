@@ -11,7 +11,7 @@
   :Custom_ID: AastroemWittenmark1989
   :URL: https://books.google.fr/books?id=VJ0eAQAAIAAJ
   :AUTHOR: \AAstr\"om, K.J., & Wittenmark, B.
-  :NOTER_DOCUMENT: ../../../docsThese/bibliography/AastroemWittenmark1989.pdf
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/AastroemWittenmark1989.pdf
   :NOTER_PAGE:
   :END:
 
