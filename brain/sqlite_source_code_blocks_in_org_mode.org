@@ -3,4 +3,4 @@
 
 https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html
 
-- tags :: [[file:20210323095414-sql.org][SQL]]
+- tags :: [[file:20210323095414-sql.org][SQL]], [[file:20200619120854-org_mode.org][org-mode]]
