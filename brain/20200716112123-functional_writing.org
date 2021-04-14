@@ -1,2 +1,2 @@
 #+title: Functional Writing
-- tags :: [[file:20200422201907-writing.org][writing]]
+- tags :: [[file:20200422201907-writing.org][Writing]]

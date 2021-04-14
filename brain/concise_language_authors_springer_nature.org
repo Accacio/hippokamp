@@ -1,6 +1,6 @@
 #+title: Concise Language | Authors | Springer Nature
 #+roam_key: https://www.springernature.com/gp/authors/campaigns/writing-in-english/writing-in-english-concise-language
-- tags :: [[file:20200422201907-writing.org][writing]]
+- tags :: [[file:20200422201907-writing.org][Writing]]
 
 * Tips for concise language
 

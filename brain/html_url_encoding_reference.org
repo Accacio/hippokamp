@@ -1,6 +1,6 @@
 #+title: HTML URL Encoding Reference
 #+roam_key: https://www.w3schools.com/tags/ref_urlencode.asp
-- tags :: [[file:20200708151350-html.org][HTML]], [[file:20200422201907-writing.org][writing]]
+- tags :: [[file:20200708151350-html.org][HTML]], [[file:20200422201907-writing.org][Writing]]
 
 List of encoding chars in URI
 | Character | From Windows-1252 | From UTF-8 |

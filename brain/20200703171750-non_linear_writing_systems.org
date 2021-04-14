@@ -1,2 +1,2 @@
 #+title: non-linear writing systems
-- tags :: [[file:20200703171852-writing_systems.org][writing systems]]
+- tags :: [[file:20200703171852-writing_systems.org][Writing Systems]]

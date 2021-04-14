@@ -1,6 +1,6 @@
 #+TITLE: 3 shell scripts: Kill weasel words, avoid the passive, eliminate duplicates
 #+ROAM_KEY: http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/
-- tags :: [[file:20200422201907-writing.org][writing]], [[file:20200617110358-bash.org][bash]]
+- tags :: [[file:20200422201907-writing.org][Writing]], [[file:20200617110358-bash.org][bash]]
 
 
  "My Ph.D. advisor rewrote himself in bash."

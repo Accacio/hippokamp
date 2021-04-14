@@ -37,6 +37,26 @@ Ex:
 Ex:
 | ID  Receita | ID Ingrediente | Quantidade | ID Unidade |
 |           1 |              1 |        250 |          1 |
+*** Queries
+**** All Recipes
+#+begin_src sqlite :db ~/org/comida :colnames yes :exports both
+SELECT * FROM Recipes;
+#+end_src
+
+#+RESULTS:
+| ID | Name                                  | Portions | Site                                                                      |
+|----+---------------------------------------+----------+---------------------------------------------------------------------------|
+|  1 | Penne carbonara végétale au tofu fumé |        2 | https://www.quitoque.fr/recette/5072/spaghetti-au-poulet-et-a-la-moutarde |
+
+**** Ingredients in a recipe
+#+begin_src sqlite :db ~/org/comida :colnames yes :exports both
+SELECT * FROM Ingredients;
+#+end_src
+
+#+RESULTS:
+| ID | Name                |
+|----+---------------------|
+|  1 | Champignon de Paris |
 
 * Comida
 ** Sites de Receitas

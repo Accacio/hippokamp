@@ -1,2 +1,2 @@
-#+title: note taking
-- tags :: [[file:20200422201907-writing.org][writing]]
+#+title: Note Taking
+- tags :: [[file:20200422201907-writing.org][Writing]]

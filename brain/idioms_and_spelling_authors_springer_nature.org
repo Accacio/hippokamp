@@ -1,6 +1,6 @@
 #+title: Idioms and Spelling | Authors | Springer Nature
 #+roam_key: https://www.springernature.com/gp/authors/campaigns/writing-in-english/writing-in-english-idioms-spelling
-- tags :: [[file:20200422201907-writing.org][writing]]
+- tags :: [[file:20200422201907-writing.org][Writing]]
 
 * Tips for Idioms and Spelling
 ** "Respectively"

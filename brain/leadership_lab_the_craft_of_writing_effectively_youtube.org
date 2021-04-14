@@ -1,6 +1,6 @@
 #+title: LEADERSHIP LAB: The Craft of Writing Effectively - YouTube
 #+roam_key: https://www.youtube.com/watch?v=vtIzMaLkCaM
-- tags :: [[file:20200422201907-writing.org][writing]]
+- tags :: [[file:20200422201907-writing.org][Writing]]
 - Speaker :: Larry McEnerney
 lmce@uchicago.ed
 

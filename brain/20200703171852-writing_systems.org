@@ -1,2 +1,2 @@
-#+title: writing systems
-- tags :: [[file:20200608092138-languages.org][Languages]], [[file:20200422201907-writing.org][writing]]
+#+title: Writing Systems
+- tags :: [[file:20200608092138-languages.org][Languages]], [[file:20200422201907-writing.org][Writing]]
