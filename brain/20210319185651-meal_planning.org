@@ -53,14 +53,33 @@ SELECT * FROM Recipes;
 |  1 | Penne carbonara végétale au tofu fumé |        2 | https://www.quitoque.fr/recette/5072/spaghetti-au-poulet-et-a-la-moutarde |
 
 **** Ingredients in a recipe
-#+begin_src sqlite :db ~/org/comida :colnames yes :exports both
-SELECT * FROM Ingredients;
+#+begin_src sqlite :db ~/org/comida :colnames yes :exports none :var recipe="penne"
+select Recipes.Name,Ingredients.Name,Quantity,Unities.Symbol from
+         ((Ingredients
+            inner join IngredientsInRecipe ON Ingredients.ID=IngredientsInRecipe.'ID_Ingredient')
+			inner join Recipes
+			inner join Unities on Unities.ID=IngredientsInRecipe.'ID_Unity') where Recipes.Name like '%$recipe%'
 #+end_src
 
 #+RESULTS:
-| ID | Name                |
-|----+---------------------|
-|  1 | Champignon de Paris |
+| Name                                  | Name                | Quantity | Symbol |
+|---------------------------------------+---------------------+----------+--------|
+| Penne carbonara végétale au tofu fumé | Champignon de Paris |      250 | g      |
+| Penne carbonara végétale au tofu fumé | Crème de soja       |      150 | ml     |
+
+#+begin_src sqlite :db ~/org/comida :colnames yes :exports both :var recipe="penne"
+select Ingredients.Name,Quantity,Unities.Symbol from
+         ((Ingredients
+            inner join IngredientsInRecipe ON Ingredients.ID=IngredientsInRecipe.'ID_Ingredient')
+			inner join Recipes
+			inner join Unities on Unities.ID=IngredientsInRecipe.'ID_Unity') where Recipes.Name like '%$recipe%'
+#+end_src
+
+#+RESULTS:
+| Name                | Quantity | Symbol |
+|---------------------+----------+--------|
+| Champignon de Paris |      250 | g      |
+| Crème de soja       |      150 | ml     |
 
 * Comida
 ** Sites de Receitas
