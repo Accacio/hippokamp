@@ -65,7 +65,12 @@ select Recipes.Name,Ingredients.Name,Quantity,Unities.Symbol from
 | Name                                  | Name                | Quantity | Symbol |
 |---------------------------------------+---------------------+----------+--------|
 | Penne carbonara végétale au tofu fumé | Champignon de Paris |      250 | g      |
-| Penne carbonara végétale au tofu fumé | Crème de soja       |      150 | ml     |
+| Penne carbonara végétale au tofu fumé | Creme de soja       |      150 | ml     |
+| Penne carbonara végétale au tofu fumé | Dente de alho       |      3.5 | g      |
+| Penne carbonara végétale au tofu fumé | Cebola amarela      |       75 | g      |
+| Penne carbonara végétale au tofu fumé | Paprika defumada    |        2 | g      |
+| Penne carbonara végétale au tofu fumé | Penne Semi-Integral |      160 | g      |
+| Penne carbonara végétale au tofu fumé | Tofu defumado       |      200 | g      |
 
 #+begin_src sqlite :db ~/org/comida :colnames yes :exports both :var recipe="penne"
 select Ingredients.Name,Quantity,Unities.Symbol from
@@ -79,7 +84,12 @@ select Ingredients.Name,Quantity,Unities.Symbol from
 | Name                | Quantity | Symbol |
 |---------------------+----------+--------|
 | Champignon de Paris |      250 | g      |
-| Crème de soja       |      150 | ml     |
+| Creme de soja       |      150 | ml     |
+| Dente de alho       |      3.5 | g      |
+| Cebola amarela      |       75 | g      |
+| Paprika defumada    |        2 | g      |
+| Penne Semi-Integral |      160 | g      |
+| Tofu defumado       |      200 | g      |
 
 * Comida
 ** Sites de Receitas
