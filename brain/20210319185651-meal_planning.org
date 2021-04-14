@@ -11,18 +11,21 @@
 *** Tabelas
 **** Ingredientes
 Ex:
-| ID | Nome Ingrediente      |
+| ID | Name                  |
+|----+-----------------------|
 |  1 | "Champignon de Paris" |
 
 **** Receitas
 Ex:
-| ID | Nome Receita                            | Porções | Site                                                                      |
-|  1 | "Penne carbonara végétale au tofu fumé" |       2 | https://www.quitoque.fr/recette/5072/spaghetti-au-poulet-et-a-la-moutarde |
-|    |                                         |         |                                                                           |
+| ID | Name                                    | Portions | Site                                                                      |
+|----+-----------------------------------------+----------+---------------------------------------------------------------------------|
+|  1 | "Penne carbonara végétale au tofu fumé" |        2 | https://www.quitoque.fr/recette/5072/spaghetti-au-poulet-et-a-la-moutarde |
+|    |                                         |          |                                                                           |
 
 **** Unidade
 Ex:
-| ID | Nome Unidade     | Símbolo          |
+| ID | Name             | Symbol           |
+|----+------------------+------------------|
 |  1 | "grama"          | "g"              |
 |  2 | "mili litros"    | "ml"             |
 |  3 | "colher de sopa" | "colher de sopa" |
@@ -35,8 +38,9 @@ Ex:
 
 **** Ingredientes de Receitas
 Ex:
-| ID  Receita | ID Ingrediente | Quantidade | ID Unidade |
-|           1 |              1 |        250 |          1 |
+| ID_Recipe | ID_Ingredient | Quantity | ID_Unity |
+|-----------+---------------+----------+----------|
+|         1 |             1 |      250 |        1 |
 *** Queries
 **** All Recipes
 #+begin_src sqlite :db ~/org/comida :colnames yes :exports both
