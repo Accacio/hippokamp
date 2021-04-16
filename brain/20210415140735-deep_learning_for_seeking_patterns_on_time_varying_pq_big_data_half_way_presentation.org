@@ -1,0 +1,22 @@
+#+title: Deep Learning for Seeking Patterns On Time-Varying PQ Big Data - Half-way Presentation
+- tags :: "Half-way presentations"
+
+- lecturer :: Roger Oliveira
+
+* Introduction
+* Why Power Quality Big Data
+* What is Artificial Inteligence
+* Supervised x Unsupervised Learning
+* Deep Learning - Autoencoder
+* Report of PQ data
+* Research question and objectives
+- Can deep learning assist to find patters in large data-sets of PQ measurements?
+- Main objective :: Provide tool based on DL using long-term PQ measurements
+* Leterature Review
+- Scopus Database
+#+ATTR_HTML: :width 600
+[[file:./img/qualificacao_roger.png]]
+* Current works on DL and PQ
+- table with references application, type of data, learning techniques \dots
+#+ATTR_HTML: :width 600
+[[file:./img/qualificacao_roger_2.png]]
