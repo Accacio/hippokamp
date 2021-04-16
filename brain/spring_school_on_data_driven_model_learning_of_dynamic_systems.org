@@ -426,7 +426,7 @@ MISO mappings may be non linear
   + G^0\in G no noise requ
   + persint ex \phi rd > 0
   + ...
-** Direct mehod
+** Direct method
 - Estimate transfer $w_\mathcal N\to w_j$ and model the disturbance process on the output
 - provided the is enough excitation through external signals $r$ and $e$
 - Conditions $\hat G_{ij}$
