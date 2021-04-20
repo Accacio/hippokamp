@@ -3,7 +3,7 @@
 
 * Organização
 ** Excel
-- [[https://www.dropbox.com/preview/Evelise_Rafael/Organiza%C3%A7%C3%A3o/Planning_refeicoes.xlsx][Planejador]]
+- [[https://www.dropbox.com/preview/Evelise_Rafael/Organizacao/Planning_refeicoes.xlsx][Planejador]]
 - Estoque
 - Compras
 
