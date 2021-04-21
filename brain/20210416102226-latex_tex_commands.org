@@ -1,0 +1,17 @@
+#+title: LaTeX/TeX Commands
+- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]
+
+* raisebox
+$\text{h\raisebox{2pt}{i}\raisebox{4pt}{g\raisebox{2pt}{h}}\raisebox{4pt}{e\raisebox{3pt}{r}}}$
+
+* root
+$\root 3\of 2$
+* mathchoice
+$\mathchoice{A}{B}{c}{d}$
+\[\mathchoice{A}{B}{c}{d}\]
+$\scriptstyle\mathchoice{A}{B}{c}{d}$
+$\scriptscriptstyle\mathchoice{A}{B}{c}{d}$
+* phantom
+$o\phantom{hello    }i$
+* dotfill
+$h\dotfill o$
