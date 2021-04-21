@@ -30,4 +30,4 @@ The missile guidance computer scenario works as follows. Because a variation has
 
 * Definitions
 ** Monic Transfer function
-First term is 1 -> $H_o(z)=1+\sum_{k=1}^\infty h_0(k)z^{-k}$
+First term is 1 \to $H_o(z)=1+\sum_{k=1}^\infty h_0(k)z^{-k}$
