@@ -413,20 +413,34 @@ for statutory facts, evidence is free
 ** Relativity of notions
 - criterion: hazard
 * Intellectual Property
-** Substantive Law
-** Protected Works
-*** Criteria
+** Intellectual Property
+*** Substantive Law
+*** Protected Works
+**** Criteria
 - Original works
 - Materialized works
-*** Exclusion of mere ideas
+**** Exclusion of mere ideas
 - form is unimportant
 - originality lies in the form
 - Identical principle used in patent law
 - «Ideas are free to be used» (Dubois)
 - Protection possible via civil liability or unfair competition
-** Originality
+*** Originality
 - personal stamp of the author on his/her creation
-** Protection without formalities
-** Indifference
+*** Protection without formalities
+*** Indifference
 - genre :: category of artistic composition
 - form :: form of expression
+** Authorship and ownership of the rights
+*** Works created by several authors
+**** 70 years after last author's death
+**** Dictionary
+- difficult to do pro rata remuneration every author by
+*** Composite or derivative works
+- A new work is known as composite when it
+includes a pre-existing work without the collaboration of
+the author of that work. It is a work in which a pre-
+existing work has been included:
+- initial authour has not participated
+- incorporation :: transformation
+** Moral Right
