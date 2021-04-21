@@ -1,0 +1,53 @@
+#+title: Voronoi diagram
+
+# * octave
+#+begin_src octave :results output :exports no-eval
+path="img/";
+filename =[path "voronoi"];
+h = figure;
+foci = [ 0.6505   0.8992;
+         0.1620   0.3383;
+         0.9702   0.2458;
+         0.4134   0.5257;
+         0.2461   0.1875;
+         0.5507   0.5694;
+         0.7828   0.7980;
+         0.7508   0.6138;
+         0.9426   0.1243;
+         0.8557   0.8685];
+x = foci(:,1);
+y = foci(:,2);
+h = convhull (x, y);
+[vx, vy] = voronoi (x, y);
+plot (x,y,"or");
+xlim([min(x(h))-0.1,max(x(h))+0.1])
+ylim([min(y(h))-0.1,max(y(h))+0.1])
+hold on
+f=getframe;
+f = getframe;
+imwrite(f.cdata,[ filename '.gif'],'DelayTime',1,'LoopCount',inf)
+triplot(delaunay(x,y),x,y,"b")
+xlim([min(x(h))-0.1,max(x(h))+0.1])
+ylim([min(y(h))-0.1,max(y(h))+0.1])
+f = getframe;
+imwrite(f.cdata,[ filename '.gif'],'DelayTime',1,'WriteMode','append')
+hold on
+plot (vx, vy,x,y,"o");
+xlim([min(x(h))-0.1,max(x(h))+0.1])
+ylim([min(y(h))-0.1,max(y(h))+0.1])
+hold off
+f = getframe;
+imwrite(f.cdata,[ filename '.gif'],'DelayTime',1.5,'WriteMode','append')
+plot (vx, vy,x,y,"o");
+xlim([min(x(h))-0.1,max(x(h))+0.1])
+ylim([min(y(h))-0.1,max(y(h))+0.1])
+f = getframe;
+imwrite(f.cdata,[ filename '.gif'],'DelayTime',3,'WriteMode','append')
+#+end_src
+
+#+RESULTS:
+
+#+name: voronoi
+#+ATTR_HTML: :width 800
+#+caption: Voronoi diagram for 10 points
+[[file:img/voronoi.gif]]
