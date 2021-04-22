@@ -4,9 +4,6 @@
 https://farina.faculty.polimi.it/NetCont.html
 
 * Leitura
-:PROPERTIES:
-:ID:       400d8bf5-9cdd-4cd3-97e6-e31185f2e75c
-:END:
 - cite:BaillieulAntsaklis2007
 - cite:MoyneTilbury2007
 - cite:Baillieul2002
