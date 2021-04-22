@@ -3,7 +3,7 @@
 
 - tags :: [[file:formations_these.org][Formations Doctorat]]
 
-- lecturer :: Karim Tadrist
+- lecturer :: Karim Tadrist | karim.tadrist at gustaveroussy dot fr
 
 * Introduction
 - French Law
@@ -444,3 +444,57 @@ existing work has been included:
 - initial authour has not participated
 - incorporation :: transformation
 ** Moral Right
+** Patrimonial Rights
+*** Principle
+*** The right of Public Performance
+- right of public performance resides in the communication of the work by any means whatsoever (L122-2)
+* Industrial Property | the Patent system
+- lecturer :: François MUNDLIER
+** What's a Patent
+*** Creation/Invention
+**** Creation \to Author Right
+- Aesthetic/Artistic (program code)
+**** Invention \to Patent
+- functional/technical
+  + device
+  + system
+  + method
+*** Toolbox (for industrial intellectual property)
+- Patents
+- designs
+- trademarks
+- author right
+- printed board topography
+- databases
+- animal production processes
+- vegetable production processes
+*** Patenting an invention
+**** Patents
+***** what's a patent
+  - title of _property_ (immaterial)
+    - _monopoly_ given on a _novel_ innovation in exchange of _publishing_
+***** Creation: filing + examination
+***** Lifetime: 20 years
+***** Country dependant
+**** Trademarks
+***** what's a trademark
+  - title of _property_ (immaterial)
+    + _distinctive_ name to identify a product or service
+
+***** Creation: filing + registering
+***** Lifetime: renewable - unlimited
+***** Country dependant
+***** Obtaining
+***** Exploitation
+*** Utility Patent: object
+**** Patentatability
+***** Patentatability Criteria (principles)
+1. Invention (technical)
+2. Industrial application (some fields are excluded)
+3. Novelty from prior art (publicly disclosed before filing date - world wide)
+4. Inventive step (non obvious according to prior art) (to someone skilled)
+****** Skilled in the art
+- _technician_
+- standard knowledge in his field
+- has access to _all documents_ in the area
+***** Technological fields (examples)
