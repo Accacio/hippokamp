@@ -1,0 +1,8 @@
+#+title: xkcd: The Problem with Wikipedia
+#+roam_key: https://xkcd.com/214/
+
+https://xkcd.com/214/
+
+- tags :: [[file:20210304095302-comics.org][comics]]
+
+   me, every day

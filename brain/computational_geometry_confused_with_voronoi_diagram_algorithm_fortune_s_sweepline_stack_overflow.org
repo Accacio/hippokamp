@@ -1,0 +1,6 @@
+#+title: computational geometry - Confused with Voronoi diagram algorithm (Fortune's sweepline) - Stack Overflow
+#+roam_key: https://stackoverflow.com/questions/982928/confused-with-voronoi-diagram-algorithm-fortunes-sweepline/17182583#17182583
+
+https://stackoverflow.com/questions/982928/confused-with-voronoi-diagram-algorithm-fortunes-sweepline/17182583#17182583
+
+- tags :: [[file:20210413114122-voronoi_diagram.org][Voronoi diagram]]

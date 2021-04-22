@@ -1,5 +1,8 @@
 #+title: xkcd: s/keyboard/leopard/
 #+roam_key: https://xkcd.com/1031/
+
+https://xkcd.com/1031/
+
 - tags :: [[file:20210304095302-comics.org][comics]]
 
   make the internet 100 times better

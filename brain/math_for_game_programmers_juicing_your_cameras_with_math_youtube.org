@@ -1,0 +1,11 @@
+#+title: Math for Game Programmers: Juicing Your Cameras With Math - YouTube
+#+roam_key: https://www.youtube.com/watch?v=tu-Qe66AvtY
+
+https://www.youtube.com/watch?v=tu-Qe66AvtY
+
+- tags :: [[file:20200423094808-gamedev.org][gamedev]], [[file:20210413114122-voronoi_diagram.org][Voronoi diagram]]
+
+
+- lecturer :: [[http://www.eiserloh.net/bio/][Squirrel Eiserloh]]
+
+- pdf version :: http://www.mathforgameprogrammers.com/gdc2016/GDC2016_Eiserloh_Squirrel_JuicingYourCameras.pdf
