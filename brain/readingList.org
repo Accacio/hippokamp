@@ -211,6 +211,3 @@ pag 37
 *** READ ElGhaoui2002 | [[note:ElGhaoui2002][org]] [[pdf:ElGhaoui2002][pdf]] [[mobi:ElGhaoui2002][mobi]] [[epub:ElGhaoui2002][epub]]
 *** READ [#A] ArabloueiEtAl2014 | [[note:ArabloueiEtAl2014][org]] [[pdf:ArabloueiEtAl2014][pdf]] [[mobi:ArabloueiEtAl2014][mobi]] [[epub:ArabloueiEtAl2014][epub]]
 *** READ ElGhaoui2002 | [[note:ElGhaoui2002][org]] [[pdf:ElGhaoui2002][pdf]] [[mobi:ElGhaoui2002][mobi]] [[epub:ElGhaoui2002][epub]]
-* References :ignore:
-bibliographystyle:apalike
-bibliography:~/docsThese/bibliography.bib
