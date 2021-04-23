@@ -135,3 +135,5 @@ Solange
 - [[https://people.rennes.inria.fr/Gerardo.Rubino/][Gerardo Rubino]]
 * Doutorado
 - Jean-François Dupuy
+- Karim Tadrist
+- François MUNDLIER
