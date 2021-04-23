@@ -1,0 +1,7 @@
+#+title: Otimização de Fornecimento de Energia em Micro Redes
+- tags :: [[file:20210423224944-microgrid_sizing.org][Microgrid Sizing]]
+
+- lecturer :: Evelise
+
+* Questões
+  - KPI ambiental? custo de pegada de carbono etc
