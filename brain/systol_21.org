@@ -1,21 +1,22 @@
 #+title: SysTol’21
 #+roam_key: http://www.systol.org/systol21/
+#+LINK: note file:%s.org
 - tags :: [[file:20210120110751-control_conferences.org][Control Conferences]]
 
 * Paper
 file:~/docsThese/docs/articles/SysTol21/article.tex
 ** RLS bias
-*** cite:BittantiEtAl1990 can help to show that the projection of the estimation error onto the excitation subspace
+*** [[note:BittantiEtAl1990][BittantiEtAl1990]] can help to show that the projection of the estimation error onto the excitation subspace
 - unexcitation subspace :: $\bar{\mathcal{E}}=\{x\in\mathbb{R}^n| \existsL<\infty:x'\sum\limits^N_1 \phi(t)\phi(t)'x<L,\forall N\}$
 - excitation subspace :: $\mathcal{E}=\bar{\mathcal{E}}^{\perp}$
-*** cite:AastroemWittenmark1989
+*** [[note:AastroemWittenmark1989][AastroemWittenmark1989]]
 - [[file:AastroemWittenmark1989.org][Theorem 3.2 :]]
   + LS has no bias
   + depends on $(\Phi^T\Phi)^{-1}$
-*** cite:ArabloueiEtAl2014
+*** [[note:ArabloueiEtAl2014][ArabloueiEtAl2014]]
 - unbiased estimator (URLS)
 ** Matrix Inverse bias
-- cite:ElGhaoui2002
+- [[note:ElGhaoui2002][ElGhaoui2002]]
   + other characterization of inverse error
 ** Error Propagation chart
 :LOGBOOK:
