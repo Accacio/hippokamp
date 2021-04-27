@@ -1,0 +1,62 @@
+#+TITLE: LuciaEtAl2021
+#+ROAM_KEY: cite:LuciaEtAl2021
+#+ROAM_TAGS: article
+
+- tags ::
+- keywords ::
+
+
+* Setpoint attack detection in cyber-physical systems
+  :PROPERTIES:
+  :Custom_ID: LuciaEtAl2021
+  :URL:
+  :AUTHOR: Lucia, W., Gheitasi, K., & Ghaderi, M.
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/LuciaEtAl2021.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- play a key role in our society
+*** References :violet:
+
+** NOTES
+
+*** alter the set- point signal and ultimately affect the tracking performance of the control system.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++0.52;;annot-1-7]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-7
+:END:
+set-point attack
+
+*** play a key role in our society
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++2.84;;annot-1-8]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-8
+:END:
+nice expression
+
+*** [7], an attack taxonomy is provided which highlights
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++3.07;;annot-1-11]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-11
+:END:
+cite:TeixeiraEtAl2015
+
+*** Cyber attacks, monitors and conditions ensuring detection and identification of attacks have been formally investigated in [8] and [11].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++3.62;;annot-1-10]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-10
+:END:
+ cite:PasqualettiEtAl2013, cite:FortiEtAl2016
+
+*** survey as initial reference
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++0.00;;annot-1-9]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-9
+:END:
