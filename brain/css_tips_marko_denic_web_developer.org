@@ -1,0 +1,6 @@
+#+title: CSS Tips - Marko Denic - Web Developer
+#+roam_key: https://markodenic.com/css-tips/
+
+https://markodenic.com/css-tips/
+
+- tags :: CSS, [[file:20200708151350-html.org][HTML]]

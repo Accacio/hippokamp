@@ -1,0 +1,5 @@
+# -*- eval: (rainbow-mode); -*-
+#+title: color palettes
+- tags :: color
+
+- Retro :: #551842 #D13C2B #5896A8 #DBD4CF
