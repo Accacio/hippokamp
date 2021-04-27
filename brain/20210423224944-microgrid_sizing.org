@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       ee7b1dc1-13f1-4364-8aaf-7ebfd46981af
+:END:
 #+title: Microgrid Sizing
 - tags :: [[file:20210216103204-microgrids.org][Microgrids]]
