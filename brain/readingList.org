@@ -13,7 +13,8 @@
 - tags :: [[file:20200422131137-these.org][These]]
 
 * Articles
-** To read [0/75]
+** To read [0/76]
+*** READING [#A] LuciaEtAl2021 | [[note:LuciaEtAl2021][org]] [[pdf:LuciaEtAl2021][pdf]] [[mobi:LuciaEtAl2021][mobi]] [[epub:LuciaEtAl2021][epub]]
 *** READING Iiduka2019 | [[note:Iiduka2019][org]] [[pdf:Iiduka2019][pdf]] [[mobi:Iiduka2019][mobi]] [[epub:Iiduka2019][epub]]
 *** TOREAD WangEtAl2021 | [[note:WangEtAl2021][org]] [[pdf:WangEtAl2021][pdf]] [[mobi:WangEtAl2021][mobi]] [[epub:WangEtAl2021][epub]]
 *** TOREAD ZhuEtAl2011 | [[note:ZhuEtAl2011][org]] [[pdf:ZhuEtAl2011][pdf]] [[mobi:ZhuEtAl2011][mobi]] [[epub:ZhuEtAl2011][epub]]
