@@ -1,5 +1,5 @@
 #+title: Otimização de Fornecimento de Energia em Micro Redes
-- tags :: [[id:ee7b1dc1-13f1-4364-8aaf-7ebfd46981af][Microgrid Sizing]]
+- tags :: [[file:20210423224944-microgrid_sizing.org][Microgrid Sizing]]
 
 - lecturer :: Evelise
 
