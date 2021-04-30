@@ -103,3 +103,5 @@ CLOCK: [2021-03-26 ven. 16:58]--[2021-03-26 ven. 17:23] =>  0:25
 
 #+RESULTS:
 [[file:img/errorPropagationBlock.png]]
+
+** [[file:~/these/Org/Systol Préparation.pdf][DOC ROMAIN]]
