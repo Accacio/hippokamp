@@ -1,0 +1,15 @@
+#+title: Org Mode - Organize Your Life In Plain Text!
+#+roam_key: http://doc.norang.ca/org-mode.html
+
+http://doc.norang.ca/org-mode.html
+
+- tags :: [[file:20200619120854-org_mode.org][org-mode]]
+
+* interesting ideas,
+** meeting
+** Task States
+
+** commiting everything
+    #+begin_src emacs-lisp
+(run-at-time "00:59" 3600 'org-save-all-org-buffers)
+  #+end_src
