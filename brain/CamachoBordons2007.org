@@ -1,0 +1,36 @@
+#+TITLE: CamachoBordons2007
+#+ROAM_KEY: cite:CamachoBordons2007
+#+ROAM_TAGS: article
+
+- tags :: [[file:20200709101720-mpc.org][Model Predictive Control]]
+- keywords ::
+
+
+* Model Predictive Controllers
+  :PROPERTIES:
+  :Custom_ID: CamachoBordons2007
+  :URL: https://doi.org/10.1007/978-0-85729-398-5_2
+  :AUTHOR: Camacho, E. F., & Bordons, C.
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/CamachoBordons2007.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** elements in MPC
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::1++0.00;;annot-1-0]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-1-0
+:END:
+• prediction model,
+• objective function and
+• obtaining the control law.
