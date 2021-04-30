@@ -123,6 +123,8 @@ Solange
 - Liu Hsu
 - [[https://www.if.ufrj.br/docentes/malena-osorio-hor-meyll/][Malena Osório Hor-Meyll]]
 ** 5°
+- Ricardo Musafir
+** 6
 
 * Supélec
 ** ISA
