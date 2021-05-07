@@ -64,6 +64,34 @@ Resilient dMPC under Attack using Bayesian Inference
 :ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-2-0
 :END:
 
+*** such as dual decomposition, 5
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::2++0.71;;annot-2-1]]
+:ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-2-1
+:END:
+cite:
+
+*** In the DMPC framework, the issue that some agents might provide false information, which is a different type of adversarial behaviors, has also been discussed. 16,17
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::2++9.56;;annot-2-2]]
+:ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-2-2
+:END:
+
+*** A scenario-based defense mechanism 16
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::2++9.56;;annot-2-3]]
+:ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-2-3
+:END:
+cite:VelardeEtAl2017a
+
+*** incentivize truth telling among agents 17
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::2++9.91;;annot-2-4]]
+:ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-2-4
+:END:
+17. Tanaka T, Gupta V. Incentivizing truth-telling in MPC-based load frequency control. Paper presented at: 2016 IEEE 55th Conference on
+Decision and Control (CDC); 2016; Las Vegas, NV.
+
 *** one adversarial per agent
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::3++0.00;;annot-3-0]]
