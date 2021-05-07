@@ -11,7 +11,7 @@
 
 ** CATALOG
 *** Motivation
-[[https://mathworld.wolfram.com/Zonotope.html][Zonotope]] tube created to estimate possible outcomes of the state, if it is outside the tube then that is a fault.
+- Zonotope tube created to estimate possible outcomes of the state, if it is outside the tube then that is a fault.
 *** Model
 *** Remarks
 *** Applications
@@ -122,6 +122,13 @@ no. 12, pp. 2622–2640, 2010.
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::6++0.34;;annot-6-0]]
 :ID:       ../../docsThese/bibliography/BoemEtAl2020.pdf-annot-6-0
 :END:
+
+*** [[file:20210507104435-zonotope.org][zonotope]] sets,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::7++0.00;;annot-7-1]]
+:ID:       ../../docsThese/bibliography/BoemEtAl2020.pdf-annot-7-1
+:END:
+
 
 *** isolation strategy
 :PROPERTIES:
