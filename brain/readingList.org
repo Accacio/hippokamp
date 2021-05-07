@@ -216,6 +216,8 @@ pag 37
 *** LIDO ElGhaoui2002 | [[note:ElGhaoui2002][org]] [[pdf:ElGhaoui2002][pdf]] [[mobi:ElGhaoui2002][mobi]] [[epub:ElGhaoui2002][epub]]
 *** LIDO [#A] ArabloueiEtAl2014 | [[note:ArabloueiEtAl2014][org]] [[pdf:ArabloueiEtAl2014][pdf]] [[mobi:ArabloueiEtAl2014][mobi]] [[epub:ArabloueiEtAl2014][epub]]
 *** LIDO ElGhaoui2002 | [[note:ElGhaoui2002][org]] [[pdf:ElGhaoui2002][pdf]] [[mobi:ElGhaoui2002][mobi]] [[epub:ElGhaoui2002][epub]]
+- A new quantity to characterize inversion error
+
 *** DIAGONAL CamachoBordons2007 | [[note:CamachoBordons2007][org]] [[pdf:CamachoBordons2007][pdf]] [[mobi:CamachoBordons2007][mobi]] [[epub:CamachoBordons2007][epub]]
 
 - State "DIAGONAL"   from "LER"        [2021-04-29 jeu. 17:53] \\
