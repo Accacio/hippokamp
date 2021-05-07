@@ -33,6 +33,7 @@
 *** LER AlghunaimSayed2020 | [[note:AlghunaimSayed2020][org]] [[pdf:AlghunaimSayed2020][pdf]] [[mobi:AlghunaimSayed2020][mobi]] [[epub:AlghunaimSayed2020][epub]]
 *** LER BuergerEtAl2014 | [[note:BuergerEtAl2014][org]] [[pdf:BuergerEtAl2014][pdf]] [[mobi:BuergerEtAl2014][mobi]] [[epub:BuergerEtAl2014][epub]]
 *** LER ChanfreutEtAl2018 | [[note:ChanfreutEtAl2018][org]] [[pdf:ChanfreutEtAl2018][pdf]] [[mobi:ChanfreutEtAl2018][mobi]] [[epub:ChanfreutEtAl2018][epub]]
+ - Show vulnerabilites in a dMPC structure using Jacobi-Gauss decomposition
 *** LER ChatelEtAl2017 | [[note:ChatelEtAl2017][org]] [[pdf:ChatelEtAl2017][pdf]] [[mobi:ChatelEtAl2017][mobi]] [[epub:ChatelEtAl2017][epub]]
 *** LER ChristofidesEtAl2013 | [[note:ChristofidesEtAl2013][org]] [[pdf:ChristofidesEtAl2013][pdf]] [[mobi:ChristofidesEtAl2013][mobi]] [[epub:ChristofidesEtAl2013][epub]]
 *** LER Domahidi2013 | [[note:Domahidi2013][org]] [[pdf:Domahidi2013][pdf]] [[mobi:Domahidi2013][mobi]] [[epub:Domahidi2013][epub]]
