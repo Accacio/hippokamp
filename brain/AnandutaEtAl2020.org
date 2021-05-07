@@ -1,4 +1,4 @@
-#+TITLE: AnandutaEtAl2020.pdf: Resilient distributed model predictive control for energy management of interconnected microgrids
+#+TITLE: AnandutaEtAl2020: Resilient distributed model predictive control for energy management of interconnected microgrids
 #+ROAM_KEY: cite:AnandutaEtAl2020.pdf
 #+ROAM_TAGS: article
 
