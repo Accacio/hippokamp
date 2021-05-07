@@ -264,3 +264,5 @@ awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressio
 ** [[file:daily/2021-03-30.org::*porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?][porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?]]
 * Documents
 file:~/these/DocAdm/
+* Defense
+- Open questions
