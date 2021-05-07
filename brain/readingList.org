@@ -1,9 +1,9 @@
-# -*- org-todo-keyword-faces: (("LENDO" . "yellow") ("DIAGONAL" . "orange")  ); -*-
 #+TITLE: Reading List
 #+LINK: note file:%s.org
 #+LINK: pdf file:~/docsThese/bibliography/%s.pdf
 #+LINK: mobi file:~/docsThese/bibliography/%s.mobi
 #+LINK: epub file:~/docsThese/bibliography/%s.epub
+#+EXCLUDE_TAGS: noexport
 #+STARTUP: content
 #+latex_header: \usepackage{natbib}
 #+OPTIONS: todo:nil num:nil timestamp:nil author:nil toc:nil
@@ -14,9 +14,8 @@
 - tags :: [[file:20200422131137-these.org][These]]
 
 * Articles
-** LIR [0/77]
+** LIRE [0/77]
 *** LER SimonEtAl2012 | [[note:SimonEtAl2012][org]] [[pdf:SimonEtAl2012][pdf]] [[mobi:SimonEtAl2012][mobi]] [[epub:SimonEtAl2012][epub]]
-
 *** LENDO [#A] LuciaEtAl2021 | [[note:LuciaEtAl2021][org]] [[pdf:LuciaEtAl2021][pdf]] [[mobi:LuciaEtAl2021][mobi]] [[epub:LuciaEtAl2021][epub]]
 - State "LENDO"    from "LER"     [2021-04-29 jeu. 15:32]
 *** LENDO Iiduka2019 | [[note:Iiduka2019][org]] [[pdf:Iiduka2019][pdf]] [[mobi:Iiduka2019][mobi]] [[epub:Iiduka2019][epub]]
@@ -220,3 +219,9 @@ pag 37
 
 - State "DIAGONAL"   from "LER"        [2021-04-29 jeu. 17:53] \\
   Describe elements of MPC, and many alternative formulations
+
+* Config :noexport:
+
+# Local Variables:
+# org-todo-keyword-faces: (("LENDO" . "yellow") ("DIAGONAL" . "orange")  );
+# End:
