@@ -1,0 +1,6 @@
+#+title: IPA Chart
+#+roam_key: https://www.ipachart.com/
+
+https://www.ipachart.com/
+
+- tags :: [[file:20200608092138-languages.org][Languages]], pronunciation, IPA
