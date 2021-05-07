@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Resilient [[file:20200709101933-dmpc.org][dMPC]] under [[file:20200722151944-attacks.org][Attack]] using [[file:20200813155010-bayesian_inference.org][Bayesian Inference]]
+Resilient dMPC under Attack using Bayesian Inference
 *** Model :lightSkyblue:
 - undirected graph $S=(\mathcal{N}, \mathcal{E})$, neighborhood $\mathcal{N}_{i}=\{j:(i, j) \in \mathcal{E}\}$
 - [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200716170441-linear_system.org][Linear Systems]]
