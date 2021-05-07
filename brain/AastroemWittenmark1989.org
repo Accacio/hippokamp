@@ -18,6 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
+Book about adaptive control, great reference for real time parameter estimation, Recursive Least-sqaures and etc
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications
