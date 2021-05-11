@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- An unbiased [[file:20200504163253-recursive_least_squares.org][recursive least-squares]] estimator
+An unbiased recursive least-squares estimator
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

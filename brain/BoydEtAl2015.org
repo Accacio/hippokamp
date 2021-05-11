@@ -30,6 +30,12 @@
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::7++0.00;;annot-7-0]]
 :ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-7-0
 :END:
+*** complicating constraints
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::11++0.00;;annot-11-0]]
+:ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-11-0
+:END:
+name for constraints that avoid parallel solution
 *** algo primal decomposition with Constraints
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::12++0.00;;annot-12-0]]

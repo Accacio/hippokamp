@@ -20,7 +20,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Use of Shadow Prices to resolve grid congestion
+Use of Shadow Prices to resolve grid congestion
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

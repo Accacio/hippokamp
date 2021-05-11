@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-+ Survey on Explicit MPC
+Survey on Explicit MPC
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

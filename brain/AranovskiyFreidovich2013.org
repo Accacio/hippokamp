@@ -10,7 +10,7 @@
 :END:
 ** CATALOG
 *** Motivation :springGreen:
-- Identification-based adaptive tuning of coefficients with unknown disturbance
+Identification-based adaptive tuning of coefficients with unknown disturbance
 *** Model :lihgSkyblue:
 *** Remarks
 *** Applications
