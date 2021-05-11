@@ -1,0 +1,30 @@
+#+title: Design of resilient controllers for Buildings Energy Management
+
+- lecturer :: Jesse-James Arthur Prince Agbodjan
+
+* Rehearsal
+** Context: EMS
+- Energy Management System
+*** Classification
+- Rule based
+- Artificial Intelligence \gets
+- Optimization based: MPC
+*** EMS and REE
+- Rare and extreme events
+  + Eg \gets E.g.
+- Resilience
+*** Motivation
+** Outline
+** MPC strategy
+** Solar home
+- Pag 11 - Pv \gets PV
+** Determinist GPO
+*** Simulation Results
+- um pouco confusos gráficos
+** Stochastic GPO
+*** Assumptions
+- ne pas effacer les hypotheses
+** Application
+- Pag 43 \gets CPU ? , Solver ?
+** Future works \gets Open questions
+* Soutenance ~45min
