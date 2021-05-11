@@ -1,5 +1,5 @@
 #+title: Aperiodic Sampled-Data Control
-- tags :: contorl
+- tags :: [[file:20200504164021-control.org][Control]]
 
   - Event-triggering
   - Self-triggering
