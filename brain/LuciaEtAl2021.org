@@ -19,10 +19,13 @@
 
 *** Motivation :springGreen:
 *** Model :lightSkyblue:
+- linear system
 *** Remarks
 *** Applications
 *** Expressions
 - play a key role in our society
+- In the abovementioned scenarios
+- The main contributions of this article can be stated as follows:
 *** References :violet:
 
 ** NOTES
@@ -33,6 +36,13 @@
 :ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-7
 :END:
 set-point attack
+
+*** false data injection
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++1.43;;annot-1-14]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-14
+:END:
+<<<FDI>>>
 
 *** play a key role in our society
 :PROPERTIES:
@@ -48,6 +58,13 @@ nice expression
 :END:
 cite:TeixeiraEtAl2015
 
+*** In the abovementioned scenarios,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++3.61;;annot-1-13]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-13
+:END:
+expression
+
 *** Cyber attacks, monitors and conditions ensuring detection and identification of attacks have been formally investigated in [8] and [11].
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++3.62;;annot-1-10]]
@@ -55,8 +72,79 @@ cite:TeixeiraEtAl2015
 :END:
  cite:PasqualettiEtAl2013, cite:FortiEtAl2016
 
+*** superimposed cryptographically secure pseudorandom signals,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++0.83;;annot-2-1]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-1
+:END:
+is this a kind of signature??
+
+*** following discrete-time linear system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++0.83;;annot-2-2]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-2
+:END:
+
+
+*** The main contributions of this article can be stated as follows:
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++1.03;;annot-2-0]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-0
+:END:
+expression
+
+*** FDI attack
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++1.43;;annot-2-5]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-5
+:END:
+what is the difference from disruptive??
+
+*** corrupted vector
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++1.43;;annot-2-6]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-6
+:END:
+corrupted may have been a good choice for our SysTol'21 article
+
+*** Attack reducing tracking performance
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++1.43;;annot-2-7]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-7
+:END:
+attacker prevents from reaching asymptotical tracking
+
+*** Stealthy attack
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++1.43;;annot-2-8]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-8
+:END:
+attacker remains undetected
+
+*** Attack with full-model knowledge
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++8.69;;annot-2-3]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-3
+:END:
+attacker has perfect knowledge of model
+
+*** Attack with disclosure and disruptive resources
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++8.69;;annot-2-4]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-4
+:END:
+- disclosure \to read the data packets
+- disruptive \to attacker violate integrity
+
 *** survey as initial reference
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++0.00;;annot-1-9]]
 :ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-9
 :END:
+
+*** To the best of our knowledge,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++0.00;;annot-1-12]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-12
+:END:
+strange to use this
