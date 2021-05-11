@@ -1,6 +1,6 @@
 #+TITLE: CamachoBordons2007
 #+ROAM_KEY: cite:CamachoBordons2007
-#+ROAM_TAGS: article
+#+ROAM_TAGS: book
 
 - tags :: [[file:20200709101720-mpc.org][Model Predictive Control]]
 - keywords ::
@@ -28,9 +28,10 @@
 
 *** elements in MPC
 :PROPERTIES:
-:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::1++0.00;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-1-0
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::33++0.00;;annot-33-0]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-33-0
 :END:
+
 • prediction model,
 • objective function and
 • obtaining the control law.
