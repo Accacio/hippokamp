@@ -191,7 +191,7 @@ today is 30 days after start and is colored in #AAF
 [[file:img/ganttThese.png]]
 
 
-* CSI
+* [[file:20210225163129-csi.org][CSI]]
 #+begin_src bash :results drawer :exports results
 for i in {2020..2022}; do
     echo - [[file:~/docsThese/docs/org/slideCSI-$i.org][$i]]
