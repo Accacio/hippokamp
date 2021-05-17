@@ -13,3 +13,7 @@
 |                             | BP 92101 44321 NANTES Cedex 3 | CS 47601   35576 Cesson-Sévigné cedex       |
 | Téléphone                   | 02 40 37 69 13                | 02 99 84 45 42                              |
 | Email                       | Malek.Ghanes at ls2n.fr       | stanislav.aranovskiy at centralesupelec.fr  |
+
+* Presentation
+- [[file:~/docsThese/docs/org/slideCSI-2020.org][2020]]
+- [[file:~/docsThese/docs/org/slideCSI-2021.org][2021]]
