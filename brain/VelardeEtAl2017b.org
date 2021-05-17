@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Vulnerabilities in lagrange-based dMPC scheme on multi-agent consensus
+Vulnerabilities in lagrange-based dMPC scheme on multi-agent consensus
 *** Model :lightSkyblue:
 *** Remarks
  Almost the same thing as the other articles

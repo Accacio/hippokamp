@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Creation of new lagrangian to convexify the lagrangian function, reducing decomposition to two levels of iterative optimization
+Creation of new lagrangian to convexify the lagrangian function, reducing decomposition to two levels of iterative optimization
 *** Model :lightSkyblue:
 - opitimization, [[file:20200512110355-large_scale_systems.org][large scale systems]], non-convex separable , equaltity constraints
 *** Remarks

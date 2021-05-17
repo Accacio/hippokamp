@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
--  [[file:20200813180431-neural_networks.org][Neural Networks]] based detection and Lyapunov [[file:20200709101720-mpc.org][MPC]], using cumulative sum detection
+[[file:20200813180431-neural_networks.org][Neural Networks]] based detection and Lyapunov [[file:20200709101720-mpc.org][MPC]], using cumulative sum detection
 *** Model :lightSkyblue:
 - [[file:20200716163801-continuous_time_systems.org][Continuous-time ]][[file:20200717152401-non_linear_systems.org][Nonlinear System]] with constraints in input
 - Disturbance
