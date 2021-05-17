@@ -1,7 +1,7 @@
 #+title: Distributed Control and Computation
 #+ROAM_TAGS: courses
 
-- tags :: [[file:formations_these.org][Formations Doctorat]], [[file:IGSC2020.org][IGSC 2020]], [[file:20200427161129-network_topologies.org][network topologies]], [[file:20200713170428-distributed_control.org][Distributed Control]]
+- tags :: [[file:formations_these.org][Formations Doctorat]], [[file:International_Graduate_School_on_Control_2020.org][International Graduate School On Control 2020]], [[file:20200427161129-network_topologies.org][network topologies]], [[file:20200713170428-distributed_control.org][Distributed Control]]
 - lecturer :: Steve Morse
 
   Quando criar uma nomenclatura, usar nomes que sejam bem descritivos

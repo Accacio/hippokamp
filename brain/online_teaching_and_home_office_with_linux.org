@@ -1,3 +1,3 @@
 #+title: Online teaching and home office with Linux
 #+roam_key: https://www.sthu.org//blog/17-onlineteaching-linux-corona/index.html
-- tags :: [[file:20200428005424-linux.org][linux]], [[file:20200424101435-education.org][education]]
+- tags :: [[file:20200428005424-linux.org][Linux]], [[file:20200424101435-education.org][education]]

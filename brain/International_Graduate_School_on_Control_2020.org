@@ -1,4 +1,5 @@
-#+TITLE: IGSC 2020
+#+TITLE: International Graduate School On Control 2020
+#+ROAM_KEY: IGSC2020
 #+TODO:  LATE(l) NO(n) | YES(y) MAYBE(m)
 
 - tags :: [[file:20200709114738-igsc.org][IGSC]]

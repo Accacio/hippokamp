@@ -1,5 +1,5 @@
 #+TITLE: rclone
-- tags :: [[file:20200428005424-linux.org][linux]]
+- tags :: [[file:20200428005424-linux.org][Linux]]
 
 * create a rcloneignore and use ``--exclude-from"
 * also use --max-age and --min-age
