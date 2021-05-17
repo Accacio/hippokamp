@@ -18,6 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
+Book on [[file:20200709101720-mpc.org][MPC]]
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

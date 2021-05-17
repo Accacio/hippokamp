@@ -39,9 +39,6 @@ done
 
 
   Hybrid Triggering scheme (Aperiodic Sampled-Data Control) to control Networked system under stochastic Deception Attacks find a way to obtain Minimum inter-event time (MIET)
-- [[file:Bemporad2003.org][Bemporad2003]] ::
-
-
 - [[file:BiegelEtAl2012.org][BiegelEtAl2012]] ::
 
 
@@ -64,6 +61,7 @@ done
 - [[file:Bouckaert2014.org][Bouckaert2014]] ::
 
 
+  Smart Grids and Energetic Transition. Exampls of Reunion Island
 - [[file:BourdaisEtAl2012.org][BourdaisEtAl2012]] ::
 
 
@@ -71,6 +69,7 @@ done
 - [[file:BoydEtAl2011.org][BoydEtAl2011]] ::
 
 
+  Distributed optimization using [[file:admm.org][ADMM]]
 - [[file:BoydEtAl2015.org][BoydEtAl2015]] ::
 
 
@@ -80,6 +79,7 @@ done
 - [[file:BoydVandenberghe2004.org][BoydVandenberghe2004]] ::
 
 
+  Convex Optimization Bible
 - [[file:BoyleDykstra1986.org][BoyleDykstra1986]] ::
 
 
@@ -91,6 +91,7 @@ done
 - [[file:CamachoBordons2007.org][CamachoBordons2007]] ::
 
 
+  Book on [[file:20200709101720-mpc.org][MPC]]
 - [[file:ChanfreutEtAl2018.org][ChanfreutEtAl2018]] ::
 
 
@@ -205,6 +206,9 @@ done
 - [[file:Norton1986.org][Norton1986]] ::
 
 
+  Book about system identification.
+
+  Good notes on parameter estimation.
 - [[file:OConnorVandenberghe2014.org][OConnorVandenberghe2014]] ::
 
 
@@ -217,12 +221,10 @@ done
 
 
   Framework for MAS with simulation in rural Indian micro-grid
-- [[file:RamosEtAl2021.org][RamosEtAl2021]] ::
-
-
 - [[file:Reams1999.org][Reams1999]] ::
 
 
+  Hadamard operations.
 - [[file:RichardsHow2006.org][RichardsHow2006]] ::
 
 
@@ -231,9 +233,6 @@ done
 
 
   Use of separable metric structures to distributed nonlinear control
-- [[file:SimonEtAl2012.org][SimonEtAl2012]] ::
-
-
 - [[file:SujilKumar2017.org][SujilKumar2017]] ::
 
 
@@ -274,9 +273,6 @@ done
 
 
   [[file:20200716170854-stochastic_control.org][Stochastic]] [[file:20200709101933-dmpc.org][dMPC]] with defense against [[file:20200722151834-denial_of_service_attacks.org][DoS]] Attacks
-- [[file:YildrimEtAl2020.org][YildrimEtAl2020]] ::
-
-
 - [[file:YimEtAl2012.org][YimEtAl2012]] ::
 
 

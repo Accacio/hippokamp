@@ -18,6 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
+Hadamard operations.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

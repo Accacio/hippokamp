@@ -18,6 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
+Convex Optimization Bible
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

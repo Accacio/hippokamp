@@ -18,6 +18,9 @@
 ** CATALOG
 
 *** Motivation :springGreen:
+Book about system identification.
+
+Good notes on parameter estimation.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

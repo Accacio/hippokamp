@@ -1,19 +1,38 @@
 #+TITLE: BoydEtAl2011
 #+ROAM_KEY: cite:BoydEtAl2011
-#+ROAM_TAGS: book
+#+ROAM_TAGS: article
 
 - tag :: [[file:20200427164136-decomposition.org][Decomposition]], [[file:20200427164614-distributed_optimization.org][Distributed Optimization]]
+- keywords :: Artificial Intelligence;Machine Learning;Optimization and Control Theory;Computer Science, read
 
-* BoydEtAl2011
-:PROPERTIES:
-:NOTER_DOCUMENT: ../../docsThese/bibliography/BoydEtAl2011.pdf
-:END:
-** augmented lagrangian
+
+* Distributed optimization and statistical learning via the alternating direction method of multipliers
+  :PROPERTIES:
+  :Custom_ID: BoydEtAl2011
+  :URL: https://ieeexplore.ieee.org/document/8186925
+  :AUTHOR: Boyd, S., Parikh, N., Chu, E., Peleato, B., & Eckstein, J.
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/BoydEtAl2011.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Distributed optimization using [[file:admm.org][ADMM]]
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** augmented lagrangian
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2011.pdf::13++0.13;;annot-13-0]]
 :ID:       ../../docsThese/bibliography/BoydEtAl2011.pdf-annot-13-0
 :END:
-** consensus using map reduce
+*** consensus using map reduce
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2011.pdf::86++0.10;;annot-86-0]]
 :ID:       ../../docsThese/bibliography/BoydEtAl2011.pdf-annot-86-0
