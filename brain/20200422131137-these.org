@@ -4,6 +4,104 @@
 - tags :: [[file:20200406135143-secure_dmpc.org][Secure dMPC]], [[file:20200427105830-cybersecurity.org][Cyber-Security]]
 
 * Planning
+** Before CSI 2021
+#+BEGIN_SRC plantuml :file img/ganttTheseBeforeCSI2021.png :exports results
+printscale monthly
+<style>
+ganttDiagram {
+    task {
+        BackGroundColor lightgreen
+        LineColor LightBlue
+    }
+    milestone {
+        BackGroundColor lightblue
+        LineColor lightblue
+    }
+}
+</style>
+Project starts the 2019-11-01
+
+-- CSI --
+[CSI 2020] happens at 2020-06-03
+[CSI 2021] happens at 2021-05-17
+
+[CSI 2020] is colored in lightgreen
+
+[CSI 2021] displays on same row as [CSI 2020]
+-- Training Courses --
+[MSER] as [F1] starts at 2020-03-02
+[DSC] as [F2] starts at 2020-06-22 and ends 2020-06-26
+[Ethics] as [F3] starts at 2020-07-17
+[DDML] as [F4] starts at 2021-04-06 and ends 2021-04-09
+[L&IP] as [F5] starts at 2021-04-06 and ends 2021-04-22
+
+[F2] displays on same row as [F1]
+[F4] displays on same row as [F1]
+[F5] displays on same row as [F3]
+
+-- Teaching --
+
+[ Auto 20/21 ] as [V1] starts 2020-09-16 and ends 2020-10-16
+[ µGrid 20/21] as [V2] starts 2021-03-16 and ends 2021-4-06
+[ MPC 20/21] as [V3] starts 2021-04-21 and ends 2021-5-26
+[V3] is 50% completed
+
+-- Research --
+[First running example] as [Ex1] happens at 2019-12-01
+[Ex1] is colored in lightgreen
+[N-agents | Eq. Constraints] as [Ex2] happens at 2020-10-01
+[Ex2] is colored in lightgreen
+[Ex2] displays on same row as [Ex1]
+
+[Exploration | Identify steps] as [T1] starts at 2020-02-01 and lasts 30 days
+[Detection] as [T11] starts after [T1]'s end and lasts 15 days
+[Isolation] as [T12] starts after [T11]'s end and lasts 15 days
+[Recovery] as [T13] starts after [T12]'s end and lasts 20 days
+
+[Parameter Identification] as [SE] starts 2020-06-01 and lasts 30 days
+[Recovery Alg.] as [SR] starts 2020-08-01 and lasts 30 days
+
+[Projection] starts at 2021-01-15 and ends at 2021-02-16
+
+[Alg. Robust.] as [S1] starts 2021-04-18 and lasts 30 days
+[S1]  displays on same row as [SR]
+[S1] is 20% completed
+
+[Rework Article CDC] starts at 2020-10-15 and lasts 15 days
+[Rework Article ECC] starts at 2021-02-15 and lasts 15 days
+[Rework Article ECC] displays on same row as [Rework Article CDC]
+
+[CDC 2020 (writing)] as [CDC20W] starts at 2020-02-15 and ends 2020-03-17
+[CDC 2020] as [CDC20] happens at [CDC20W]'s end
+
+[ECC 2021 (writing)] as [ECC21W] starts at 2020-10-25 and ends 2020-11-25
+[ECC 2021] as [ECC21] happens at [ECC21W]'s end
+
+[Systol 2021 (writing)] as [A1W] starts at 2021-03-18 and ends 2021-05-17
+[Systol 2021] as [A1] happens at [A1W]'s end
+[A1W] is 100% completed
+
+[CDC20] is colored in red
+[ECC 2021] is colored in red
+[Systol 2021] is colored in lightblue
+
+[ECC21W] displays on same row as [CDC20W]
+[A1W] displays on same row as [ECC21W]
+[ECC 2021] displays on same row as [CDC 2020]
+[Systol 2021] displays on same row as [ECC 2021]
+
+[ Bibliography ] as [B1] starts at 2019-11-01 and ends 2021-05-17
+[B1] is 50% completed
+[B1] links to [[https://gitlab.com/Accacio/docsthese/raw/master/bibliography.bib]]
+
+[Documentation (code + text)] as [Doc1] starts at 2020-01-01 and ends 2021-05-17
+[Doc1] is 42% completed
+#+END_SRC
+
+#+RESULTS:
+[[file:img/ganttTheseBeforeCSI2021.png]]
+
+** Complete
 #+BEGIN_SRC plantuml :file img/ganttThese.png :exports results
 printscale monthly
 <style>
@@ -22,17 +120,30 @@ Project starts the 2019-11-01
 today is 30 days after start and is colored in #AAF
 -- CSI --
 [CSI 2020] happens at 2020-06-03
-[CSI 2021] happens at 2021-05-23
-[CSI 2022] happens at 2022-05-03
+[CSI 2021] happens at 2021-05-17
 
 [CSI 2020] is colored in lightgreen
 
--- Formations --
+[CSI 2021] displays on same row as [CSI 2020]
+
+-- Training Courses --
 [MSER] as [F1] starts at 2020-03-02
 [DSC] as [F2] starts at 2020-06-22 and ends 2020-06-26
 [Ethics] as [F3] starts at 2020-07-17
 [DDML] as [F4] starts at 2021-04-06 and ends 2021-04-09
 [L&IP] as [F5] starts at 2021-04-06 and ends 2021-04-22
+
+[FS1] starts at 2021-09-06 and ends 2021-09-22
+[FS2] starts at 2022-01-06 and ends 2022-01-22
+
+[FS1] is 0% completed
+[FS2] is 0% completed
+
+[CD1] starts at 2021-11-06 and ends 2021-11-22
+[CD2] starts at 2022-04-06 and ends 2022-04-22
+
+[CD1] is 0% completed
+[CD2] is 0% completed
 
 [F1] is 100% completed
 [F2] is 100% completed
@@ -44,23 +155,33 @@ today is 30 days after start and is colored in #AAF
 [F4] displays on same row as [F1]
 [F5] displays on same row as [F3]
 
+[FS1] displays on same row as [F1]
+[FS2] displays on same row as [FS1]
+[CD1] displays on same row as [F3]
+[CD2] displays on same row as [CD1]
 
 -- Teaching --
 [ Auto 20/21 ] as [V1] starts 2020-09-16 and ends 2020-10-16
 [ µGrid 20/21] as [V2] starts 2021-03-16 and ends 2021-4-06
-[ MPC 20/21] as [V3] starts 2021-04-21 and ends 2021-5-19
+[ MPC 20/21] as [V3] starts 2021-04-21 and ends 2021-5-26
+
 [ Auto 21/22] as [V4] starts 2021-09-16 and ends 2021-10-16
+[ µGrid 21/22] as [V5] starts 2022-03-16 and ends 2022-4-06
+[ MPC 21/22] as [V6] starts 2022-04-21 and ends 2022-5-26
 
 [V2] is 100% completed
 [V3] is 50% completed
 [V4] is 0% completed
+[V5] is 0% completed
+[V6] is 0% completed
 
 
 [V2] displays on same row as [V1]
-'[V3] displays on same row as [V2]
 [V4] displays on same row as [V1]
+[V5] displays on same row as [V2]
+[V6] displays on same row as [V3]
 
--- Thesis --
+-- Research --
 
 [First running example] as [Ex1] happens at 2019-12-01
 [Ex1] is colored in lightgreen
@@ -68,99 +189,62 @@ today is 30 days after start and is colored in #AAF
 [Ex2] is colored in lightgreen
 [Ex2] displays on same row as [Ex1]
 
-[N-agents | Ineq. Constraints] as [Ex3] happens at 2021-06-01
+[N-agents | Ineq. Constraints] as [Ex3] happens at 2021-09-01
 [Ex3] displays on same row as [Ex2]
 
 
-[Identification of steps] as [T1] starts at 2020-02-01 and lasts 30 days
+[Exploration | Identify steps] as [T1] starts at 2020-02-01 and lasts 30 days
 [Detection] as [T11] starts after [T1]'s end and lasts 15 days
 [Isolation] as [T12] starts after [T11]'s end and lasts 15 days
-[Recovery] as [T13] starts after [T12]'s end and lasts 15 days
+[Recovery] as [T13] starts after [T12]'s end and lasts 20 days
 
-[Project. halfspaces/hyperplanes] starts at 2021-01-15 and ends at 2021-02-16
+[Parameter Identification] as [SE] starts 2020-06-01 and lasts 30 days
+[Recovery Alg.] as [SR] starts 2020-08-01 and lasts 30 days
 
+[Projection] starts at 2021-01-15 and ends at 2021-02-16
 
-[Dectection] as [T1] starts at 2020-02-01 and lasts 30 days
+'[Projection] displays on same row as [SR]
 
-/'
- ' [Detection (S2)] as [D2] starts at 2020-07-07 and lasts 40 days
- ' [Isolation (S2)] as [I2] starts after [D2]'s end and lasts 30 days
- ' [Recovery (S2)] as [R2] starts after [I2]'s end and lasts 25 days
- '
- ' [Propagation of Est. Error ] as [D3] starts 32 weeks after [D2]'s end with white bold link and lasts 30 days
- ' [Isolation (S3)] as [I3] starts after [D3]'s end and lasts 30 days
- ' [Recovery (S3)] as [R3] starts after [I3]'s end and lasts 25 days
- '
- '
- ' [D3] is 0% completed
- ' [I3] is 0% completed
- ' [R3] is 0% completed
- '
- ' [Detection (S4)] as [D4] starts 18 weeks after [D3]'s end with white bold link and lasts 30 days
- ' [Isolation (S4)] as [I4] starts after [D4]'s end and lasts 30 days
- ' [Recovery (S4)] as [R4] starts after [I4]'s end and lasts 25 days
- '
- ' [D4] is 0% completed
- ' [I4] is 0% completed
- ' [R4] is 0% completed
- '
- ' [Detection (S5)] as [D5] starts 18 weeks after [D4]'s end with white bold link and lasts 30 days
- ' [Isolation (S5)] as [I5] starts after [D5]'s end and lasts 30 days
- ' [Recovery (S5)] as [R5] starts after [I5]'s end and lasts 25 days
- '
- ' [D5] is colored in Lavender/LightBlue
- ' [I5] is colored in Lavender/LightBlue
- ' [R5] is colored in Lavender/LightBlue
- '
- ' [D5] is 0% completed
- ' [I5] is 0% completed
- ' [R5] is 0% completed
- '/
+[Identify piecewise-linear] as [SHYB] starts 2021-05-17 and lasts 45 days
+[SHYB] is 0% completed
+[SHYB] displays on same row as [Projection]
 
-/'
- ' [T1] displays on same row as [D2]
- '/
-/'
- ' [T11] displays on same row as [I2]
- ' [T12] displays on same row as [I2]
- ' [T13] displays on same row as [R2]
- '/
+[Alg. Robust.] as [S1] starts 2021-04-18 and lasts 30 days
+[S1]  displays on same row as [SR]
+[S1] is 20% completed
 
-/'
- ' [D3] displays on same row as [D2]
- ' [I3] displays on same row as [I2]
- ' [R3] displays on same row as [R2]
- '
- ' [D4] displays on same row as [D2]
- ' [I4] displays on same row as [I2]
- ' [R4] displays on same row as [R2]
- '
- ' [D5] displays on same row as [D2]
- ' [I5] displays on same row as [I2]
- ' [R5] displays on same row as [R2]
- '/
+[Adap. Recov. Algo] as [ARA] starts 2021-07-30 and lasts 45 days
+[ARA] is 0% completed
+[ARA] displays on same row as [S1]
 
+[Study Path 1] as [SP1] starts 2021-11-01 and lasts 150 days
+[SP1] is 0% completed
 
-/'
- ' -- Writing --
- '/
+[Rework Article CDC] starts at 2020-10-15 and lasts 15 days
+[Rework Article ECC] starts at 2021-02-15 and lasts 15 days
+[Rework Article ECC] displays on same row as [Rework Article CDC]
+
 [CDC 2020 (writing)] as [CDC20W] starts at 2020-02-15 and ends 2020-03-17
 [CDC 2020] as [CDC20] happens at [CDC20W]'s end
 
 [ECC 2021 (writing)] as [ECC21W] starts at 2020-10-25 and ends 2020-11-25
 [ECC 2021] as [ECC21] happens at [ECC21W]'s end
 
-[Systol 2021 (writing)] as [A1W] starts at 2021-03-18 and ends 2021-05-03
+[Systol 2021 (writing)] as [A1W] starts at 2021-03-18 and ends 2021-05-17
 [Systol 2021] as [A1] happens at [A1W]'s end
-[A1W] is 80% completed
+[A1W] is 100% completed
 
 
-[Article 2] as [A2] happens at 2021-09-01
-[Article 3] as [A3] happens at 2022-01-01
-[Article 4] as [A4] happens at 2022-06-01
+[Article 2 (writing)] as [A2W] starts at 2021-09-15 and lasts 30 days
+[Article 2] as [A2] happens at [A2W]'s end
+[A2W] is 0% completed
+
+[Article 3 (writing)] as [A3W] starts at 2022-03-15 and lasts 60 days
+[Article 3] as [A3] happens at [A3W]'s end
+[A3W] is 0% completed
+
 [A2] displays on same row as [A1]
 [A3] displays on same row as [A2]
-[A4] displays on same row as [A3]
 
 /'
  ' colors
@@ -174,13 +258,16 @@ today is 30 days after start and is colored in #AAF
 [ECC 2021] displays on same row as [CDC 2020]
 [Systol 2021] displays on same row as [ECC 2021]
 
+[A2W] displays on same row as [ECC21W]
+[A3W] displays on same row as [A2W]
+
 [Thesis writing] as [W1] starts at 2022-02-25 and lasts 180 days
 [Presentation] as [W2] starts at 2022-08-30 and lasts 90 days
 [W1] is 0% completed
 [W2] is 0% completed
 
 [ Bibliography ] as [B1] starts at 2019-11-01 and ends 2022-07-31
-[B1] is 40% completed
+[B1] is 50% completed
 [B1] links to [[https://gitlab.com/Accacio/docsthese/raw/master/bibliography.bib]]
 
 [Documentation (code + text)] as [Doc1] starts at 2020-01-01 and ends 2022-11-30
@@ -190,21 +277,104 @@ today is 30 days after start and is colored in #AAF
 #+RESULTS:
 [[file:img/ganttThese.png]]
 
+** After CSI 2021
+#+BEGIN_SRC plantuml :file img/ganttTheseAfterCSI2021.png :exports results
+printscale monthly
+<style>
+ganttDiagram {
+    task {
+        BackGroundColor lightgreen
+        LineColor LightBlue
+    }
+    milestone {
+        BackGroundColor lightblue
+        LineColor lightblue
+    }
+}
+</style>
 
-* [[file:20210225163129-csi.org][CSI]]
-#+begin_src bash :results drawer :exports results
-for i in {2020..2022}; do
-    echo - [[file:~/docsThese/docs/org/slideCSI-$i.org][$i]]
-done
+Project starts the 2021-05-16
+
+-- CSI --
+[CSI 2021] happens at 2021-05-17
+
+-- Training Courses --
+[FS1] starts at 2021-09-06 and ends 2021-09-22
+[FS2] starts at 2022-01-06 and ends 2022-01-22
+
+[FS1] is 0% completed
+[FS2] is 0% completed
+
+[CD1] starts at 2021-11-06 and ends 2021-11-22
+[CD2] starts at 2022-04-06 and ends 2022-04-22
+
+[CD1] is 0% completed
+[CD2] is 0% completed
+
+[FS2] displays on same row as [FS1]
+[CD2] displays on same row as [CD1]
+
+-- Teaching --
+[ µGrid 21/22] as [V5] starts 2022-03-16 and ends 2022-4-06
+[ MPC 20/21] as [V3] starts 2021-04-21 and ends 2021-5-26
+[ Auto 21/22] as [V4] starts 2021-09-16 and ends 2021-10-16
+[ MPC 21/22] as [V6] starts 2022-04-21 and ends 2022-5-26
+
+[V3] is 50% completed
+[V4] is 0% completed
+[V5] is 0% completed
+[V6] is 0% completed
+
+[V4] displays on same row as [V5]
+[V6] displays on same row as [V3]
+
+-- Research --
+[N-agents | Ineq. Constraints] as [Ex3] happens at 2021-09-01
+
+[Alg. Robust.] as [S1] starts 2021-04-18 and lasts 30 days
+[S1] is 20% completed
+
+[Identify piecewise-linear] as [SHYB] starts 2021-05-17 and lasts 45 days
+[SHYB] is 0% completed
+
+[Adap. Recov. Algo] as [ARA] starts 2021-07-30 and lasts 45 days
+[ARA] is 0% completed
+[ARA] displays on same row as [S1]
+
+[Study Path 1] as [SP1] starts 2021-11-01 and lasts 150 days
+[SP1] is 0% completed
+
+
+[Article 2 (writing)] as [A2W] starts at 2021-09-15 and lasts 30 days
+[Article 2] as [A2] happens at [A2W]'s end
+[A2W] is 0% completed
+
+
+[Article 3 (writing)] as [A3W] starts at 2022-03-15 and lasts 60 days
+[Article 3] as [A3] happens at [A3W]'s end
+[A3W] is 0% completed
+
+[A3] displays on same row as [A2]
+[A3W] displays on same row as [A2W]
+
+
+[Thesis writing] as [W1] starts at 2022-02-25 and lasts 180 days
+[Presentation] as [W2] starts at 2022-08-30 and lasts 90 days
+[W1] is 0% completed
+[W2] is 0% completed
+
+[ Bibliography ] as [B1] starts at 2019-11-01 and ends 2022-07-31
+[B1] is 50% completed
+[B1] links to [[https://gitlab.com/Accacio/docsthese/raw/master/bibliography.bib]]
+[Documentation (code + text)] as [Doc1] starts at 2020-01-01 and ends 2022-11-30
+[Doc1] is 42% completed
+
 #+end_src
 
 #+RESULTS:
-:results:
-- [[file:~/docsThese/docs/org/slideCSI-2020.org][2020]]
-- [[file:~/docsThese/docs/org/slideCSI-2021.org][2021]]
-- [[file:~/docsThese/docs/org/slideCSI-2022.org][2022]]
-:end:
+[[file:img/ganttTheseAfterCSI2021.png]]
 
+* [[file:20210225163129-csi.org][CSI]]
 * Problems normally found
 - Negotiation
   + Projection
@@ -262,7 +432,9 @@ awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressio
 - $\|T-\hat T\|\leq\epsilon$
 - $\kappa(\hat T)=f(\kappa(T),\epsilon)$
 ** [[file:daily/2021-03-30.org::*porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?][porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?]]
+
 * Documents
 file:~/these/DocAdm/
+
 * Defense
 - Open questions
