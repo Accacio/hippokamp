@@ -107,26 +107,66 @@ Solange
 - Maria Theresa
 * UFRJ
 ** 1° Período
-- [[https://folk.uib.no/dpi081/][Didier Jacques François Pilod]]
 - [[http://www.im.ufrj.br/index.php/pt/pessoal/docentes/docentes/185-luiz-carlos-guimaraes][Luiz Carlos Guimarães]]
-- [[www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
 - Cláudio Esperança
+- [[https://folk.uib.no/dpi081/][Didier Jacques François Pilod]]
 - [[http://darnassus.if.ufrj.br/~vanhecke/][Franciscus Jozef VANHECKE]]
+- Victor de Barros Brasil
+- [[www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
+- Lucidalva dos Santos Pinheiro
 ** 2° Período
+- Jose Arthur da Rocha
 - [[http://im.ufrj.br/~epmoura/][Eleonora Pinto de Moura]]
-- [[https://www.if.ufrj.br/docentes/ribamar-rondon-de-rezende-dos-reis/][Ribamar Rondon de Rezende dos Reis]]
 - [[darnassus.if.ufrj.br/~beatriz/][Beatriz Bianco Siffert]]
+- [[https://www.if.ufrj.br/docentes/ribamar-rondon-de-rezende-dos-reis/][Ribamar Rondon de Rezende dos Reis]]
+- Sérgio Barbosa Villas Boas \dag
+- Gisele Silva Barbosa
 ** 3° Período
 - [[http://www.im.ufrj.br/index.php/pt/?option=com_content&view=article&id=83&Itemid=195][Anatoli Leontiev]]
+- Raimundo Rocha dos Santos
+- FisExp III ???
+- Lógica Matemática ??
+- Natasha de Paula Amador da Costa
 - [[http://www.coep.ufrj.br/~jacoud/][Alessandro Peixoto Jacoud]]
 ** 4°
-- Liu Hsu
+- Jose Paulo Brafman
+- Walter Issamu Suemitsu
+- Carlos Julio Tierra Ciollo
 - [[https://www.if.ufrj.br/docentes/malena-osorio-hor-meyll/][Malena Osório Hor-Meyll]]
+- Marcello Barbosa da Silva Neto
+- [[www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
+** 4°.3
+- Luiz Eduardo Azambuja Sauerbronn
 ** 5°
-- Ricardo Musafir
-** 6
+- Markus Vinicius Santos Lima
+- Ricardo Eduardo Musafir
+- Felipe Gomes de Oliveira Cabral
+- Frederico Caetano Jandre de Assis Tavares
+- Liu Hsu
+- Sérgio Exel Gonçalves
+- Tp Esp Hist da Eng (Materia da Elaine)
+- Matéria de alemão
+** 6°
+- Ofélia de Queiroz Fernandes Araujo
+- Fernando Cesar Lizarralde
+- Rafael Consentino de la Vega
+- Jose Luiz da Silva Neto
+- Carlos Augusto Guimarães Perlingeiro \dag
+- [[www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
+- Lab Eletronica ? (Coloc do Paulo Yamasaki)
+** 7°
+- Marcos Vicente de Brito Moreira
+- [[http://www.coep.ufrj.br/~jacoud/][Alessandro Peixoto Jacoud]]
+- Mauricio Cagy
+- Jose Eduardo Pessoa de Andrade
+- Samuel Jurkiewicz
+- otto carlos muniz bandeira duarte
+- Marcelo Martins Werneck
+** 8°
+- Rossana Odette Mattos Folly
+- Gustavo da Silva Viana
 
-* Supélec
+* CentraleSupélec
 ** ISA
 - Hervé Guéguen
 - Romain Bourdais
