@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-+ Simulation environment of multi-agent system embedded into industry standard
+Simulation environment of multi-agent system embedded into industry standard
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

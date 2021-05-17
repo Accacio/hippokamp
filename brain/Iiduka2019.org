@@ -1,6 +1,6 @@
 #+TITLE: Iiduka2019: Distributed optimization for network resource allocation with nonsmooth utility functions
 #+ROAM_KEY: cite:Iiduka2019
-#+ROAM_TAGS: article
+#+ROAM_TAGS: reading article
 
 - tags :: [[file:20200427164614-distributed_optimization.org][Distributed Optimization]]
 - keywords ::
@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Distributed optimal resource allocation
+Distributed optimal resource allocation
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

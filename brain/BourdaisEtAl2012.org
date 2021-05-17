@@ -17,7 +17,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Distributed MPC (Dual Decomposition) for continuous systems controlled using discrete inputs
+Distributed MPC (Dual Decomposition) for continuous systems controlled using discrete inputs
 *** Model :lightSkyblue:
 - [[file:20200716170441-linear_system.org][Linear]] [[file:20200504113008-discrete_time_systems.org][Discrete-time System]] décomposable
 *** Remarks

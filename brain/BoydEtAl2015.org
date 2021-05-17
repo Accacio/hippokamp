@@ -12,7 +12,9 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Dual, Primal and decomposition methods
+Notes on dual and primal decomposition methods.
+
+Good Source for decomposing problems with complicatings constraints
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

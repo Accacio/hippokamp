@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Show vulnerabilites in a dMPC structure using Jacobi-Gauss decomposition
+Show vulnerabilites in a dMPC structure using Jacobi-Gauss decomposition
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

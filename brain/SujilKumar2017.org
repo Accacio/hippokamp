@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-+ Multi-agent based system simulated in the presence of different events
+Multi-agent based system simulated in the presence of different events
 *** Model :lightSkyblue:
 Multi agents that exchange information among them
 - Short-term Renewable energy source forecast

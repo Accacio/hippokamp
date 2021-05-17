@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-+ Impact of topology, decision order, and information distribution to agent decisions
+Impact of topology, decision order, and information distribution to agent decisions and consequently on the consensus.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

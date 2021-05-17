@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Resilient dMPC under Attack using Bayesian Inference
+Resilient [[file:20200709101933-dmpc.org][DMPC]] under Attack using [[file:20200813155010-bayesian_inference.org][Bayesian Inference]]
 *** Model :lightSkyblue:
 - undirected graph $S=(\mathcal{N}, \mathcal{E})$, neighborhood $\mathcal{N}_{i}=\{j:(i, j) \in \mathcal{E}\}$
 - [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200716170441-linear_system.org][Linear Systems]]
@@ -42,7 +42,7 @@ Resilient dMPC under Attack using Bayesian Inference
 
 *** resilient distributed method
 :PROPERTIES:
-:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::1++0.00;;annot-1-4]]
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/inandutaEtAl2020.pdf::1++0.00;;annot-1-4]]
 :ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-1-4
 :END:
 

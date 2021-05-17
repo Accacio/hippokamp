@@ -11,7 +11,7 @@
 
 ** CATALOG
 *** Motivation
-- Resilient consensus in the presence of misbehaving nodes
+Resilient consensus in the presence of misbehaving nodes. Resilience is achieved by ignoring the extreme values
 *** Model
 *** Remarks
 *** Applications

@@ -18,8 +18,9 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Resilient MPC with resource allocation to deal with replay attacks
-- (A,B) Stabilizable
+Resilient MPC with resource allocation to deal with replay attacks
+
+(A,B) Stabilizable
 *** Model :lightSkyblue:
 - [[file:20200504113008-discrete_time_systems.org][Discrete-time ]][[file:20200716170441-linear_system.org][Linear System]]
 - Replay attacker between Control and Actuator

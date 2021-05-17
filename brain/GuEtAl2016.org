@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Example microgrid system with a multi-agent system
+Example microgrid system with a multi-agent system with fault protection using current values.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

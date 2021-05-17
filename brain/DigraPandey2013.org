@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-+ Multi-agent based controller coordination of microgrid with critical loads under  normal, faulty and overload conditions.
+Multi-agent based controller coordination of microgrid with critical loads under  normal, faulty and overload conditions.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

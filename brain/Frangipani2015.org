@@ -12,7 +12,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Localização submarina utilizando uma única referência acústica via filtro UKF
+This article uses Unscented Kalman Filter (UKF) to localize a submarine using one acoustic reference.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

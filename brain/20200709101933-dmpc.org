@@ -1,5 +1,5 @@
 #+title: Distributed Model Predictive Control
-#+ROAM_ALIAS: dMPC
+#+ROAM_ALIAS: DMPC
 - tags :: [[file:20200709101720-mpc.org][MPC]]
 
 

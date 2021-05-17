@@ -18,6 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
+This article proposes a fast procedure to compute distance between complex objects. Great use of Minkowski sum.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

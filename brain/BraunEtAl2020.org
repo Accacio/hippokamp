@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Identify attack using evolution of coupling variables
+Identify attack using evolution of coupling variables
 *** Model :lihgSkyblue:
 - [[file:20200713170428-distributed_control.org][Distributed]] [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200717152401-non_linear_systems.org][Nonlinear Systems]] interacting coupled by constraints.
 

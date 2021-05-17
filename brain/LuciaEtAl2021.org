@@ -1,6 +1,6 @@
 #+TITLE: LuciaEtAl2021
 #+ROAM_KEY: cite:LuciaEtAl2021
-#+ROAM_TAGS: article
+#+ROAM_TAGS: reading article
 
 - tags :: [[file:20200722151944-attacks.org][Attacks]]
 - keywords ::

@@ -11,7 +11,7 @@
 
 ** CATALOG
 *** Motivation :springgreen:
-- Consensus of second order sampled-data in presence of misbehaving agents
+Consensus of second order sampled-data in presence of misbehaving agents. This article uses a modified Mean subsequence Reduced (MSR) algorithm, where $f$ greatest and $f$ smallest values are ignored.
 *** Model :lightbluesky:
 - [[file:20200713170428-distributed_control.org][Distributed Control]]
 - $g=(\mathcal{V},\mathcal{E})$, $n$ agents $g=(\mathcal{V}, \mathcal{E})$, $\mathcal{V}=\{1, \ldots, n\}$, $\mathcal{E} \subseteq \mathcal{V} \times \mathcal{V}$, $(j, i) \in \mathcal{E}$, $\varepsilon=\mathcal{V} \times \mathcal{V}$,

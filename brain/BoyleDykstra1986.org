@@ -19,7 +19,7 @@ pag 37
 ** CATALOG
 
 *** Motivation :springGreen:
-+ Project into intersection of convex set using projection to simpler regions
+Project into intersection of convex set using projection to simpler regions
 *** Model :lightSkyblue:
 - H is real Hilbert Space 
 *** Remarks

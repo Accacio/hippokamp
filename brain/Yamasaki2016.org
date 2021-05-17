@@ -10,7 +10,7 @@
 
 ** Catalog
 *** Motivation
-- Adaptive robust altitude control scheme based on a smooth sliding mode controller
+Adaptive robust altitude control scheme based on a smooth sliding mode controller
 *** Model
 *** Remarks
 *** Applications

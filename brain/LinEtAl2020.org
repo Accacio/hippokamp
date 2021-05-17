@@ -10,7 +10,7 @@
 :END:
 ** CATALOG
 *** Motivation :springGreen:
-- Obtain state estimation under delayed communication
+Obtain state estimation under delayed communication
 *** Model :lightSkyblue:
 - [[file:20200821165959-multichannel.org][Multichannel]] [[file:20200608100448-networked_control.org][Networked ]][[file:20200504113008-discrete_time_systems.org][Discrete-time ]][[file:20200803164930-event_based_control.org][Event-Based System]] modeleed by an automaton
 *** Remarks

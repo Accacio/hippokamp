@@ -12,7 +12,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Estimation of non-linear systems using EKF and UKF
+Estimation of non-linear systems using EKF and UKF
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

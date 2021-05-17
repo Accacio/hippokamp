@@ -13,7 +13,8 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Adaptive Control
+Adaptive Control
+Reference on [[file:20200504163253-recursive_least_squares.org][recursive least-squares]] parameter estimation.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications
@@ -24,6 +25,6 @@
 
 *** RLS
 :PROPERTIES:
-:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LandauEtAl2011.pdf::81++0.00;;annot-81-8]]
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LandauEtAl2011.pdf: :81++0.00;;annot-81-8]]
 :ID:       ../../docsThese/bibliography/LandauEtAl2011.pdf-annot-81-8
 :END:

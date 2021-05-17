@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- quantify trade-off between security and privacy
+Quantify trade-off between security and privacy
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

@@ -2,7 +2,7 @@
 #+ROAM_KEY: cite:VelardeEtAl2017
 #+ROAM_TAGS: article
 
-- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200709101933-dmpc.org][dMPC]]
+- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200709101933-dmpc.org][DMPC]]
 - keywords ::
 
 
@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Analysis of dMPC scheme under influence of malicious agents
+Analysis of dual decomposition [[FILE:20200709101933-dmpc.org][DMPC]] scheme under influence of malicious agents. It presents different types of attacks.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

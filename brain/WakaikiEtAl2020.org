@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-[[file:20200504113017-stability.org][stability]] on NCS with [[file:20200722151834-denial_of_service_attacks.org][DoS]] and quantization noise using observer-based controller
+[[File:20200504113017-stability.org][stability]] on NCS with [[file:20200722151834-denial_of_service_attacks.org][DoS]] and quantization noise using observer-based controller
 *** Model :lightSkyblue:
 - [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200716170441-linear_system.org][Linear System]] with quantization noise in output and [[file:20200722151834-denial_of_service_attacks.org][DoS]] prone channel
 - [[file:20200806121945-smart_attacker.org][Smart Attacker]] can try to evade detection

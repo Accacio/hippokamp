@@ -11,7 +11,7 @@
 
 ** CATALOG
 *** Motivation
-- Zonotope tube created to estimate possible outcomes of the state, if it is outside the tube then that is a fault.
+Zonotope tube created to estimate possible outcomes of the state, if it is outside the tube then that is a fault.
 *** Model
 *** Remarks
 *** Applications

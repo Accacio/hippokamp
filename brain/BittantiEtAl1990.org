@@ -11,7 +11,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- Convergence of adaptive recursive least-squares algorithms
+Convergence of adaptive recursive least-squares algorithms
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-+ Use of separable metric structures to distributed nonlinear control
+Use of separable metric structures to distributed nonlinear control
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

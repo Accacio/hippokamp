@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-- New separable multiplier to nonconvex separable large-scale
+New separable (lagrange-like) multiplier to nonconvex separable large-scale problems.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

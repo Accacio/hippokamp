@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-+ Use of multiple Raspberry Pis as HIL to simulate agents
+Use of multiple Raspberry Pi as HIL to simulate agents
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

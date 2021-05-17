@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-+ Framework for MAS with simulation in rural Indian micro-grid
+Framework for MAS with simulation in rural Indian micro-grid
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications
