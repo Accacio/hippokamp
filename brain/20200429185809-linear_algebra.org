@@ -32,7 +32,9 @@ given 2 matrices $A:\mathbb{R}^{m\times n}$, $B:\mathbb{R}^{n\times p}$, their p
  $$C_{i,j}=\sum\limits_{k=1}^{n}A_{i,k}B_{k,j}$$
 
 *** <<<Induced Norm>>>
-given a vector $\vec{x}:\mathbb R^{n}$ and a norm $\|\cdot\|$ defined for $\mathbb R^{n}$, the induced norm $\|A\|$ for a matrix $A:\mathbb R^{n\times n}$ is: $$\|A\|=\mathrm{sup}\{\|A\vec{x}\|:\vec x\in\mathbb R^{n},\|\vec x\|=1\}$$
+Given a vector $\vec{x}:\mathbb R^{n}$ and a norm $\|\cdot\|$ defined for $\mathbb R^{n}$, the induced norm $\|A\|$ for a matrix $A:\mathbb R^{n\times n}$ is:
+- $$\|A\|=\mathrm{max}\{\|A\vec{x}\|:\vec x\in\mathbb R^{n},\|\vec x\|=1\}$$
+- $$\|A\|=\mathrm{sup}\{\frac{\|A\vec{x}\|}{\|\vec{x}\|}:\vec x\in\mathbb R^{n},\vec{x}\neq0\}$$
 
 *** Hadamard product
 - or Schur product
@@ -49,6 +51,13 @@ $e^{\circ A}= (e^{a_{ij}})$
 
 ** Vectors
 *** <<<Norm>>>
+Given $\vec{x}:\mathbb R^{n}$ and $\vec{y}:\mathbb R^{n}$, and a absolute function $|\cdot|$ for scalars.
+A norm $\|\cdot\|$ defined for $\mathbb{R}^{n}$ is such:
+- $\|\vec{x}+\vec{y}\|\leq\|\vec{x}\|+\|\vec{y}\|$
+- $\|\alpha\vec{x}\|=|\alpha|\|\vec{x}\|$
+- $\|\vec{x}\|=0 \leftrightarrow \vec{x}=0$
+
+  Usually norms are used to compute distances, since they are non-negative. See [[file:20210413114122-voronoi_diagram.org][Voronoi diagram]]
 
 * Identities
 - $(\Gamma H \Gamma^T)^T=\Gamma H \Gamma^T$ if $H^T=H$
@@ -67,3 +76,8 @@ Given a n square matrix $A$, and its eigenvalues $\lambda$, its spectral radius 
 
 *** Conditioning
 Given $A:\mathbb R^{n\times n}$ invertible, a norm $\|\cdot\|$ defined for $\mathbb R^{n}$ and a induced norm $\|\cdot\|$ for $\mathbb R^{n\times n}$. The conditioning of a matrix is given by: $$\kappa(A)=\|A\|\|A^{-1}\|$$
+** Induced Norm
+- $\|Ax\|\leq\|A\|\|x\|$
+- $\|A+B\|\leq\|A\|+\|B\|$
+- $\|AB\|\leq\|A\|\|B\|$
+- $\|\alpha A\|=|\alpha|\|A\|$
