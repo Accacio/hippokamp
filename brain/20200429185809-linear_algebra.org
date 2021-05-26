@@ -40,8 +40,12 @@ Given a vector $\vec{x}:\mathbb R^{n}$ and a norm $\|\cdot\|$ defined for $\math
 - or Schur product
 
 $(A\circ B)_{ij}=(a_{ij}b_{ij})$
-Element-wise multiplication =.*=
+Element-wise multiplication =.*= =times= in MATLAB/octave
 
+*** Hadamard division
+
+$(A\oslash B)_{ij}=(a_{ij}/b_{ij})$
+Element-wise division =./= =rdivide= in MATLAB/octave
 *** Hadamard root
 *** Hadamard inverse
 $A^{\circ(-1)}= ({1\over a_{ij}})$
