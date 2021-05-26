@@ -191,6 +191,7 @@ done
 - [[file:LuciaEtAl2021.org][LuciaEtAl2021]] ::
 
 
+  Use 2 [[file:20210526102541-command_governor.org][Command Governor]]s  in order to detect setpoint attack. If attacker has complete information about system, attack is still possible. In order to counteract [[file:20210526111126-watermarking.org][watermarking]] is used
 - [[file:LuYang2020.org][LuYang2020]] ::
 
 

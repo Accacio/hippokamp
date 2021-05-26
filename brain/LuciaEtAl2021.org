@@ -18,6 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
+Use 2 [[file:20210526102541-command_governor.org][Command Governor]]s  in order to detect setpoint attack. If attacker has complete information about system, attack is still possible. In order to counteract [[file:20210526111126-watermarking.org][watermarking]] is used
 *** Model :lightSkyblue:
 - linear system
 *** Remarks
@@ -72,6 +73,12 @@ expression
 :END:
  cite:PasqualettiEtAl2013, cite:FortiEtAl2016
 
+*** closed-loop (<<<CL>>>)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::1++6.63;;annot-1-15]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-15
+:END:
+
 *** superimposed cryptographically secure pseudorandom signals,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++0.83;;annot-2-1]]
@@ -121,13 +128,32 @@ attacker prevents from reaching asymptotical tracking
 :END:
 attacker remains undetected
 
+*** A. Problem Formulation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++5.00;;annot-2-9]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-9
+:END:
+maybe it is interesting to have such subsection
+
+*** Detection of attacks on the setpoint signal:
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++5.00;;annot-2-10]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-10
+:END:
+problem formulation in one sentence
+*** the CG is a nonlinear device which adds a further control loop on top of CL system
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++7.50;;annot-2-12]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-12
+:END:
+
+
 *** Attack with full-model knowledge
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++8.69;;annot-2-3]]
 :ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-3
 :END:
 attacker has perfect knowledge of model
-
 *** Attack with disclosure and disruptive resources
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++8.69;;annot-2-4]]
@@ -135,6 +161,44 @@ attacker has perfect knowledge of model
 :END:
 - disclosure \to read the data packets
 - disruptive \to attacker violate integrity
+*** main challenge in detecting cyber attacks on the reference signal r(t) is represented by the absence of a priori information on the setpoint r(t).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::2++8.81;;annot-2-11]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-2-11
+:END:
+we need a priori information to detect attacks!
+
+*** A. [[file:20210526102541-command_governor.org][Command Governor]] (<<<CG>>>)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::3++6.95;;annot-3-0]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-3-0
+:END:
+Interesting kind of command
+It creates a feasible reference ($g(t)$) based on the set of feasible commands
+
+$$g(t)=\mathrm{arg} \underset{\omega\in\mathcal{V}(x(t))}{min.} \|\omega-r(t)\|^2$$
+
+*** Proposition 1: Let us assume that the CG 1 and CG 2 are identi- cally designed according to (6)–(11). Then, in absence of attacks, the followings hold true.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::3++7.88;;annot-3-1]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-3-1
+:END:
+proposition to observe what happens in a attack-free system, this will be useful to
+[[file:20200504111344-fault_detection.org][fault detection]]
+
+*** we can design the following detection module
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::4++6.32;;annot-4-0]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-4-0
+:END:
+create a detection module based on propositions
+
+*** Therefore, the detection rule (15) is valid not only for the assumed disturbance-free model (6). Indeed, despite any possible plant/sensors disturbances/noises, both CGs will always solve the same optimization problem (12) and (13) with the same noisy signals.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::4++6.32;;annot-4-1]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-4-1
+:END:
+no noise added, both solve same noisy optimization
 
 *** survey as initial reference
 :PROPERTIES:
@@ -148,3 +212,45 @@ attacker has perfect knowledge of model
 :ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-1-12
 :END:
 strange to use this
+
+*** D. Attack Objective
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::4++7.57;;annot-4-2]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-4-2
+:END:
+well characterize attack objective
+
+*** [12]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::5++0.00;;annot-5-2]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-5-2
+:END:
+watermarking reference
+cite:KshetriVoas2017
+
+*** Indeed, if only the PRV procedure is used to generate a random setpoint in Fig. 1, then there is no way to distinguish between a genuine and a corrupted setpoint.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::5++5.38;;annot-5-4]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-5-4
+:END:
+CG is important to detect corrupted setpoint
+
+*** where $\oslash$ denotes the Hadamard vector division.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::5++7.19;;annot-5-0]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-5-0
+:END:
+
+*** is to super- impose on top of the transmitted data (x(t), g 1 (t)) a pseudorandom signal, (see e.g., [12], [18]).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::5++7.19;;annot-5-1]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-5-1
+:END:
+this is a signature on the signal (watermarking)
+
+*** −−−−PseudorandomVectors(PRV )algorithm −−−− −
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::5++7.26;;annot-5-3]]
+:ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-5-3
+:END:
+signals are pre-multiplied by pseudorandom vectors

@@ -1,0 +1,6 @@
+#+title: Command Governor
+- tags :: [[file:20200504164021-control.org][Control]]
+
+It creates a feasible reference ($g(t)$) based on the set of feasible commands
+
+$$g(t)=\mathrm{arg} \underset{\omega\in\mathcal{V}(x(t))}{min.} \|\omega-r(t)\|^2$$
