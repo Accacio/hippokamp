@@ -14,10 +14,11 @@
 - tags :: [[file:20200422131137-these.org][These]]
 
 * Articles
-** LIRE [0/79]
+** LIRE [0/80]
 *** LENDO [#A] LuciaEtAl2021 | [[note:LuciaEtAl2021][org]] [[pdf:LuciaEtAl2021][pdf]] [[mobi:LuciaEtAl2021][mobi]] [[epub:LuciaEtAl2021][epub]]
 - State "LENDO"    from "LER"     [2021-04-29 jeu. 15:32]
 *** LENDO Iiduka2019 | [[note:Iiduka2019][org]] [[pdf:Iiduka2019][pdf]] [[mobi:Iiduka2019][mobi]] [[epub:Iiduka2019][epub]]
+*** LER KshetriVoas2017 | [[note:KshetriVoas2017][org]] [[pdf:KshetriVoas2017][pdf]] [[mobi:KshetriVoas2017][mobi]] [[epub:KshetriVoas2017][epub]]
 *** LER SimonEtAl2012 | [[note:SimonEtAl2012][org]] [[pdf:SimonEtAl2012][pdf]] [[mobi:SimonEtAl2012][mobi]] [[epub:SimonEtAl2012][epub]]
 *** LER [#A] LiuEtAl2009 | [[note:LiuEtAl2009][org]] [[pdf:LiuEtAl2009][pdf]] [[mobi:LiuEtAl2009][mobi]] [[epub:LiuEtAl2009][epub]]
 *** LER [#A] SatchidanandanKumar2017 | [[note:SatchidanandanKumar2017][org]] [[pdf:SatchidanandanKumar2017][pdf]] [[mobi:SatchidanandanKumar2017][mobi]] [[epub:SatchidanandanKumar2017][epub]]
