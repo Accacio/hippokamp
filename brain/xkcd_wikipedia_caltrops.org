@@ -1,0 +1,6 @@
+#+title: xkcd: Wikipedia Caltrops
+#+roam_key: https://xkcd.com/2467/
+
+https://xkcd.com/2467/
+
+- tags :: [[file:20210304095302-comics.org][comics]]
