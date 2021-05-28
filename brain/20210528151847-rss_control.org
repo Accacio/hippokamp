@@ -1,0 +1,22 @@
+#+title: RSS Control
+
+- tags :: [[file:20210528151832-rss.org][RSS]]
+
+
+   | url                                                                   | tags               | Name                                                                         |
+   |-----------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------|
+   | http://rss.sciencedirect.com/publication/science/01676911             | S&CL control       | ScienceDirect Publication: Systems & Control Letters                         |
+   | https://www.aimsciences.org/rss/A0000-0000_current.xml                | EE&CT control      | Evolution Equations & Control Theory                                         |
+   | https://ieeexplore.ieee.org/rss/TOC6509490.XML                        | TOCNS control      | IEEE Transaction on Control of Network Systems                               |
+   | https://ieeexplore.ieee.org/rss/TOC9.XML                              | TOAC control       | IEEE Transaction on Automatic Control                                        |
+   | https://onlinelibrary.wiley.com/feed/19346093/most-recent             | AJC control        | Wiley Asian Journal of Control                                               |
+   | https://ietresearch.onlinelibrary.wiley.com/feed/17518652/most-recent | IETCT&A control    | The Institution of Engineering and Techonology Control Theory & Applications |
+   | https://www.tandfonline.com/feed/rss/tcon20                           | T&FJOC control     | Taylor and Francis International Journal of Control                          |
+   | http://rss.sciencedirect.com/publication/science/09473580             | EJC control        | ScienceDirect Publication: European Journal of Control                       |
+   | http://rss.sciencedirect.com/publication/science/00051098             | Automatica control | ScienceDirect Publication: Automatica                                        |
+   | http://rss.sciencedirect.com/publication/science/09670661             | CEP control        | ScienceDirect Publication: Control Engineering Practice                      |
+   | http://rss.sciencedirect.com/publication/science/09591524             | JPC control        | ScienceDirect Publication: Journal of Process Control                        |
+   | http://rss.sciencedirect.com/publication/science/00190578             | ISATran control    | ScienceDirect Publication: ISA Transactions                                  |
+   | http://rss.sciencedirect.com/publication/science/1751570X             | NAHS control       | ScienceDirect Publication: Nonlinear Analysis: Hybrid Systems                |
+   | http://rss.sciencedirect.com/publication/science/00160032             | JFI control        | ScienceDirect Publication: Journal of the Franklin Institute                 |
+   | https://onlinelibrary.wiley.com/feed/10991239/most-recent             | IJRNC control      | Wiley Internation Journal of Robust and Nonlinear Control                    |
