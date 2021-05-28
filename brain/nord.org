@@ -1,0 +1,6 @@
+#+title: Nord
+#+roam_key: https://www.nordtheme.com/
+
+https://www.nordtheme.com/
+
+- tags :: [[file:20210422184049-color_palettes.org][color palettes]]
