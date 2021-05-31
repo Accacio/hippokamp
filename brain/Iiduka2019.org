@@ -1,6 +1,6 @@
 #+TITLE: Iiduka2019: Distributed optimization for network resource allocation with nonsmooth utility functions
 #+ROAM_KEY: cite:Iiduka2019
-#+ROAM_TAGS: reading article
+#+ROAM_TAGS: skimmed article
 
 - tags :: [[file:20200427164614-distributed_optimization.org][Distributed Optimization]]
 - keywords ::
@@ -18,11 +18,12 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Distributed optimal resource allocation
+Distributed optimal resource allocation. Comparison between different distributed optimization algorithms, Projected Proximal Algorithm, Projected Subgradient Algorithm and other for nonsmooth convex optimization.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications
 *** Expressions
+- This paper makes the following three contributions.
 *** References :violet:
 
 ** NOTES
@@ -42,13 +43,41 @@ Distributed optimal resource allocation
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::2++1.29;;annot-2-0]]
 :ID:       ~/docsThese/bibliography/Iiduka2019.pdf-annot-2-0
 :END:
-
+*** This paper makes the following three contributions.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::2++6.56;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/Iiduka2019.pdf-annot-2-1
+:END:
 *** private information
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::3++1.29;;annot-3-0]]
 :ID:       ~/docsThese/bibliography/Iiduka2019.pdf-annot-3-0
 :END:
 - information only user $i$ knows
+*** Since C l is a half-space, the metric projection P C l onto C l can be computed within a finite number of arithmetic operations [1, Example 28.16]. 3
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::3++1.56;;annot-3-4]]
+:ID:       ~/docsThese/bibliography/Iiduka2019.pdf-annot-3-4
+:END:
+cite:BauschkeCombettes2011
+
+Projection onto halfspace
+*** S denote the set of sources that use link l
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::3++3.20;;annot-3-2]]
+:ID:       ~/docsThese/bibliography/Iiduka2019.pdf-annot-3-2
+:END:
+*** L denote the set of links used by source s
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::3++3.20;;annot-3-3]]
+:ID:       ~/docsThese/bibliography/Iiduka2019.pdf-annot-3-3
+:END:
+*** Our GitHub repository (URL: https://github.com/ iiduka-researches/misc/blob/master/misc/matrix.py) provides the implementation in Python.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::4++0.64;;annot-4-3]]
+:ID:       ~/docsThese/bibliography/Iiduka2019.pdf-annot-4-3
+:END:
+Repository for research group
 
 *** References on proximal algorithm [3], [25]
 :PROPERTIES:
