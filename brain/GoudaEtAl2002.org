@@ -1,0 +1,28 @@
+#+TITLE: GoudaEtAl2002
+#+ROAM_KEY: cite:GoudaEtAl2002
+#+ROAM_TAGS: article
+
+- tags ::
+- keywords :: Building response, Thermal modelling, Model reduction, Optimisation
+
+
+* Building thermal model reduction using nonlinear constrained optimization
+  :PROPERTIES:
+  :Custom_ID: GoudaEtAl2002
+  :URL: http://www.sciencedirect.com/science/article/pii/S0360132301001214
+  :AUTHOR: Gouda, M., Danaher, S., & Underwood, C.
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/GoudaEtAl2002.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Here we find a lower order example of thermal modelling of rooms
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
