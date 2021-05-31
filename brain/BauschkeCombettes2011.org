@@ -1,0 +1,33 @@
+#+TITLE: BauschkeCombettes2011
+#+ROAM_KEY: cite:BauschkeCombettes2011
+#+ROAM_TAGS: skimmed book
+
+- tags ::
+- keywords ::
+
+
+* Convex analysis and monotone operator theory in hilbert spaces
+  :PROPERTIES:
+  :Custom_ID: BauschkeCombettes2011
+  :URL:
+  :AUTHOR: Bauschke, H. H., & Combettes, P. L.
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/BauschkeCombettes2011.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** 28.3  [[file:20201215140935-projection.org][Projection]] onto Special Polyhedra
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BauschkeCombettes2011.pdf::423++0.00;;annot-423-0]]
+:ID:       ../../docsThese/bibliography/BauschkeCombettes2011.pdf-annot-423-0
+:END:
