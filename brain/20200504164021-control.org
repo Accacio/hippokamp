@@ -1,6 +1,30 @@
 #+TITLE: Control
 - tags :: [[file:20200429185809-linear_algebra.org][Linear Algebra]], [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]
 
+* Definition
+#+begin_quote
+Control is the art of taking what you have and transforming it in what you want.
+#+end_quote
+
+The are at least 3 basic elements to control something:
+1. What you want to control, called plant
+2. What you want, called reference
+3. What you have, output
+
+
+For a given plant, every input you give will have a corresponding output. The control problem is to choose an input for the plant such the output is equal to the reference.
+
+#+begin_example
+A simple example is going back home: In this case you are the plant yourself!! The output is your current location and the input is to walk. The reference is your house's location. The simplest control is to walk in your house's direction.
+#+end_example
+
+
+* Inverted Pendulum
+
+#+ATTR_HTML: :alt cat/spider image :title Action! :width 150
+| *No control*                                                                                                                                                | *Swing-Up without Stabilization*                                                                                                                                               | *Swing-Up with Stabilization*                                                                                                                                               |
+| @@html:<a href="https://asciinema.org/a/375762"><img style="max-width:200px" src="https://github.com/Accacio/Accacio/raw/master/img/no_control.svg" alt="Pendulum with no control"></a>@@ | @@html:<a href="https://asciinema.org/a/375763"><img style="max-width:200px" src="https://github.com/Accacio/Accacio/raw/master/img/no_control_swingup.svg" alt="Pendulum with swing-up but no stabilization"></a>@@ | @@html:<a href="https://asciinema.org/a/375764"><img style="max-width:200px" src="https://github.com/Accacio/Accacio/raw/master/img/controlled.svg" alt="Pendulum with swing-up and stabilization"></a>@@ |
+
 * Control Loop
 #+begin_src ditaa :file img/controlLoop.png :results file :eval no-export :exports results
 
