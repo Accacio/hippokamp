@@ -1,7 +1,7 @@
-#+title: Detran-RJ
+#+title: Nada Consta Detran-RJ
 #+roam_key: http://www.detran.rj.gov.br/_monta_aplicacoes.asp?cod=11&tipo=certidao_multas
 
-- tags :: [[file:20210118144225-bureaucracy.org][bureaucracy]]
+- tags :: [[file:20210118144225-bureaucracy.org][Bureaucracy]]
 
 http://www.detran.rj.gov.br/_monta_aplicacoes.asp?cod=11&tipo=certidao_multas
 

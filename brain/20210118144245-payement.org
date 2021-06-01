@@ -1,5 +1,5 @@
-#+title: payement
-- tags :: [[file:20210118144225-bureaucracy.org][bureaucracy]]
+#+title: Payement
+- tags :: [[file:20210118144225-bureaucracy.org][Bureaucracy]]
 
 - Facture: Combien à payer, pour quel service
   + Facture Acquité: Combien a été payé et pour quel service

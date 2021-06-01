@@ -1,6 +1,6 @@
 #+title: INT - Convention fiscale entre la France et le Brésil
 #+roam_key: https://bofip.impots.gouv.fr/bofip/1736-PGP
-- tags :: [[file:20200701150423-impots.org][impots]], [[file:20210118144225-bureaucracy.org][bureaucracy]]
+- tags :: [[file:20200701150423-impots.org][impots]], [[file:20210118144225-bureaucracy.org][Bureaucracy]]
 
 * Imposto de imóvel em cada lugar assim como aluguel
 
