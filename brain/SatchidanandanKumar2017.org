@@ -1,0 +1,236 @@
+#+TITLE: SatchidanandanKumar2017
+#+ROAM_KEY: cite:SatchidanandanKumar2017
+#+ROAM_TAGS: skimmed article
+
+- tags :: [[file:20210526111126-watermarking.org][Watermarking]]
+- keywords ::
+
+
+* Dynamic watermarking: active defense of networked cyber–physical systems
+  :PROPERTIES:
+  :Custom_ID: SatchidanandanKumar2017
+  :URL:
+  :AUTHOR: B. Satchidanandan, & P. R. Kumar
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/SatchidanandanKumar2017.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Use of [[file:20210526111126-watermarking.org][Watermarking]] as active defense. Study for different types of systems, ARX, ARMAX, SISO with partial observations, MIMO with gaussian noise, extension to non-gaussian
+
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- it can potentially infer whether there is malicious activity in the system.
+- susceptible
+- To the best of our knowledge,
+- this approach also falls under the purview
+- does not appear to have been studied in the literature thus far
+*** References :violet:
+
+** NOTES
+
+*** energy, water, health care, and
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::1++1.25;;annot-1-0]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-1-0
+:END:
+examples of large scale cyber-physical systems
+
+*** technique, called “[[file:20210526111126-watermarking.org][watermarking]],” employs the technique of
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::1++7.81;;annot-1-1]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-1-1
+:END:
+
+*** [2]. In 2003, in Maroochy-Shire, Australia, a disgruntled ex-employee of a sewage treatment corporation hacked into the computers controlling the sewage system and issued commands that led to a series of faults in the system [1], [3].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::1++7.89;;annot-1-2]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-1-2
+:END:
+examples of real attacks
+
+*** an [[file:20210601102950-insider_attack.org][insider attack]]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::1++7.89;;annot-1-3]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-1-3
+:END:
+
+*** it can potentially infer whether there is malicious activity in the system.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::2++1.25;;annot-2-2]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-2-2
+:END:
+
+*** We examine a protocol whereby honest actuator nodes deliberately superimpose certain stochastically independent probing signals on top of the control law they are intended to apply.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::2++1.25;;annot-2-3]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-2-3
+:END:
+Watermarking
+
+*** Stuxnet recorded the sensor values in the facility for twenty-one seconds before carrying out each attack, and replayed those twenty-one seconds in a con- stant loop during the attack.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::2++1.33;;annot-2-0]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-2-0
+:END:
+[[file:20210601103209-replay_attack.org][Replay Attack]]
+
+*** Using this approach of active defense, we establish that under appropriate conditions, no matter in what way the adversarial sensors collude, the amount of distortion that they can add without exposing their presence can have an average power of only zero.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::2++5.62;;annot-2-4]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-2-4
+:END:
+
+
+*** However, when it comes to securing the physical layer, no such de- marcation exists. Any authorized party is also a potential adversary.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::2++7.89;;annot-2-1]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-2-1
+:END:
+difficulties in physical layer
+
+*** “watermarking,” [6]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::2++7.89;;annot-2-5]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-2-5
+:END:
+original physical example of watermarking
+
+*** as early as in 1997 [9].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++0.00;;annot-3-0]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-0
+:END:
+early reference to secure infrastructures from cyberattacks
+
+*** energy sector [16], water sector [17], chemical sector [18], and the transportation sector [19].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++0.00;;annot-3-1]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-1
+:END:
+examples in different fields
+
+*** [[file:20200716164436-deception_attacks.org][deception attack]] whereby an adversary impersonates as an- other node and transmits false information on its behalf.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++0.00;;annot-3-4]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-4
+:END:
+
+*** A framework to study the evolution of the physical process under Denial-Of-Service (DoS) and deception attacks is presented in [22].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++0.00;;annot-3-5]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-5
+:END:
+study about evolution of process under DoS
+
+*** Moti- vated by this scenario, a large body of research has been devoted to developing estimation and control algorithms for systems with intermittent observations, c.f. [23]–[27]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++0.00;;annot-3-6]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-6
+:END:
+intermittent observations
+
+*** It was shown in [32] that only systems for which the matrix ðA þ BLÞðI  KCÞ is stable are susceptible to replay at- tacks, where L is the feedback gain and K is the steady-state Kalman gain of the system’s Kalman filter.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++6.26;;annot-3-7]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-7
+:END:
+Only some types of systems are susceptible to replay attacks
+
+*** Specif- ically, [32], [34] consider the replay attack employed in Stuxnet and introduce a technique,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++7.86;;annot-3-8]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-8
+:END:
+apparently first use of watermarking, termed «Physical Watermarking»
+
+*** having a model for the adversary, and [22] defines cer- tain adversary and attack models.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++7.89;;annot-3-2]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-2
+:END:
+usually adversary is modeled
+
+*** [[file:20200722151834-denial_of_service_attacks.org][Denial-of-Service]] (DoS) attack in which the adversary floods the communication network with useless packets, rendering it incapable of transporting useful information.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++11.30;;annot-3-3]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-3
+:END:
+
+*** To the best of our knowledge,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::4++0.00;;annot-4-0]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-4-0
+:END:
+cite:MoSinopoli2009,MoEtAl2015
+
+*** and that when it is under attack are signifi- cantly different, enabling the estimator to detect the at- tack using a  2 detector.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::4++0.00;;annot-4-1]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-4-1
+:END:
+attack can be dettected via $\chi^2$ detector
+
+*** does not appear to have been studied in the literature thus far
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::4++1.61;;annot-4-5]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-4-5
+:END:
+
+
+*** can be classified as passive techniques,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::4++4.69;;annot-4-2]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-4-2
+:END:
+classification of active and passive techniques
+
+*** active defense along the lines of [32], [34], [35],
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::4++4.69;;annot-4-3]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-4-3
+:END:
+
+*** complete so that every node in the network can communicate with every other node.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::4++7.24;;annot-4-6]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-4-6
+:END:
+complete network is not so far-fetched after all
+
+*** relays whose only job is to forward the information from one node to another.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::4++7.24;;annot-4-7]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-4-7
+:END:
+relays forward information from one node to another
+
+*** this approach also falls under the pur- view
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::4++7.86;;annot-4-4]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-4-4
+:END:
+
+*** ther nodes are said to be “honest.”
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::5++0.00;;annot-5-0]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-5-0
+:END:
+"honest" nodes seem a little strange name
+
+*** We further assume that the malicious nodes know the identity of all other malicious nodes in the sys- tem, allowing them to collude to achieve their objective, whereas the honest nodes don’t know which of the other nodes are malicious or honest.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::5++0.00;;annot-5-1]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-5-1
+:END:
+malicious can collude, while honests are ignorant
+
+*** The first is that a lin- ear system lends itself to tractable analysis, and enables one to separate the complexity arising out of the problem at hand from the complexity arising as a consequence of the system’s nonlinearity.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::5++6.01;;annot-5-2]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-5-2
+:END:

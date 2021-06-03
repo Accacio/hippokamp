@@ -1,0 +1,4 @@
+#+title: Replay Attack
+- tags :: [[file:20200722151944-attacks.org][Attacks]]
+
+  Attacker record real values and replay the values in a loop.

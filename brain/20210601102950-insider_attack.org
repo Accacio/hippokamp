@@ -1,0 +1,4 @@
+#+title: Insider Attack
+- tags :: [[file:20200722151944-attacks.org][Attacks]]
+
+Attacker has credentials to access and issue commands to the system
