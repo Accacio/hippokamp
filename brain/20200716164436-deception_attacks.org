@@ -4,3 +4,4 @@
   Attack that affect the data integrity
   - Data replay attacks
   - False data Injection
+Adversary impersonates other nodes
