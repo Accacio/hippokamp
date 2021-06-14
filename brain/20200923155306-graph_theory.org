@@ -3,8 +3,8 @@
 
 * Definitions
 
-- <<<Vertice>>> or <<<node>>> ::
-A vertice is the fundamental unit of _graph theory_
+- <<<Vertex>>> or <<<node>>> ::
+A vertex is the fundamental unit of _graph theory_
 
 - <<<Edge>>> ::
 An edge is an unordered pair of vertices of vertex set $V(\mathcal{X})$
