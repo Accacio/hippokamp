@@ -1,0 +1,10 @@
+#+title: Alberto Bemporad | Embedded Model Predictive Control - YouTube
+#+roam_key: https://www.youtube.com/watch?v=ugeCx1sytNU
+
+https://www.youtube.com/watch?v=ugeCx1sytNU
+
+- tags :: Bemporad
+
+
+* QP-NNLS Bemporad IEEE TAC 2016
+Solve QP through nonnegative [[file:20200828102813-least_squares.org][Least-squares]]

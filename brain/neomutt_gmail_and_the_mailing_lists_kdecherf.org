@@ -1,0 +1,6 @@
+#+title: NeoMutt, Gmail and the mailing lists | kdecherf ~ %
+#+roam_key: https://kdecherf.com/blog/2017/04/11/neomutt-gmail-and-the-mailing-lists/
+
+https://kdecherf.com/blog/2017/04/11/neomutt-gmail-and-the-mailing-lists/
+
+- tags :: email

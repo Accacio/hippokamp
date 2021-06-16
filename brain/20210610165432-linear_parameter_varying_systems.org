@@ -1,0 +1,2 @@
+#+title: Linear Parameter-Varying Systems
+- tags :: [[file:20200716170441-linear_system.org][Linear Systems]]

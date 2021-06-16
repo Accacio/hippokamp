@@ -1,0 +1,5 @@
+#+title: State-Space Neural Network
+- tags :: [[file:20200813180431-neural_networks.org][Neural Networks]], State-Space
+
+
+  \(x_{k+1}=\mathcal{N}(x_{k},u_{k})\)

@@ -1,0 +1,17 @@
+#+title: Model Predictive Control: A Rising Technology in the Automotive Industry - YouTube
+#+roam_key: https://www.youtube.com/watch?v=Y2T_XlgaqyA
+
+https://www.youtube.com/watch?v=Y2T_XlgaqyA
+
+- tags :: [[file:20200709101720-mpc.org][MPC]]
+
+* QP solver
+  http:osqp.org
+* MPC auto-tuning
+http://cse.lab.imtlucca.it/~bemporad/glis
+* Neural NLMPC
+- [[file:20210611172102-state_space_neural_network.org][State-Space Neural Network]]
+
+Example using 2 layers (6 neurons,6 neurons), 6 inputs, 4 outputs,
+ODYS Deep Learning
+- 112 coefficients
