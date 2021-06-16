@@ -7,7 +7,7 @@
 file:~/docsThese/docs/articles/SysTol21/article.tex
 ** RLS bias
 *** [[note:BittantiEtAl1990][BittantiEtAl1990]] can help to show that the projection of the estimation error onto the excitation subspace
-- unexcitation subspace :: $\bar{\mathcal{E}}=\{x\in\mathbb{R}^n| \existsL<\infty:x'\sum\limits^N_1 \phi(t)\phi(t)'x<L,\forall N\}$
+- unexcitation subspace :: $\bar{\mathcal{E}}=\{x\in\mathbb{R}^n| \exists L<\infty:x'\sum\limits^N_1 \phi(t)\phi(t)'x<L,\forall N\}$
 - excitation subspace :: $\mathcal{E}=\bar{\mathcal{E}}^{\perp}$
 *** [[note:AastroemWittenmark1989][AastroemWittenmark1989]]
 - [[file:AastroemWittenmark1989.org][Theorem 3.2 :]]
