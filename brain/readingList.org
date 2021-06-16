@@ -14,15 +14,10 @@
 - tags :: [[file:20200422131137-these.org][These]]
 
 * Articles
-** LIRE [0/80]
-*** LENDO [#A] LuciaEtAl2021 | [[note:LuciaEtAl2021][org]] [[pdf:LuciaEtAl2021][pdf]] [[mobi:LuciaEtAl2021][mobi]] [[epub:LuciaEtAl2021][epub]]
-- State "LENDO"    from "LER"     [2021-04-29 jeu. 15:32]
-*** LENDO Iiduka2019 | [[note:Iiduka2019][org]] [[pdf:Iiduka2019][pdf]] [[mobi:Iiduka2019][mobi]] [[epub:Iiduka2019][epub]]
+** LIRE [0/76]
+*** LER [#A] WangIshii2019 | [[note:WangIshii2019][org]] [[pdf:WangIshii2019][pdf]] [[mobi:WangIshii2019][mobi]] [[epub:WangIshii2019][epub]]
 *** LER KshetriVoas2017 | [[note:KshetriVoas2017][org]] [[pdf:KshetriVoas2017][pdf]] [[mobi:KshetriVoas2017][mobi]] [[epub:KshetriVoas2017][epub]]
 *** LER SimonEtAl2012 | [[note:SimonEtAl2012][org]] [[pdf:SimonEtAl2012][pdf]] [[mobi:SimonEtAl2012][mobi]] [[epub:SimonEtAl2012][epub]]
-*** LER [#A] LiuEtAl2009 | [[note:LiuEtAl2009][org]] [[pdf:LiuEtAl2009][pdf]] [[mobi:LiuEtAl2009][mobi]] [[epub:LiuEtAl2009][epub]]
-*** LER [#A] SatchidanandanKumar2017 | [[note:SatchidanandanKumar2017][org]] [[pdf:SatchidanandanKumar2017][pdf]] [[mobi:SatchidanandanKumar2017][mobi]] [[epub:SatchidanandanKumar2017][epub]]
-*** LER [#A] WangIshii2019 | [[note:WangIshii2019][org]] [[pdf:WangIshii2019][pdf]] [[mobi:WangIshii2019][mobi]] [[epub:WangIshii2019][epub]]
 *** LER WangEtAl2021 | [[note:WangEtAl2021][org]] [[pdf:WangEtAl2021][pdf]] [[mobi:WangEtAl2021][mobi]] [[epub:WangEtAl2021][epub]]
 *** LER ZhuEtAl2011 | [[note:ZhuEtAl2011][org]] [[pdf:ZhuEtAl2011][pdf]] [[mobi:ZhuEtAl2011][mobi]] [[epub:ZhuEtAl2011][epub]]
 *** LER DeconinckEtAl2008 | [[note:DeconinckEtAl2008][org]] [[pdf:DeconinckEtAl2008][pdf]] [[mobi:DeconinckEtAl2008][mobi]] [[epub:DeconinckEtAl2008][epub]]
@@ -98,7 +93,7 @@
 *** LER HespanhaEtAl2007 | [[note:HespanhaEtAl2007][org]] [[pdf:HespanhaEtAl2007][pdf]] [[mobi:HespanhaEtAl2007][mobi]] [[epub:HespanhaEtAl2007][epub]]
 *** LER ZecevicSiljak2012 | [[note:ZecevicSiljak2012][org]] [[pdf:ZecevicSiljak2012][pdf]] [[mobi:ZecevicSiljak2012][mobi]] [[epub:ZecevicSiljak2012][epub]]
 
-** LU [55/60]
+** LU [56/64]
 *** LIDO Ouyang2020 | [[note:Ouyang2020][org]] [[pdf:Ouyang2020][pdf]] [[mobi:Ouyang2020][mobi]] [[epub:Ouyang2020][epub]]
 + Projection onto intersections of halfspaces and hyperplanes
 *** LIDO ShiromotoEtAl2019 | [[note:ShiromotoEtAl2019][org]] [[pdf:ShiromotoEtAl2019][pdf]] [[mobi:ShiromotoEtAl2019][mobi]] [[epub:ShiromotoEtAl2019][epub]]
@@ -226,6 +221,17 @@ pag 37
 - State "DIAGONAL"   from "LER"        [2021-04-29 jeu. 17:53] \\
   Describe elements of MPC, and many alternative formulations
 
+*** LIDO [#A] LuciaEtAl2021 | [[note:LuciaEtAl2021][org]] [[pdf:LuciaEtAl2021][pdf]] [[mobi:LuciaEtAl2021][mobi]] [[epub:LuciaEtAl2021][epub]]
+- State "LIDO"       from "LENDO"      [2021-05-26 mer. 11:25]
+- State "LENDO"    from "LER"     [2021-04-29 jeu. 15:32]
+*** DIAGONAL Iiduka2019 | [[note:Iiduka2019][org]] [[pdf:Iiduka2019][pdf]] [[mobi:Iiduka2019][mobi]] [[epub:Iiduka2019][epub]]
+- State "DIAGONAL"   from "LENDO"      [2021-05-31 lun. 15:58] \\
+  algorithms for distributed optimization,
+*** DIAGONAL [#A] LiuEtAl2009 | [[note:LiuEtAl2009][org]] [[pdf:LiuEtAl2009][pdf]] [[mobi:LiuEtAl2009][mobi]] [[epub:LiuEtAl2009][epub]]
+- State "DIAGONAL"   from "LER"        [2021-05-31 lun. 17:04]
+*** DIAGONAL [#A] SatchidanandanKumar2017 | [[note:SatchidanandanKumar2017][org]] [[pdf:SatchidanandanKumar2017][pdf]] [[mobi:SatchidanandanKumar2017][mobi]] [[epub:SatchidanandanKumar2017][epub]]
+- State "DIAGONAL"   from "LENDO"      [2021-06-02 mer. 10:15]
+- State "LENDO"      from "LER"        [2021-05-31 lun. 17:29]
 * Config :noexport:
 
 # Local Variables:
