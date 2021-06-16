@@ -102,6 +102,13 @@ system is noisy
 :ID:       ../../docsThese/bibliography/MoSinopoli2009.pdf-annot-2-4
 :END:
 
+*** Probability
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MoSinopoli2009.pdf::3++0.00;;annot-3-0]]
+:ID:       ../../docsThese/bibliography/MoSinopoli2009.pdf-annot-3-0
+:END:
+
+
 *** Hence, we cannot guarantee any control per- formance of the system under this attack.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MoSinopoli2009.pdf::4++0.25;;annot-4-0]]

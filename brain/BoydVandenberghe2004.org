@@ -32,3 +32,84 @@ Convex Optimization Bible
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::536++3.22;;annot-536-6]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-536-6
 :END:
+
+*** Scalarization is a standard technique for finding Pareto optimal
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::192++3.21;;annot-192-12]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-192-12
+:END:
+
+
+
+*** with cone K = R 2+ ,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::192++2.06;;annot-192-13]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-192-13
+:END:
+
+*** Multicriterion optimization
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::195++6.32;;annot-195-6]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-195-6
+:END:
+
+*** Duality
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::229++2.43;;annot-229-6]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-229-6
+:END:
+
+*** The optimal value of the Lagrange dual problem, which we denote d ⋆
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::239++2.43;;annot-239-4]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-239-4
+:END:
+
+*** Strong duality does not, in general, hold. But if the primal problem (5.1) is convex, i.e., of the form
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::240++2.43;;annot-240-5]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-240-5
+:END:
+
+*** Optimality conditions
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::255++3.13;;annot-255-1]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-255-1
+:END:
+
+*** Complementary slackness
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::256++5.68;;annot-256-2]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-256-2
+:END:
+
+*** λ ⋆i > 0 =⇒ f i (x ⋆ ) = 0,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::257++0.00;;annot-257-1]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-257-1
+:END:
+- if $\lambda>0$, optimal is active
+*** f i (x ⋆ ) < 0 =⇒ λ ⋆i = 0.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::257++0.00;;annot-257-2]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-257-2
+:END:
+- if optimal inactive \to $\lambda=0$
+
+*** the functions f 0 , . . . , f m , h 1 , . . . , h p are differentiable
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::257++0.00;;annot-257-3]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-257-3
+:END:
+
+*** KKT conditions for convex problems
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::258++0.00;;annot-258-0]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-258-0
+:END:
+
+used to verify solution:
+1. Check if x is feasible
+2. Check if $\lambda_i \geq 0$
+3. Check KKT conditions
+4. if $g(\lambda,\nu)$ is closed to f(x) then accept

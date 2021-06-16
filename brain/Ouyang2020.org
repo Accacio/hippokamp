@@ -40,6 +40,13 @@ $H_i\triangleq \{ x \in\mathcal{H}:\langle x,u_i \rangle=\eta_i \}$
 :END:
 $\gamma\triangleq {|\langle u_1,u_2\rangle| \over \|u_1\|\|u_2\|}\in [0,1[$
 
+*** P H x = x + η − h x, u i u.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::4++5.69;;annot-4-10]]
+:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-4-10
+:END:
+projection
+
 *** projection onto intersection of hyperplanes
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::6++4.65;;annot-6-25]]

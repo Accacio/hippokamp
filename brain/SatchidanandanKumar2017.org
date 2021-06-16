@@ -234,3 +234,16 @@ malicious can collude, while honests are ignorant
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::5++6.01;;annot-5-2]]
 :ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-5-2
 :END:
+
+*** the actual values of the excitation are not disclosed.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::6++1.87;;annot-6-0]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-6-0
+:END:
+
+*** v½k :¼ z½k  Az½k  1  Bu½k  1  w½k
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::7++2.75;;annot-7-0]]
+:ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-7-0
+:END:
+difference between sensor reading and real value

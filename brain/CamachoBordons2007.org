@@ -24,7 +24,7 @@ Book on [[file:20200709101720-mpc.org][MPC]]
 *** Applications
 *** Expressions
 *** References :violet:
-
+- can easily be obtained by comparing (2.8) and (2.9)
 ** NOTES
 
 *** elements in MPC
@@ -36,3 +36,63 @@ Book on [[file:20200709101720-mpc.org][MPC]]
 • prediction model,
 • objective function and
 • obtaining the control law.
+
+*** State Space Formulation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::47++1.23;;annot-47-0]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-47-0
+:END:
+
+*** An incremental state space model can also be used if the model in- put is the control increment u(t) instead of the control signal u(t).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::47++1.23;;annot-47-1]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-47-1
+:END:
+Incremental?
+
+*** can easily be obtained by comparing (2.8) and (2.9).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::48++1.23;;annot-48-0]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-48-0
+:END:
+
+*** y = Fx̂(t) + Hu
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::48++1.23;;annot-48-1]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-48-1
+:END:
+Prediction function
+
+*** u = (H T H + λI) −1 H T (w − Fx̂(t))
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::49++0.00;;annot-49-0]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-49-0
+:END:
+analytical solution for unconstrained problem
+
+*** only the ﬁrst element of the control sequence, u(t), is sent to the plant and all the computation is repeated at the next sampling time.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::49++0.00;;annot-49-1]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-49-1
+:END:
+first element is applied to the system (receding horizon)
+
+*** Constrained Model Predictive Control
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::196++1.10;;annot-196-0]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-196-0
+:END:
+
+
+*** Fast Methods for Implementing Model Predictive Control
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::330++0.00;;annot-330-0]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-330-0
+:END:
+
+
+*** MPC and Multiparametric Programming
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamachoBordons2007.pdf::333++0.00;;annot-333-0]]
+:ID:       ../../docsThese/bibliography/CamachoBordons2007.pdf-annot-333-0
+:END:
