@@ -36,6 +36,12 @@ Given a vector $\vec{x}:\mathbb R^{n}$ and a norm $\|\cdot\|$ defined for $\math
 - $$\|A\|=\mathrm{max}\{\|A\vec{x}\|:\vec x\in\mathbb R^{n},\|\vec x\|=1\}$$
 - $$\|A\|=\mathrm{sup}\{\frac{\|A\vec{x}\|}{\|\vec{x}\|}:\vec x\in\mathbb R^{n},\vec{x}\neq0\}$$
 
+*** Matrix Inverse
+Given a square matrix $A$ its inverse $A^{-1}$ such $AA^{-1}=I$
+
+if $A=\left[\begin{matrix}a&b\\c&d\end{matrix}\right]$ then
+$A^1=\frac{1}{ad-bc}\left[\begin{matrix}d&-b\\-c&a\end{matrix}\right]$
+
 *** Hadamard product
 - or Schur product
 
