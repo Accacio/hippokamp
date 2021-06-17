@@ -1,0 +1,9 @@
+#+title: Seminaire AUT
+
+
+* Energy-based Method to Simplify Complex Multi-Energy Modelica Models
+- presenter :: Joy EL FEGHALI
+** Introduction
+- why we can't use modelica models for control?
+* MPC's discrete stochastic optimization problem, progressive relaxation of Multi-Stage
+- presenter :: Hamza Mettali
