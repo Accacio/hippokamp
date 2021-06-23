@@ -5,7 +5,6 @@
 
 - tags :: [[file:formations_these.org][Formations Doctorat]]
 
-
 * System Identification: data-based modeling
 <2021-04-06 mar. 14:00-15:00>
 - lecturer :: [[file:xavier_bombois.org][Xavier Bombois]]
