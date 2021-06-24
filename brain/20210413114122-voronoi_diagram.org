@@ -48,6 +48,58 @@ imwrite(f.cdata,[ filename '.gif'],'DelayTime',3,'WriteMode','append')
 #+RESULTS:
 
 #+name: voronoi
-#+ATTR_HTML: :width 800
 #+caption: Voronoi diagram for 10 points
 [[file:img/voronoi.gif]]
+* OpenGL Fragment shader
+glsl code based on [[https://www.youtube.com/watch?v=l-07BXzNdPw][The Art of Code video]], showing two different measures ($\ell_2$ norm and $\ell_1$ norm)
+#+begin_src glsl
+vec2 N22(vec2 p){
+    vec3 a = fract(p.xyx*vec3(3.25,122.35, 153.35));
+    a += dot(a, a+ 33.45);
+    return fract(vec2(a.x*a.y, a.y*a.z));
+}
+void mainImage( out vec4 fragColor, in vec2 fragCoord ){
+	vec2 uv = (2.*fragCoord-iResolution.xy )/ iResolution.y;
+
+    float m = 0;
+    float minDist = 200.;
+    float t = iTime;
+    vec3 col = vec3(0);
+    vec2 cid = vec2(0);
+
+    uv *=1.5;
+    vec2 gv= fract(uv)-.5;
+    vec2 id = floor(uv);
+    for(float y=-1.;y<=1.;++y){
+        for(float x=-1.;x<=1.;++x){
+            // vec2 offset = vec2(x,y);
+            vec2 offset = vec2(x,y);
+            vec2 n = N22(id+offset);
+            vec2 p = offset+sin(n*t)*0.5;
+            p-=gv;
+            float d = 1;
+            // d = length(p);
+            float norm2 = pow(pow(p.x,2.)+pow(p.y,2.),1./2.);
+            float norm1 = pow(pow(p.x,1.)+pow(p.y,1.),1./1.);
+            float normManhattan = abs(p.x)+abs(p.y);
+            // d = mix(norm2,normManhattan,(sin(1.*iTime)+1.)/2.);
+            float duration = 2.;
+            float modTime = mod(iTime,duration);
+                d = norm2;
+
+
+            if (d<minDist) {
+                minDist=d;
+                cid = id + offset + 7;
+            }
+            // m+=smoothstep(.05,0.4,d);
+            col = vec3(p,0.5);
+        }
+    // col+=m;
+    }
+    col.rg = cid*.1;
+    fragColor = vec4(col, 1.0);
+}
+#+end_src
+
+#+RESULTS:
