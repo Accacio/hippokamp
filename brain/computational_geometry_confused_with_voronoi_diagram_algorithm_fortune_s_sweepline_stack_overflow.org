@@ -4,3 +4,13 @@
 https://stackoverflow.com/questions/982928/confused-with-voronoi-diagram-algorithm-fortunes-sweepline/17182583#17182583
 
 - tags :: [[file:20210413114122-voronoi_diagram.org][Voronoi diagram]]
+
+* links
+- https://github.com/superwills/Voronoi
+- http://www.cse.ust.hk/~scheng/meshbook.html
+- http://dl.acm.org/citation.cfm?id=10549
+- http://web.archive.org/web/20100615000000*/http://webdocs.cs.ualberta.ca/~kenw/papers/tess.pdf
+- http://www.rigi.cs.uvic.ca/downloads/papers/pdf/cg.pdf
+- http://www.skynet.ie/~sos/mapviewer/docs/Voronoi_Diagram_Notes_1.pdf
+- http://ect.bell-labs.com/who/sjf/
+- http://www.cs.sunysb.edu/~algorith/implement/fortune/implement.shtml
