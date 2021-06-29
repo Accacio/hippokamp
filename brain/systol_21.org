@@ -3,7 +3,7 @@
 #+LINK: note file:%s.org
 - tags :: [[file:20210120110751-control_conferences.org][Control Conferences]]
 
-* Paper
+* Paper :ACCEPTED:
 file:~/docsThese/docs/articles/SysTol21/article.tex
 ** RLS bias
 *** [[note:BittantiEtAl1990][BittantiEtAl1990]] can help to show that the projection of the estimation error onto the excitation subspace
