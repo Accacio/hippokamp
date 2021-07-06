@@ -1,0 +1,21 @@
+#+title: Accelerated Termination in Dual Decomposition Based Iterations for Model Predictive Control
+
+- tags :: [[file:20200422133932-presentations_these.org][Presentations These]]
+
+- lecturer :: Xiang Dai
+
+* Rehearsal
+- begin :: [2021-07-06 10:11]
+
+- pag 4 :: typo
+- pag 4 :: space inside matrices
+- pag 10 :: constraints \to const.
+- pag 10 :: typo decoupled dynamics
+- pag 22 :: space inside matrices
+- pag 30 :: space inside matrices
+- pag 31 :: Box plot legend
+- pag 35 :: Active set not necessarily to linear constraints
+- pag 37 :: CP first mentioned?
+- pag 39 :: typo "\epsilon in all tests"
+
+- end :: [2021-07-06 10:48]
