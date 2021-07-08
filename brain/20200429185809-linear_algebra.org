@@ -42,6 +42,10 @@ Given a square matrix $A$ its inverse $A^{-1}$ such $AA^{-1}=I$
 if $A=\left[\begin{matrix}a&b\\c&d\end{matrix}\right]$ then
 $A^1=\frac{1}{ad-bc}\left[\begin{matrix}d&-b\\-c&a\end{matrix}\right]$
 
+*** Direct Sum
+Given matrices $A$ and $B$, the direct sumb $A\oplus B$ is such
+$$A\oplus B=\left[\begin{matrix}A&0\\ 0 & B\end{matrix} \right]$$
+
 *** Hadamard product
 - or Schur product
 
