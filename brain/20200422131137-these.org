@@ -438,3 +438,7 @@ file:~/these/DocAdm/
 
 * Defense
 - Open questions
+- 1 ideia por slide
+- deixar tempo para ler ao fim do slide
+- expor motivaçoes
+- Qual escala consideraria para utilizar os algoritmos??
