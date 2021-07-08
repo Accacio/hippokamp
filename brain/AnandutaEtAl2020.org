@@ -19,6 +19,7 @@
 
 *** Motivation :springGreen:
 Resilient [[file:20200709101933-dmpc.org][DMPC]] under Attack using [[file:20200813155010-bayesian_inference.org][Bayesian Inference]]
+Good example of distribution network
 *** Model :lightSkyblue:
 - undirected graph $S=(\mathcal{N}, \mathcal{E})$, neighborhood $\mathcal{N}_{i}=\{j:(i, j) \in \mathcal{E}\}$
 - [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200716170441-linear_system.org][Linear Systems]]
