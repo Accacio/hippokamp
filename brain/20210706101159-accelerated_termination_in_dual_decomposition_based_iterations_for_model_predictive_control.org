@@ -19,3 +19,7 @@
 - pag 39 :: typo "\epsilon in all tests"
 
 - end :: [2021-07-06 10:48]
+
+* Soutenance
+- begin :: [2021-07-07 14:07]
+- end :: [2021-07-07 14:41]
