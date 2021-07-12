@@ -1,0 +1,6 @@
+#+title: Lospec - Free tools and resources for people making pixel art, voxel art and more
+#+roam_key: https://lospec.com/
+
+https://lospec.com/
+
+- tags :: [[file:20200423094808-gamedev.org][gamedev]]

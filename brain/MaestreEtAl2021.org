@@ -1,0 +1,329 @@
+#+TITLE: MaestreEtAl2021
+#+ROAM_KEY: cite:MaestreEtAl2021
+#+ROAM_TAGS: rank4 read article
+
+- tags :: [[file:20200709101933-dmpc.org][DMPC]], [[file:20200427105830-cybersecurity.org][Cyber-Security]], [[file:20210712154017-attacks_in_dmpc.org][Attacks in DMPC]]
+- keywords :: Model predictive control, Distributed control, Multi-agent network, Cyber-security
+
+
+* Scenario-based defense mechanism against vulnerabilities in lagrange-based dmpc
+  :PROPERTIES:
+  :Custom_ID: MaestreEtAl2021
+  :URL: https://www.sciencedirect.com/science/article/pii/S0967066121001568
+  :AUTHOR: Maestre, J. M., Velarde, P., Ishii, H., & Negenborn, R. R.
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/MaestreEtAl2021.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation
+# springGreen
+Similar to cite:VelardeEtAl2017a but showing how to compute the scenarios
+Interesting way to present cumulative cost
+*** Model
+# lightSkyblue
+*** Remarks
+*** Applications
+*** Expressions
+geographically disperse systems
+An alternative to deal with this kind of problems is to ...
+A preliminary version of this paper has appeared as
+inner iteration of the dual decomposition DMPC algorithm.
+*** References
+# violet
+
+** NOTES
+
+*** four tank plant
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++1.87;;annot-1-47]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-47
+:END:
+example
+
+*** geographically disperse systems
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++7.19;;annot-1-48]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-48
+:END:
+
+*** may not allow to apply centralized MPC due to computational burden,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++7.19;;annot-1-49]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-49
+:END:
+
+*** An alternative to deal with this kind of problems is to
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++7.19;;annot-1-50]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-50
+:END:
+
+*** modularity of the system,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++7.19;;annot-1-51]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-51
+:END:
+
+*** A topic that deserves attention is the regular exchange of informa- tion during the negotiation process among the local DMPC controllers.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++7.19;;annot-1-52]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-52
+:END:
+
+*** preserving the confidentiality, availability, and integrity of the exchanged information
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::2++0.31;;annot-2-113]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-113
+:END:
+
+@book{radvanovsky2016a,
+  author = {Radvanovsky, R. and Brodsky, J.},
+  date = {2016},
+  title = {Handbook of scada/ control systems security},
+  publisher = {CRC Press}
+}
+
+*** For example, in Ananduta, Maestre, Ocampo-Martinez, and Ishii (2020) Bayesian inference is used to detect noncompliant controllers in a distributed MPC setting so that negotia- tions can be stopped accordingly
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::2++0.62;;annot-2-114]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-114
+:END:
+cite:AnandutaEtAl2020
+
+*** A preliminary version of this paper has appeared as
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::2++0.71;;annot-2-115]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-115
+:END:
+
+*** 𝐶𝑢[𝑘] = 𝑁 ∑ 𝐶 𝑖 𝑢 𝑖 [𝑘] ≤ 𝑐,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::2++6.01;;annot-2-116]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-116
+:END:
+coupling constraints
+
+*** where ⪰ represents component- wise inequality.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::3++6.25;;annot-3-29]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-3-29
+:END:
+
+*** Fake prices
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::4++2.50;;annot-4-20]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-20
+:END:
+it was called selfish attack
+
+*** Scenario generation is necessary to relieve the effects of an at- tacker inside the network
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::4++7.88;;annot-4-21]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-21
+:END:
+
+*** with periodic exogenous inputs such as power grids and water networks, where clear patterns can be identified depending on factors such as time, day of the week and weather.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::4++7.88;;annot-4-22]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-22
+:END:
+audited historical data can be found for some systems
+
+*** stochastic model to generate synthetic data (Schildbach & Morari, 2015),
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::4++7.88;;annot-4-23]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-23
+:END:
+cite:SchildbachMorari2015
+
+*** the FHOP provides us with predictions of the state, input, and Lagrange multipliers. In particular, the scenario generation FHOP is formulated as follows:
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::6++0.00;;annot-6-0]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-6-0
+:END:
+The scenarios are generated stochastically by solving the MPC using a noisy state.
+
+*** One issue that deserves special attention is the number of scenarios (𝑁 𝑠 ) that guarantees the robustness of the whole system.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::6++3.75;;annot-6-1]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-6-1
+:END:
+
+*** each inner iteration of the dual decomposition DMPC algorithm.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::6++7.26;;annot-6-2]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-6-2
+:END:
+
+*** by means of a gradient search.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++0.00;;annot-7-17]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-17
+:END:
+update of prices using gradient search
+
+*** Note that if 𝜌 0 𝑖 = 0, the agent using the defense mechanism becomes disconnected from the updates of the prices.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++0.00;;annot-7-18]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-18
+:END:
+
+*** This will steer the coupled variables towards the values set by the defender.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++0.00;;annot-7-19]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-19
+:END:
+Defender can be considered as an attacker in the attacker's point of view
+
+*** In other words, iterates need not be feasible regarding the satisfaction of coupling constraints.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++1.25;;annot-7-20]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-20
+:END:
+It's known before convergence Dual decomposition doesn't guarantee global feasibility
+
+*** a coordinator layer makes the projection, agents agree to implement a mean value of their shared variables, and so on.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++1.25;;annot-7-21]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-21
+:END:
+How to solve the problem
+
+*** We must remark that the attacks and defense mechanisms applied are only given for illustration purposes. The attacks are relatively simple and have not been optimized by any means.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++2.50;;annot-7-23]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-23
+:END:
+
+
+*** Nevertheless, note that the attack generates a loss of optimality as well, so this property was lost in any case.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++5.00;;annot-7-22]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-22
+:END:
+good point but erhhh
+
+*** 𝑁 p = 5 along a test time of 20 min, i.e., 240 time steps.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.50;;annot-9-11]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-11
+:END:
+
+*** unit matrix
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.50;;annot-9-12]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-12
+:END:
+identity matrix
+
+*** the control system is unable to reach its target, forcing local controllers to negotiate in order to attain a trade-off between their corresponding goals.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.50;;annot-9-13]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-13
+:END:
+
+*** In this condition, it is easier to see how one agent can take advantage of the other one by manipulating the negotiation process.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.50;;annot-9-14]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-14
+:END:
+
+*** what is the selfish incentive that the attacker has to modify its local problem if it is at equilibrium? At equilibrium it reaches the lowest possible cost according to its true preferences, and therefore there is no possibility to be better off by altering its local problem.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.50;;annot-9-15]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-15
+:END:
+good point
+
+*** deviates from the assumption of rationality in the attacks that is considered in our work.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.88;;annot-9-16]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-16
+:END:
+
+*** Fig. 10. Cumulative cost by using standard DMPC, attacks, and defense scenario-based methods.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::11++7.26;;annot-11-4]]
+:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-11-4
+:END:
+Bar graph is a good way to represent
+
+
+* References (extracted by ORB PDF Scrapper)
+:PROPERTIES:
+:PDF_SCRAPPER_TYPE: org
+:PDF_SCRAPPER_SOURCE: MaestreEtAl2021.pdf
+:PDF_SCRAPPER_DATE: 2021-07-12 lun. 14:40
+:END:
+
+** In Org Roam database
+
+#+name: in-roam
+- cite:Bindra2017
+- cite:BraunEtAl2020
+- cite:ChanfreutEtAl2018
+- cite:VelardeEtAl2017
+- cite:WuEtAl2018
+- cite:YangEtAl2019
+
+** In BibTeX file
+
+#+name: in-bib
+- cite:AnandutaEtAl2020
+- cite:ChengEtAl2017
+- cite:ChristofidesEtAl2013
+- cite:LarsenEtAl2014
+- cite:MaestreEtAl2018
+- cite:TeixeiraEtAl2015
+- cite:NegenbornMaestre2014
+- cite:SchildbachMorari2015
+
+** Valid citation keys
+
+#+name: valid
+| # | citekey                     | author                                               | editor | journal                                                             | date |              volume |      pages |
+|---+-----------------------------+------------------------------------------------------+--------+---------------------------------------------------------------------+------+---------------------+------------|
+|   | cite:AlbrightEtAl2010       | Albright, D; Brannan, P; Walrond, C                  | N/A    |                                                                     | 2010 |                     |            |
+|   | cite:AlvaradoEtAl2011       | Alvarado, I; Limon, D; Peña, D; et.al.               |        | Journal of Process Control                                          | 2011 |                  21 |   800--815 |
+|   | cite:BarretoEtAl2014        | Barreto, C; Giraldo, J; Cardenas, A.A; et.al.        |        | IEEE Security & Privacy                                             | 2014 |                  12 |     15--23 |
+|   | cite:BaşarSrikant2002       | Başar, T; Srikant, R                                 |        | Journal of Optimization Theory and Applications                     | 2002 |                 115 |   479--490 |
+|   | cite:BiegelEtAl2014         | Biegel, B; Stoustrup, J; Andersen, P                 |        |                                                                     | 2014 |                 N/A |   179--192 |
+|   | cite:CalafioreFagiano2013   | Calafiore, G.C; Fagiano, L                           |        | Automatica                                                          | 2013 |                  49 | 1861--1866 |
+|   | cite:CamachoBordons2004     | Camacho, E.F; Bordons, C                             | N/A    |                                                                     | 2004 |                     |            |
+|   | cite:ChakhchoukhIshii2015   | Chakhchoukh, Y; Ishii, H                             |        | IEEE Transactions on Power Systems                                  | 2015 |                  30 | 2487--2497 |
+|   | cite:ChenEtAl2020           | Chen, S; Wu, Z; Christofides, P.D                    |        | Computers & Chemical Engineering                                    | 2020 | 136, Article 106806 |        N/A |
+|   | cite:DarupEtAl2017          | Darup, M.S; Redder, A; Shames, I; et.al.             |        | IEEE Control Systems Letters                                        | 2017 |                   2 |   195--200 |
+|   | cite:DhalRoy2013            | Dhal, R; Roy, S                                      |        |                                                                     | 2013 |                     |    823–828 |
+|   | cite:GiselssonRantzer2014   | Giselsson, P; Rantzer, A                             |        |                                                                     | 2014 |                 N/A |   309--325 |
+|   | cite:GrossoEtAl2017         | Grosso, J.M; Velarde, P; Ocampo-Martinez, C; et.al.  |        | Optimal Control Applications & Methods                              | 2017 |                  38 |   541--558 |
+|   | cite:IshiiEtAl2020          | Ishii, H; Yoshizawa, S; Fujimoto, Y; et.al.          |        |                                                                     | 2020 |                 N/A |   145--165 |
+|   | cite:Johansson2000          | Johansson, K.H                                       |        | IEEE Transactions on Control Systems Technology                     | 2000 |                   8 |   456--465 |
+|   | cite:KritzingerVon2010      | Kritzinger, E; Von Solms, S                          |        | Computers & Security                                                | 2010 |                  29 |   840--847 |
+|   | cite:Kushner2013            | Kushner, D                                           |        | IEEE Spectrum                                                       | 2013 |                   3 |     48--53 |
+|   | cite:LiEtAl2015             | Li, L; Negenborn, R.R; De Schutter, B                |        | Transportation Research Part C (Emerging Technologies               | 2015 |                  60 |     77--95 |
+|   | cite:LiEtAl2017             | Li, L; Negenborn, R.R; De Schutter, B                |        | Transportation Research Part E: Logistics and Transportation Review | 2017 |                 105 |   240--260 |
+|   | cite:LiuEtAl2010            | Liu, J; Chen, X; Peña, D; et.al.                     |        | AIChE Journal                                                       | 2010 |                  56 | 2137--2149 |
+|   | cite:MaestreNegenborn2014   | Maestre, J.M; Negenborn, R.R                         | N/A    |                                                                     | 2014 |                     |            |
+|   | cite:SoudbakhshEtAl2017     | Soudbakhsh, D; Chakrabortty, A; Annaswamy, A.M       |        | Control Engineering Practice                                        | 2017 |                  60 |   171--182 |
+|   | cite:SunEtAl2019            | Sun, Q; Zhang, K; Shi, Y                             |        | IEEE Transactions on Industrial Informatics                         | 2019 |                  16 | 4920--4927 |
+|   | cite:TianEtAl2019           | Tian, X; Guo, Y; Negenborn, R.R; et.al.              |        | Water Resources Management                                          | 2019 |                  33 | 3025--3040 |
+|   | cite:TroddenEtAl2020        | Trodden, P; Maestre, J; Ishii, H                     |        |                                                                     | 2020 |                     |  7045–7050 |
+|   | cite:VelardeEtAl2018        | Velarde, P; Maestre, J.M; Ishii, H; et.al.           |        | Optimal Control Applications & Methods                              | 2018 |                  39 |   601--621 |
+|   | cite:VelardeEtAl2019        | Velarde, P; Tian, X; Sadowska, A; et.al.             |        | Water Resources Management                                          | 2019 |                  33 |   677--696 |
+|   | cite:YushenEtAl2014         | Yushen, L; Shuai, L; Xie, L; et.al.                  |        |                                                                     | 2014 |                     |  1091–1096 |
+|   | cite:ZhengEtAl2017          | Zheng, H; Negenborn, R.R; Lodewijks, G               |        | Transportation Research Part E: Logistics and Transportation Review | 2017 |                 105 |   261--278 |
+|   | cite:ZhuBasar2015           | Zhu, Q; Basar, T                                     |        | IEEE Control Systems                                                | 2015 |                  35 |     46--65 |
+|   | cite:McEtAl2016             | Mc Namara, P; Negenborn, R.R; De Schutter, B; et.al. |        | Control Engineering Practice                                        | 2016 |                  46 |   176--187 |
+|   | cite:MercaderHaddad2021     | Mercader, P; Haddad, J                               |        | Control Engineering Practice                                        | 2021 | 109, Article 104718 |        N/A |
+|   | cite:MiaoEtAl2016           | Miao, F; Zhu, Q; Pajic, M; et.al.                    |        | IEEE Transactions on Control of Network Systems                     | 2016 |                   4 |   106--117 |
+|   | cite:NabaisEtAl2015         | Nabais, J; Negenborn, R.R; Carmona, R.B; et.al.      |        | Transportation Research Part C (Emerging Technologies               | 2015 |                  60 |   278--297 |
+|   | cite:OlivaresEtAl2015       | Olivares, D.E; Lara, J.D; Cañizares, C.A; et.al.     |        | IEEE Transactions on Smart Grid                                     | 2015 |                   6 | 2681--2693 |
+|   | cite:OnogawaEtAl2019        | Onogawa, M; Yoshizawa, S; Fujimoto, Y; et.al.        |        |                                                                     | 2019 |                     |  3249–3254 |
+|   | cite:OverloopEtAl2008       | Overloop, P.J; Weijs, S; Dijkstra, S                 |        | Control Engineering Practice                                        | 2008 |                  16 |   531--540 |
+|   | cite:PierronEtAl2020        | Pierron, T; Árauz, T; Maestre, J; et.al.             |        |                                                                     | 2020 |                     |    948–953 |
+|   | cite:RadvanovskyBrodsky2016 | Radvanovsky, R; Brodsky, J                           | N/A    |                                                                     | 2016 |                     |            |
+|   | cite:RiessenEtAl2015        | Riessen, B; Negenborn, R.R; Lodewijks, G; et.al.     |        | Maritime Economics & Logistics                                      | 2015 |                  17 |   440--463 |
+|   | cite:RomagnoliEtAl2019      | Romagnoli, R; Krogh, B.H; Sinopoli, B                |        |                                                                     | 2019 |                     |  3740–3745 |
+|   | cite:ShengEtAl2007          | Sheng, S; Chan, W; Li, K; et.al.                     |        | IEEE Transactions on Power Delivery                                 | 2007 |                  22 | 1477--1481 |

@@ -1,0 +1,6 @@
+#+title: xkcd: Board Game Party Schedule
+#+roam_key: https://xkcd.com/2486/
+
+https://xkcd.com/2486/
+
+- tags :: [[file:20210304095302-comics.org][comics]]

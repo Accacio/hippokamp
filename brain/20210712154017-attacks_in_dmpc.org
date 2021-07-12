@@ -1,0 +1,13 @@
+#+title: Attacks in DMPC
+- tags :: [[file:20200709101933-dmpc.org][DMPC]], [[file:20200427105830-cybersecurity.org][Cyber-Security]], [[file:20200722151944-attacks.org][Attacks]]
+
+
+* Vulnerabilities in Distributed MPC
+When distributing the mpc, agents can present non-cooperative behavior, due to the consensus structure selfish agent can drive the system.
+
+** References
+- cite:VelardeEtAl2017
+- cite:VelardeEtAl2017a
+- cite:VelardeEtAl2017b
+- cite:MaestreEtAl2021
+- cite:ChanfreutEtAl2018

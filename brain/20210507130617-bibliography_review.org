@@ -27,6 +27,7 @@ done
 
 
   Resilient [[file:20200709101933-dmpc.org][DMPC]] under Attack using [[file:20200813155010-bayesian_inference.org][Bayesian Inference]]
+  Good example of distribution network
 - [[file:ArabloueiEtAl2014.org][ArabloueiEtAl2014]] ::
 
 
@@ -39,6 +40,12 @@ done
 
 
   Hybrid Triggering scheme (Aperiodic Sampled-Data Control) to control Networked system under stochastic Deception Attacks find a way to obtain Minimum inter-event time (MIET)
+- [[file:BauschkeCombettes2011.org][BauschkeCombettes2011]] ::
+
+
+- [[file:BesselmannEtAl2008.org][BesselmannEtAl2008]] ::
+
+
 - [[file:BiegelEtAl2012.org][BiegelEtAl2012]] ::
 
 
@@ -143,7 +150,7 @@ done
 - [[file:Iiduka2019.org][Iiduka2019]] ::
 
 
-  Distributed optimal resource allocation
+  Distributed optimal resource allocation. Comparison between different distributed optimization algorithms, Projected Proximal Algorithm, Projected Subgradient Algorithm and other for nonsmooth convex optimization.
 - [[file:Jury1962.org][Jury1962]] ::
 
 
@@ -168,6 +175,10 @@ done
 
   Adaptive Control
   Reference on [[file:20200504163253-recursive_least_squares.org][recursive least-squares]] parameter estimation.
+- [[file:LauerBloch2019.org][LauerBloch2019]] ::
+
+
+  [[file:20210323094314-identification.org][Identification]] of Hybrid Systems
 - [[file:LeBlancEtAl2013.org][LeBlancEtAl2013]] ::
 
 
@@ -180,6 +191,10 @@ done
 
 
   Obtain state estimation under delayed communication
+- [[file:LiuEtAl2009.org][LiuEtAl2009]] ::
+
+
+  False data injection attack that isn't detected using norm of linear regression model residues.
 - [[file:LiuEtAl2016.org][LiuEtAl2016]] ::
 
 
@@ -196,10 +211,19 @@ done
 
 
   State [[file:20200422140353-estimation.org][Estimation]] of NCS, with faulty and malicious agents based on [[file:20200828102813-least_squares.org][Least-squares]]
+- [[file:MaestreEtAl2021.org][MaestreEtAl2021]] ::
+
+
+  # springGreen
+  Similar to cite:VelardeEtAl2017a but showing how to compute the scenarios
+  Interesting way to present cumulative cost
 - [[file:MendhamClarke2005.org][MendhamClarke2005]] ::
 
 
   Simulation environment of multi-agent system embedded into industry standard
+- [[file:MoSinopoli2009.org][MoSinopoli2009]] ::
+
+
 - [[file:MukherjeeZelazo2019.org][MukherjeeZelazo2019]] ::
 
 
@@ -230,6 +254,11 @@ done
 
 
   [[file:20200803163941-robust_control.org][Robust]] [[file:20200709101720-mpc.org][MPC]] with tightening constraints
+- [[file:SatchidanandanKumar2017.org][SatchidanandanKumar2017]] ::
+
+
+  Use of [[file:20210526111126-watermarking.org][Watermarking]] as active defense. Study for different types of systems, ARX, ARMAX, SISO with partial observations, MIMO with gaussian noise, extension to non-gaussian
+
 - [[file:ShiromotoEtAl2019.org][ShiromotoEtAl2019]] ::
 
 
@@ -262,6 +291,9 @@ done
 
 
   [[File:20200504113017-stability.org][stability]] on NCS with [[file:20200722151834-denial_of_service_attacks.org][DoS]] and quantization noise using observer-based controller
+- [[file:WangIshii2019.org][WangIshii2019]] ::
+
+
 - [[file:WuEtAl2018.org][WuEtAl2018]] ::
 
 
@@ -278,6 +310,9 @@ done
 
 
   Estimation of non-linear systems using EKF and UKF
+- [[file:Zafiriou1990.org][Zafiriou1990]] ::
+
+
 - [[file:ZhuMartinez2014.org][ZhuMartinez2014]] ::
 
 

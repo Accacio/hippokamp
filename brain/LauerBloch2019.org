@@ -1,6 +1,6 @@
 #+TITLE: LauerBloch2019
 #+ROAM_KEY: cite:LauerBloch2019
-#+ROAM_TAGS: article
+#+ROAM_TAGS: book
 
 - tags :: [[file:20210323094314-identification.org][Identification]]
 - keywords ::
