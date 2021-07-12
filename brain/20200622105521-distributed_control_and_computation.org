@@ -2,7 +2,7 @@
 #+ROAM_TAGS: courses
 
 - tags :: [[file:formations_these.org][Formations Doctorat]], [[file:International_Graduate_School_on_Control_2020.org][International Graduate School On Control 2020]], [[file:20200427161129-network_topologies.org][network topologies]], [[file:20200713170428-distributed_control.org][Distributed Control]]
-- lecturer :: Steve Morse
+- lecturer :: [[https://seas.yale.edu/faculty-research/faculty-directory/a-stephen-morse][A. Stephen Morse]]
 
   Quando criar uma nomenclatura, usar nomes que sejam bem descritivos
 * outline

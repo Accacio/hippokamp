@@ -8,9 +8,9 @@ Tentativa de listar todos professores que já tive
 * Tia Fátima
 * EDN
 * Colégio Aplicação
-Selma
-Márcia
-Solange
+- Selma
+- Márcia
+- Solange
 * J. Carlos
 * Adlai Stevenson
 - Solange
@@ -66,9 +66,9 @@ Solange
 - Dayse Elísio
 *** Inglês
 - Carmem?
-- ??
+- Luciana
 *** Sociologia
-- Solange
+- Silzane
 - Ricardo
 *** Educação Física
 - ?
@@ -89,6 +89,7 @@ Solange
 - Mazzetti / Ana Maria?
 *** Sociologia
 - Cícero
+- Silzane?
 - Ricardo
 *** Filosofia
 - Zulena
@@ -179,3 +180,4 @@ Solange
 - Jean-François Dupuy
 - Karim Tadrist
 - François MUNDLIER
+- A. Stephen Morse
