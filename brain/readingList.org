@@ -9,7 +9,7 @@
 #+OPTIONS: todo:nil num:nil timestamp:nil author:nil toc:nil
 #+roam_tags: organization
 
-#+TODO: LER(t) LENDO(r!)  DIAGONAL(s@) | LIDO(d@)
+#+TODO: LER(t) LENDO(r!)  DIAGONAL(s@) | LIDO(d!)
 
 - tags :: [[file:20200422131137-these.org][These]]
 
