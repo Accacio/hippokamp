@@ -59,50 +59,50 @@ Convex Optimization Bible
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-229-6
 :END:
 
-*** The optimal value of the Lagrange dual problem, which we denote d ⋆
+**** The optimal value of the Lagrange dual problem, which we denote d ⋆
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::239++2.43;;annot-239-4]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-239-4
 :END:
 
-*** Strong duality does not, in general, hold. But if the primal problem (5.1) is convex, i.e., of the form
+**** Strong duality does not, in general, hold. But if the primal problem (5.1) is convex, i.e., of the form
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::240++2.43;;annot-240-5]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-240-5
 :END:
 
-*** Optimality conditions
+**** Optimality conditions
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::255++3.13;;annot-255-1]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-255-1
 :END:
 
-*** Complementary slackness
+**** Complementary slackness
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::256++5.68;;annot-256-2]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-256-2
 :END:
 
-*** λ ⋆i > 0 =⇒ f i (x ⋆ ) = 0,
+**** λ ⋆i > 0 =⇒ f i (x ⋆ ) = 0,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::257++0.00;;annot-257-1]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-257-1
 :END:
 - if $\lambda>0$, optimal is active
-*** f i (x ⋆ ) < 0 =⇒ λ ⋆i = 0.
+**** f i (x ⋆ ) < 0 =⇒ λ ⋆i = 0.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::257++0.00;;annot-257-2]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-257-2
 :END:
 - if optimal inactive \to $\lambda=0$
 
-*** the functions f 0 , . . . , f m , h 1 , . . . , h p are differentiable
+**** the functions f 0 , . . . , f m , h 1 , . . . , h p are differentiable
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::257++0.00;;annot-257-3]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-257-3
 :END:
 
-*** KKT conditions for convex problems
+**** KKT conditions for convex problems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::258++0.00;;annot-258-0]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-258-0
@@ -113,3 +113,23 @@ used to verify solution:
 2. Check if $\lambda_i \geq 0$
 3. Check KKT conditions
 4. if $g(\lambda,\nu)$ is closed to f(x) then accept
+
+*** Geometric problems
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::411++0.70;;annot-411-1]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-411-1
+:END:
+
+
+**** Projection on a set
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::411++0.70;;annot-411-2]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-411-2
+:END:
+
+**** Support vector classifier
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::439++7.26;;annot-439-2]]
+:ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-439-2
+:END:
+[[file:20210715113152-support_vector_machines.org][SVM]]
