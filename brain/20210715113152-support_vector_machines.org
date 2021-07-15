@@ -1,0 +1,4 @@
+#+title: Support Vector Machines
+#+ROAM_ALIAS: SVM
+
+- tags :: [[file:20210715113204-classification.org][Classification]]

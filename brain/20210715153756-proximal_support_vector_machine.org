@@ -1,0 +1,4 @@
+#+title: Proximal Support Vector Machine
+#+ROAM_ALIAS: PSVM
+
+- tags :: [[file:20210715113152-support_vector_machines.org][SVM]]

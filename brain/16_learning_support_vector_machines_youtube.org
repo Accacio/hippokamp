@@ -1,0 +1,49 @@
+#+title: 16. Learning: Support Vector Machines - YouTube
+#+roam_key: https://www.youtube.com/watch?v=_PwhiWxHK8o
+
+https://www.youtube.com/watch?v=_PwhiWxHK8o
+
+- tags :: [[file:20210715113152-support_vector_machines.org][Support Vector Machines]]
+
+
+* Problem
+Classify points using two lines and maximize width of separation between them
+** Create decision rule
+- vector $\vec{\omega}$ perpendicular to the median of the lines
+- unknown point $\vec{u}$
+  $\vec{\omega}\cdot\vec{u}\geq c$
+- decision rule :: $\vec{\omega}\cdot\vec{u}+b\geq0$
+  both $b$ and $\vec{\omega}$ are unknown
+
+- Insist they are greater/lesser than 1/-1 for points outside separation lines
+  - $\vec{\omega}\cdot\vec{x}_++b\geq1$
+  - $\vec{\omega}\cdot\vec{x}_-+b\geq-1$
+- create $y_i$ and multiply
+  $y_i=\begin{cases}1,& \mathrm{positive}\, \vec{x}\\-1,& \mathrm{negative}\, \vec{x}\end{cases}$
+
+  - $y_i(\vec{\omega}\cdot\vec{x}_i+b)\geq1$ if point is outside the space between the two lines
+
+  - $y_i(\vec{\omega}\cdot\vec{x}_i+b)=1$ if point is between the two lines \to constraint
+** maximize width
+- width :: $(\vec{x}_+-\vec{x}_-)\cdot\frac{\vec{\omega}}{\|\vec{\omega}\|}$
+  + $((1-b)-(-1-b))\cdot\frac{1}{\|\vec{\omega}\|}$
+  + $\frac{2}{\|\vec{\omega}\|}$
+- Equivalent to maximize $\frac{1}{\|\vec{\omega}\|}$ \to minimize $\frac{1}{2}\|\vec{\omega}\|^2$
+
+\begin{matrix}
+\underset{\vec{\omega}}{\mathrm{minimize}}& \frac{1}{2}\|\vec{\omega}\|^2\\
+\mathrm{s.t.}& y_i(\vec{\omega}\cdot\vec{x}_i+b)-1=0,\,\forall i\\
+\end{matrix}
+- lagrangian primal
+  $L_P=\frac{1}{2}\|\vec{\omega}\|^2-\sum_ia_i(y_i(\vec{\omega}\cdot\vec{x}_i+b)-1)$
+- Substituting the results in the lagrangian dual
+- solving the minimization of the Lagrangian for $\vec{\omega}$
+  - $\vec{\omega}=\sum_ia_iy_i\vec{x}_i$
+- solving the minimization of the Lagrangian for $b$
+  - $\sum_ia_iy_i=0$
+- Substituting \to lagrangian dual
+  $L_D=\sum_ia_i-\frac{1}{2}\sum_i\sum_ja_ia_jy_iy_j\vec{x}_i\cdot\vec{x}_j$
+  - depends only on the inner product between $\vec{x}_i$
+- If non linearly separable can use kernels to change basis
+  1. $(\vec{u}\cdot\vec{v}+1)^n$
+  2. $e^{-\frac{\|\vec{x}_i-\vec{x}_j\|}{\sigma}}$
