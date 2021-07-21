@@ -15,7 +15,10 @@ The are at least 3 basic elements to control something:
 For a given plant, every input you give will have a corresponding output. The control problem is to choose an input for the plant such the output is equal to the reference.
 
 #+begin_example
-A simple example is going back home: In this case you are the plant yourself!! The output is your current location and the input is to walk. The reference is your house's location. The simplest control is to walk in your house's direction.
+A simple example is going back home: In this case you are the plant yourself!!
+The output is your current location and the input is to walk. The reference is
+your house's location. The simplest control is to walk in your house's
+direction.
 #+end_example
 
 
