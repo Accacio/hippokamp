@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       29525c21-2bb3-4690-8825-8e1d8b8aef0f
+:ROAM_REFS: https://xkcd.com/1031/
+:END:
 #+title: xkcd: s/keyboard/leopard/
-#+roam_key: https://xkcd.com/1031/
 
 https://xkcd.com/1031/
 
-- tags :: [[file:20210304095302-comics.org][comics]]
+- tags :: [[id:46a117a5-0a94-4fc1-a9a8-bd9eaa7daf69][comics]]
 
   make the internet 100 times better

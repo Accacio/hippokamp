@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       db00423b-3c3b-4d69-969a-a063a11dd129
+:END:
 #+title: OpenGL
-- tags :: [[file:20200617111624-computer_graphics.org][graphics]], [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:46181a21-ecc6-4969-bbf6-ef40617937b0][graphics]], [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]

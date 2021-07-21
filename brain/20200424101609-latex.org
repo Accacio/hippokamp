@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb
+:END:
 #+TITLE: LaTeX/TeX
-- tags :: [[file:20200708150907-typesetting.org][Typesetting]]
+- tags :: [[id:3b38587a-7b98-459b-8201-ae2ebbe8a33b][Typesetting]]

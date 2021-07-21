@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       968014ea-c431-495f-9e75-0ecfd2a236dd
+:END:
 #+title: Attacks

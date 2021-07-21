@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       24509e86-b0ed-42e0-9cd3-d858852e98b0
+:ROAM_REFS: cite:Bouckaert2014
+:END:
 #+TITLE: Bouckaert2014: Contribution des smart grids à la transition énergétique : évaluation dans des scénarios long terme
-#+ROAM_KEY: cite:Bouckaert2014
-#+ROAM_TAGS: article
+#+filetags: article
 
 - tags ::
 - keywords ::

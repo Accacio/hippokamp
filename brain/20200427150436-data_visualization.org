@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       dac30ce5-0c1d-4465-bf19-1ef54329adb5
+:END:
 #+TITLE: data visualization
-- tags :: [[file:20200708145614-scientific_computing.org][Scientific Computing]]
+- tags :: [[id:b6b646dd-6a8c-4cd6-ad68-74e27e15020a][Scientific Computing]]

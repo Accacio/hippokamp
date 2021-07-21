@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       c89ae1a5-9d64-4d13-bd1c-569c449e016b
+:END:
 #+TITLE: Reading List
 #+LINK: note file:%s.org
 #+LINK: pdf file:~/docsThese/bibliography/%s.pdf
@@ -7,15 +10,23 @@
 #+STARTUP: content
 #+latex_header: \usepackage{natbib}
 #+OPTIONS: todo:nil num:nil timestamp:nil author:nil toc:nil
-#+roam_tags: organization
+#+filetags: organization
 
 #+TODO: LER(t) LENDO(r!)  DIAGONAL(s@) | LIDO(d!)
 
-- tags :: [[file:20200422131137-these.org][These]]
+- tags :: [[id:ebb4a160-db74-41df-925c-fd4c17f3b82b][These]]
+
 
 * Articles
-** LIRE [0/80]
+** LIRE [2/83]
 *** LER [#A] LauerBloch2019 | [[note:LauerBloch2019][org]] [[pdf:LauerBloch2019][pdf]] [[mobi:LauerBloch2019][mobi]] [[epub:LauerBloch2019][epub]]
+*** LIDO FungMangasarian2001 | [[note:FungMangasarian2001][org]] [[pdf:FungMangasarian2001][pdf]] [[mobi:FungMangasarian2001][mobi]] [[epub:FungMangasarian2001][epub]]
+- State "LIDO"       from "LER"        [2021-07-16 ven. 10:43]
+*** LIDO WuZhao2006 | [[note:WuZhao2006][org]] [[pdf:WuZhao2006][pdf]] [[mobi:WuZhao2006][mobi]] [[epub:WuZhao2006][epub]]
+- State "LIDO"       from "LER"        [2021-07-16 ven. 12:04]
+*** LER TabatabaeiPourEtAl2006 | [[note:TabatabaeiPourEtAl2006][org]] [[pdf:TabatabaeiPourEtAl2006][pdf]] [[mobi:TabatabaeiPourEtAl2006][mobi]] [[epub:TabatabaeiPourEtAl2006][epub]]
+
+
 *** LER LuZavala2021 | [[note:LuZavala2021][org]] [[pdf:LuZavala2021][pdf]] [[mobi:LuZavala2021][mobi]] [[epub:LuZavala2021][epub]]
 *** LER [#A] SchildbachMorari2015 | [[note:SchildbachMorari2015][org]] [[pdf:SchildbachMorari2015][pdf]] [[mobi:SchildbachMorari2015][mobi]] [[epub:SchildbachMorari2015][epub]]
 
@@ -128,7 +139,7 @@ pag 37
 # [[note:BlanchardEtAl2008][org]] [[pdf:BlanchardEtAl2008][pdf]] [[mobi:BlanchardEtAl2008][mobi]] [[epub:BlanchardEtAl2008][epub]]
 # + Use EKF to update polynomial chaos
 *** LIDO LiceagaCastroEtAl2015 | [[note:Liceaga-CastroEtAl2015][org]] [[pdf:Liceaga-CastroEtAl2015][pdf]] [[mobi:Liceaga-CastroEtAl2015][mobi]] [[epub:Liceaga-CastroEtAl2015][epub]]
-+ Show that [[file:20200911115431-multivariable_systems.org][MIMO]] systems controlled passively are not necessarily robust.
++ Show that [[id:f62d60ca-4a29-4d6e-8ead-89e4dda9aca3][MIMO]] systems controlled passively are not necessarily robust.
 
 *** LIDO OConnorVandenberghe2014 | [[note:OConnorVandenberghe2014][org]] [[pdf:OConnorVandenberghe2014][pdf]] [[mobi:OConnorVandenberghe2014][mobi]] [[epub:OConnorVandenberghe2014][epub]]
 + Use of decomposition methods to solve image deblurring
@@ -143,30 +154,30 @@ pag 37
 *** LIDO [#A] WuEtAl2018 | [[note:WuEtAl2018][org]] [[pdf:WuEtAl2018][pdf]] [[mobi:WuEtAl2018][mobi]] [[epub:WuEtAl2018][epub]]
 + Neural Networks based detection and Lyapunov MPC
 *** LIDO [#A] AnandutaEtAl2020 | [[note:AnandutaEtAl2020][org]] [[pdf:AnandutaEtAl2020][pdf]] [[mobi:AnandutaEtAl2020][mobi]] [[epub:AnandutaEtAl2020][epub]]
-+ Resilient [[file:20200709101933-dmpc.org][dMPC]] under [[file:20200722151944-attacks.org][Attack]] using [[file:20200813155010-bayesian_inference.org][Bayesian Inference]]
++ Resilient [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]] under [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attack]] using [[id:c34a53cd-f404-415a-b26e-0c4ed12b20a1][Bayesian Inference]]
 *** LIDO LuYang2020 | [[note:LuYang2020][org]] [[pdf:LuYang2020][pdf]] [[mobi:LuYang2020][mobi]] [[epub:LuYang2020][epub]]
 + State estimation of NCS, with faulty and malicious agents based on
 *** LIDO WakaikiEtAl2020 | [[note:WakaikiEtAl2020][org]] [[pdf:WakaikiEtAl2020][pdf]] [[mobi:WakaikiEtAl2020][mobi]] [[epub:WakaikiEtAl2020][epub]]
 + stability on NCS with DoS and quantization noise using observer-based controller
 *** LIDO ZhuZheng2020 | [[note:ZhuZheng2020][org]] [[pdf:ZhuZheng2020][pdf]] [[mobi:ZhuZheng2020][mobi]] [[epub:ZhuZheng2020][epub]]
-+ Observer based $\mathcal{H}_\infty$ control in [[file:20200722151834-denial_of_service_attacks.org][DoS]] prone measurement and control channels
++ Observer based $\mathcal{H}_\infty$ control in [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] prone measurement and control channels
 *** LIDO BansalMukhija2020 | [[note:BansalMukhija2020][org]] [[pdf:BansalMukhija2020][pdf]] [[mobi:BansalMukhija2020][mobi]] [[epub:BansalMukhija2020][epub]]
 + Hybrid Triggering scheme (Aperiodic Sampled-Data Control) to control Networked system under stochastic Deception Attacks find a way to obtain Minimum inter-event time (MIET)
 *** LIDO GossnerEtAl1997 | [[note:GossnerEtAl1997][org]] [[pdf:GossnerEtAl1997][pdf]] [[mobi:GossnerEtAl1997][mobi]] [[epub:GossnerEtAl1997][epub]]
 + Algorithms for stability and asymptotic tracking in constrained generalized predictive control with bounded disturbances
 *** LIDO RichardsHow2006 | [[note:RichardsHow2006][org]] [[pdf:RichardsHow2006][pdf]] [[mobi:RichardsHow2006][mobi]] [[epub:RichardsHow2006][epub]]
-+ [[file:20200803163941-robust_control.org][Robust]] [[file:20200709101720-mpc.org][MPC]] with tightening constraints
++ [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust]] [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]] with tightening constraints
 *** LIDO [#A] YangEtAl2019 | [[note:YangEtAl2019][org]] [[pdf:YangEtAl2019][pdf]] [[mobi:YangEtAl2019][mobi]] [[epub:YangEtAl2019][epub]]
-+ [[file:20200716170854-stochastic_control.org][Stochastic]] [[file:20200709101933-dmpc.org][dMPC]] with defense against [[file:20200722151834-denial_of_service_attacks.org][DoS]] Attacks
++ [[id:3ec3cd81-0163-4fe1-9c20-b5dfd33427d6][Stochastic]] [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]] with defense against [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] Attacks
 *** LIDO KolarijaniEtAl2020 | [[note:KolarijaniEtAl2020][org]] [[pdf:KolarijaniEtAl2020][pdf]] [[mobi:KolarijaniEtAl2020][mobi]] [[epub:KolarijaniEtAl2020][epub]]
-+ [[file:20200803164121-decentralized_control.org][Decentralized]] [[file:20200803164930-event_based_control.org][Event-Based]] [[file:20200803163941-robust_control.org][Robust]] [[file:20200709101720-mpc.org][MPC]]
++ [[id:0048fff1-e997-4b77-8215-ea92fe7dd527][Decentralized]] [[id:02289306-4cb1-4371-a5da-eedd95e7b268][Event-Based]] [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust]] [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
 *** LIDO LiuEtAl2019 | [[note:LiuEtAl2019][org]] [[pdf:LiuEtAl2019][pdf]] [[mobi:LiuEtAl2019][mobi]] [[epub:LiuEtAl2019][epub]]
-+ Analysis of the effects of[[file:20200716164436-deception_attacks.org][ Deception Attacks]] and use [[file:20200716162527-hybrid_control.org][Hybrid Control]] and verify stability using Lyapunov
++ Analysis of the effects of[[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]] and use [[id:a3b6d44b-4f1d-43dd-942b-45c2df959e6e][Hybrid Control]] and verify stability using Lyapunov
 *** LIDO [#A] BraunEtAl2020 | [[note:BraunEtAl2020][org]] [[pdf:BraunEtAl2020][pdf]] [[mobi:BraunEtAl2020][mobi]] [[epub:BraunEtAl2020][epub]]
 + Identify attack using evolution of coupling variables
   + *Important:* Sensitivity Exchange
 *** LIDO [#A] LiuEtAl2016 | [[note:LiuEtAl2016][org]] [[pdf:LiuEtAl2016][pdf]] [[mobi:LiuEtAl2016][mobi]] [[epub:LiuEtAl2016][epub]]
-+ Study of [[file:20200608100448-networked_control.org][Networked Control]] in a [[file:20200716170854-stochastic_control.org][Stochastic]] [[file:20200716162527-hybrid_control.org][Hybrid Control]] Scheme using stochastic variable with [[file:20200716165417-bernoulli_distribution.org][Bernoulli Distribution]] in order to increase performance on over occupied channels
++ Study of [[id:f3727224-7286-465f-bff0-bff8dd490ea4][Networked Control]] in a [[id:3ec3cd81-0163-4fe1-9c20-b5dfd33427d6][Stochastic]] [[id:a3b6d44b-4f1d-43dd-942b-45c2df959e6e][Hybrid Control]] Scheme using stochastic variable with [[id:66cea64f-9e73-423a-80f2-58fd01dd5b6c][Bernoulli Distribution]] in order to increase performance on over occupied channels
 *** LIDO DingEtAl2018 | [[note:DingEtAl2018][org]] [[pdf:DingEtAl2018][pdf]] [[mobi:DingEtAl2018][mobi]] [[epub:DingEtAl2018][epub]]
 + Survey on Security control and attack detection
 *** LIDO HuangDong2020 | [[note:HuangDong2020][org]] [[pdf:HuangDong2020][pdf]] [[mobi:HuangDong2020][mobi]] [[epub:HuangDong2020][epub]]

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       d40d8061-dadd-4b9f-b75e-cef1b5f0e2de
+:END:
 #+title: Multi-parametric Toolbox
-- tags :: [[file:20200709102805-optimization.org][Optimization]]
+- tags :: [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]

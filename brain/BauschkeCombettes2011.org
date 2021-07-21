@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       2aea285f-52ce-4df9-a0f8-f54d4ea48a1b
+:ROAM_REFS: cite:BauschkeCombettes2011
+:END:
 #+TITLE: BauschkeCombettes2011
-#+ROAM_KEY: cite:BauschkeCombettes2011
-#+ROAM_TAGS: skimmed book
+#+filetags: skimmed book
 
 - tags ::
 - keywords ::
@@ -26,7 +29,7 @@
 
 ** NOTES
 
-*** 28.3  [[file:20201215140935-projection.org][Projection]] onto Special Polyhedra
+*** 28.3 [[id:441c92e4-b3bc-4c5f-882d-d8a200ed7623][Projection]]s onto Special Polyhedra
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BauschkeCombettes2011.pdf::423++0.00;;annot-423-0]]
 :ID:       ../../docsThese/bibliography/BauschkeCombettes2011.pdf-annot-423-0

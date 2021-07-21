@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       7fe6a949-9d88-46d2-97ed-02fe6af8c4f5
+:END:
 #+title: Probability

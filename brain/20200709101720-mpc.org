@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       adbf20b1-1a2d-4c90-9a66-2f236db55322
+:ROAM_ALIASES: MPC
+:END:
 #+title: Model Predictive Control
-#+ROAM_ALIAS:MPC
-- tags :: [[file:20200504164021-control.org][control]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][control]]
 

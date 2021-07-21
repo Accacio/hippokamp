@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       6d9dfa7c-52da-4c33-bf15-2f00d4690b62
+:ROAM_REFS: https://markodenic.com/css-tips/
+:END:
 #+title: CSS Tips - Marko Denic - Web Developer
-#+roam_key: https://markodenic.com/css-tips/
 
 https://markodenic.com/css-tips/
 
-- tags :: CSS, [[file:20200708151350-html.org][HTML]]
+- tags :: CSS, [[id:8e54b6d5-11b1-49e7-a0db-a83ca2138366][HTML]]

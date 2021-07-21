@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       0c3bfff3-b30d-42ac-ba95-b15e4ab732ea
+:ROAM_ALIASES: PSVM
+:END:
 #+title: Proximal Support Vector Machine
-#+ROAM_ALIAS: PSVM
 
-- tags :: [[file:20210715113152-support_vector_machines.org][SVM]]
+- tags :: [[id:2ddee334-4a95-4797-89cc-9dd19dd49bcf][SVM]]

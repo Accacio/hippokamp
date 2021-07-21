@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       4de11350-dbc9-45ef-b44d-93cb3baeefba
+:END:
 #+title: Rotational Inertia
-- tags :: [[file:20210120111310-mechanics.org][Mechanics]]
+- tags :: [[id:7cf24726-015d-46cf-80d4-f15c814943f7][Mechanics]]
 
 * Definition
 * Examples

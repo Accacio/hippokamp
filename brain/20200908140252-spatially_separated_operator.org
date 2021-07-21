@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       80483591-299e-4627-9e13-587aeb852b94
+:END:
 #+title: Spatially Separated Operator
-- tags :: [[file:20200608100448-networked_control.org][NCS]]
+- tags :: [[id:f3727224-7286-465f-bff0-bff8dd490ea4][NCS]]
 
   Sensor or controller spatially separated from the plant

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       c9024256-0ab8-4f02-9c30-623faf57f952
+:END:
 #+title: Immanuel Kant
-#+ROAM_TAGS: people
+#+filetags: people

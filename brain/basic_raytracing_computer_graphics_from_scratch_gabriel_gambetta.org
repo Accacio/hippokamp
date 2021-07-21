@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       50486d61-e415-4703-a973-b15c42e81275
+:ROAM_REFS: https://gabrielgambetta.com/computer-graphics-from-scratch/
+:END:
 #+title: Basic Raytracing - Computer Graphics from Scratch - Gabriel Gambetta
-#+roam_key: https://gabrielgambetta.com/computer-graphics-from-scratch/
-- tags :: [[file:20200617111624-computer_graphics.org][computer graphics]]
+- tags :: [[id:46181a21-ecc6-4969-bbf6-ef40617937b0][computer graphics]]

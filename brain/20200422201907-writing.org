@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       06e35bd7-1325-41c1-80bc-461a17f43aa8
+:END:
 #+TITLE: Writing

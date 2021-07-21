@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       c5f81161-204f-4b52-a4c4-c123d4823ab8
+:ROAM_REFS: http://paulbourke.net/dataformats/bitmaps/
+:END:
 #+title: A Beginners Guide to Bitmaps
-#+roam_key: http://paulbourke.net/dataformats/bitmaps/
-- tags :: [[file:20200617111624-computer_graphics.org][computer graphics]]
+- tags :: [[id:46181a21-ecc6-4969-bbf6-ef40617937b0][computer graphics]]

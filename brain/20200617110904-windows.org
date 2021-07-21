@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       99817451-249b-4da7-8130-676825b3b12e
+:END:
 #+title: Windows
-- tags :: [[file:20200423005717-operating_systems.org][Operating Systems]]
+- tags :: [[id:7fd861c7-d405-4486-b082-ff7723c17594][Operating Systems]]

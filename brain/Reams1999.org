@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       b155c2f8-ef0f-4d85-ba5b-a2c543d5b79e
+:ROAM_REFS: cite:Reams1999
+:END:
 #+TITLE: Reams1999
-#+ROAM_KEY: cite:Reams1999
-#+ROAM_TAGS: skimmed article
+#+filetags: skimmed article
 
-- tags :: [[file:20200429185809-linear_algebra.org][Linear Algebra]]
+- tags :: [[id:9c12809e-a8f0-4d4c-a489-ad02a626d771][Linear Algebra]]
 - keywords :: Hadamard product, Hadamard square root, Hadamard inverse, Distance matrix, Positive semidefinite, Almost positive semidefinite
 
 

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       b35c2684-522b-4358-b378-0aa04723d0c0
+:ROAM_REFS: https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html
+:END:
 #+title: E.W.Dijkstra Archive: The Humble Programmer (EWD 340)
-#+roam_key: https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html
-- tags :: [[file:20210119145635-dijkstra.org][Dijkstra]]
+- tags :: [[id:02bf856b-c7f4-499c-bff5-ae2e578fa7d3][Dijkstra]]
 
 #+begin_quote
 One moral of the above story is, of course, that we must be very careful when we give advice to younger people; sometimes they follow it!
@@ -16,7 +19,7 @@ LISP has jokingly been described as “the most intelligent way to misuse a comp
 3. LISP
 4. ALGOL 60
 5. PL/1
-* Kinds of rules for better [[file:20200713160350-programming.org][Programming]]
+* Kinds of rules for better [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]]
     1. Mechanically imposed
        - exclusion of goto-statements
        - exclusion of procedures with more than one output parameter

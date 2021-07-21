@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       bbd88d5a-0df3-4b76-a581-0a470eb123ac
+:ROAM_REFS: cite:AAstroemWittenmark1989
+:END:
 #+TITLE: AastroemWittenmark1989: Adaptive Control
-#+ROAM_KEY: cite:AAstroemWittenmark1989
-#+ROAM_TAGS: book
+#+filetags: book
 
-- tags :: [[file:20200504162654-adaptive_control.org][Adaptive Control]], [[file:20200422140353-estimation.org][Estimation]], [[file:20210323094314-identification.org][Identification]]
+- tags :: [[id:27a44a3c-219a-4a8c-8417-0f4e0a62f9c2][Adaptive Control]], [[id:73c6fea6-0266-4dfb-b66b-0c502c51cbab][Estimation]], [[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]]
 - keywords ::
 
 

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       64a9d320-f028-44f5-b1a2-bd45eac64e2a
+:ROAM_REFS: https://doranum.fr/data-paper-data-journal/fiche-synthetique/
+:END:
 #+title: Data papers et data journals : fiche synthétique – DoRANum
-#+roam_key: https://doranum.fr/data-paper-data-journal/fiche-synthetique/
-- tags :: [[file:20210108173300-data_papers.org][Data Papers]]
+- tags :: [[id:1f880cff-bc5c-459c-9d48-1bc32c9a43d0][Data Papers]]
 
 * Pourquoi?
 - communiquer l'existence des données

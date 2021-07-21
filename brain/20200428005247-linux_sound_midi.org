@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       2b2e9434-3c9c-4e3a-9539-e7442da59d5b
+:ROAM_REFS: http://linux-sound.org/midi.html
+:END:
 #+TITLE: linux sound midi
-#+ROAM_KEY: http://linux-sound.org/midi.html
-- tags :: [[file:20200423095046-music.org][Music]], [[file:20200428005424-linux.org][Linux]]
+- tags :: [[id:7c1193f5-67b3-4df9-b85d-71bfec421d12][Music]], [[id:b401932b-c548-4220-96e5-723542a4d30b][Linux]]

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       3c81c725-919e-4099-9840-3f12c1432050
+:ROAM_REFS: https://tex.stackexchange.com/questions/501160/pgfplots-fillbetween-and-tikz-shade
+:END:
 #+title: color - tikz: draw multicolor curve with smooth gradient - TeX - LaTeX Stack Exchange
-#+roam_key: https://tex.stackexchange.com/questions/501160/pgfplots-fillbetween-and-tikz-shade
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]]
 
 \usepackage{pgffor}
 \usepackage{tikz}

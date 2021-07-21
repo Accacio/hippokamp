@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       9cbfca1d-dfad-4d33-83c8-f6e2053d0169
+:ROAM_REFS: https://bofip.impots.gouv.fr/bofip/1736-PGP
+:END:
 #+title: INT - Convention fiscale entre la France et le Brésil
-#+roam_key: https://bofip.impots.gouv.fr/bofip/1736-PGP
-- tags :: [[file:20200701150423-impots.org][impots]], [[file:20210118144225-bureaucracy.org][Bureaucracy]]
+- tags :: [[id:302f9fa0-69d7-42eb-ab19-40e91b0cd9d4][impots]], [[id:b8b6bcca-b818-4b50-a7b7-86fcaae0b444][Bureaucracy]]
 
 * Imposto de imóvel em cada lugar assim como aluguel
 

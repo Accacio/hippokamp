@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ad7b77d2-72ba-4f88-9dc2-1da2148fb940
+:END:
 #+title: Donald Knuth
-#+ROAM_TAGS: people
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]
+#+filetags: people
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]]

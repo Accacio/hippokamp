@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       b401932b-c548-4220-96e5-723542a4d30b
+:END:
 #+TITLE: Linux
-- tags :: [[file:20200423005717-operating_systems.org][Operating Systems]]
+- tags :: [[id:7fd861c7-d405-4486-b082-ff7723c17594][Operating Systems]]

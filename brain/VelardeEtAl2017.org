@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       387697c4-8204-42c0-8523-3782cf7c8664
+:ROAM_REFS: cite:VelardeEtAl2017
+:END:
 #+TITLE: VelardeEtAl2017: Vulnerabilities in lagrange-based distributed model predictive control
-#+ROAM_KEY: cite:VelardeEtAl2017
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200709101933-dmpc.org][DMPC]]
+- tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][cyber-security]], [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][DMPC]]
 - keywords ::
 
 

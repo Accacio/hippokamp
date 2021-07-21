@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       ae5f0a25-10c3-4cae-b9f0-4e1acdac7785
+:ROAM_REFS: cite:HuangDong2020
+:END:
 #+TITLE: HuangDong2020: Learning-based switched reliable control of cyber-physical systems with intermittent communication faults
-#+ROAM_KEY: cite:HuangDong2020
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200709114441-data_driven_control.org][data-driven control]]
+- tags :: [[id:c29da646-790a-47dc-917f-bfe390209c14][data-driven control]]
 - keywords :: Adaptive dynamic programming (ADP),communication fault,cyber-physical systems (CPSs),data-driven control,reliable control
 
 
@@ -19,7 +22,7 @@
 *** Motivation
 Reliable control in systems with intermittent communication
 *** Model
-- [[file:20200716170441-linear_system.org][Linear System]]
+- [[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear System]]
 - Pair (A,B) Controllable
 *** Remarks
 Lots of references

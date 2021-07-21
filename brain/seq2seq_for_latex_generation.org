@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e8a52425-edae-43d8-a98f-0a84be443c7d
+:ROAM_REFS: https://guillaumegenthial.github.io/image-to-latex.html
+:END:
 #+title: Seq2Seq for LaTeX generation
-#+roam_key: https://guillaumegenthial.github.io/image-to-latex.html
-- tags :: [[file:20200813180431-neural_networks.org][Neural Networks]], [[file:20200424101609-latex.org][LaTeX/TeX]], [[file:20201204103827-ocr.org][OCR]]
+- tags :: [[id:a6fbcdd3-a1a1-4dd5-bf26-dd778fdfab56][Neural Networks]], [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]], [[id:58915987-7fd7-4b3a-b6f8-737d2c67e1a5][OCR]]

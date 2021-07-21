@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       b2e1d570-abd6-4943-9712-3bd9b70ed21c
+:END:
 #+TITLE: fault isolation

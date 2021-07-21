@@ -1,8 +1,11 @@
-#+TITLE: BoydVandenberghe2004: Convex Optimization
-#+ROAM_KEY: cite:BoydVandenberghe2004
-#+ROAM_TAGS: book
+:PROPERTIES:
+:ID:       f70f26a2-1135-46c1-8aae-193933bb261b
+:ROAM_REFS: cite:BoydVandenberghe2004
+:END:
+#+TITLE: BoydVandenberghe2004
+#+filetags: book
 
-- tags :: [[file:20200709102805-optimization.org][Optimization]]
+- tags :: [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]
 - keywords ::
 
 
@@ -38,8 +41,6 @@ Convex Optimization Bible
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::192++3.21;;annot-192-12]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-192-12
 :END:
-
-
 
 *** with cone K = R 2+ ,
 :PROPERTIES:
@@ -132,4 +133,4 @@ used to verify solution:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydVandenberghe2004.pdf::439++7.26;;annot-439-2]]
 :ID:       /home/nogueirar/docsThese/bibliography/BoydVandenberghe2004.pdf-annot-439-2
 :END:
-[[file:20210715113152-support_vector_machines.org][SVM]]
+[[id:2ddee334-4a95-4797-89cc-9dd19dd49bcf][SVM]]

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       c2afcefe-dda3-4e37-8b85-6ae528005296
+:ROAM_REFS: cite:TanikawaMukai1983a
+:END:
 #+TITLE: TanikawaMukai1983a: New lagrangian function for nonconvex primal-dual decomposition
-#+ROAM_KEY: cite:TanikawaMukai1983a
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200427164614-distributed_optimization.org][Distributed Optimization]]
+- tags :: [[id:de9b0ee5-95dc-4826-825a-e9efb5b83136][Distributed Optimization]]
 - keywords ::
 
 
@@ -20,7 +23,7 @@
 *** Motivation :springGreen:
 Creation of new lagrangian to convexify the lagrangian function, reducing decomposition to two levels of iterative optimization
 *** Model :lightSkyblue:
-- opitimization, [[file:20200512110355-large_scale_systems.org][large scale systems]], non-convex separable , equaltity constraints
+- opitimization, [[id:9112b44e-d4d0-4c31-825e-802718f3ecf6][large scale systems]], non-convex separable , equaltity constraints
 *** Remarks
 *** Applications
 *** Expressions

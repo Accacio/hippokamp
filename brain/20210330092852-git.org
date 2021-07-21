@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       6a288928-4a34-4269-9ae0-de6c2934e23c
+:END:
 #+title: Git
-- tags :: [[file:20200713160350-programming.org][Programming]]
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]]

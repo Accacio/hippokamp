@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       c064cc88-da6d-43a3-ac6b-ed819b3a5253
+:ROAM_REFS: cite:BoydEtAl2015
+:END:
 #+title: BoydEtAl2015
-#+ROAM_KEY: cite:BoydEtAl2015
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200427164136-decomposition.org][Decomposition]]
+- tags :: [[id:dc49d7a6-a3e4-48f5-bf13-242f40a8ffa0][Decomposition]]
 
 * BoydEtAl2015
 :PROPERTIES:

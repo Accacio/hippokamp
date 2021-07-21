@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       3a886c8f-d50f-46c0-ac93-4ccbcc29fb61
+:END:
 #+title: Publications
-- tags :: [[file:20200422201907-writing.org][Writing]]
+- tags :: [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]]

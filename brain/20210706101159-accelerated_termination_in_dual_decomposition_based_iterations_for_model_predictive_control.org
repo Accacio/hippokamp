@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       c2e1a844-f7f2-4013-a862-8f68ef231f90
+:END:
 #+title: Accelerated Termination in Dual Decomposition Based Iterations for Model Predictive Control
 
-- tags :: [[file:20200422133932-presentations_these.org][Presentations These]]
+- tags :: [[id:f3a1ddb4-11d8-4172-b086-340f004a8a5f][Presentations These]]
 
 - lecturer :: Xiang Dai
 

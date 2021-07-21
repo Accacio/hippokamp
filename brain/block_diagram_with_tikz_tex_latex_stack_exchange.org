@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       0a057e7d-86a7-4a63-ba9c-308d22a55e37
+:ROAM_REFS: https://tex.stackexchange.com/questions/268878/block-diagram-with-tikz/268911#268911
+:END:
 #+title: Block diagram with Tikz - TeX - LaTeX Stack Exchange
-#+roam_key: https://tex.stackexchange.com/questions/268878/block-diagram-with-tikz/268911#268911
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]], [[file:20200504164021-control.org][Control]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]], [[id:183fa358-b121-432e-be54-3e09847c988c][Control]]

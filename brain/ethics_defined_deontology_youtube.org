@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       f5020532-b7fb-4293-a69f-cc5d0be30448
+:ROAM_REFS: https://www.youtube.com/watch?v=wWZi-8Wji7M
+:END:
 #+title: Ethics Defined: Deontology - YouTube
-#+roam_key: https://www.youtube.com/watch?v=wWZi-8Wji7M
-- tags :: [[file:20200715105347-deontology.org][Deontology]]
+- tags :: [[id:f80caff4-fca2-4145-a1ac-2b3269edc183][Deontology]]
 
-  Associated to [[file:20200715105910-immanuel_kant.org][Immanuel Kant]]
+  Associated to [[id:c9024256-0ab8-4f02-9c30-623faf57f952][Immanuel Kant]]
 
 * universal moral laws
 

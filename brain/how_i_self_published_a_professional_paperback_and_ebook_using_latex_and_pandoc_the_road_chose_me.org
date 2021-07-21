@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       01791ac9-1f6b-4f7b-92aa-e802902d7022
+:ROAM_REFS: http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc?1
+:END:
 #+title: How I self-published a professional paperback and eBook using LaTeX and Pandoc | The Road Chose Me
-#+roam_key: http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc?1
-- tags :: [[file:20200422201907-writing.org][Writing]], [[file:20210108173314-publications.org][Publications]]
+- tags :: [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]], [[id:3a886c8f-d50f-46c0-ac93-4ccbcc29fb61][Publications]]
 
 http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc?1

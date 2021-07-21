@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       5dd196a7-a7aa-41b2-94b2-9ab79b89de8f
+:ROAM_REFS: cite:Frangipani2015
+:END:
 #+TITLE: Frangipani2015
-#+ROAM_KEY: cite:Frangipani2015
-#+ROAM_TAGS: thesis
+#+filetags: thesis
 
-- tag :: [[file:20200422140353-estimation.org][Estimation]]
+- tag :: [[id:73c6fea6-0266-4dfb-b66b-0c502c51cbab][Estimation]]
 
 * Frangipani2015
 :PROPERTIES:

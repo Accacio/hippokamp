@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       806ebbfe-0748-41f3-b3ca-bd881526bf95
+:END:
 #+TITLE: electrification et Réseaux isolés
-- tags :: [[file:20200422220259-energie.org][énérgie]]
+- tags :: [[id:908aeea6-39e7-499f-812e-5e5b96a8000c][énérgie]]

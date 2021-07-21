@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       08cd6ca9-a3ff-4cfe-952a-384822096349
+:ROAM_REFS: https://latexeditor.lagrida.com/
+:END:
 #+title: Online LaTeX Equation Editor
-#+roam_key: https://latexeditor.lagrida.com/
 
 https://latexeditor.lagrida.com/
 
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]]

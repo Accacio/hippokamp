@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       06eaec01-bb86-4313-b6bf-a5a70012a919
+:END:
 #+title: Khalman

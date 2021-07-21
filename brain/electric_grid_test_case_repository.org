@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       72823c7b-4b9e-4558-8975-c51bf68cd0e4
+:ROAM_REFS: https://electricgrids.engr.tamu.edu/
+:END:
 #+title: Electric Grid Test Case Repository
-#+roam_key: https://electricgrids.engr.tamu.edu/
-- tags :: [[file:20200813161636-electric_grid_test_cases.org][Electric Grid Test Cases]]
+- tags :: [[id:630860d3-4aba-4364-a578-ddc4da63e1fa][Electric Grid Test Cases]]

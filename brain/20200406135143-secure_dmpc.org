@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       4cabbb59-a17c-4583-9826-6e6eb436488e
+:ROAM_ALIASES: "Secure dMPC"
+:END:
 #+TITLE: Secure dMPC
-#+ROAM_ALIAS: "Secure dMPC"
-- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200709101933-dmpc.org][dMPC]]
+- tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][cyber-security]], [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]]
 
 * Our approach
 1. Get subsystems

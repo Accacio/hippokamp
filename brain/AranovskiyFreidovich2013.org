@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       b031d7c3-3830-40b3-a9b7-ccda00e19e14
+:ROAM_REFS: cite:AranovskiyFreidovich2013
+:END:
 #+TITLE: AranovskiyFreidovich2013: Adaptive compensation of disturbances formed as sums of sinusoidal signals with application to an active vibration control benchmark.
-#+ROAM_KEY: cite:AranovskiyFreidovich2013
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200504162654-adaptive_control.org][Adaptive Control]], [[file:20200504162727-disturbance_rejection.org][disturbance rejection]]
+- tags :: [[id:27a44a3c-219a-4a8c-8417-0f4e0a62f9c2][Adaptive Control]], [[id:709c7780-ae2a-4f15-bc2a-71392d5a5a7e][disturbance rejection]]
  
 * AranovskiyFreidovich2013
 :PROPERTIES:

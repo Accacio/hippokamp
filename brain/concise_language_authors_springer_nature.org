@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       0cf58d9b-dbcc-425b-a4c2-317d64e385d0
+:ROAM_REFS: https://www.springernature.com/gp/authors/campaigns/writing-in-english/writing-in-english-concise-language
+:END:
 #+title: Concise Language | Authors | Springer Nature
-#+roam_key: https://www.springernature.com/gp/authors/campaigns/writing-in-english/writing-in-english-concise-language
-- tags :: [[file:20200422201907-writing.org][Writing]]
+- tags :: [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]]
 
 * Tips for concise language
 

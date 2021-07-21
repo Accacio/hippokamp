@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       6f1e8604-b30c-4428-b9e3-7b06a60646b2
+:ROAM_ALIASES: DoS
+:END:
 #+title: Denial-of-service attacks
-#+ROAM_ALIAS: DoS
-- tags :: [[file:20200722151944-attacks.org][Attacks]], [[file:20200427105830-cybersecurity.org][Cyber-security]]
+- tags :: [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attacks]], [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-security]]
 
   Attack which objective is to exhaust the resources of the attacked system (usually a server) so
   it cannot offer service to other users

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       4fdd738f-c72c-4e32-b1a8-cda124c7f64d
+:END:
 #+title: C/C++
-- tags :: [[file:20200713160350-programming.org][Programming]]
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]]
 
 
 * To see symbols in object use nm

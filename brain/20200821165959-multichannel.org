@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       23fc4cdf-b8db-4699-885a-ca50cb37ae05
+:END:
 #+title: Multichannel

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       2ce460b6-7d81-45e2-812c-ebb16b532bcd
+:END:
 #+TITLE: online estimation
-- tags :: [[file:20200422140353-estimation.org][Estimation]]
+- tags :: [[id:73c6fea6-0266-4dfb-b66b-0c502c51cbab][Estimation]]
 
 * recursive polynomial model estimator <= linear system
 * recursive  least squares estimator <= linear + nonlinear system

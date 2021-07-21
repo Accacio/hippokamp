@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       992aa6ee-5e33-4b08-8f7b-703d44aac9fe
+:END:
 #+title: Seminaire AUT
 
 

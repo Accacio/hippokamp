@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       e461d038-2871-43ff-878a-8dab4a5e0d40
+:ROAM_REFS: http://ctms.engin.umich.edu/CTMS/index.php?example=MotorSpeed&section=SystemModeling
+:END:
 #+title: Control Tutorials for MATLAB and Simulink - Motor Speed: System Modeling
-#+roam_key: http://ctms.engin.umich.edu/CTMS/index.php?example=MotorSpeed&section=SystemModeling
-- tags :: [[file:20200828141651-dc_motor.org][DC Motor]], [[file:20200504164021-control.org][Control]]
+- tags :: [[id:2bf04398-aa60-4e08-829f-bd4585381ae3][DC Motor]], [[id:183fa358-b121-432e-be54-3e09847c988c][Control]]
 

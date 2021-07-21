@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       7c0fb869-3c37-49ad-a28f-1911524bec59
+:ROAM_REFS: cite:CamachoBordons2007
+:END:
 #+TITLE: CamachoBordons2007
-#+ROAM_KEY: cite:CamachoBordons2007
-#+ROAM_TAGS: book
+#+filetags: book
 
-- tags :: [[file:20200709101720-mpc.org][Model Predictive Control]]
+- tags :: [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][Model Predictive Control]]
 - keywords ::
 
 
@@ -18,7 +21,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Book on [[file:20200709101720-mpc.org][MPC]]
+Book on [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

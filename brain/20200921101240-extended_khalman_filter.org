@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       d3238813-db75-4897-bfed-c151fa066d52
+:END:
 #+title: Extended Khalman Filter
-- tags :: [[file:20200617105641-khalman.org][Khalman]]
+- tags :: [[id:06eaec01-bb86-4313-b6bf-a5a70012a919][Khalman]]

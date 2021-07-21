@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       f62d60ca-4a29-4d6e-8ead-89e4dda9aca3
+:ROAM_ALIASES: MIMO
+:END:
 #+title: Multi-variable Systems
-#+ROAM_ALIAS: MIMO
-- tags :: [[file:20200708153036-dynamic_systems.org][Systems]]
+- tags :: [[id:e3029c97-70bc-44cb-a8f8-706fd4732343][Systems]]

@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       edd2fce6-e624-4835-9997-dbea8b8df48f
+:ROAM_REFS: cite:BittantiEtAl1990
+:END:
 #+title: BittantiEtAl1990:
-#+ROAM_KEY: cite:BittantiEtAl1990
-#+ROAM_TAGS: article
-- tags :: [[file:20200504163253-recursive_least_squares.org][recursive least-squares]], [[file:20210323094314-identification.org][Identification]], [[file:20200504162654-adaptive_control.org][Adaptive Control]],[[file:20200422140353-estimation.org][Parameter Estimation]]
+#+filetags: article
+- tags :: [[id:0147d11c-6d28-4f4c-98ac-23eb096ff3fa][recursive least-squares]], [[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]], [[id:27a44a3c-219a-4a8c-8417-0f4e0a62f9c2][Adaptive Control]],[[id:73c6fea6-0266-4dfb-b66b-0c502c51cbab][Parameter Estimation]]
 
 * BittantiEtAl1990
 :PROPERTIES:

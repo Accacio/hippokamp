@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       b743dff2-a83b-445b-9148-239ecb99f1fe
+:END:
 #+TITLE: Hippokamp
 * Hippokamp
 ** What is this?
@@ -17,14 +20,14 @@ From wikipedia the hippocampus is :
 … under the cerebral cortex. It is important in spatial memory and navigation, and _helps turn short-term memory into long-term memory_.
 #+end_quote
 ** Some interesting notes (maybe)
-- [[file:brain/20200504164021-control.org][Control]]
-- [[file:brain/20200923155306-graph_theory.org][Graph Theory]]
+- [[id:183fa358-b121-432e-be54-3e09847c988c][Control]]
+- [[id:e9766a59-fd79-4be1-8a46-387c852c22f0][Graph Theory]]
 ** Cool articles
-- [[file:brain/GilbertEtAl1988.org][GilbertEtAl1988: A fast procedure for computing the distance between complex objects in three-dimensional space]]
+- [[id:1725062d-ff58-4c79-8ea4-6bcf6fb95666][GilbertEtAl1988: A fast procedure for computing the distance between complex objects in three-dimensional space]]
 ** Cool comics
-- [[file:brain/xkcd_s_keyboard_leopard.org][xkcd: s/keyboard/leopard/]]
-- [[file:brain/xkcd_the_problem_with_wikipedia.org][xkcd: the problem with wikipedia]]
+- [[id:29525c21-2bb3-4690-8825-8e1d8b8aef0f][xkcd: s/keyboard/leopard/]]
+- [[id:8ce7acfb-028a-43ba-be41-a5a112c95fb4][xkcd: the problem with wikipedia]]
 ** List of recipes
-- [[file:brain/20210319185651-meal_planning.org][Meal Planning]]
+- [[id:04fee8c6-f8cf-4333-9220-3ba1b75815bf][Meal Planning]]
 ** HTML version
 the HTML version of these notes is [[https://accacio.gitlab.io/brain][here]]

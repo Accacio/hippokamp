@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       5142dddf-07e8-4e0f-ba22-af7e303fd9e3
+:ROAM_REFS: https://xkcd.com/2432/
+:END:
 #+title: xkcd: Manage Your Preferences
-#+roam_key: https://xkcd.com/2432/
-- tags :: [[file:20210304095302-comics.org][comics]]
+- tags :: [[id:46a117a5-0a94-4fc1-a9a8-bd9eaa7daf69][comics]]

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       c48972ef-c693-44e3-961f-a9b33785e74b
+:END:
 #+TITLE: Course Prevention
 #+OPTIONS: toc:nil
 #+REVEAL_INIT_OPTIONS: slideNumber:true
 
-[[file:formations_these.org][Formations Doctorat]]
+[[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]]
 
 * What
 ** objective

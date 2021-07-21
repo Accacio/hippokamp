@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       d7bce742-dbf3-4153-a9c2-5c97e2407e41
+:ROAM_REFS: https://codon.com/programming-with-nothing
+:END:
 #+title: Programming with Nothing
-#+roam_key: https://codon.com/programming-with-nothing
-- tags :: [[file:20200713160350-programming.org][Programming]] ,[[file:20200708140225-lambda_calculus.org][Lambda Calculus]], [[file:20200709114832-ruby.org][ruby]]
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]] ,[[id:3c8c54b3-5974-4521-991b-79e297de6c3a][Lambda Calculus]], [[id:e1e535e3-e5c1-48fb-ad83-13053a4b1dc2][ruby]]

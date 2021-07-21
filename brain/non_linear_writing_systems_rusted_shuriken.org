@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       17a7e8c0-9598-4fd1-ad00-ee0876e798c0
+:ROAM_REFS: https://shuriken.wordpress.com/2006/06/01/non-linear-writing-systems/
+:END:
 #+title: Non-linear writing systems | Rusted Shuriken
-#+roam_key: https://shuriken.wordpress.com/2006/06/01/non-linear-writing-systems/
-- tags :: [[file:20200703171750-non_linear_writing_systems.org][non-linear writing systems]],
+- tags :: [[id:9a3406a7-6342-47f0-9007-1640a6f969cd][non-linear writing systems]],

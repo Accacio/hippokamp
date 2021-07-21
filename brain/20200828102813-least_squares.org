@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       fbd817a8-43a5-4b8e-95b5-7b199bf98be1
+:END:
 #+title: Least-squares
-- tags :: [[file:20200709102805-optimization.org][Optimization]]
+- tags :: [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]

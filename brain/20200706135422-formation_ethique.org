@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       7f1ee860-f46a-4230-9b37-68aed09ad5ca
+:END:
 #+title: Formation Ethique
-- tags :: [[file:formations_these.org][Formations Doctorat]], [[file:20200706142234-ethique.org][Ethique]]
+- tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]], [[id:65fa478b-7a51-495d-8f50-631262768d30][Ethique]]
 
 <2020-07-17 ven.>
 
@@ -7,14 +10,14 @@
 ** Example Tramway sans freins
 
 Concilier conséquence des principes et caractère de l'agent et la virtuosité si possible
-*** [[file:20200715110745-consequentialism.org][Consequentialism]]: mieux veut tuer 1 personne que 5*
+*** [[id:1e4c743d-5d37-41e9-bf4f-7f1396a3da19][Consequentialism]]: mieux veut tuer 1 personne que 5*
  Maximiser la bonheur de la plus part de personne
 
-*** [[file:20200715105347-deontology.org][Deontology]]: Réfuser la choix
+*** [[id:f80caff4-fca2-4145-a1ac-2b3269edc183][Deontology]]: Réfuser la choix
 Pas comptabiliser les vies humaines
 déontologique dignité (bien et mal)
 
-*** [[file:20200715110845-virtue_ethics.org][Virtue Ethics]]: Examiner le caractère et l'intention de l'agent
+*** [[id:9bc933a6-5490-426e-a2be-1c86337c2817][Virtue Ethics]]: Examiner le caractère et l'intention de l'agent
 qu'est qu'un agent virtuose ferait?
 
 ** 4 types d'action
@@ -71,7 +74,7 @@ dignité
 *** Si on admet que reduit au statut de simple chose
 - Si le GPA est volontaire: On ne recherche pas le consentement d'un objet.
 
-* Principes de l'éthique biomédicale [[file:20200715111307-beauchamp.org][Beauchamp]]
+* Principes de l'éthique biomédicale [[id:9019091e-fff9-4d2b-ba97-2ef3bea555af][Beauchamp]]
 Consequentialisme et Déontologique
 
 ** Déontologique

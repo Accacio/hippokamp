@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       9e9bf282-75d3-4a13-a482-b87a55f2398e
+:END:
 #+title: Sensitivity Exchange
 
 Exchange of sensitivity functions among subsystems

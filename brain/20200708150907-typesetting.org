@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       3b38587a-7b98-459b-8201-ae2ebbe8a33b
+:END:
 #+title: Typesetting
-- tags :: [[file:20200422201907-writing.org][Writing]]
+- tags :: [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]]

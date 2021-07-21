@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       90d52a76-f0e1-4b3b-ad42-c4f31c6cab0b
+:END:
 #+title: Error Propagation
 
-- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+- tags :: [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]]
 
 * Partial derivatives Algorithm
 - $Y=f(X_1,X_2,\dots,X_n)$

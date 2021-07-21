@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       2bc4427b-b56f-486e-a045-f64f231b0c7d
+:END:
 #+title: groff
-- tags :: [[file:20200708150907-typesetting.org][Typesetting]]
+- tags :: [[id:3b38587a-7b98-459b-8201-ae2ebbe8a33b][Typesetting]]

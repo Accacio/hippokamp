@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       372382b5-5c82-4960-b007-ea3ec3190dda
+:ROAM_REFS: https://stackoverflow.com/questions/34614523/multiple-definition-error-c
+:END:
 #+title: header files - multiple definition error c++ - Stack Overflow
-#+roam_key: https://stackoverflow.com/questions/34614523/multiple-definition-error-c
-- tags :: [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]
 
 * [#A] Use =inline= for template members and methods!!!

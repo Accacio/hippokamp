@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       1fc8cb8e-13a4-4d63-a22c-4c57584d26b0
+:END:
 #+title: Explicit MPC
-- tags :: [[file:20200709101720-mpc.org][Model Predictive Control]]
+- tags :: [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][Model Predictive Control]]

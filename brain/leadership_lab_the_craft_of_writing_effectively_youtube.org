@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       d4d57ee3-8bae-4863-9041-76e1125c3524
+:ROAM_REFS: https://www.youtube.com/watch?v=vtIzMaLkCaM
+:END:
 #+title: LEADERSHIP LAB: The Craft of Writing Effectively - YouTube
-#+roam_key: https://www.youtube.com/watch?v=vtIzMaLkCaM
-- tags :: [[file:20200422201907-writing.org][Writing]]
+- tags :: [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]]
 - Speaker :: Larry McEnerney
 lmce@uchicago.ed
 
@@ -112,4 +115,4 @@ to present indefinitely.
   - Solution
 ** Use Lit. Review to enrich the problem
 Move forward using instability to create layers.
-[[file:20200716112123-functional_writing.org][Functional Writing]]
+[[id:e9533ad5-a64b-4d8b-9776-393e04d0e533][Functional Writing]]

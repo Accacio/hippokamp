@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       8bda8fb1-6d55-4096-affe-8056651eb030
+:END:
 #+title: John Hopcroft
-#+ROAM_TAGS: people
+#+filetags: people
 - tags ::
 
 * Palestra na UFRJ

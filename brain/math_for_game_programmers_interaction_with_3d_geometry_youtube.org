@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ad78b44b-929a-4031-8a15-429b7ee3f064
+:ROAM_REFS: https://www.youtube.com/watch?v=GpsKrAipXm8
+:END:
 #+title: Math for Game Programmers: Interaction With 3D Geometry - YouTube
-#+roam_key: https://www.youtube.com/watch?v=GpsKrAipXm8
-- tags :: [[file:20210202185925-stan_melax.org][Stan Melax]], [[file:20200423094808-gamedev.org][gamedev]]
+- tags :: [[id:d7288ab6-fbe1-4999-b04e-78d6428998ad][Stan Melax]], [[id:ed3f80b9-425d-48b8-b838-19ca3d2ca38e][gamedev]]

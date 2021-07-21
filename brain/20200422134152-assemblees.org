@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       01ec0fcf-a548-4c80-9eea-73bddf1b8e61
+:END:
 #+TITLE: Assemblées
-- tags :: [[file:20200422131137-these.org][These]]
+- tags :: [[id:ebb4a160-db74-41df-925c-fd4c17f3b82b][These]]

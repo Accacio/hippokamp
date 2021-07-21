@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       f185dd64-6312-4725-9da8-f98dfab355cd
+:ROAM_REFS: https://fr.mathworks.com/products/matlab-grader.html
+:END:
 #+TITLE: MATLAB Grader - MATLAB & Simulink
-#+ROAM_KEY: https://fr.mathworks.com/products/matlab-grader.html
-- tags :: [[file:20200424101435-education.org][education]], [[file:20200708153513-matlab.org][MATLAB]]
+- tags :: [[id:92200229-0f70-409d-b99f-1260dc066b59][education]], [[id:21710610-f6f2-4953-8e15-83fac3a4de9c][MATLAB]]

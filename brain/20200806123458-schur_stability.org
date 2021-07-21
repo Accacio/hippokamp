@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       b5802df4-9bd3-4482-a9b0-12ac4772c46e
+:END:
 #+title: Schur Stability
-- tags :: [[file:20200504113017-stability.org][stability]]
+- tags :: [[id:49daf608-7a79-4ade-a729-e858d05f56a7][stability]]
 Matrix wich absolute values of Eigenvalues are all less than one

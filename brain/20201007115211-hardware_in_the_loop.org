@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       c3642aba-beb1-4288-afa9-5fe0e2750031
+:END:
 #+title: Hardware-in-the-loop
-- tags :: [[file:20200716170112-simulation.org][Simulation]]
+- tags :: [[id:4ee121fd-b469-42eb-bef3-28fa032c4a60][Simulation]]

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       34768710-02d3-4c55-9b64-a60a8adf8cda
+:ROAM_REFS: cite:LinEtAl2020
+:END:
 #+TITLE: LinEtAl2020
-#+ROAM_KEY: cite:LinEtAl2020
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200608100448-networked_control.org][networked control]], [[file:20200422140353-estimation.org][Estimation]]
+- tags :: [[id:f3727224-7286-465f-bff0-bff8dd490ea4][networked control]], [[id:73c6fea6-0266-4dfb-b66b-0c502c51cbab][Estimation]]
  
 * LinEtAl2020
 :PROPERTIES:
@@ -12,7 +15,7 @@
 *** Motivation :springGreen:
 Obtain state estimation under delayed communication
 *** Model :lightSkyblue:
-- [[file:20200821165959-multichannel.org][Multichannel]] [[file:20200608100448-networked_control.org][Networked ]][[file:20200504113008-discrete_time_systems.org][Discrete-time ]][[file:20200803164930-event_based_control.org][Event-Based System]] modeleed by an automaton
+- [[id:23fc4cdf-b8db-4699-885a-ca50cb37ae05][Multichannel]] [[id:f3727224-7286-465f-bff0-bff8dd490ea4][Networked]][[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][Discrete-time]][[id:02289306-4cb1-4371-a5da-eedd95e7b268][Event-Based System]] modeleed by an automaton
 *** Remarks
 *** Applications
 *** References :violet:

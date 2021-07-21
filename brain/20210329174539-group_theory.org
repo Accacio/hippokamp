@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       2c8e07e1-3dcd-4b7b-bd09-ed260cb60162
+:END:
 #+title: Group Theory
-- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+- tags :: [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]]
 
 * Definitions
 - <<<Group>>> :: generalizes the concept of ordinary addition

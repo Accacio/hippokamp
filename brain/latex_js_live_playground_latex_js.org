@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6b4dc136-3017-43d6-b9f8-6a88c0fa77af
+:ROAM_REFS: https://latex.js.org/playground.html
+:END:
 #+title: LaTeX.js Live Playground | LaTeX.js
-#+roam_key: https://latex.js.org/playground.html
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]], [[file:20200721210324-javascript.org][javascript]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]], [[id:3501fd55-13d0-400a-a0a3-7f09c0c3b239][javascript]]

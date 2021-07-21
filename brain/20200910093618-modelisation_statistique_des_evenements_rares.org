@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       843d7c4b-4d31-4d79-814d-c23313334790
+:END:
 #+title: Modélisation Statistique des Événements Rares
-- tags :: [[file:formations_these.org][Formations Doctorat]], [[file:20210216110307-statistics.org][Statistics]]
+- tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]], [[id:25f37643-7c4e-48bc-a9b3-728c0d301bc2][Statistics]]
 
 - intervenant :: Jean-François Dupuy
 

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       2aede0ed-313e-44b6-8cc4-30b51c28eec5
+:END:
 #+title: HDR Romain
 
 Contributions à la commande prédictive distribuée et hiérachisée pour les systèmes complexes

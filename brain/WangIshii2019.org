@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       bbd0f067-dbfe-46c5-880a-0105381e0e5d
+:ROAM_REFS: cite:WangIshii2019
+:END:
 #+TITLE: WangIshii2019
-#+ROAM_KEY: cite:WangIshii2019
-#+ROAM_TAGS: reading article
+#+filetags: reading article
 
 - tags ::
 - keywords ::
@@ -26,7 +29,7 @@
 
 ** NOTES
 
-** More recently, it has been recognized that networked control systems can be vulnerable to adversarial cyber attacks (see, e.g., [21]).
+*** More recently, it has been recognized that networked control systems can be vulnerable to adversarial cyber attacks (see, e.g., [21]).
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangIshii2019.pdf::1++2.50;;annot-1-0]]
 :ID:       ../../docsThese/bibliography/WangIshii2019.pdf-annot-1-0

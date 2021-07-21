@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       e306dc69-8923-4e14-bac0-99586f9d7b1a
+:ROAM_REFS: J.S. http://classicaland.com/list.asp?go=composer&word=Bach,
+:END:
 #+title: CLASSICA(land): Book list.
-#+roam_key: http://classicaland.com/list.asp?go=composer&word=Bach, J.S.
 
 http://classicaland.com/list.asp?go=composer&word=Bach, J.S.
 
-- tags :: [[file:20200423095046-music.org][Music]]
+- tags :: [[id:7c1193f5-67b3-4df9-b85d-71bfec421d12][Music]]
 
   sheet music

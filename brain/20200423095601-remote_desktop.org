@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       6f06ce98-1d0e-4d00-a5f7-a2ec0189ac69
+:END:
 #+TITLE: remote desktop

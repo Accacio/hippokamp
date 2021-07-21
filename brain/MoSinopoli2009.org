@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       536029f2-b4dd-4403-adda-baf66d3b818d
+:ROAM_REFS: cite:MoSinopoli2009
+:END:
 #+TITLE: MoSinopoli2009
-#+ROAM_KEY: cite:MoSinopoli2009
-#+ROAM_TAGS: article
+#+filetags: article
 
 - tags ::
 - keywords ::
@@ -19,7 +22,7 @@
 
 *** Motivation :springGreen:
 *** Model :lightSkyblue:
-[[file:20200504113008-discrete_time_systems.org][discrete time]] [[file:20200716170441-linear_system.org][linear]] time invariant (LTI) Gaussian system applying an infinite horizon Linear Quadratic Gaussian (LQG) controller.
+[[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][discrete time]] [[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][linear]] time invariant (LTI) Gaussian system applying an infinite horizon Linear Quadratic Gaussian (LQG) controller.
 *** Remarks
 *** Applications
 *** Expressions

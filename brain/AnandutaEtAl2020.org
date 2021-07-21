@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       baa6286b-2bb4-4352-a6d5-51dc1e3f229b
+:ROAM_REFS: cite:AnandutaEtAl2020.pdf
+:END:
 #+TITLE: AnandutaEtAl2020: Resilient distributed model predictive control for energy management of interconnected microgrids
-#+ROAM_KEY: cite:AnandutaEtAl2020.pdf
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200709101933-dmpc.org][dMPC]], [[file:20200908140517-multi_agents.org][Multi-Agents]]
+- tags :: [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]], [[id:6a11e808-f5e6-4bdd-ad52-609056cc541d][Multi-Agents]]
 - keywords :: distributed MPC, distributed optimization, economic dispatch, microgrids, resilient algorithm
 
 
@@ -18,14 +21,14 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Resilient [[file:20200709101933-dmpc.org][DMPC]] under Attack using [[file:20200813155010-bayesian_inference.org][Bayesian Inference]]
+Resilient [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][DMPC]] under Attack using [[id:c34a53cd-f404-415a-b26e-0c4ed12b20a1][Bayesian Inference]]
 Good example of distribution network
 *** Model :lightSkyblue:
 - undirected graph $S=(\mathcal{N}, \mathcal{E})$, neighborhood $\mathcal{N}_{i}=\{j:(i, j) \in \mathcal{E}\}$
-- [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200716170441-linear_system.org][Linear Systems]]
+- [[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][Discrete-time]] [[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear Systems]]
 - Constrained States
 - Constrained inputs
-- [[file:20200709101720-mpc.org][MPC]]
+- [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
 *** Remarks
 *** Applications
 - Based on Economic Dispatch of a microgrids
@@ -275,7 +278,7 @@ But what if faulty agent??
 :ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-11-1
 :END:
 
-*** [[file:20200813155010-bayesian_inference.org][Bayesian Inference]] to update probability of hypothesis
+*** [[id:c34a53cd-f404-415a-b26e-0c4ed12b20a1][Bayesian Inference]] to update probability of hypothesis
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::12++0.00;;annot-12-0]]
 :ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-12-0
@@ -287,7 +290,7 @@ But what if faulty agent??
 :ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-12-1
 :END:
 
-*** distribution network PG&E 69-bus [[file:20200813161636-electric_grid_test_cases.org][Electric Grid Test Cases]]
+*** distribution network PG&E 69-bus [[id:630860d3-4aba-4364-a578-ddc4da63e1fa][Electric Grid Test Cases]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::18++0.49;;annot-18-0]]
 :ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-18-0

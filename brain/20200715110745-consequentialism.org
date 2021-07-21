@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       1e4c743d-5d37-41e9-bf4f-7f1396a3da19
+:END:
 #+title: Consequentialism
-- tags :: [[file:20200706142234-ethique.org][Ethique]]
+- tags :: [[id:65fa478b-7a51-495d-8f50-631262768d30][Ethique]]

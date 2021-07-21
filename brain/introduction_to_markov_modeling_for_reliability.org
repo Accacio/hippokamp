@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       57921466-b265-4296-980e-485b9db08333
+:ROAM_REFS: https://www.mathpages.com/home/kmath232/kmath232.htm
+:END:
 #+title: Introduction to Markov Modeling for Reliability
-#+roam_key: https://www.mathpages.com/home/kmath232/kmath232.htm
 
 - tags :: Reliability

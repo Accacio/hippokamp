@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       04fee8c6-f8cf-4333-9220-3ba1b75815bf
+:END:
 #+title: Meal Planning
 - tags :: comidinhas
 

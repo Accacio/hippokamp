@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       7cf24726-015d-46cf-80d4-f15c814943f7
+:END:
 #+title: Mechanics
-- tags :: [[file:20200828141710-physics.org][Physics]]
+- tags :: [[id:2a20969f-02b8-4c97-b9b0-da9d33672b63][Physics]]

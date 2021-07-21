@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       e922a535-42a0-488b-998f-a663538b6471
+:ROAM_REFS: cite:Bindra2017
+:END:
 #+TITLE: Bindra2017: Securing the power grid: protecting smart grids and connected power systems from cyberattacks
-#+ROAM_KEY: cite:Bindra2017
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200427105830-cybersecurity.org][Cyber-Security]], [[file:20200908135242-survey.org][Survey]]
+- tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]], [[id:5402d61d-29b3-4618-b058-09f58831b40a][Survey]]
 - keywords :: 
 
 

@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       b16008ba-9c13-4b79-a15c-c5a418d41ea5
+:END:
 #+title: IGSC

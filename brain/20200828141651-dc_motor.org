@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       2bf04398-aa60-4e08-829f-bd4585381ae3
+:END:
 #+title: DC Motor
-- tags :: [[file:20200828141710-physics.org][Physics]], [[file:20200828141718-modelling.org][Modelling]]
+- tags :: [[id:2a20969f-02b8-4c97-b9b0-da9d33672b63][Physics]], [[id:a94c16c1-542d-45be-a1a2-5d5d196ecf82][Modelling]]
 
 * Model
 #+HEADER: :file img/contour.png :imagemagick yes

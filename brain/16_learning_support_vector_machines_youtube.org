@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       60c8e988-c46f-4fc5-9033-4d7eb11bf072
+:ROAM_REFS: https://www.youtube.com/watch?v=_PwhiWxHK8o
+:END:
 #+title: 16. Learning: Support Vector Machines - YouTube
-#+roam_key: https://www.youtube.com/watch?v=_PwhiWxHK8o
 
 https://www.youtube.com/watch?v=_PwhiWxHK8o
 
-- tags :: [[file:20210715113152-support_vector_machines.org][Support Vector Machines]]
+- tags :: [[id:2ddee334-4a95-4797-89cc-9dd19dd49bcf][Support Vector Machines]]
 
 
 * Problem

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       6a983963-3b05-4850-8b1d-b651eb10c6b7
+:ROAM_REFS: https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html
+:END:
 #+title: SQLite Source Code Blocks in Org Mode
-#+roam_key: https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html
 
 https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html
 
-- tags :: [[file:20210323095414-sql.org][SQL]], [[file:20200619120854-org_mode.org][org-mode]]
+- tags :: [[id:02138622-6b39-4f01-842d-6527778681fb][SQL]], [[id:23829686-a3dc-45db-9f08-687f38e9430e][org-mode]]

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       1725062d-ff58-4c79-8ea4-6bcf6fb95666
+:ROAM_REFS: cite:GilbertEtAl1988
+:END:
 #+TITLE: GilbertEtAl1988: A fast procedure for computing the distance between complex objects in three-dimensional space
-#+ROAM_KEY: cite:GilbertEtAl1988
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: Robotics, [[file:20201215140935-projection.org][Projection]], [[file:20200423094808-gamedev.org][gamedev]]
+- tags :: Robotics, [[id:441c92e4-b3bc-4c5f-882d-d8a200ed7623][Projection]], [[id:ed3f80b9-425d-48b8-b838-19ca3d2ca38e][gamedev]]
 - keywords ::
 
 

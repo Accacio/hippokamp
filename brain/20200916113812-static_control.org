@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       3d5a82a7-80e8-4beb-be8f-24369c3452b6
+:END:
 #+title: Static Control

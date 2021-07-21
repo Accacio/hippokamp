@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       6a1d6010-cec7-4a73-bf7c-986b6aab91e1
+:ROAM_REFS: https://www.youtube.com/watch?v=Unzc731iCUY
+:END:
 #+title: How To Speak by Patrick Winston - YouTube
-#+roam_key: https://www.youtube.com/watch?v=Unzc731iCUY
-- tags :: [[file:20200715132839-public_speaking.org][Public Speaking]]
+- tags :: [[id:4971d308-fd9e-47bc-b4d3-fd95a41967b6][Public Speaking]]
 
 - Speaker :: Patrick Winston
 

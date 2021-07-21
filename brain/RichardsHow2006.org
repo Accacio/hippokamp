@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       4d434bb9-1d9b-4636-ac2b-66bab8023f10
+:ROAM_REFS: cite:RichardsHow2006
+:END:
 #+TITLE: RichardsHow2006: Robust stable model predictive control with constraint tightening
-#+ROAM_KEY: cite:RichardsHow2006
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200803163941-robust_control.org][Robust Control]],[[file:20200709101720-mpc.org][MPC]]
+- tags :: [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust Control]],[[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
 - keywords ::
 
 
@@ -18,9 +21,9 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-[[file:20200803163941-robust_control.org][Robust]] [[file:20200709101720-mpc.org][MPC]] with tightening constraints
+[[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust]] [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]] with tightening constraints
 *** Model :lightSkyblue:
-[[file:20200716170441-linear_system.org][Linear ]][[file:20200504113008-discrete_time_systems.org][Discrete-time System]] with disturbance
+[[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear]][[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][Discrete-time System]] with disturbance
 *** Remarks
 *** Applications
 *** Expressions

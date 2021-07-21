@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1dcd7d7b-53fd-4c3b-9cde-8515caa61713
+:END:
 #+TITLE: Discrete-time Systems
-- tags :: [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]
+- tags :: [[id:e3029c97-70bc-44cb-a8f8-706fd4732343][Dynamic Systems]]
 
 * Model
 - $x^+=Ax+Bu+w$

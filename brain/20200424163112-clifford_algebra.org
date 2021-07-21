@@ -1,2 +1,5 @@
-#+TITLE: clifford algebra
-- tags :: [[file:20200424162958-algebra.org][algebra]]
+:PROPERTIES:
+:ID:       dad0f5d2-b490-46d1-831e-2f53b231271f
+:END:
+#+TITLE: Clifford Algebra
+- tags :: [[id:37d1782e-73eb-4e2d-a7d2-efaf157d63d9][Algebra]]

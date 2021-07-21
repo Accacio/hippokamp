@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       536957c8-b48f-43f1-99fa-20125ab2371d
+:ROAM_REFS: http://dantorop.info/project/emacs-animation/
+:END:
 #+title: Emacs Lisp Animations | Digital | Dan Torop
-#+roam_key: http://dantorop.info/project/emacs-animation/
 
 http://dantorop.info/project/emacs-animation/
 

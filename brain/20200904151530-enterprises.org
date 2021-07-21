@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       5d980987-ed29-45e4-aa5b-696e32d7a66c
+:END:
 #+title: Enterprises

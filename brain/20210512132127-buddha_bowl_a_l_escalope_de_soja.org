@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       00b31441-5612-4d8a-80fb-5425c114423e
+:END:
 #+title: Buddha Bowl à l'escalope de soja
 
-- tags :: [[file:20210512132143-recipes.org][Recipes]]
+- tags :: [[id:4aa9d686-a487-4639-99e4-1f7c2d036776][Recipes]]
 
 * Ingredients
 - 2 Escalopes Soja & Blé LE BON VÉGÉTAL® HERTAⓇ

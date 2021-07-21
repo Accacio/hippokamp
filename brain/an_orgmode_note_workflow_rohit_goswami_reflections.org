@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       622f4eb4-2722-4722-823e-ba7553ff182d
+:ROAM_REFS: https://rgoswami.me/posts/org-note-workflow/
+:END:
 #+title: An Orgmode Note Workflow :: Rohit Goswami — Reflections
-#+roam_key: https://rgoswami.me/posts/org-note-workflow/
-- tags :: [[file:20200619120841-note_taking.org][Note Taking]], [[file:20200619120854-org_mode.org][org-mode]]
+- tags :: [[id:e5344612-49f9-4077-889c-fc8fd55092bb][Note Taking]], [[id:23829686-a3dc-45db-9f08-687f38e9430e][org-mode]]
 Used in configuration, but with biblio and some other modifications

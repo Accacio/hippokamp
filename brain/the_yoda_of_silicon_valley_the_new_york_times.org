@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       5e552dda-e92d-4c3e-9098-c2d330392ebd
+:ROAM_REFS: https:/www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html
+:END:
 #+title: The Yoda of Silicon Valley - The New York Times
-#+roam_key: https:/www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html
-- tags :: [[file:20200708161810-donald_knuth.org][Donald Knuth]]
+- tags :: [[id:ad7b77d2-72ba-4f88-9dc2-1da2148fb940][Donald Knuth]]

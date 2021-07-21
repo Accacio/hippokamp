@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       5206674b-0b43-4cf4-a76e-7af22d080be1
+:END:
 #+TITLE: control conventions
-- tags :: [[file:20200504164021-control.org][control]], [[file:20200504164001-convention.org][conventions]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][control]], [[id:82c8b1f1-86f3-40ad-938d-99fe38403dab][conventions]]

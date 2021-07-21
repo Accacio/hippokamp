@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       3ec3cd81-0163-4fe1-9c20-b5dfd33427d6
+:END:
 #+title: Stochastic Control
-- tags :: [[file:20200504164021-control.org][control]], [[file:20200716170653-probability.org][Probability]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][control]], [[id:7fe6a949-9d88-46d2-97ed-02fe6af8c4f5][Probability]]

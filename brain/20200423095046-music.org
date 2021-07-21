@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       7c1193f5-67b3-4df9-b85d-71bfec421d12
+:END:
 #+TITLE: Music

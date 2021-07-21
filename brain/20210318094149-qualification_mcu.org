@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       07dc088f-a136-47d2-95d5-0c29b7d0e7c8
+:END:
 #+title: Qualification MCU
-- tags :: [[file:20200424101435-education.org][education]]
+- tags :: [[id:92200229-0f70-409d-b99f-1260dc066b59][education]]
 * Requisitos
 - 96h de formation
 - plus d'une page sur enseignement

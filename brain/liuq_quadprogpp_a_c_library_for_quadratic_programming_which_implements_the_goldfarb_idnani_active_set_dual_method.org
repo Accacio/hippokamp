@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       5dbe20bc-22bb-4ce7-a33b-21187b491229
+:ROAM_REFS: https://github.com/liuq/QuadProgpp
+:END:
 #+title: liuq/QuadProgpp: A C++ library for Quadratic Programming which implements the Goldfarb-Idnani active-set dual method.
-#+roam_key: https://github.com/liuq/QuadProgpp
-- tags :: [[file:20200709102805-optimization.org][Optimization]], [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]], [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]
 
   Implementation in C++

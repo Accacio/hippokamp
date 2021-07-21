@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       cc547c05-78ea-4ba4-b953-5252516e4556
+:END:
 #+title: Distributed Control and Computation
-#+ROAM_TAGS: courses
+#+filetags: courses
 
-- tags :: [[file:formations_these.org][Formations Doctorat]], [[file:International_Graduate_School_on_Control_2020.org][International Graduate School On Control 2020]], [[file:20200427161129-network_topologies.org][network topologies]], [[file:20200713170428-distributed_control.org][Distributed Control]]
+- tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]], [[id:f802edea-9e18-4a60-846f-c86d17d57b33][International Graduate School On Control 2020]], [[id:521bb956-14c1-472b-879f-2e458bcfc8a4][network topologies]], [[id:341c848c-ee5e-4e31-bb34-5cbd4c758183][Distributed Control]]
 - lecturer :: [[https://seas.yale.edu/faculty-research/faculty-directory/a-stephen-morse][A. Stephen Morse]]
 
   Quando criar uma nomenclatura, usar nomes que sejam bem descritivos

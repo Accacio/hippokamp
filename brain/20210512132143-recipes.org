@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       4aa9d686-a487-4639-99e4-1f7c2d036776
+:END:
 #+title: Recipes

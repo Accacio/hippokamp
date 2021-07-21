@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       b8b6bcca-b818-4b50-a7b7-86fcaae0b444
+:END:
 #+title: Bureaucracy

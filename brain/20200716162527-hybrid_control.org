@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       a3b6d44b-4f1d-43dd-942b-45c2df959e6e
+:END:
 #+title: Hybrid Control
-- tags :: [[file:20200504164021-control.org][control]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][control]]

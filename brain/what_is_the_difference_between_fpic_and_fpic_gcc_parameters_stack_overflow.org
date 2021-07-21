@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       4c713cd6-5bfd-468d-b5ff-bf25acbb199c
+:ROAM_REFS: https://stackoverflow.com/questions/3544035/what-is-the-difference-between-fpic-and-fpic-gcc-parameters
+:END:
 #+title: What is the difference between `-fpic` and `-fPIC` gcc parameters? - Stack Overflow
-#+roam_key: https://stackoverflow.com/questions/3544035/what-is-the-difference-between-fpic-and-fpic-gcc-parameters
-- tags :: [[file:20200708151656-c_c.org][C/C++]], [[file:20210115201710-position_independent_code.org][Position Independent Code]]
+- tags :: [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]], [[id:3610584f-a476-48ce-bcb6-36421b0d550c][Position Independent Code]]
 
 * Position independent code
     to generate shared libraries

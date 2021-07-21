@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       d63d8622-ed86-4923-bb8a-5219da4a0d7f
+:ROAM_REFS: cite:BiegelEtAl2012
+:END:
 #+TITLE: BiegelEtAl2012: Congestion management in a smart grid
-#+ROAM_KEY: cite:BiegelEtAl2012
-#+ROAM_TAGS: article
+#+filetags: article
 
 
-- tags :: [[file:20200709101933-dmpc.org][dMPC]],
+- tags :: [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]],
 - keywords :: Predictive control, Smart power applications, Dual composition control
 
 

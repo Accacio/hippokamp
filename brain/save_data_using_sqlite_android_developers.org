@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       caf92814-ba6d-491b-a528-cee32d4af4f5
+:ROAM_REFS: https://developer.android.com/training/data-storage/sqlite
+:END:
 #+title: Save data using SQLite  |  Android Developers
-#+roam_key: https://developer.android.com/training/data-storage/sqlite
-- tags :: [[file:20210323095317-android.org][Android]], [[file:20200713160350-programming.org][Programming]], [[file:20210323095414-sql.org][SQL]]
+- tags :: [[id:94ab7015-fe80-44fd-83be-72a1d6697600][Android]], [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]], [[id:02138622-6b39-4f01-842d-6527778681fb][SQL]]

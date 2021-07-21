@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       76330719-33bf-4cf9-ae22-a3ec969fa1d9
+:END:
 #+title: ordinary Least Squares
 
 * Definitions

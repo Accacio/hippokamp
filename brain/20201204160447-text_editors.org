@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       83f43ae9-c399-439e-adfe-60bc9cc9f829
+:END:
 #+title: Text Editors

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       caf96a0e-df48-450d-98f6-7d778de50677
+:ROAM_REFS: https://www.codeproject.com/articles/15971/using-inline-assembly-in-c-c
+:END:
 #+title: Using Inline Assembly in C/C++ - CodeProject
-#+roam_key: https://www.codeproject.com/articles/15971/using-inline-assembly-in-c-c
-- tags :: [[file:20210120110925-assembly.org][Assembly]], [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:9e9be397-dfc1-473f-9401-d8d6b99ce223][Assembly]], [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]
 
 * Using inline assembly in c,
 

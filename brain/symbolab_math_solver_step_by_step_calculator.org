@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       648a9686-8701-481a-a5f7-8674b7faebf7
+:ROAM_REFS: https://www.symbolab.com/
+:END:
 #+title: Symbolab Math Solver - Step by Step calculator
-#+roam_key: https://www.symbolab.com/
 
-- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+- tags :: [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]]

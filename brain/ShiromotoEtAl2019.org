@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       d6cb1ed9-731b-43f2-b360-deb6b48cf260
+:ROAM_REFS: cite:ShiromotoEtAl2019
+:END:
 #+TITLE: ShiromotoEtAl2019: Distributed Nonlinear Control Design Using Separable Control Contraction Metrics
-#+ROAM_KEY: cite:ShiromotoEtAl2019
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200608100448-networked_control.org][NCS]]
+- tags :: [[id:f3727224-7286-465f-bff0-bff8dd490ea4][NCS]]
 - keywords ::
 
 

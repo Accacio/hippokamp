@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       ebb4a160-db74-41df-925c-fd4c17f3b82b
+:END:
 #+TITLE: These
 #+OPTIONS: toc:nil
 
-- tags :: [[file:20200406135143-secure_dmpc.org][Secure dMPC]], [[file:20200427105830-cybersecurity.org][Cyber-Security]]
+- tags :: [[id:4cabbb59-a17c-4583-9826-6e6eb436488e][Secure dMPC]], [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]]
 
 * Planning
 ** Before CSI 2021
@@ -374,7 +377,7 @@ Project starts the 2021-05-16
 #+RESULTS:
 [[file:img/ganttTheseAfterCSI2021.png]]
 
-* [[file:20210225163129-csi.org][CSI]]
+* [[id:643844e6-2f3f-4420-a332-c499fd8e66fc][CSI]]
 * Problems normally found
 - Negotiation
   + Projection

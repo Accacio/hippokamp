@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       c41b8c19-cf6b-432a-a30d-67d1f6560612
+:ROAM_ALIASES: ECS
+:END:
 #+title: Entity-Component-System
-#+ROAM_ALIAS: ECS
-- tags :: [[file:20200423094808-gamedev.org][gamedev]]
+- tags :: [[id:ed3f80b9-425d-48b8-b838-19ca3d2ca38e][gamedev]]
 
 
 - Entities are ids

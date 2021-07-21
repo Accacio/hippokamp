@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       0048fff1-e997-4b77-8215-ea92fe7dd527
+:END:
 #+title: Decentralized Control
-- tags :: [[file:20200504164021-control.org][Control]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][Control]]

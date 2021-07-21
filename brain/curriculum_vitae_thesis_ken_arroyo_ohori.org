@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       3cfb72f4-f6e1-4e93-82e9-ff67459870de
+:ROAM_REFS: https://3d.bk.tudelft.nl/ken/en/thesis/cv.html
+:END:
 #+title: Curriculum vitae | Thesis | Ken Arroyo Ohori
-#+roam_key: https://3d.bk.tudelft.nl/ken/en/thesis/cv.html
 Example of site with CV
 List Publications with bibtex

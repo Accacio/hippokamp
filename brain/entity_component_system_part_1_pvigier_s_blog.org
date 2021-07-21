@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       f1097f40-01b6-46cc-80b2-06b754969bed
+:ROAM_REFS: https://pvigier.github.io/2019/07/07/entity-component-system-part1.html
+:END:
 #+title: Entity-component-system – Part 1 | pvigier’s blog
-#+roam_key: https://pvigier.github.io/2019/07/07/entity-component-system-part1.html
-- tags :: [[file:20200809193336-entity_component_system.org][Entity-Component-System]]
+- tags :: [[id:c41b8c19-cf6b-432a-a30d-67d1f6560612][Entity-Component-System]]

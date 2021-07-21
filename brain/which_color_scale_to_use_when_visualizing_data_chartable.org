@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       1f8e4a24-128d-45de-865e-6a9c805c5e4a
+:ROAM_REFS: https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/
+:END:
 #+title: Which color scale to use when visualizing data | Chartable
-#+roam_key: https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/
 
 https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/
 
-- tags :: [[file:20200427150436-data_visualization.org][data visualization]]
+- tags :: [[id:dac30ce5-0c1d-4465-bf19-1ef54329adb5][data visualization]]

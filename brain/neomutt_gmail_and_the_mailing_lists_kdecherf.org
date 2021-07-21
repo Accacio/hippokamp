@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       42ea1a0a-27ba-4edb-aaf7-30d418a264b9
+:ROAM_REFS: https://kdecherf.com/blog/2017/04/11/neomutt-gmail-and-the-mailing-lists/
+:END:
 #+title: NeoMutt, Gmail and the mailing lists | kdecherf ~ %
-#+roam_key: https://kdecherf.com/blog/2017/04/11/neomutt-gmail-and-the-mailing-lists/
 
 https://kdecherf.com/blog/2017/04/11/neomutt-gmail-and-the-mailing-lists/
 

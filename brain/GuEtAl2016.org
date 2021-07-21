@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       6903960c-0f18-49d7-999c-71c6795fecf8
+:ROAM_REFS: cite:GuEtAl2016
+:END:
 #+TITLE: GuEtAl2016: Application of multi-agent systems to microgrid fault protection coordination
-#+ROAM_KEY: cite:GuEtAl2016
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20210216103204-microgrids.org][Microgrids]], [[file:20200608100448-networked_control.org][Networked Control]], [[file:20210216114642-fault_protection.org][Fault Protection]]
+- tags :: [[id:6ce8bbb3-2acf-40c2-a84c-15795b2cceb7][Microgrids]], [[id:f3727224-7286-465f-bff0-bff8dd490ea4][Networked Control]], [[id:573d59cd-037a-4a28-a72b-5cf79ea16fc5][Fault Protection]]
 - keywords :: circuit breakers;distributed power generation;Java;microprocessor chips;multi-agent systems;power generation control;power generation faults;power generation planning;power generation protection;short-circuit currents;microgrid fault protection coordination;message transmission;fault responses;distributed energy resources;DER;multiagent system;FIPA standard;Foundation for Intelligent Physical Agents standard;MATLAB/Simulink;Java Agent Development Framework;JADE;intelligent electronic devices;IED;circuit breakers;CB agents;short-circuit fault conditions;normal conditions;Microgrids;Multi-agent systems;Circuit breakers;Conferences;Circuit faults;Centralized control;Energy resources;Distributed energy resources;Microgrid;Multi-agent system
 
 

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       5bfb45fb-fe39-48c7-ac50-2fc11737eaa1
+:ROAM_REFS: cite:WakaikiEtAl2020
+:END:
 #+TITLE: WakaikiEtAl2020: Stabilization of networked control systems under dos attacks and output quantization
-#+ROAM_KEY: cite:WakaikiEtAl2020
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200504113017-stability.org][stability]], [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]], [[file:20200722151834-denial_of_service_attacks.org][DoS]]
+- tags :: [[id:49daf608-7a79-4ade-a729-e858d05f56a7][stability]], [[id:80483591-299e-4627-9e13-587aeb852b94][Spatially Separated Operator]], [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]]
 - keywords ::
 
 
@@ -18,10 +21,10 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-[[File:20200504113017-stability.org][stability]] on NCS with [[file:20200722151834-denial_of_service_attacks.org][DoS]] and quantization noise using observer-based controller
+[[File:20200504113017-stability.org][stability]] on NCS with [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] and quantization noise using observer-based controller
 *** Model :lightSkyblue:
-- [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200716170441-linear_system.org][Linear System]] with quantization noise in output and [[file:20200722151834-denial_of_service_attacks.org][DoS]] prone channel
-- [[file:20200806121945-smart_attacker.org][Smart Attacker]] can try to evade detection
+- [[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][Discrete-time]] [[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear System]] with quantization noise in output and [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] prone channel
+- [[id:c062011f-fa77-4a46-ad68-2136d72c5f2d][Smart Attacker]] can try to evade detection
 *** Remarks
 *** Applications
 Simulation
@@ -76,7 +79,7 @@ Simulation
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-5]]
 :ID:       ../../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-5
 :END:
-A-BK and A-LC are [[file:20200806123458-schur_stability.org][Schur Stable]]
+A-BK and A-LC are [[id:b5802df4-9bd3-4482-a9b0-12ac4772c46e][Schur Stable]]
 *** Observer Based controller with attack modeled
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::4++0.00;;annot-4-0]]

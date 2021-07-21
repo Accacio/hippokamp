@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       042db509-2e28-4ae0-a3fd-7265a025e09f
+:ROAM_REFS: cite:ZhuMartinez2014
+:END:
 #+TITLE: ZhuMartinez2014: On the performance analysis of resilient networked control systems under replay attacks
-#+ROAM_KEY: cite:ZhuMartinez2014
-#+ROAM_TAGS: "technical note" IEEE
+#+filetags: technical_note IEEE
 
-- tags :: [[file:20200608100448-networked_control.org][NCS]], [[file:20200716164436-deception_attacks.org][Deception Attacks]], [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]]
+- tags :: [[id:f3727224-7286-465f-bff0-bff8dd490ea4][NCS]], [[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]], [[id:80483591-299e-4627-9e13-587aeb852b94][Spatially Separated Operator]]
 - keywords ::
 
 
@@ -22,7 +25,7 @@ Resilient MPC with resource allocation to deal with replay attacks
 
 (A,B) Stabilizable
 *** Model :lightSkyblue:
-- [[file:20200504113008-discrete_time_systems.org][Discrete-time ]][[file:20200716170441-linear_system.org][Linear System]]
+- [[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][Discrete-time]][[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear System]]
 - Replay attacker between Control and Actuator
 *** Remarks
 *** Applications

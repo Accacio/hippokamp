@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6bd7d41a-57c8-425a-8e3c-7b54382bebe4
+:ROAM_REFS: https://www.youtube.com/watch?v=JQZqZK0wNc0
+:END:
 #+TITLE: 80s Japanese Fusion Summer Mix (Fusion Jazz, City Pop, Funk, Soul...) - YouTube
-#+ROAM_KEY: https://www.youtube.com/watch?v=JQZqZK0wNc0
-- tags :: [[file:20200423095103-japanese_music.org][Japanese Music]]
+- tags :: [[id:9cc12a52-23bc-4225-8393-4b3c180124a2][Japanese Music]]

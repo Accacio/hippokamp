@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e9cbb31a-ab6d-4826-9e87-b00aa65703aa
+:ROAM_ALIASES: CDC
+:END:
 #+title: Conference on Decision and Control
-#+ROAM_ALIAS:CDC
-- tags :: [[file:20210120110751-control_conferences.org][Control Conferences]]
+- tags :: [[id:acc20c04-d224-4825-8481-a9cf1868d0e8][Control Conferences]]

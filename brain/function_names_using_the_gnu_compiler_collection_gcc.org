@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       f673b648-a75f-40f0-9ce8-ffbf46a650e0
+:ROAM_REFS: https://gcc.gnu.org/onlinedocs/gcc/Function-Names.html
+:END:
 #+title: Function Names (Using the GNU Compiler Collection (GCC))
-#+roam_key: https://gcc.gnu.org/onlinedocs/gcc/Function-Names.html
-- tags :: [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]
 
   magic variables
   __FUNCTION__

@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       6c583722-c596-4591-8155-d106b32d872b
+:END:
 #+title: Insider Attack
-- tags :: [[file:20200722151944-attacks.org][Attacks]]
+- tags :: [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attacks]]
 
 Attacker has credentials to access and issue commands to the system

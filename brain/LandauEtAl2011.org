@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       6ffd5315-aa02-4ae0-bd04-b561383d2df9
+:ROAM_REFS: cite:LandauEtAl2011
+:END:
 #+TITLE: LandauEtAl2011
-#+ROAM_KEY: cite:LandauEtAl2011
-#+ROAM_TAGS: book
+#+filetags: book
 
-- tags :: [[file:20200504162654-adaptive_control.org][Adaptive Control]], [[file:20200422140353-estimation.org][Estimation]]
+- tags :: [[id:27a44a3c-219a-4a8c-8417-0f4e0a62f9c2][Adaptive Control]], [[id:73c6fea6-0266-4dfb-b66b-0c502c51cbab][Estimation]]
 
 * LandauEtAl2011
 :PROPERTIES:
@@ -14,7 +17,7 @@
 
 *** Motivation :springGreen:
 Adaptive Control
-Reference on [[file:20200504163253-recursive_least_squares.org][recursive least-squares]] parameter estimation.
+Reference on [[id:0147d11c-6d28-4f4c-98ac-23eb096ff3fa][recursive least-squares]] parameter estimation.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

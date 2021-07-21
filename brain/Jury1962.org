@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       0f22c7a1-b176-4080-b813-ffaa9777904f
+:ROAM_REFS: cite:Jury1962
+:END:
 #+TITLE: Jury1962
-#+ROAM_TAGS: article
-#+ROAM_KEY: cite:Jury1962
-- tags :: [[file:20200504113008-discrete_time_systems.org][discrete time systems]], [[file:20200504113017-stability.org][stability]]
+#+filetags: article
+- tags :: [[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][discrete time systems]], [[id:49daf608-7a79-4ade-a729-e858d05f56a7][stability]]
 
 * Jury1962
 :PROPERTIES:

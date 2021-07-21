@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       6f45d4ba-f99c-4512-8a9e-94a05c860df5
+:ROAM_REFS: https://www.youtube.com/watch?v=UY7sVKJPTMA
+:END:
 #+title: How to Write a Paper in a Weekend (By Prof. Pete Carr) - YouTube
-#+roam_key: https://www.youtube.com/watch?v=UY7sVKJPTMA
-- tags :: [[file:20210304090408-research.org][Research]],[[file:20210309145947-soft_skills.org][ Soft Skills]], [[file:20210309153048-pete_carr.org][Pete Carr]], [[file:20200422201907-writing.org][Writing]]
+- tags :: [[id:95a6d782-ca34-4422-9e39-2686189c6e04][Research]],[[id:0fecbdfc-d386-49cf-ba72-b1e25a82e84c][Soft Skills]], [[id:a0ed0482-3e69-41c6-b70d-f8ee000872e0][Pete Carr]], [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]]
 
 * writing a first draft
 ** Preliminaries

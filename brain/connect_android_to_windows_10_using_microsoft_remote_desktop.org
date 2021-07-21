@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       56fac127-7dff-4852-8ccf-68c7485425ce
+:ROAM_REFS: https://www.thewindowsclub.com/connect-android-to-windows-microsoft-remote-desktop
+:END:
 #+TITLE: Connect Android to Windows 10 using Microsoft Remote Desktop
-#+ROAM_KEY: https://www.thewindowsclub.com/connect-android-to-windows-microsoft-remote-desktop
-- tags :: [[file:20200423095601-remote_desktop.org][remote desktop]], [[file:20200617110904-windows.org][Windows]],[[file:20210323095317-android.org][ Android]]
+- tags :: [[id:6f06ce98-1d0e-4d00-a5f7-a2ec0189ac69][remote desktop]], [[id:99817451-249b-4da7-8130-676825b3b12e][Windows]],[[id:94ab7015-fe80-44fd-83be-72a1d6697600][Android]]

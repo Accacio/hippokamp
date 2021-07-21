@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       2f935482-e26e-4ab4-8c16-b479d8604c43
+:ROAM_REFS: https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject
+:END:
 #+title: List of mathematical symbols by subject - Wikipedia
-#+roam_key: https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject
 
 https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject
 
-- tags :: [[file:20200424163014-mathematics.org][Mathematics]], [[file:20200424101609-latex.org][LaTeX/TeX]]
+- tags :: [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]], [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]]
 
 

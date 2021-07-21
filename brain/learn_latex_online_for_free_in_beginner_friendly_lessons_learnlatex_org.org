@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       1e3832a9-d3d0-453b-8ae6-325c446c6e5a
+:ROAM_REFS: https://www.learnlatex.org/en/
+:END:
 #+title: Learn LaTeX online for free in beginner friendly lessons | learnlatex.org
-#+roam_key: https://www.learnlatex.org/en/
 
 https://www.learnlatex.org/en/
 https://www.learnlatex.org/pt/
 
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]]

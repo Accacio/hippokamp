@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       913e087b-3c91-486b-a000-0c25f4d2ac31
+:ROAM_REFS: https://www.dmcinfo.com/latest-thinking/blog/id/8567/siemens-s7-1200-web-server-tutorial--from-getting-started-to-html5-user-defined-pages
+:END:
 #+TITLE: Siemens S7-1200 Web Server Tutorial - From Getting Started to HTML5 User Defined Pages | DMC, Inc.
-#+ROAM_KEY: https://www.dmcinfo.com/latest-thinking/blog/id/8567/siemens-s7-1200-web-server-tutorial--from-getting-started-to-html5-user-defined-pages
-- tags :: [[file:20200423095900-plc.org][plc]], [[file:20200423095930-web_server.org][web server]]
+- tags :: [[id:fe4c2be2-a395-4113-876e-b71e7e86139b][plc]], [[id:3a04a8d8-9617-426b-b914-01c27279d3a0][web server]]
 
   usado no tcc para controlar usando variáveis

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       94ab7015-fe80-44fd-83be-72a1d6697600
+:END:
 #+title: Android
-- tags :: [[file:20200423005717-operating_systems.org][Operating Systems]]
+- tags :: [[id:7fd861c7-d405-4486-b082-ff7723c17594][Operating Systems]]

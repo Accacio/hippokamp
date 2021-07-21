@@ -1,16 +1,19 @@
+:PROPERTIES:
+:ID:       3164aa92-dfc9-435f-91d1-503e982b9c5b
+:ROAM_REFS: https://www.youtube.com/watch?v=Y2T_XlgaqyA
+:END:
 #+title: Model Predictive Control: A Rising Technology in the Automotive Industry - YouTube
-#+roam_key: https://www.youtube.com/watch?v=Y2T_XlgaqyA
 
 https://www.youtube.com/watch?v=Y2T_XlgaqyA
 
-- tags :: [[file:20200709101720-mpc.org][MPC]]
+- tags :: [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
 
 * QP solver
   http:osqp.org
 * MPC auto-tuning
 http://cse.lab.imtlucca.it/~bemporad/glis
 * Neural NLMPC
-- [[file:20210611172102-state_space_neural_network.org][State-Space Neural Network]]
+- [[id:1dd75fc5-1a97-49a9-b100-4a156d3418cf][State-Space Neural Network]]
 
 Example using 2 layers (6 neurons,6 neurons), 6 inputs, 4 outputs,
 ODYS Deep Learning

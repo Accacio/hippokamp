@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       7c63eb26-3a81-4fd3-aca8-84c9440468fe
+:END:
 #+title: Luís Cláudio Oliveira Lopes
-#+roam_tags: people
+#+filetags: people
 
 - Minibiografia ::
 Professor na Faculdade de Engenharia Química da Universidade Federal de Uberlândia (UFU) desde 1991. Recebeu seu título de Ph.D. em Engenharia Química em Lehigh University (USA), o M.Sc. em Engenharia Química na COPPE/UFRJ e graduou-se em Engenharia Química na Universidade Federal da Bahia (UFBA). Estudou engenharia petroquímica na Università di Bologna (Itália) e foi pesquisador visitante no Chemical and Biomolecular Engineering Department na UCLA (USA). Possui interesse e pesquisas nas áreas de produção de energia, controle de processos, sistemas híbridos, otimização, segurança industrial e detecção de falhas e diagnóstico.

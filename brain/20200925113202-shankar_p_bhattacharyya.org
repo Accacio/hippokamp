@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       0877b156-9b3a-4ca8-b4f9-e85a4a6bedfc
+:END:
 #+title: Shankar P. Bhattacharyya
-#+ROAM_TAGS: people
+#+filetags: people
 http://ece.tamu.edu/~spb/
 
 

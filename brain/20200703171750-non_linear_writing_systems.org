@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       9a3406a7-6342-47f0-9007-1640a6f969cd
+:END:
 #+title: non-linear writing systems
-- tags :: [[file:20200703171852-writing_systems.org][Writing Systems]]
+- tags :: [[id:96be13d8-bbf4-4df8-bc07-cbf88f02090e][Writing Systems]]

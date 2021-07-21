@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       39f5d41f-3740-496c-861b-b7e251dd43c4
+:END:
 #+title: Trigonometry
 
-- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+- tags :: [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]]
 
 * Identities
 - $\sin^2(\alpha)+\cos^2(\alpha)=1$

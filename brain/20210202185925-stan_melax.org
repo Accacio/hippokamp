@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       d7288ab6-fbe1-4999-b04e-78d6428998ad
+:END:
 #+title: Stan Melax
-#+ROAM_TAGS: people
+#+filetags: people

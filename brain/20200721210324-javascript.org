@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       3501fd55-13d0-400a-a0a3-7f09c0c3b239
+:END:
 #+title: javascript
-- tags :: [[file:20200713160350-programming.org][Programming]]
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]]

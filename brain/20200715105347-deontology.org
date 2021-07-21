@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       f80caff4-fca2-4145-a1ac-2b3269edc183
+:END:
 #+title: Deontology
-- tags :: [[file:20200706142234-ethique.org][Ethique]]
+- tags :: [[id:65fa478b-7a51-495d-8f50-631262768d30][Ethique]]
 
 * Base wrong and right in universal moral laws
 

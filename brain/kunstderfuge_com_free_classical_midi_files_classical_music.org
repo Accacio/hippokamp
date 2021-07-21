@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       3783b3b3-219f-475c-8620-3896cba02f49
+:ROAM_REFS: http://www.kunstderfuge.com/
+:END:
 #+title: kunstderfuge.com | Free Classical MIDI files. Classical Music.
-#+roam_key: http://www.kunstderfuge.com/
 
 http://www.kunstderfuge.com/
 
-- tags :: [[file:20200423095046-music.org][Music]]
+- tags :: [[id:7c1193f5-67b3-4df9-b85d-71bfec421d12][Music]]

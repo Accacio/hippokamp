@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       b0dc76de-f6ee-42aa-8904-4c7bd29881eb
+:END:
 #+title: Polynomial Chaos Theory
-- tags :: [[file:20200921101355-chaos_theory.org][Chaos Theory]]
+- tags :: [[id:196136c5-10ba-43a7-952f-9709e5857c85][Chaos Theory]]

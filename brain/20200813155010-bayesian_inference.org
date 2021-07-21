@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       c34a53cd-f404-415a-b26e-0c4ed12b20a1
+:END:
 #+title: Bayesian Inference
-- tags :: [[file:20200716170653-probability.org][Probability]]
+- tags :: [[id:7fe6a949-9d88-46d2-97ed-02fe6af8c4f5][Probability]]
 $P(H \mid E)=\frac{P(E \mid H) \cdot P(H)}{P(E)}$

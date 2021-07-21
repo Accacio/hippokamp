@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       c062011f-fa77-4a46-ad68-2136d72c5f2d
+:END:
 #+title: Smart Attacker
-- tags :: [[file:20200722151944-attacks.org][Attacks]]
+- tags :: [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attacks]]

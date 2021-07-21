@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       7a26da86-7d07-46d4-b007-8c26ee9516ec
+:END:
 #+title: Privacy

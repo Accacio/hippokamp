@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       a80ff3ca-df92-46ae-a9b3-d7b113453dbf
+:ROAM_REFS: cite:AlessioBemporad2009
+:END:
 #+TITLE: AlessioBemporad2009: A survey on explicit model predictive control
-#+ROAM_KEY: cite:AlessioBemporad2009
-#+ROAM_TAGS: skimmed article
+#+filetags: skimmed article
 
-- tags :: [[file:20210222134737-explicit_mpc.org][Explicit MPC]], [[file:20200908135242-survey.org][Survey]]
+- tags :: [[id:1fc8cb8e-13a4-4d63-a22c-4c57584d26b0][Explicit MPC]], [[id:5402d61d-29b3-4618-b058-09f58831b40a][Survey]]
 - keywords ::
 
 

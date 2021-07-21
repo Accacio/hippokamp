@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       3c8c54b3-5974-4521-991b-79e297de6c3a
+:END:
 #+title: Lambda Calculus
-- tags :: [[file:20200713160350-programming.org][Programming]], [[file:20200424163014-mathematics.org][Mathematics]]
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]], [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]]

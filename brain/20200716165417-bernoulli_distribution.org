@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       66cea64f-9e73-423a-80f2-58fd01dd5b6c
+:END:
 #+title: Bernoulli Distribution
-- tags :: [[file:20200716170653-probability.org][Probability]]
+- tags :: [[id:7fe6a949-9d88-46d2-97ed-02fe6af8c4f5][Probability]]
 
 \begin{equation}\operatorname{Pr}(X=1)=p=1-\operatorname{Pr}(X=0)=1-q\end{equation}

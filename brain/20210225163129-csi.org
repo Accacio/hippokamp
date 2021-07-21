@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       643844e6-2f3f-4420-a332-c499fd8e66fc
+:END:
 #+title: CSI
 
-- tags :: [[file:20200422131137-these.org][These]]
+- tags :: [[id:ebb4a160-db74-41df-925c-fd4c17f3b82b][These]]
 
 *  comité
 

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       c48bef28-30e6-4c10-96d8-391a603602de
+:ROAM_REFS: cite:BansalMukhija2020
+:END:
 #+TITLE: BansalMukhija2020: Aperiodic sampled-data control of distributed networked control systems under stochastic cyber-attacks
-#+ROAM_KEY: cite:BansalMukhija2020
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]], [[file:20200716164436-deception_attacks.org][Deception Attacks]]
+- tags :: [[id:80483591-299e-4627-9e13-587aeb852b94][Spatially Separated Operator]], [[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]]
 - keywords ::
 
 
@@ -20,7 +23,7 @@
 *** Motivation :springGreen:
 Hybrid Triggering scheme (Aperiodic Sampled-Data Control) to control Networked system under stochastic Deception Attacks find a way to obtain Minimum inter-event time (MIET)
 *** Model :lightSkyblue:
-- Set of [[file:20200504113008-discrete_time_systems.org][Discrete-time]] [[file:20200716170441-linear_system.org][Linear Systems]] coupled in dynamic equation
+- Set of [[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][Discrete-time]] [[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear Systems]] coupled in dynamic equation
 - Controllable pair (A,B)
 - New observation when $\|x_i(\sigma_k^i)-x_i(t)\|> \alpha_i\|x_i(t)\|$
 - Control models attack as a function $f(x_i(t))$
@@ -39,7 +42,7 @@ Hybrid Triggering scheme (Aperiodic Sampled-Data Control) to control Networked s
 :ID:       ../../docsThese/bibliography/BansalMukhija2020.pdf-annot-1-0
 :END:
 
-*** [[file:20200807170259-aperiodic_sampled_data_control.org][aperiodic sampled-data control]]
+*** [[id:3a559648-a81d-4b65-b2b2-d77a09b49f95][aperiodic sampled-data control]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BansalMukhija2020.pdf::2++0.00;;annot-2-0]]
 :ID:       ../../docsThese/bibliography/BansalMukhija2020.pdf-annot-2-0

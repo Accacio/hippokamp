@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       38214294-634e-48a9-aa33-f891f80e9c10
+:END:
 #+title: Arrow-Hurwicz-Uzawa algorithm
-- tags :: [[file:20200921153306-algorithms.org][Algorithms]]
+- tags :: [[id:1f41126c-c173-41a6-be48-d9e546f440d0][Algorithms]]

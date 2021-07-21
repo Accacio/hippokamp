@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       23829686-a3dc-45db-9f08-687f38e9430e
+:END:
 #+title: org-mode

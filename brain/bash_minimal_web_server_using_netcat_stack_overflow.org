@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a9b3d743-6b6c-4c34-a972-f7998c3ebf83
+:ROAM_REFS: https://stackoverflow.com/questions/16640054/minimal-web-server-using-netcat
+:END:
 #+TITLE: bash - Minimal web server using netcat - Stack Overflow
-#+ROAM_KEY: https://stackoverflow.com/questions/16640054/minimal-web-server-using-netcat
-- tag :: [[file:20200423095930-web_server.org][web server]], [[file:20200617110358-bash.org][bash]]
+- tag :: [[id:3a04a8d8-9617-426b-b914-01c27279d3a0][web server]], [[id:a3a5716e-dca6-4c59-805f-8f79f3d66c84][bash]]

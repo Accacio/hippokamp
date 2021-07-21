@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       6ce8bbb3-2acf-40c2-a84c-15795b2cceb7
+:END:
 #+title: Microgrids
-- tags :: [[file:20200422220259-energie.org][Energy]]
+- tags :: [[id:908aeea6-39e7-499f-812e-5e5b96a8000c][Energy]]

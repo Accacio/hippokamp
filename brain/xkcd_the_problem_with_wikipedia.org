@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       8ce7acfb-028a-43ba-be41-a5a112c95fb4
+:ROAM_REFS: https://xkcd.com/214/
+:END:
 #+title: xkcd: The Problem with Wikipedia
-#+roam_key: https://xkcd.com/214/
 
 https://xkcd.com/214/
 
-- tags :: [[file:20210304095302-comics.org][comics]]
+- tags :: [[id:46a117a5-0a94-4fc1-a9a8-bd9eaa7daf69][comics]]
 
    me, every day

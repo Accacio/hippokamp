@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       a9136c1a-04e6-44f7-b495-973dc8cee6cd
+:ROAM_REFS: cite:GoudaEtAl2002
+:END:
 #+TITLE: GoudaEtAl2002
-#+ROAM_KEY: cite:GoudaEtAl2002
-#+ROAM_TAGS: article
+#+filetags: article
 
 - tags ::
 - keywords :: Building response, Thermal modelling, Model reduction, Optimisation

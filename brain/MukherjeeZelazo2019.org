@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       d62a48b2-10a3-4fe5-90ff-2138e7f86faf
+:ROAM_REFS: cite:MukherjeeZelazo2019
+:END:
 #+TITLE: MukherjeeZelazo2019: Consensus of higher order agents: robustness and heterogeneity
-#+ROAM_KEY: cite:MukherjeeZelazo2019
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200908140517-multi_agents.org][Multi-Agents]], [[file:20200925095952-consensus.org][Consensus]], [[file:20200925102045-interval_plants.org][Interval Plants]]
+- tags :: [[id:6a11e808-f5e6-4bdd-ad52-609056cc541d][Multi-Agents]], [[id:124194cb-2858-4bb2-b30b-1fb521d3b30b][Consensus]], [[id:60ebf185-a774-4028-94b9-3e07e0eb20ec][Interval Plants]]
 - keywords ::
 
 

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       0f135d56-53e9-415d-9fe4-e446a53f2bd7
+:END:
 #+title: Zonotope
-- tags :: Geometry, [[file:20200424162958-algebra.org][Algebra]]
+- tags :: Geometry
 
 #+begin_quote
 A zonotope is a set of points in d-dimensional space constructed from vectors v_i by taking the sum of a_iv_i, where each a_i is a scalar between 0 and 1. Different choices of scalars give different points, and the zonotope is the set of all such points. Alternately it can be viewed as a Minkowski sum of line segments connecting the origin to the endpoint of each vector. It is called a zonotope because the faces parallel to each vector form a so-called zone wrapping around the polytope (Eppstein 1996).

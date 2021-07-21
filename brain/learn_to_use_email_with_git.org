@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6f52aefc-ccac-4398-bcf0-bb1d5a0b879b
+:ROAM_REFS: https://git-send-email.io/
+:END:
 #+title: Learn to use email with git!
-#+roam_key: https://git-send-email.io/
-- tags :: [[file:20210330092852-git.org][git]]
+- tags :: [[id:6a288928-4a34-4269-9ae0-de6c2934e23c][git]]

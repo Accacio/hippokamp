@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       ea445d0c-a17f-4c1c-a326-0c85c64e1d80
+:ROAM_REFS: https://www.youtube.com/watch?v=vd2dtkMINIw
+:END:
 #+title: Barbara Oakley: "Learning How to Learn" | Talks at Google - YouTube
-#+roam_key: https://www.youtube.com/watch?v=vd2dtkMINIw
-- tags :: [[file:20200716142333-learning.org][Learning]]
+- tags :: [[id:f23e4947-4f17-41cc-9d73-379f1c687760][Learning]]
 - speaker :: Barbara Oakley
 STEM - Science Technology Engineering Math
   - have new perspective

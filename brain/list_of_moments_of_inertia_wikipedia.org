@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       08649968-5ef9-404d-b864-3496f242148a
+:ROAM_REFS: https://en.wikipedia.org/wiki/List_of_moments_of_inertia
+:END:
 #+title: List of moments of inertia - Wikipedia
-#+roam_key: https://en.wikipedia.org/wiki/List_of_moments_of_inertia
-- tags :: [[file:20210120111310-mechanics.org][Mechanics]]
+- tags :: [[id:7cf24726-015d-46cf-80d4-f15c814943f7][Mechanics]]

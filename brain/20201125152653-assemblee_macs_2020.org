@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       c6caa832-f686-4037-ab6a-d45007892296
+:END:
 #+title: Assemblée MACS 2020
-- tags :: [[file:20200422134152-assemblees.org][Assemblées]], [[file:20201125152727-gdr_macs.org][gdr MACS]]
+- tags :: [[id:01ec0fcf-a548-4c80-9eea-73bddf1b8e61][Assemblées]], [[id:9565f330-de0d-44a4-b66f-d0a5f751cb2b][gdr MACS]]
 
 * cours doctorants
   - simulation
@@ -14,7 +17,7 @@ https://partage.laas.fr/owncloud/index.php/s/ZhiCHFcNdb9MhPY
 
 * CNU
 Thierry Divoux
-** [[file:20210318094149-qualification_mcu.org][Qualification MCU]]
+** [[id:07dc088f-a136-47d2-95d5-0c29b7d0e7c8][Qualification MCU]]
 - 96h de formation
 - plus d'une page sur enseignement
 - 2 these de conference 3 ans

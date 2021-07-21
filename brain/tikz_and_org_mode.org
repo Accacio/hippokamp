@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ccea89fa-8aab-4f1a-b55e-82a76d28c4c8
+:ROAM_REFS: http://www.homepages.ucl.ac.uk/~ucahjde/blog/tikz.html
+:END:
 #+title: TikZ and org-mode
-#+roam_key: http://www.homepages.ucl.ac.uk/~ucahjde/blog/tikz.html
-- tags :: [[file:20210326110542-tikz.org][Tikz]], [[file:20200619120854-org_mode.org][org-mode]]
+- tags :: [[id:53676d14-253e-4a09-aeee-94f523c97bb9][Tikz]], [[id:23829686-a3dc-45db-9f08-687f38e9430e][org-mode]]

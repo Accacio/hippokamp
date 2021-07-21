@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4337a190-5835-4b7d-aee0-c9bd0f4eb95f
+:ROAM_REFS: https://www.youtube.com/watch?v=c-FT0T9Ei-4
+:END:
 #+title: Missile guidance explained - YouTube
-#+roam_key: https://www.youtube.com/watch?v=c-FT0T9Ei-4
-- tags :: [[file:20200504164021-control.org][Control]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][Control]]

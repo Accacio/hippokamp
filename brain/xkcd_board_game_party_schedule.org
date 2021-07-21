@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       dccfa7a8-d4f2-45d8-8b4f-77398a40dd53
+:ROAM_REFS: https://xkcd.com/2486/
+:END:
 #+title: xkcd: Board Game Party Schedule
-#+roam_key: https://xkcd.com/2486/
 
 https://xkcd.com/2486/
 
-- tags :: [[file:20210304095302-comics.org][comics]]
+- tags :: [[id:46a117a5-0a94-4fc1-a9a8-bd9eaa7daf69][comics]]

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       9ed26f9a-5e34-43c1-8fce-7e5e1e442cb1
+:END:
 #+title: Monte Carlo
-- tags :: [[file:20210216110307-statistics.org][Statistics]]
+- tags :: [[id:25f37643-7c4e-48bc-a9b3-728c0d301bc2][Statistics]]

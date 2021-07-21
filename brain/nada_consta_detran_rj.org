@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       f73176f3-b8bc-4b27-a069-bcc1b0176d03
+:ROAM_REFS: http://www.detran.rj.gov.br/_monta_aplicacoes.asp?cod=11&tipo=certidao_multas
+:END:
 #+title: Nada Consta Detran-RJ
-#+roam_key: http://www.detran.rj.gov.br/_monta_aplicacoes.asp?cod=11&tipo=certidao_multas
 
-- tags :: [[file:20210118144225-bureaucracy.org][Bureaucracy]]
+- tags :: [[id:b8b6bcca-b818-4b50-a7b7-86fcaae0b444][Bureaucracy]]
 
 http://www.detran.rj.gov.br/_monta_aplicacoes.asp?cod=11&tipo=certidao_multas
 

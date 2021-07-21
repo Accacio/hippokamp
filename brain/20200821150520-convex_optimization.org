@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       b77cbd82-c5fc-46a0-a926-699466b75f44
+:END:
 #+title: Convex Optimization
-- tags :: [[file:20200709102805-optimization.org][Optimization]]
+- tags :: [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]

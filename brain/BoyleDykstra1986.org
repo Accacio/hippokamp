@@ -1,8 +1,11 @@
-#+TITLE: BoyleDykstra1986: A method for finding projections onto the intersection of convex sets in hilbert spaces
-#+ROAM_KEY: cite:BoyleDykstra1986
-#+ROAM_TAGS: article
+:PROPERTIES:
+:ID:       40017381-2db7-4c29-8eeb-3826646d8e63
+:ROAM_REFS: cite:BoyleDykstra1986
+:END:
+#+TITLE: BoyleDykstra1986
+#+filetags: article
 
-- tags :: [[file:20201215140935-projection.org][Projection]]
+- tags :: [[id:441c92e4-b3bc-4c5f-882d-d8a200ed7623][Projection]]
 - keywords ::
 
 pag 37

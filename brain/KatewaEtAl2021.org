@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       9cd8a635-75a3-4162-9e22-636f741471a3
+:ROAM_REFS: cite:KatewaEtAl2021
+:END:
 #+TITLE: KatewaEtAl2021: On a security vs privacy trade-off in interconnected dynamical systems
-#+ROAM_KEY: cite:KatewaEtAl2021
-#+ROAM_TAGS: article
+#+filetags: article
 
 - tags ::
-- keywords :: [[file:20210216101758-privacy.org][Privacy]], Attack-detection, Interconnected Systems, Chi-squared test
+- keywords :: [[id:7a26da86-7d07-46d4-b007-8c26ee9516ec][Privacy]], Attack-detection, Interconnected Systems, Chi-squared test
 
 
 * On a security vs privacy trade-off in interconnected dynamical systems

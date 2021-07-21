@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       8f62ce71-c3bf-4edb-9eb5-795b2146fac9
+:END:
 #+title: Energy Observer
-- tags :: [[file:20200422220259-energie.org][Energy]], [[file:20200904151530-enterprises.org][Enterprises]]
+- tags :: [[id:908aeea6-39e7-499f-812e-5e5b96a8000c][Energy]], [[id:5d980987-ed29-45e4-aa5b-696e32d7a66c][Enterprises]]
 http://energy-observer.org/
 
 <2020-09-04 ven.>

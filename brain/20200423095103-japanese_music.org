@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       9cc12a52-23bc-4225-8393-4b3c180124a2
+:END:
 #+TITLE: Japanese Music
-- tags :: [[file:20200423095046-music.org][Music]]
+- tags :: [[id:7c1193f5-67b3-4df9-b85d-71bfec421d12][Music]]

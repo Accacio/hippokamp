@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       f67ff2cb-26f8-40b1-bcfc-aa758261930b
+:END:
 #+TITLE: Formations Doctorat
-#+roam_tags: courses
+#+filetags: courses
 
-- tags :: [[file:20200422131137-these.org][These]]
+- tags :: [[id:ebb4a160-db74-41df-925c-fd4c17f3b82b][These]]
 
 * UBL
 - https://ed-mathstic.doctorat-bretagneloire.fr/sites/default/files/u50/Rennes/formations-complementaires-mathstic-regles-procedures.2018-02-20.pdf
@@ -17,7 +20,7 @@
 7. Publier et diffuser
 *** Scientifiques
 *** Hors-Catalogue
-**** [[file:20200622105521-distributed_control_and_computation.org][Distributed Control and Computation]]
-**** [[file:20200910093618-modelisation_statistique_des_evenements_rares.org][Modélisation Statistique des Événements Rares]]
-**** [[file:spring_school_on_data_driven_model_learning_of_dynamic_systems.org][Spring School on Data-driven Model Learning of Dynamic Systems]]
-**** [[file:20210406173747-law_and_intellectual_property.org][Law and Intellectual Property]]
+**** [[id:cc547c05-78ea-4ba4-b953-5252516e4556][Distributed Control and Computation]]
+**** [[id:843d7c4b-4d31-4d79-814d-c23313334790][Modélisation Statistique des Événements Rares]]
+**** [[id:31fea233-0f1e-4642-9d78-8fd9692b0dcc][Spring School on Data-driven Model Learning of Dynamic Systems]]
+**** [[id:02533248-4ada-4bac-a851-cf543cf9dee3][Law and Intellectual Property]]

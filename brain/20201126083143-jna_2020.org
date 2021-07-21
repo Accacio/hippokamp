@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       34427551-8a3c-4dc8-a055-6a10b0ea7c69
+:END:
 #+title: JNA 2020
-- tags :: [[file:20210120110751-control_conferences.org][Control Conferences]]
+- tags :: [[id:acc20c04-d224-4825-8481-a9cf1868d0e8][Control Conferences]]
 
 * Info
 ** JNA 2020 - Salle A – 26-27 Novembre 2020

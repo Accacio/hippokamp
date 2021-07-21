@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a0ed0482-3e69-41c6-b70d-f8ee000872e0
+:END:
 #+title: Pete Carr
-#+roam_tags: people
+#+filetags: people
 - tags ::

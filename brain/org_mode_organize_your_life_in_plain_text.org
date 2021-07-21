@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       1240ad73-16df-4971-929c-a451a2eaac79
+:ROAM_REFS: http://doc.norang.ca/org-mode.html
+:END:
 #+title: Org Mode - Organize Your Life In Plain Text!
-#+roam_key: http://doc.norang.ca/org-mode.html
 
 http://doc.norang.ca/org-mode.html
 
-- tags :: [[file:20200619120854-org_mode.org][org-mode]]
+- tags :: [[id:23829686-a3dc-45db-9f08-687f38e9430e][org-mode]]
 
 * interesting ideas,
 ** meeting

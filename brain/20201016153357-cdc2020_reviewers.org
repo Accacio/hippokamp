@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       75270f78-5537-4e2a-a4b5-1573e8565198
+:END:
 #+title: cdc2020 Reviewers
-#+roam_tags: reviewers
+#+filetags: reviewers
 
-- tags :: [[file:20210120110649-conference_on_decision_and_control.org][Conference on Decision and Control]]
+- tags :: [[id:e9cbb31a-ab6d-4826-9e87-b00aa65703aa][Conference on Decision and Control]]
 
 * Comments
 \marginnote{Nothing to comment}

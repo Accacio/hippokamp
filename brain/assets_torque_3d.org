@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       098f4402-5b1f-4e0d-9905-71d6bf274f45
+:ROAM_REFS: http://wiki.torque3d.org/artist:assets
+:END:
 #+title: Assets - Torque 3D
-#+roam_key: http://wiki.torque3d.org/artist:assets
-- tags :: [[file:20200423094808-gamedev.org][gamedev]]
+- tags :: [[id:ed3f80b9-425d-48b8-b838-19ca3d2ca38e][gamedev]]
 
 - http://duion.com CC0 textures, mostly unedited raw texture photos, but also a collection of Torque3D ready materials as well as 3D-models.
 - http://texture.ninja Texture website similar to cgtextures.com or textures.com but all free CC0 licensed. Mostly raw materials that may require further editing to make it gameready.

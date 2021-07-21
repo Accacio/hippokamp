@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       25bd0637-3d22-46d2-af7d-3445b7dccc9c
+:ROAM_REFS: cite:LiuEtAl2016
+:END:
 #+TITLE: LiuEtAl2016: Hybrid-driven-based stabilisation for networked control systems
-#+ROAM_KEY: cite:LiuEtAl2016
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]], [[file:20200713170428-distributed_control.org][Distributed Control]]
+- tags :: [[id:80483591-299e-4627-9e13-587aeb852b94][Spatially Separated Operator]], [[id:341c848c-ee5e-4e31-bb34-5cbd4c758183][Distributed Control]]
 - keywords ::
 
 
@@ -18,14 +21,14 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Study of Networked Control in a [[file:20200716170854-stochastic_control.org][Stochastic]] [[file:20200716162527-hybrid_control.org][Hybrid Control]] Scheme using stochastic variable with [[file:20200716165417-bernoulli_distribution.org][Bernoulli Distribution]] in order to increase performance on over occupied channels
+Study of Networked Control in a [[id:3ec3cd81-0163-4fe1-9c20-b5dfd33427d6][Stochastic]] [[id:a3b6d44b-4f1d-43dd-942b-45c2df959e6e][Hybrid Control]] Scheme using stochastic variable with [[id:66cea64f-9e73-423a-80f2-58fd01dd5b6c][Bernoulli Distribution]] in order to increase performance on over occupied channels
 *** Model :lihgSkyblue:
-[[file:20200716170441-linear_system.org][Linear System]], controlled by a distant event-driven controller connected through unreliable network.
+[[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear System]], controlled by a distant event-driven controller connected through unreliable network.
 Actuator has ZOH that accepts only new packets (time-stamp based)
 *** Remarks
 Proof of Stability of such system
 *** Applications
-How to design such controller and [[file:20200716170112-simulation.org][Simulation]]
+How to design such controller and [[id:4ee121fd-b469-42eb-bef3-28fa032c4a60][Simulation]]
 
 *** Expressions
 - Due to

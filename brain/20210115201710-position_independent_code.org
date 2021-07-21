@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       3610584f-a476-48ce-bcb6-36421b0d550c
+:ROAM_ALIASES: PIC
+:END:
 #+title: Position Independent Code
-#+ROAM_ALIAS: PIC
-- tags :: [[file:20200713160350-programming.org][Programming]]
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]]

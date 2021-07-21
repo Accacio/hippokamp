@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       7a50d4f4-b337-4778-af6c-33906c888105
+:END:
 #+TITLE: Points These
-- tags :: [[file:20200422131137-these.org][These]]
+- tags :: [[id:ebb4a160-db74-41df-925c-fd4c17f3b82b][These]]

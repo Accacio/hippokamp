@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       eabdb44b-69ea-4d4d-84c2-47a3344913ba
+:ROAM_REFS: cite:BoemEtAl2020
+:END:
 #+TITLE: BoemEtAl2020
-#+ROAM_KEY: cite:BoemEtAl2020
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200427164136-decomposition.org][Decomposition]], [[file:20200427164614-distributed_optimization.org][Distributed Optimization]], [[file:20200504111344-fault_detection.org][fault detection]], [[file:20200504111402-fault_isolation.org][fault isolation]]
+- tags :: [[id:dc49d7a6-a3e4-48f5-bf13-242f40a8ffa0][Decomposition]], [[id:de9b0ee5-95dc-4826-825a-e9efb5b83136][Distributed Optimization]], [[id:46369d58-8986-4bfc-af48-b79adfa4531c][fault detection]], [[id:b2e1d570-abd6-4943-9712-3bd9b70ed21c][fault isolation]]
  
 * BoemEtAl2020
 :PROPERTIES:
@@ -123,7 +126,7 @@ no. 12, pp. 2622–2640, 2010.
 :ID:       ../../docsThese/bibliography/BoemEtAl2020.pdf-annot-6-0
 :END:
 
-*** [[file:20210507104435-zonotope.org][zonotope]] sets,
+*** [[id:0f135d56-53e9-415d-9fe4-e446a53f2bd7][zonotope]] sets,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::7++0.00;;annot-7-1]]
 :ID:       ../../docsThese/bibliography/BoemEtAl2020.pdf-annot-7-1

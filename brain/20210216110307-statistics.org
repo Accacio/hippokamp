@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       25f37643-7c4e-48bc-a9b3-728c0d301bc2
+:END:
 #+title: Statistics
 
 * Definitions

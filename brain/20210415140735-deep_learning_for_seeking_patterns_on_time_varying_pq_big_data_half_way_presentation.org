@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       314c11dc-13c0-4d8f-a1f4-d9a684258bd0
+:END:
 #+title: Deep Learning for Seeking Patterns On Time-Varying PQ Big Data - Half-way Presentation
 - tags :: "Half-way presentations"
 

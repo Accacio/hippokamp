@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       7fd861c7-d405-4486-b082-ff7723c17594
+:END:
 #+TITLE: Operating Systems

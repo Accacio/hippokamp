@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       aff92026-1eea-495f-b6ba-2af3f5273066
+:ROAM_REFS: https://www.youtube.com/watch?v=tu-Qe66AvtY
+:END:
 #+title: Math for Game Programmers: Juicing Your Cameras With Math - YouTube
-#+roam_key: https://www.youtube.com/watch?v=tu-Qe66AvtY
 
 https://www.youtube.com/watch?v=tu-Qe66AvtY
 
-- tags :: [[file:20200423094808-gamedev.org][gamedev]], [[file:20210413114122-voronoi_diagram.org][Voronoi diagram]]
+- tags :: [[id:ed3f80b9-425d-48b8-b838-19ca3d2ca38e][gamedev]], [[id:6cadee82-49ba-43bc-8bbd-ce1084574447][Voronoi diagram]]
 
 
 - lecturer :: [[http://www.eiserloh.net/bio/][Squirrel Eiserloh]]

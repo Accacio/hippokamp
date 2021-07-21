@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       b17ed041-9184-40bd-adaa-0c8f144b63f2
+:END:
 #+title: Robust Control
-- tags :: [[file:20200504164021-control.org][Control]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][Control]]

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       3b80eec1-a55e-4084-9e0f-856611cc94d0
+:END:
 #+TITLE: Presentation Xiang pour CDC 2019 - 2019-12-05
-[[file:20200422133932-presentations_these.org][Presentations These]]
+[[id:f3a1ddb4-11d8-4172-b086-340f004a8a5f][Presentations These]]
 * Presentation Xiang 2019-12-05
 virous -> various
 infimum

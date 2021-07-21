@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       89107338-ce66-4656-b619-7c90ad55468c
+:ROAM_REFS: cite:Norton1986
+:END:
 #+TITLE: Norton1986
-#+ROAM_KEY: cite:Norton1986
-#+ROAM_TAGS: book
+#+filetags: book
 
 - tags ::
-- keywords :: [[file:20210323094314-identification.org][Identification]], [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]
+- keywords :: [[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]], [[id:e3029c97-70bc-44cb-a8f8-706fd4732343][Dynamic Systems]]
 
 
 * An introduction to identification
@@ -29,7 +32,7 @@ Good notes on parameter estimation.
 
 ** NOTES
 *** Avoid linear dependece between regressors
-[[file:20210323110015-ordinary_least_squares.org][ordinary Least Squares]]
+[[id:76330719-33bf-4cf9-ae22-a3ec969fa1d9][ordinary Least Squares]]
 #+begin_quote
 Two lessons can be drawn from Example 4.1.2. First, the model and the
 observation co-ordinates should be chosen to avoid approaching linear dependence

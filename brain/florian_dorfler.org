@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       9e6d3ba5-ae0a-4746-a42f-7a80c30aaccc
+:ROAM_REFS: http://people.ee.ethz.ch/~floriand/
+:END:
 #+title: Florian Dörfler
-#+roam_key: http://people.ee.ethz.ch/~floriand/
-#+ROAM_TAGS: people
-- tags :: [[file:20200713170428-distributed_control.org][Distributed Control]]
+#+filetags: people
+- tags :: [[id:341c848c-ee5e-4e31-bb34-5cbd4c758183][Distributed Control]]

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       b5c2c910-171d-485b-b3e2-08976c96c50c
+:END:
 #+title: RSS Control
 
-- tags :: [[file:20210528151832-rss.org][RSS]]
+- tags :: [[id:62f6ff3b-ec55-449c-b383-6a81b629fec6][RSS]]
 
 
    | url                                                                   | tags               | Name                                                                         |

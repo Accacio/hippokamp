@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       59416ea1-391e-412f-a258-d04dea321f90
+:ROAM_REFS: https://www.youtube.com/watch?v=_4vnV2Eng7M&list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU&index=23
+:END:
 #+title: Handmade Hero Day 011 - The Basics of Platform API Design - YouTube
-#+roam_key: https://www.youtube.com/watch?v=_4vnV2Eng7M&list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU&index=23
-- tags :: [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]
 
 * use platform_xxxx.cpp to indicate what is not platform independent
 * Update and Render at the same time

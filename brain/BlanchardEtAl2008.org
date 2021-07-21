@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       388994f7-4156-44b6-958f-e1e7bc461be9
+:ROAM_REFS: cite:BlanchardEtAl2008
+:END:
 #+TITLE: BlanchardEtAl2008
-#+ROAM_KEY: cite:BlanchardEtAl2008
-#+ROAM_TAGS: article
-- tags :: [[file:20200921101240-extended_khalman_filter.org][Extended Khalman Filter]], [[file:20200914150950-polynomial_chaos_theory.org][Polynomial Chaos Theory]], [[file:20200422140353-estimation.org][Parameter Estimation]]
+#+filetags: article
+- tags :: [[id:d3238813-db75-4897-bfed-c151fa066d52][Extended Khalman Filter]], [[id:b0dc76de-f6ee-42aa-8904-4c7bd29881eb][Polynomial Chaos Theory]], [[id:73c6fea6-0266-4dfb-b66b-0c502c51cbab][Parameter Estimation]]
 - keywords ::
 
 * Parameter Estimation for Mechanical Systems Using an Extended Kalman Filter
@@ -30,7 +33,7 @@ Use EKF to update polynomial chaos
 :ID:       ../../docsThese/bibliography/BlanchardEtAl2008.pdf-annot-1-0
 :END:
 
-*** [[file:20200914150950-polynomial_chaos_theory.org][Polynomial Chaos Theory]] more efficient than [[file:20200914150932-monte_carlo.org][Monte Carlo]] to assess mechanical systems uncertainties
+*** [[id:b0dc76de-f6ee-42aa-8904-4c7bd29881eb][Polynomial Chaos Theory]] more efficient than [[id:9ed26f9a-5e34-43c1-8fce-7e5e1e442cb1][Monte Carlo]] to assess mechanical systems uncertainties
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BlanchardEtAl2008.pdf::1++9.24;;annot-1-1]]
 :ID:       ../../docsThese/bibliography/BlanchardEtAl2008.pdf-annot-1-1

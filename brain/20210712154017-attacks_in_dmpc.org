@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       cf737a91-5945-49ce-aa2b-8ce6021fd3d6
+:END:
 #+title: Attacks in DMPC
-- tags :: [[file:20200709101933-dmpc.org][DMPC]], [[file:20200427105830-cybersecurity.org][Cyber-Security]], [[file:20200722151944-attacks.org][Attacks]]
+- tags :: [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][DMPC]], [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]], [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attacks]]
 
 
 * Vulnerabilities in Distributed MPC

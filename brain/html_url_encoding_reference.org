@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       82beec5d-87d3-47c6-8293-f495db7266f4
+:ROAM_REFS: https://www.w3schools.com/tags/ref_urlencode.asp
+:END:
 #+title: HTML URL Encoding Reference
-#+roam_key: https://www.w3schools.com/tags/ref_urlencode.asp
-- tags :: [[file:20200708151350-html.org][HTML]], [[file:20200422201907-writing.org][Writing]]
+- tags :: [[id:8e54b6d5-11b1-49e7-a0db-a83ca2138366][HTML]], [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]]
 
 List of encoding chars in URI
 | Character | From Windows-1252 | From UTF-8 |

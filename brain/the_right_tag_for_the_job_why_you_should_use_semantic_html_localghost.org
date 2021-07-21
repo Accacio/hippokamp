@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       3d75ec1b-abeb-422f-8c43-f65b896300d6
+:ROAM_REFS: https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
+:END:
 #+title: The right tag for the job: why you should use semantic HTML - localghost
-#+roam_key: https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
 
 https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
 

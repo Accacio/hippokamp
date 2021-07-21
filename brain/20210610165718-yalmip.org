@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       2eaf4e69-368d-4b25-9849-99ed75a11452
+:END:
 #+title: YALMIP
-- tags :: [[file:20200709102805-optimization.org][Optimization]]
+- tags :: [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]

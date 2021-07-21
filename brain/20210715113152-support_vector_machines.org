@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       2ddee334-4a95-4797-89cc-9dd19dd49bcf
+:ROAM_ALIASES: SVM
+:END:
 #+title: Support Vector Machines
-#+ROAM_ALIAS: SVM
 
-- tags :: [[file:20210715113204-classification.org][Classification]]
+- tags :: [[id:a345a36b-28da-4355-a807-070c85fb0f18][Classification]]

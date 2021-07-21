@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       7b85253a-8e5b-497a-b497-36cd50194fb9
+:ROAM_REFS: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+:END:
 #+title: Greek letters used in mathematics, science, and engineering - Wikipedia
-#+roam_key: https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
-- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+- tags :: [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]]

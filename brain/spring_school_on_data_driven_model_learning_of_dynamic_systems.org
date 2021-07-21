@@ -1,13 +1,16 @@
+:PROPERTIES:
+:ID:       31fea233-0f1e-4642-9d78-8fd9692b0dcc
+:ROAM_REFS: https://spring-id-2021.sciencesconf.org/
+:END:
 #+title: Spring School on Data-driven Model Learning of Dynamic Systems
 #+OPTIONS: toc:nil -:nil ^:nil
-#+roam_key: https://spring-id-2021.sciencesconf.org/
-#+ROAM_TAGS: courses
+#+filetags: courses
 
-- tags :: [[file:formations_these.org][Formations Doctorat]]
+- tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]]
 
 * System Identification: data-based modeling
 <2021-04-06 mar. 14:00-15:00>
-- lecturer :: [[file:xavier_bombois.org][Xavier Bombois]]
+- lecturer :: [[id:ecaa14ca-f27f-41eb-897a-e0f8ffe59f2a][Xavier Bombois]]
 
 ** Dynamical systems
 ** Data-based modeling
@@ -33,7 +36,7 @@
 ***** Use of a known sequence
 - Training sequence is sent before the signal of interest, so channel can be estimated ( mobile can be moving )
 - FIR order 6
-*** Players in system [[file:20210323094314-identification.org][Identification]]
+*** Players in system [[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]]
 - Input $u(t)$ (freely chosen)
 - Ouput $y(t)$ (can be measured)
   + Contribution due to $u(t)$ :: $u(t)$ $G_Ou(t)$
@@ -548,11 +551,11 @@ Full system identification
 
 ** System identification
 - inference of mathematical models from input-output
-*** Basic principle of system [[file:20210323094314-identification.org][Identification]]
+*** Basic principle of system [[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]]
 1. Run experiment collect (input output samples)
-2. Fit data to chosen model (by [[file:20200709102805-optimization.org][Optimization]])
+2. Fit data to chosen model (by [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]])
 3. Check performance
-*** Sparsity-inducing [[file:20200709102805-optimization.org][Optimization]]
+*** Sparsity-inducing [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]
 - minimization of the cardinality o a set
   + Candès, Donoho etc
 - Numerous applications in signal/image processing, information theory and machine learning...
@@ -611,7 +614,7 @@ $v_t=f_t+e_t$
 
 * Design of optimal identification experiments
 <2021-04-09 ven. 14:06-15:00>
-- lecturer :: [[file:xavier_bombois.org][Xavier Bombois]]
+- lecturer :: [[id:ecaa14ca-f27f-41eb-897a-e0f8ffe59f2a][Xavier Bombois]]
 ** Reminders and introduction
 ** Optimal experiment design
 - robust control considerations $r_{adm}(\omega)$

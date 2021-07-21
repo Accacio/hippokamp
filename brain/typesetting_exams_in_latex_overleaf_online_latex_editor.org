@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       ce677ff6-0fa7-4c82-94af-d7a7d5b56ef9
+:ROAM_REFS: LaTeX in exams https://www.overleaf.com/learn/latex/Typesetting
+:END:
 #+TITLE: Typesetting exams in LaTeX - Overleaf, Online LaTeX Editor
-#+ROAM_KEY: https://www.overleaf.com/learn/latex/Typesetting exams in LaTeX
-#+ROAM_TAGS: education
-- tags :: [[file:20200424101435-education.org][education]], [[file:20200424101609-latex.org][latex]]
+#+filetags: education
+- tags :: [[id:92200229-0f70-409d-b99f-1260dc066b59][education]], [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][latex]]
 http://www-math.mit.edu/~psh/exam/examdoc.pdf

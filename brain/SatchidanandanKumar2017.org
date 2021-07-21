@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       20e633cc-fe68-4c47-b675-cb6707aa02ac
+:ROAM_REFS: cite:SatchidanandanKumar2017
+:END:
 #+TITLE: SatchidanandanKumar2017
-#+ROAM_KEY: cite:SatchidanandanKumar2017
-#+ROAM_TAGS: skimmed article
+#+filetags: skimmed article
 
-- tags :: [[file:20210526111126-watermarking.org][Watermarking]]
+- tags :: [[id:1158d11b-d0e9-40dd-bdd8-bbeb85092f71][Watermarking]]
 - keywords ::
 
 
@@ -18,7 +21,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Use of [[file:20210526111126-watermarking.org][Watermarking]] as active defense. Study for different types of systems, ARX, ARMAX, SISO with partial observations, MIMO with gaussian noise, extension to non-gaussian
+Use of [[id:1158d11b-d0e9-40dd-bdd8-bbeb85092f71][Watermarking]] as active defense. Study for different types of systems, ARX, ARMAX, SISO with partial observations, MIMO with gaussian noise, extension to non-gaussian
 
 *** Model :lightSkyblue:
 *** Remarks
@@ -40,7 +43,7 @@ Use of [[file:20210526111126-watermarking.org][Watermarking]] as active defense.
 :END:
 examples of large scale cyber-physical systems
 
-*** technique, called “[[file:20210526111126-watermarking.org][watermarking]],” employs the technique of
+*** technique, called “[[id:1158d11b-d0e9-40dd-bdd8-bbeb85092f71][watermarking]],” employs the technique of
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::1++7.81;;annot-1-1]]
 :ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-1-1
@@ -53,7 +56,7 @@ examples of large scale cyber-physical systems
 :END:
 examples of real attacks
 
-*** an [[file:20210601102950-insider_attack.org][insider attack]]
+*** an [[id:6c583722-c596-4591-8155-d106b32d872b][insider attack]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::1++7.89;;annot-1-3]]
 :ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-1-3
@@ -77,7 +80,7 @@ Watermarking
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::2++1.33;;annot-2-0]]
 :ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-2-0
 :END:
-[[file:20210601103209-replay_attack.org][Replay Attack]]
+[[id:a60ecbf6-c6d2-404e-8001-71ed8c41692f][Replay Attack]]
 
 *** Using this approach of active defense, we establish that under appropriate conditions, no matter in what way the adversarial sensors collude, the amount of distortion that they can add without exposing their presence can have an average power of only zero.
 :PROPERTIES:
@@ -114,7 +117,7 @@ early reference to secure infrastructures from cyberattacks
 :END:
 examples in different fields
 
-*** [[file:20200716164436-deception_attacks.org][deception attack]] whereby an adversary impersonates as an- other node and transmits false information on its behalf.
+*** [[id:1378c4c8-b824-4748-917d-904632acfd75][deception attack]] whereby an adversary impersonates as an- other node and transmits false information on its behalf.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++0.00;;annot-3-4]]
 :ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-4
@@ -155,7 +158,7 @@ apparently first use of watermarking, termed «Physical Watermarking»
 :END:
 usually adversary is modeled
 
-*** [[file:20200722151834-denial_of_service_attacks.org][Denial-of-Service]] (DoS) attack in which the adversary floods the communication network with useless packets, rendering it incapable of transporting useful information.
+*** [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][Denial-of-Service]] (DoS) attack in which the adversary floods the communication network with useless packets, rendering it incapable of transporting useful information.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/SatchidanandanKumar2017.pdf::3++11.30;;annot-3-3]]
 :ID:       ../../docsThese/bibliography/SatchidanandanKumar2017.pdf-annot-3-3

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       9bc933a6-5490-426e-a2be-1c86337c2817
+:END:
 #+title: Virtue Ethics
-- tags :: [[file:20200706142234-ethique.org][Ethique]]
+- tags :: [[id:65fa478b-7a51-495d-8f50-631262768d30][Ethique]]

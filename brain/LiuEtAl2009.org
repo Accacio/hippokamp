@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       2e346283-a32f-4c14-8d42-980037735068
+:ROAM_REFS: cite:LiuEtAl2009
+:END:
 #+TITLE: LiuEtAl2009
-#+ROAM_KEY: cite:LiuEtAl2009
-#+ROAM_TAGS: skimmed article
+#+filetags: skimmed article
 
 - tags ::
 - keywords :: power grids, state estimation, attack
@@ -34,7 +37,7 @@ False data injection attack that isn't detected using norm of linear regression 
 :END:
 attacks
 
-*** false data injection [[file:20200722151944-attacks.org][attack]]s
+*** false data injection [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][attack]]s
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::1++0.00;;annot-1-1]]
 :ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-1-1

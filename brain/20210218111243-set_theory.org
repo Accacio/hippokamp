@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       823394b4-5144-4411-8522-5ac9d5fb503e
+:END:
 #+title: Set Theory
-- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+- tags :: [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]]
 
 * Functions
 ** Definition

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       acc20c04-d224-4825-8481-a9cf1868d0e8
+:END:
 #+title: Control Conferences
-- tags :: [[file:20200504164021-control.org][Control]], [[file:20210120110636-conferences.org][Conferences]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][Control]], [[id:1a41ae24-f1e7-445b-82b8-be682a34d612][Conferences]]

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       daa61a5c-7118-412f-a393-3a08e8f9eff0
+:ROAM_REFS: https://en.wikipedia.org/wiki/Test_functions_for_optimization
+:END:
 #+title: Test functions for optimization - Wikipedia
-#+roam_key: https://en.wikipedia.org/wiki/Test_functions_for_optimization
-- tags :: [[file:20200709102805-optimization.org][Optimization]]
+- tags :: [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]

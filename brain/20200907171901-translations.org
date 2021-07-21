@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       322f1d64-93a2-4a51-8a78-1f3783d88b5c
+:END:
 #+title: Translations

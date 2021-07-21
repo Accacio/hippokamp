@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       a60ecbf6-c6d2-404e-8001-71ed8c41692f
+:END:
 #+title: Replay Attack
-- tags :: [[file:20200722151944-attacks.org][Attacks]]
+- tags :: [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attacks]]
 
   Attacker record real values and replay the values in a loop.

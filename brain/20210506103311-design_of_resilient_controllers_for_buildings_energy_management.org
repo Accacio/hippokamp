@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       f50353da-4a07-469d-9c42-1949af38db6b
+:END:
 #+title: Design of resilient controllers for Buildings Energy Management
 
 - lecturer :: Jesse-James Arthur Prince Agbodjan

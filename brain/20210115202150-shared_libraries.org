@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       3b7e21aa-8be6-4082-a963-049578c96348
+:END:
 #+title: Shared Libraries
-- tags :: [[file:20200713160350-programming.org][Programming]]
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]]

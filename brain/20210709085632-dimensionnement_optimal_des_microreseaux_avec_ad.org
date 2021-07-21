@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       21b41756-712c-4cb6-b268-7af7a3dc9f2a
+:END:
 #+title: Dimensionnement Optimal des Microréseaux avec AD
 
 - presenter :: Evelise de Godoy Antunes

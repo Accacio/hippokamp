@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       8409c277-f936-43a0-a442-a55ba648e1a9
+:ROAM_REFS: cite:WuEtAl2018
+:END:
 #+TITLE: WuEtAl2018: Detecting and handling cyber-attacks in model predictive control of chemical processes
-#+ROAM_KEY: cite:WuEtAl2018
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200427105830-cybersecurity.org][Cyber-Security]], [[file:20200709101720-mpc.org][MPC]], [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]]
+- tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]], [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]], [[id:80483591-299e-4627-9e13-587aeb852b94][Spatially Separated Operator]]
 - keywords ::
 
 
@@ -18,9 +21,9 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-[[file:20200813180431-neural_networks.org][Neural Networks]] based detection and Lyapunov [[file:20200709101720-mpc.org][MPC]], using cumulative sum detection
+[[id:a6fbcdd3-a1a1-4dd5-bf26-dd778fdfab56][Neural Networks]] based detection and Lyapunov [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]], using cumulative sum detection
 *** Model :lightSkyblue:
-- [[file:20200716163801-continuous_time_systems.org][Continuous-time ]][[file:20200717152401-non_linear_systems.org][Nonlinear System]] with constraints in input
+- [[id:0349382b-e044-4c5e-9601-089cbe673c06][Continuous-time]][[id:5c4f56fc-e5b7-4317-818a-f86f79676cbc][Nonlinear System]] with constraints in input
 - Disturbance
 *** Remarks
 *** Applications

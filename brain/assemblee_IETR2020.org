@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       259be987-a0d0-4c33-905c-c5aae6bda364
+:END:
 #+TITLE: Assemblée Générale IETR 2020 - 2020-01-23
 
-- tags :: [[file:20200422134152-assemblees.org][Assemblées]]
+- tags :: [[id:01ec0fcf-a548-4c80-9eea-73bddf1b8e61][Assemblées]]
 
 * Présentations Doctorants
 ** Sparse signal detection with spatial diversity using multi rate sampling | E. SELVA  A. KOUNTOURIS Y LOUET

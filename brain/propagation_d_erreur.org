@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       c437689e-3ce7-4bb7-a3c5-2e3dee403b9a
+:ROAM_REFS: http://robert.mellet.pagesperso-orange.fr/p_err/p_err_01.htm
+:END:
 #+title: Propagation d'erreur
-#+roam_key: http://robert.mellet.pagesperso-orange.fr/p_err/p_err_01.htm
-- tags :: [[file:20210401171755-error_propagation.org][Error Propagation]]
+- tags :: [[id:90d52a76-f0e1-4b3b-ad42-c4f31c6cab0b][Error Propagation]]

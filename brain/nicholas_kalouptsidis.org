@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       ebd46ce2-0cf5-4cbe-94b0-cae3270bf2b8
+:ROAM_REFS: http://cgi.di.uoa.gr/~kalou/Welcome.html
+:ROAM_ALIASES: "Kalouptsidis, N."
+:END:
 #+title: Nicholas Kalouptsidis
-#+roam_key: http://cgi.di.uoa.gr/~kalou/Welcome.html
-#+roam_tags: people
-#+roam_alias: "Kalouptsidis, N."
+#+filetags: people

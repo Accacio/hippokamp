@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       8c466cf2-be9b-46b4-82ff-12000d4fb5d9
+:ROAM_REFS: https://math.stackexchange.com/questions/1492095/orthogonal-projection-onto-the-intersection-of-convex-sets/3586725#3586725
+:END:
 #+title: Orthogonal Projection onto the Intersection of Convex Sets - Mathematics Stack Exchange
-#+roam_key: https://math.stackexchange.com/questions/1492095/orthogonal-projection-onto-the-intersection-of-convex-sets/3586725#3586725
-- tags :: [[file:20201215140935-projection.org][Projection]]
+- tags :: [[id:441c92e4-b3bc-4c5f-882d-d8a200ed7623][Projection]]
 
   cite:BoyleDykstra1986

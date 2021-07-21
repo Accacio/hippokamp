@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       0b102755-ff99-4c37-b08b-a3b5c0449c29
+:ROAM_REFS: https://arxiv.org/abs/2008.06030
+:END:
 #+title: [2008.06030] On the design of text editors
-#+roam_key: https://arxiv.org/abs/2008.06030
-- tags :: [[file:20201204160447-text_editors.org][Text Editors]]
+- tags :: [[id:83f43ae9-c399-439e-adfe-60bc9cc9f829][Text Editors]]

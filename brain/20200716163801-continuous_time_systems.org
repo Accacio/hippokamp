@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       0349382b-e044-4c5e-9601-089cbe673c06
+:END:
 #+title: Continuous-time Systems
-- tags :: [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]
+- tags :: [[id:e3029c97-70bc-44cb-a8f8-706fd4732343][Dynamic Systems]]

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       514a757c-1021-475a-b741-54199cf990e7
+:ROAM_REFS: cite:LiuEtAl2019
+:END:
 #+TITLE: LiuEtAl2019: Stabilization of networked control systems with hybrid-driven mechanism and probabilistic cyber attacks
-#+ROAM_KEY: cite:LiuEtAl2019
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200504113017-stability.org][Stability]], [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]], [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200916113812-static_control.org][Static Control]]
+- tags :: [[id:49daf608-7a79-4ade-a729-e858d05f56a7][Stability]], [[id:80483591-299e-4627-9e13-587aeb852b94][Spatially Separated Operator]], [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][cyber-security]], [[id:3d5a82a7-80e8-4beb-be8f-24369c3452b6][Static Control]]
 - keywords ::
 
 
@@ -17,15 +20,15 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Analysis of the effects of[[file:20200716164436-deception_attacks.org][ Deception Attacks]] and use [[file:20200716162527-hybrid_control.org][Hybrid Control]] and verify stability using Lyapunov
+Analysis of the effects of[[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]] and use [[id:a3b6d44b-4f1d-43dd-942b-45c2df959e6e][Hybrid Control]] and verify stability using Lyapunov
 *** Model :lightSkyblue:
-[[file:20200716170441-linear_system.org][Linear]] [[file:20200716163801-continuous_time_systems.org][Continuous-time System]]
+[[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear]] [[id:0349382b-e044-4c5e-9601-089cbe673c06][Continuous-time System]]
 
-[[file:20200716170854-stochastic_control.org][Stochastic]] [[file:20200716162527-hybrid_control.org][Hybrid Control]] using a [[file:20200716165417-bernoulli_distribution.org][Bernoulli Distribution]]
-[[file:20200716164436-deception_attacks.org][Deception Attacks]] are Nonlinear function with nonlinearity upperbound random occurrence
+[[id:3ec3cd81-0163-4fe1-9c20-b5dfd33427d6][Stochastic]] [[id:a3b6d44b-4f1d-43dd-942b-45c2df959e6e][Hybrid Control]] using a [[id:66cea64f-9e73-423a-80f2-58fd01dd5b6c][Bernoulli Distribution]]
+[[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]] are Nonlinear function with nonlinearity upperbound random occurrence
 *** Remarks
 *** Applications
-A [[file:20200716170112-simulation.org][Simulation]] is used to demonstrated effectiveness
+A [[id:4ee121fd-b469-42eb-bef3-28fa032c4a60][Simulation]] is used to demonstrated effectiveness
 *** Expressions
 - investigated
 *** References :violet:
@@ -79,7 +82,7 @@ cite:LiuEtAl2016
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::3++0.28;;annot-3-25]]
 :ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-25
 :END:
-*** [[file:20200910150144-mean_square_stability.org][Mean Square Stability]] (MSS)
+*** [[id:8f2c282b-e0a4-4990-b6a3-aea854da9679][Mean Square Stability]] (MSS)
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2019.pdf::3++1.18;;annot-3-29]]
 :ID:       ../../docsThese/bibliography/LiuEtAl2019.pdf-annot-3-29

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       9824eb79-3a87-44ac-bfed-e0a07c22653c
+:ROAM_REFS: cite:Yamasaki2016
+:END:
 #+TITLE: Yamasaki2016
-#+ROAM_KEY: cite:Yamasaki2016
-#+ROAM_TAGS: master
+#+filetags: master
 
-- tags :: [[file:20200617104501-sliding_modes.org][sliding modes]]
+- tags :: [[id:2f8705a1-87f3-4561-899c-fbfdc9b8c620][sliding modes]]
 * Yamasaki2016
 :PROPERTIES:
 :NOTER_DOCUMENT: ../../docsThese/bibliography/Yamasaki2016.pdf

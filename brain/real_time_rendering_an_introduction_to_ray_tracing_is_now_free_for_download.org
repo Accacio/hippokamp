@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       81b6638a-4bda-4134-936a-9d2bf1f3abd8
+:ROAM_REFS: http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/
+:END:
 #+title: Real-Time Rendering · “An Introduction to Ray Tracing” is now free for download
-#+roam_key: http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/
-- tags :: [[file:20200617111624-computer_graphics.org][computer graphics]]
+- tags :: [[id:46181a21-ecc6-4969-bbf6-ef40617937b0][computer graphics]]

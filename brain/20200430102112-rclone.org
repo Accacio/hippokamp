@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       6d7b2807-9c73-4f0f-98d3-8a9e5946662b
+:END:
 #+TITLE: rclone
-- tags :: [[file:20200428005424-linux.org][Linux]]
+- tags :: [[id:b401932b-c548-4220-96e5-723542a4d30b][Linux]]
 
 * create a rcloneignore and use ``--exclude-from"
 * also use --max-age and --min-age

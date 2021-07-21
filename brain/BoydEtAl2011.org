@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       948bdb7f-ca90-47aa-b80a-a9a1b0d391d6
+:ROAM_REFS: cite:BoydEtAl2011
+:END:
 #+TITLE: BoydEtAl2011
-#+ROAM_KEY: cite:BoydEtAl2011
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tag :: [[file:20200427164136-decomposition.org][Decomposition]], [[file:20200427164614-distributed_optimization.org][Distributed Optimization]]
+- tag :: [[id:dc49d7a6-a3e4-48f5-bf13-242f40a8ffa0][Decomposition]], [[id:de9b0ee5-95dc-4826-825a-e9efb5b83136][Distributed Optimization]]
 - keywords :: Artificial Intelligence;Machine Learning;Optimization and Control Theory;Computer Science, read
 
 
@@ -18,7 +21,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Distributed optimization using [[file:admm.org][ADMM]]
+Distributed optimization using [[id:6f210e88-50da-4dc2-9f28-c723667a7bc9][ADMM]]
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       53178f9f-8dfe-424e-b71a-74b75053324d
+:ROAM_REFS: https://www.nordtheme.com/
+:END:
 #+title: Nord
-#+roam_key: https://www.nordtheme.com/
 
 https://www.nordtheme.com/
 
-- tags :: [[file:20210422184049-color_palettes.org][color palettes]]
+- tags :: [[id:2bd50a35-976e-4620-ba51-be654af91e12][color palettes]]

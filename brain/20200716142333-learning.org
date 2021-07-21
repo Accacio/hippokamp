@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       f23e4947-4f17-41cc-9d73-379f1c687760
+:END:
 #+title: Learning
-- tags :: [[file:20200424101435-education.org][education]]
+- tags :: [[id:92200229-0f70-409d-b99f-1260dc066b59][education]]

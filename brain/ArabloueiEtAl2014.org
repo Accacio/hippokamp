@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       b20be717-a912-42db-a88b-893fa1cd8e3d
+:ROAM_REFS: cite:ArabloueiEtAl2014
+:END:
 #+TITLE: ArabloueiEtAl2014: Unbiased Recursive Least-Squares Estimation Utilizing Dichotomous Coordinate-Descent Iterations
-#+ROAM_KEY: cite:ArabloueiEtAl2014
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags ::  [[file:online-estimation.org][online estimation]], [[file:20200504163253-recursive_least_squares.org][recursive least-squares]]
+- tags ::  [[id:2ce460b6-7d81-45e2-812c-ebb16b532bcd][online estimation]], [[id:0147d11c-6d28-4f4c-98ac-23eb096ff3fa][recursive least-squares]]
 - keywords :: adaptive filters, computational complexity, filtering theory, identification, iterative methods, least squares approximations, numerical stability, optimisation, unbiased recursive least-squares algorithm, errors-in-variables system identification, noise-induced bias, contaminated exponentially-weighted least-squares optimization problem, dichotomous coordinate-descent iteration, URLS algorithm, computational complexity, numerical stability, adaptive filtering, Signal processing algorithms, Noise, Estimation, Vectors, Biological system modeling, Algorithm design and analysis, Equations, Adaptive filtering, bias compensation, dichotomous coordinate-descent algorithm, errors-in-variables modeling, recursive least-squares, system identification
 
 

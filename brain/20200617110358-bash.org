@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       a3a5716e-dca6-4c59-805f-8f79f3d66c84
+:END:
 #+title: bash
-- tags :: [[file:20200428005424-linux.org][Linux]], [[file:20200713160350-programming.org][Programming]]
+- tags :: [[id:b401932b-c548-4220-96e5-723542a4d30b][Linux]], [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]]

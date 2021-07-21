@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       6a11e808-f5e6-4bdd-ad52-609056cc541d
+:END:
 #+title: Multi-Agents
-- tags :: [[file:20200608100448-networked_control.org][NCS]]
+- tags :: [[id:f3727224-7286-465f-bff0-bff8dd490ea4][NCS]]

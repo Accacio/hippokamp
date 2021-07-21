@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ad0558d6-503b-4e37-8998-f38ac2482b97
+:ROAM_ALIASES: ECC
+:END:
 #+title: European Control Conference
-#+ROAM_ALIAS: ECC
-- tags :: [[file:20210120110751-control_conferences.org][Control Conferences]]
+- tags :: [[id:acc20c04-d224-4825-8481-a9cf1868d0e8][Control Conferences]]

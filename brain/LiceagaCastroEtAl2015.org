@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       72cf0ca4-02fe-4644-ad49-dc8295b1f513
+:ROAM_REFS: cite:LiceagaCastroEtAl2015
+:END:
 #+TITLE: LiceagaCastroEtAl2015: MIMO passive control systems are not necessarily robust
-#+ROAM_KEY: cite:LiceagaCastroEtAl2015
-#+ROAM_TAGS: article
+#+filetags: article
 
 - tags ::
 - keywords ::
@@ -18,7 +21,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Show that [[file:20200911115431-multivariable_systems.org][MIMO]] systems controlled passively are not necessarily robust.
+Show that [[id:f62d60ca-4a29-4d6e-8ead-89e4dda9aca3][MIMO]] systems controlled passively are not necessarily robust.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       00ddebfd-ca6a-4eea-919b-c98d415c47b4
+:ROAM_REFS: cite:Zafiriou1990
+:END:
 #+TITLE: Zafiriou1990
-#+ROAM_KEY: cite:Zafiriou1990
-#+ROAM_TAGS: skimmed article
+#+filetags: skimmed article
 
-- tags :: [[file:20210222134737-explicit_mpc.org][Explicit MPC]]
+- tags :: [[id:1fc8cb8e-13a4-4d63-a22c-4c57584d26b0][Explicit MPC]]
 - keywords ::
 
 

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6627fc32-ecbb-45ec-8e7f-e39a2e9e6087
+:ROAM_REFS: https://chartscss.org/charts/line/
+:END:
 #+title: Line | Charts.css
-#+roam_key: https://chartscss.org/charts/line/
-- tags :: [[file:20200708151350-html.org][HTML]],
+- tags :: [[id:8e54b6d5-11b1-49e7-a0db-a83ca2138366][HTML]],

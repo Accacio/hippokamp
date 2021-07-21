@@ -1,4 +1,9 @@
+:PROPERTIES:
+:ID:       dba5ad1e-ce74-4d9d-a9a8-502eab4cc77d
+:ROAM_REFS: https://marctenbosch.com/quaternions/
+:END:
 #+TITLE: Let's remove Quaternions from every 3D Engine (An Interactive Introduction to Rotors from Geometric Algebra) - Marc ten Bosch
-#+ROAM_KEY: https://marctenbosch.com/quaternions/
-- tags :: [[file:20200424162958-algebra.org][algebra]], [[file:20200423094808-gamedev.org][gamedev]]
+
+- tags :: [[id:8e90a066-2281-479c-a704-1360d714d287][Geometric Algebra]], [[id:ed3f80b9-425d-48b8-b838-19ca3d2ca38e][gamedev]]
+
 https://marctenbosch.com/quaternions/

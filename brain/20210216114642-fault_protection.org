@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       573d59cd-037a-4a28-a72b-5cf79ea16fc5
+:END:
 #+title: Fault Protection

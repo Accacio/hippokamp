@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       92ed23b5-1480-4241-b074-a5b4a1d42069
+:ROAM_ALIASES: DMPC
+:END:
 #+title: Distributed Model Predictive Control
-#+ROAM_ALIAS: DMPC
-- tags :: [[file:20200709101720-mpc.org][MPC]]
+- tags :: [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
 
 
 * Resource allocation

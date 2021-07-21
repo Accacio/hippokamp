@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e18560e0-25e9-450c-85c5-df6d699451b3
+:ROAM_REFS: https://slehar.wordpress.com/2014/03/18/clifford-algebra-a-visual-introduction/
+:END:
 #+TITLE: Clifford Algebra: A visual introduction | slehar
-#+ROAM_KEY: https://slehar.wordpress.com/2014/03/18/clifford-algebra-a-visual-introduction/
-- tag :: [[file:20200424163112-clifford_algebra.org][clifford algebra]]
+- tag :: [[id:dad0f5d2-b490-46d1-831e-2f53b231271f][Clifford Algebra]]

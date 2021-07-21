@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       57aa36ca-d8f6-4337-9a44-9160cd66fa02
+:ROAM_REFS: https://www.sthu.org//blog/17-onlineteaching-linux-corona/index.html
+:END:
 #+title: Online teaching and home office with Linux
-#+roam_key: https://www.sthu.org//blog/17-onlineteaching-linux-corona/index.html
-- tags :: [[file:20200428005424-linux.org][Linux]], [[file:20200424101435-education.org][education]]
+- tags :: [[id:b401932b-c548-4220-96e5-723542a4d30b][Linux]], [[id:92200229-0f70-409d-b99f-1260dc066b59][education]]

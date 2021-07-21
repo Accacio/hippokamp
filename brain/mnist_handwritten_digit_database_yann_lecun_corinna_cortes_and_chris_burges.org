@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       8c1170b6-deaf-41f7-b939-da5b25a16b12
+:ROAM_REFS: http://yann.lecun.com/exdb/mnist/
+:END:
 #+title: MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges
-#+roam_key: http://yann.lecun.com/exdb/mnist/
-- tags :: [[file:20200813180431-neural_networks.org][Neural Networks]], [[file:20201203163407-training_data.org][Training Data]]
+- tags :: [[id:a6fbcdd3-a1a1-4dd5-bf26-dd778fdfab56][Neural Networks]], [[id:2857e671-0899-43fd-8a94-74ce772e1971][Training Data]]
 
 Data for training handwritten digits

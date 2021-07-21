@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       c29da646-790a-47dc-917f-bfe390209c14
+:END:
 #+title: data-driven control
-- tags :: [[file:20200504164021-control.org][control]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][control]]

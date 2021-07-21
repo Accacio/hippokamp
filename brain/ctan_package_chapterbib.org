@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       6eec83a6-9fe8-433d-96dd-6ba3be1d3986
+:ROAM_REFS: https://www.ctan.org/pkg/chapterbib
+:END:
 #+title: CTAN: Package chapterbib
-#+roam_key: https://www.ctan.org/pkg/chapterbib
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]]
   multiple bibliographies in a document

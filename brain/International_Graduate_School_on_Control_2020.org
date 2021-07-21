@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       f802edea-9e18-4a60-846f-c86d17d57b33
+:ROAM_REFS: IGSC2020
+:END:
 #+TITLE: International Graduate School On Control 2020
-#+ROAM_KEY: IGSC2020
 #+TODO:  LATE(l) NO(n) | YES(y) MAYBE(m)
 
-- tags :: [[file:20200709114738-igsc.org][IGSC]]
+- tags :: [[id:b16008ba-9c13-4b79-a15c-c5a418d41ea5][IGSC]]
 
 * IGSC 2020
 :PROPERTIES:

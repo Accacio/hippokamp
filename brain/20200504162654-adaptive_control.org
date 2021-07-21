@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       27a44a3c-219a-4a8c-8417-0f4e0a62f9c2
+:END:
 #+TITLE: Adaptive Control
- - tag :: [[file:20200504164021-control.org][control]]
+ - tag :: [[id:183fa358-b121-432e-be54-3e09847c988c][control]]

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       84838873-ee73-4fee-bc52-3b3b5b512d87
+:ROAM_REFS: https://www.gamasutra.com/view/news/128846/Indepth_Concurrent_World_Editing_On_The_Cheap.php
+:END:
 #+TITLE: Gamasutra - In-depth: Concurrent World Editing, On The Cheap
-#+ROAM_KEY: https://www.gamasutra.com/view/news/128846/Indepth_Concurrent_World_Editing_On_The_Cheap.php
-- tag :: [[file:20200423094808-gamedev.org][gamedev]], [[file:20200709114935-jonathan_blow.org][Jonathan Blow]]
+- tag :: [[id:ed3f80b9-425d-48b8-b838-19ca3d2ca38e][gamedev]], [[id:452333bf-14c6-4ad8-aa6a-50ae9429cb18][Jonathan Blow]]
 
 * Use Textual Format
 - Serialize Entities

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       a33cb3e2-cb1d-438f-bcb4-db852f013fed
+:ROAM_REFS: https://www.khronos.org/opengl/wiki/Shader_Compilation
+:END:
 #+TITLE: Shader Compilation - OpenGL Wiki
-#+ROAM_KEY: https://www.khronos.org/opengl/wiki/Shader_Compilation
-- tag :: [[file:20200617111549-opengl.org][OpenGL]]
+- tag :: [[id:db00423b-3c3b-4d69-969a-a063a11dd129][OpenGL]]
 
 https://www.khronos.org/opengl/wiki/Shader_Compilation

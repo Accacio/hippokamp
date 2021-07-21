@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e388d4ec-3113-49be-ae09-28d6f6186441
+:ROAM_REFS: https://getbutterfly.com/gpg-pgp-tutorial/a
+:END:
 #+title: GPG/PGP Tutorial - getButterfly
-#+roam_key: https://getbutterfly.com/gpg-pgp-tutorial/a
-- tags :: [[file:20210118115927-gpg_pgp.org][GPG/PGP]]
+- tags :: [[id:e79ae3ae-e076-445a-95fa-7caab05753c0][GPG/PGP]]

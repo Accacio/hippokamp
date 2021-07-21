@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e488d119-0a33-4202-97fb-a4728cf789cb
+:ROAM_REFS: https://jimmunroe.net/doityourself/doityourself_book_press.html
+:END:
 #+title: Do-It-Yourself Book Press – Jim Munroe
-#+roam_key: https://jimmunroe.net/doityourself/doityourself_book_press.html
-- tags :: [[file:20210108173314-publications.org][Publications]]
+- tags :: [[id:3a886c8f-d50f-46c0-ac93-4ccbcc29fb61][Publications]]

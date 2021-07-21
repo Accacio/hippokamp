@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       46181a21-ecc6-4969-bbf6-ef40617937b0
+:END:
 #+title: computer graphics
-- tags :: [[file:20200617111624-graphics.org][graphics]]
+- tags :: [[id:461957de-10c9-432e-ae59-3db33c323192][graphics]]

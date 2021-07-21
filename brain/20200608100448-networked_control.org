@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       f3727224-7286-465f-bff0-bff8dd490ea4
+:ROAM_ALIASES: NCS
+:END:
 #+TITLE: Networked Control
-#+ROAM_ALIAS: NCS
-- tag :: [[file:20200504164021-control.org][control]]
+- tag :: [[id:183fa358-b121-432e-be54-3e09847c988c][control]]

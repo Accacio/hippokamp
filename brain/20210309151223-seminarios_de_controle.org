@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       b3f7ab0a-c526-4488-a6f6-c3fdcfeba8a1
+:END:
 #+title: Seminários de Controle
-- tags :: [[file:20200504164021-control.org][Control]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][Control]]

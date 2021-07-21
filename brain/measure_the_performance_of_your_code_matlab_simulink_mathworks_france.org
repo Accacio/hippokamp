@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       67f63a64-288c-42d4-b947-522debe34c69
+:ROAM_REFS: https://fr.mathworks.com/help/matlab/matlab_prog/measure-performance-of-your-program.html
+:END:
 #+title: Measure the Performance of Your Code - MATLAB & Simulink - MathWorks France
-#+roam_key: https://fr.mathworks.com/help/matlab/matlab_prog/measure-performance-of-your-program.html
-- tags :: [[file:20200708153513-matlab.org][MATLAB]]
+- tags :: [[id:21710610-f6f2-4953-8e15-83fac3a4de9c][MATLAB]]
 
 - timeit runs a function multiple times
   #+BEGIN_SRC matlab

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       8c70fa62-9db0-410e-bff3-e990aaa56fb2
+:END:
 #+title: Brian Kernighan
-#+ROAM_TAGS: people
+#+filetags: people

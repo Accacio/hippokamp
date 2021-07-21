@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       7abb393d-dd90-46f5-8e31-4404c458c2e0
+:ROAM_REFS: https://visjs.github.io/vis-network/examples/
+:END:
 #+TITLE: Vis Network Examples
-#+ROAM_KEY: https://visjs.github.io/vis-network/examples/
-- tag :: [[file:20200427150436-data_visualization.org][data visualization]]
+- tag :: [[id:dac30ce5-0c1d-4465-bf19-1ef54329adb5][data visualization]]

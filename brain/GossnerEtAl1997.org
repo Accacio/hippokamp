@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       3147d515-af89-420d-b530-d32c08b6b877
+:ROAM_REFS: cite:GossnerEtAl1997
+:END:
 #+TITLE: GossnerEtAl1997: Stable generalized predictive control with constraints and bounded disturbances
-#+ROAM_KEY: cite:GossnerEtAl1997
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200709101720-mpc.org][MPC]], [[file:20200504162727-disturbance_rejection.org][disturbance rejection]], [[file:20200504113017-stability.org][stability]]
+- tags :: [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]], [[id:709c7780-ae2a-4f15-bc2a-71392d5a5a7e][disturbance rejection]], [[id:49daf608-7a79-4ade-a729-e858d05f56a7][stability]]
 - keywords :: Predictive control, constraints, optimization, disturbance rejection, stability
 
 

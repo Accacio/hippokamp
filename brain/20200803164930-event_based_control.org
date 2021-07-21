@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       02289306-4cb1-4371-a5da-eedd95e7b268
+:END:
 #+title: Event-Based Control
-- tags :: [[file:20200504164021-control.org][Control]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][Control]]

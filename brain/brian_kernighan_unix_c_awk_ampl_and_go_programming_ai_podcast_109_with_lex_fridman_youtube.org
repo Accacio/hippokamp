@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       062aaa00-20ff-4745-95ab-6522b21fb8ef
+:ROAM_REFS: https://www.youtube.com/watch?v=O9upVbGSBFo
+:END:
 #+title: Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming | AI Podcast #109 with Lex Fridman - YouTube
-#+roam_key: https://www.youtube.com/watch?v=O9upVbGSBFo
-- tags :: [[file:20200713160350-programming.org][Programming]], [[file:20200812131754-brian_kernighan.org][Brian Kernighan]]
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]], [[id:8c70fa62-9db0-410e-bff3-e990aaa56fb2][Brian Kernighan]]
 
-  [[file:20200812131827-ampl.org][AMPL]]
+  [[id:9f7348a1-cbd6-4396-bada-7a1c69e1c3a7][AMPL]]

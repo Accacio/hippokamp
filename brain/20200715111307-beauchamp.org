@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       9019091e-fff9-4d2b-ba97-2ef3bea555af
+:END:
 #+title: Beauchamp
-#+ROAM_TAGS: people
+#+filetags: people
 
-[[file:20210312103103-childress.org][Childress]]
+[[id:94424538-74b7-48d9-bc96-6f23ccdd9dd8][Childress]]

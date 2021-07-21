@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       2d179347-c9bf-46a6-b415-f1fabc54075d
+:ROAM_REFS: http://www.gardening.cornell.edu/homegardening/
+:END:
 #+title: Explore Cornell - Home Gardening - Introduction
-#+roam_key: http://www.gardening.cornell.edu/homegardening/
 
 http://www.gardening.cornell.edu/homegardening/
 

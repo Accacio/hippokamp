@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4550b9e3-77b3-4065-93a4-56c92a7b4c83
+:ROAM_REFS: http://www-math.mit.edu/~gs/
+:END:
 #+title: Gilbert Strang
-#+roam_key: http://www-math.mit.edu/~gs/
-#+roam_tags: people
+#+filetags: people

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       e70030ed-f064-4181-ab4e-c58c986c12e9
+:ROAM_REFS: cite:AgbodjanEtAl2019
+:END:
 #+TITLE: AgbodjanEtAl2019
-#+ROAM_KEY: cite:AgbodjanEtAl2019
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200709101720-mpc.org][MPC]], [[file:20200422220259-energie.org][énérgie]]
+- tags :: [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]], [[id:908aeea6-39e7-499f-812e-5e5b96a8000c][énérgie]]
 - keywords ::
 
 

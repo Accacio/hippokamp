@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ecabdf37-5128-4e03-a4e0-53c386975aa0
+:ROAM_REFS: http://pages.iu.edu/~rdlyons/macros/macros.html
+:END:
 #+title: TeX Macros
-#+roam_key: http://pages.iu.edu/~rdlyons/macros/macros.html
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]]

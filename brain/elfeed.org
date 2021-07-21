@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a671f2ca-198c-42a1-adc3-8532e7b99235
+:END:
 #+TITLE: elfeed
 
 * root :elfeed:

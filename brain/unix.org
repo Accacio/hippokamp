@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       77d0b49d-1f44-4771-a84f-7c4120a886f2
+:END:
 #+TITLE: unix
 
-[[file:20200423005717-operating_systems.org][Operating Systems]]
+[[id:7fd861c7-d405-4486-b082-ff7723c17594][Operating Systems]]
 
 * Guia
 http://mesocentre.centralesupelec.fr/training-fr/unix/

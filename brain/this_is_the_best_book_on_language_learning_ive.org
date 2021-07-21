@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       67b212db-be62-424d-b4f1-8f24a0b6757d
+:ROAM_REFS: https://www.youtube.com/watch?v=YYHqxcXOnYg
+:END:
 #+title: THIS is the Best Book on Language Learning Ive
-#+roam_key: https://www.youtube.com/watch?v=YYHqxcXOnYg
-- tags :: [[file:20200608092138-languages.org][Languages]]
+- tags :: [[id:dabe0c08-f421-4696-96a0-0f75f56b4eff][Languages]]
 
 https://www.youtube.com/watch?v=YYHqxcXOnYg
 

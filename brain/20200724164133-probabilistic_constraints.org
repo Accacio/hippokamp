@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       0bec4661-e04e-47c5-81c5-ec30eb5f53db
+:END:
 #+title: Probabilistic Constraints
-- tags :: [[file:20200716170653-probability.org][Probability]], [[file:20200709102805-optimization.org][Optimization]]
+- tags :: [[id:7fe6a949-9d88-46d2-97ed-02fe6af8c4f5][Probability]], [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]

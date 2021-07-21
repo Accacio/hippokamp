@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       5d727bf4-e366-40e5-a58c-5549ce77b551
+:ROAM_REFS: cite:LuciaEtAl2021
+:END:
 #+TITLE: LuciaEtAl2021
-#+ROAM_KEY: cite:LuciaEtAl2021
-#+ROAM_TAGS: read article
+#+filetags: read article
 
-- tags :: [[file:20200722151944-attacks.org][Attacks]]
+- tags :: [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attacks]]
 - keywords ::
 
 
@@ -18,7 +21,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Use 2 [[file:20210526102541-command_governor.org][Command Governor]]s  in order to detect setpoint attack. If attacker has complete information about system, attack is still possible. In order to counteract [[file:20210526111126-watermarking.org][watermarking]] is used
+Use 2 [[id:5133942a-3973-406d-ae61-67709c4f9c98][Command Governor]]s  in order to detect setpoint attack. If attacker has complete information about system, attack is still possible. In order to counteract [[id:1158d11b-d0e9-40dd-bdd8-bbeb85092f71][watermarking]] is used
 *** Model :lightSkyblue:
 - linear system
 *** Remarks
@@ -168,7 +171,7 @@ attacker has perfect knowledge of model
 :END:
 we need a priori information to detect attacks!
 
-*** A. [[file:20210526102541-command_governor.org][Command Governor]] (<<<CG>>>)
+*** A. [[id:5133942a-3973-406d-ae61-67709c4f9c98][Command Governor]] (<<<CG>>>)
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LuciaEtAl2021.pdf::3++6.95;;annot-3-0]]
 :ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-3-0
@@ -184,7 +187,7 @@ $$g(t)=\mathrm{arg} \underset{\omega\in\mathcal{V}(x(t))}{min.} \|\omega-r(t)\|^
 :ID:       ../../docsThese/bibliography/LuciaEtAl2021.pdf-annot-3-1
 :END:
 proposition to observe what happens in a attack-free system, this will be useful to
-[[file:20200504111344-fault_detection.org][fault detection]]
+[[id:46369d58-8986-4bfc-af48-b79adfa4531c][fault detection]]
 
 *** we can design the following detection module
 :PROPERTIES:

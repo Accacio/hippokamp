@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       6400f437-bf98-4504-b9fa-f2b84d6aba62
+:END:
 #+title: Energies Renouvelables: un point de vu du Maroc
-- tags :: [[file:20200422220259-energie.org][Energy]]
+- tags :: [[id:908aeea6-39e7-499f-812e-5e5b96a8000c][Energy]]
 * Presentation
 <2020-10-19 lun.>
 Badr IKKEN

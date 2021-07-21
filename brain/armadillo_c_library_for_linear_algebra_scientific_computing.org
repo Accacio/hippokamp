@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       a3973557-3bc7-4474-bf76-807552dd5072
+:ROAM_REFS: http://arma.sourceforge.net/
+:END:
 #+title: Armadillo: C++ library for linear algebra & scientific computing
-#+roam_key: http://arma.sourceforge.net/
 
 http://arma.sourceforge.net/
 
-- tags :: [[file:20210402144836-linear_algebra_software_libraries.org][Linear Algebra Software/Libraries]], [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:7b59c037-3073-4ed8-a8e5-be4244f455aa][Linear Algebra Software/Libraries]], [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]
 
 - can use OpenMP for multi-threading

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       5b76d73f-fc5d-4a5e-ac9c-dd08e08c9c6a
+:ROAM_REFS: https://lospec.com/
+:END:
 #+title: Lospec - Free tools and resources for people making pixel art, voxel art and more
-#+roam_key: https://lospec.com/
 
 https://lospec.com/
 
-- tags :: [[file:20200423094808-gamedev.org][gamedev]]
+- tags :: [[id:ed3f80b9-425d-48b8-b838-19ca3d2ca38e][gamedev]]

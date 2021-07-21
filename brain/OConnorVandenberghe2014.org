@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       9a2c8a0d-5dec-4586-b17b-52d8ccd6c87e
+:ROAM_REFS: cite:OConnorVandenberghe2014
+:END:
 #+TITLE: OConnorVandenberghe2014
-#+ROAM_KEY: cite:OConnorVandenberghe2014
-#+ROAM_TAGS: article SIAM
+#+filetags: article SIAM
 
-- tags :: [[file:admm.org][ADMM]], [[file:20200427164136-decomposition.org][Decomposition]]
+- tags :: [[id:6f210e88-50da-4dc2-9f28-c723667a7bc9][ADMM]], [[id:dc49d7a6-a3e4-48f5-bf13-242f40a8ffa0][Decomposition]]
 - keywords ::
 
 * Primal-Dual Decomposition by Operator Splitting and Applications to Image Deblurring
@@ -14,7 +17,7 @@
 *** Motivation :springGreen:
 Use of decomposition methods to solve image deblurring
 *** Model :lightSkyblue:
-[[file:20200821150520-convex_optimization.org][Convex Optimization]] to minimize $f(x) + g(Ax)$
+[[id:b77cbd82-c5fc-46a0-a926-699466b75f44][Convex Optimization]] to minimize $f(x) + g(Ax)$
 *** Remarks
 - Primal-Dual Douglas-Rachford is one of the fastest
 *** Applications
@@ -111,13 +114,13 @@ z^k&=&z^{k-1}+\rho(y^k-x^k)
 :END:
 - cite:GlowinskiMarroco1975
 - cite:GabayMercier1976
-*** Relation between [[file:admm.org][ADMM]] and Douglas Rachford
+*** Relation between [[id:6f210e88-50da-4dc2-9f28-c723667a7bc9][ADMM]] and Douglas Rachford
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-17]]
 :ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-17
 :END:
 
-*** other [[file:admm.org][ADMM]] references
+*** other [[id:6f210e88-50da-4dc2-9f28-c723667a7bc9][ADMM]] references
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-18]]
 :ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-18

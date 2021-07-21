@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       452333bf-14c6-4ad8-aa6a-50ae9429cb18
+:END:
 #+title: Jonathan Blow
-#+ROAM_TAGS: people
+#+filetags: people

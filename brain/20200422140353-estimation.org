@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       73c6fea6-0266-4dfb-b66b-0c502c51cbab
+:ROAM_ALIASES: "Parameter Estimation"
+:END:
 #+TITLE: Estimation
-#+ROAM_ALIAS: "Parameter Estimation"

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       113b82a6-0877-45ec-8866-8bfa51f0a0b8
+:ROAM_REFS: https://zurb.com/playground/twentytwenty
+:END:
 #+title: jQuery TwentyTwenty Plugin | Playground from ZURB
-#+roam_key: https://zurb.com/playground/twentytwenty
-- tags :: [[file:20200721210324-javascript.org][javascript]]
+- tags :: [[id:3501fd55-13d0-400a-a0a3-7f09c0c3b239][javascript]]

@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       58915987-7fd7-4b3a-b6f8-737d2c67e1a5
+:END:
 #+title: OCR

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       4971d308-fd9e-47bc-b4d3-fd95a41967b6
+:END:
 #+title: Public Speaking
-- tags :: [[file:20210309145947-soft_skills.org][Soft Skills]]
+- tags :: [[id:0fecbdfc-d386-49cf-ba72-b1e25a82e84c][Soft Skills]]

@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       a6fbcdd3-a1a1-4dd5-bf26-dd778fdfab56
+:END:
 #+title: Neural Networks

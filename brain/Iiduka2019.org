@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       afaeef25-569b-481f-afef-f02a7d7a2b8e
+:ROAM_REFS: cite:Iiduka2019
+:END:
 #+TITLE: Iiduka2019: Distributed optimization for network resource allocation with nonsmooth utility functions
-#+ROAM_KEY: cite:Iiduka2019
-#+ROAM_TAGS: skimmed article
+#+filetags: skimmed article
 
-- tags :: [[file:20200427164614-distributed_optimization.org][Distributed Optimization]]
+- tags :: [[id:de9b0ee5-95dc-4826-825a-e9efb5b83136][Distributed Optimization]]
 - keywords ::
 
 

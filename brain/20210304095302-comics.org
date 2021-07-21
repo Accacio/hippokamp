@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       46a117a5-0a94-4fc1-a9a8-bd9eaa7daf69
+:END:
 #+title: comics

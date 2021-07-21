@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1378c4c8-b824-4748-917d-904632acfd75
+:END:
 #+title: Deception Attacks
-- tags :: [[file:20200722151944-attacks.org][Attacks]], [[file:20200427105830-cybersecurity.org][Cyber-security]]
+- tags :: [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attacks]], [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-security]]
 
   Attack that affect the data integrity
   - Data replay attacks

@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       bf6d64a5-cdac-4f88-b229-24130cad5922
+:ROAM_REFS: https://graspablemath.com/canvas/
+:END:
 #+title: Graspable Math Canvas
-#+roam_key: https://graspablemath.com/canvas/
 
-- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+- tags :: [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]]
 
 * Example of solution using $\LaTeX$
 #+begin_latex

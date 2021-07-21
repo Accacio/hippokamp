@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       ecb3bd9a-0529-4713-a8a3-8be7f94173ff
+:ROAM_REFS: https://stackoverflow.com/questions/495021/why-can-templates-only-be-implemented-in-the-header-file
+:END:
 #+title: c++ - Why can templates only be implemented in the header file? - Stack Overflow
-#+roam_key: https://stackoverflow.com/questions/495021/why-can-templates-only-be-implemented-in-the-header-file
-- tags :: [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]
 
   Templates only in header file

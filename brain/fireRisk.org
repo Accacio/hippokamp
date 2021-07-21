@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       dd2ae29c-b7da-4f1e-a6be-f0ddb1312f26
+:END:
 #+TITLE: Course Fire Risk
 #+OPTIONS: toc:nil
 #+REVEAL_INIT_OPTIONS: slideNumber:true
-- tags :: [[file:formations_these.org][Formations Doctorat]]
+- tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]]
 
 * Introduction
 **  Major hazard

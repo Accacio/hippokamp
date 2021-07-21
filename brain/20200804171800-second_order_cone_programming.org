@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       07f22483-9b1f-4eed-bc67-bef3d6920b30
+:END:
 #+title: Second Order Cone Programming
-- tags :: [[file:20200709102805-optimization.org][Optimization]]
+- tags :: [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]
 https://en.wikipedia.org/wiki/Second-order_cone_programming

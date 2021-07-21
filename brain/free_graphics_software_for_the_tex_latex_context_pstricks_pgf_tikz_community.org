@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a70d83b1-2274-45d0-b91d-01b20cf7b2ce
+:ROAM_REFS: http://sketch4latex.sourceforge.net/
+:END:
 #+title: Free Graphics Software for the TeX, LaTeX, ConTeXt, PSTricks, PGF/TikZ Community
-#+roam_key: http://sketch4latex.sourceforge.net/
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]], [[file:20210326110542-tikz.org][Tikz]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]], [[id:53676d14-253e-4a09-aeee-94f523c97bb9][Tikz]]

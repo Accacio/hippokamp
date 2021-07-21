@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       8f2c282b-e0a4-4990-b6a3-aea854da9679
+:END:
 #+title: Mean Square Stability
-- tags :: [[file:20200504113017-stability.org][Stability]]
+- tags :: [[id:49daf608-7a79-4ade-a729-e858d05f56a7][Stability]]
 
 * Mean Square Stable
 ** Definition

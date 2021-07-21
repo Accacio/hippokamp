@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       51ae55c8-5c90-47ff-a681-14f4f9a464dd
+:ROAM_REFS: https://news.mit.edu/2013/find-images-to-use-while-keeping-on-the-right-side-of-copyright
+:END:
 #+title: Find images to use while keeping on the right side of copyright | MIT News | Massachusetts Institute of Technology
-#+roam_key: https://news.mit.edu/2013/find-images-to-use-while-keeping-on-the-right-side-of-copyright
 
 https://news.mit.edu/2013/find-images-to-use-while-keeping-on-the-right-side-of-copyright
 

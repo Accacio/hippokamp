@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       25a6d32f-1c55-43a1-96c7-225781863e23
+:ROAM_REFS: https://farina.faculty.polimi.it/NetCont.html
+:END:
 #+TITLE: Fondamenti di Automatica - networked control
-#+ROAM_KEY: https://farina.faculty.polimi.it/NetCont.html
-- tag :: [[file:20200608100448-networked_control.org][networked control]]
+- tag :: [[id:f3727224-7286-465f-bff0-bff8dd490ea4][networked control]]
 https://farina.faculty.polimi.it/NetCont.html
 
 * Leitura

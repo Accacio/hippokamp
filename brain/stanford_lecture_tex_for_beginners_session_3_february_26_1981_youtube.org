@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       68ca1c22-4156-45f6-b8cc-a86349cfb4c9
+:ROAM_REFS: https://www.youtube.com/watch?v=V1EmAqGQSFA&list=PL94E35692EB9D36F3&index=3
+:END:
 #+title: Stanford Lecture: TeX For Beginners - Session 3 (February 26, 1981) - YouTube
-#+roam_key: https://www.youtube.com/watch?v=V1EmAqGQSFA&list=PL94E35692EB9D36F3&index=3
-- tags :: [[file:20200424101609-latex.org][latex]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][latex]]
 * You can't do that in vertical mode

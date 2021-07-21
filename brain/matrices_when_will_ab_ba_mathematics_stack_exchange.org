@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       39747d74-05b9-483a-8a41-75d073872d75
+:ROAM_REFS: https://math.stackexchange.com/questions/478849/when-will-ab-ba
+:END:
 #+TITLE: matrices - When will $AB=BA$? - Mathematics Stack Exchange
-#+ROAM_KEY: https://math.stackexchange.com/questions/478849/when-will-ab-ba
-- tag :: [[file:20200429185809-linear_algebra.org][linear algebra]]
+- tag :: [[id:9c12809e-a8f0-4d4c-a489-ad02a626d771][Linear Algebra]]

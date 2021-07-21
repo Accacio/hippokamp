@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       34913d74-83e4-4266-8041-033f7e70c432
+:ROAM_REFS: https://www.eufic.org/en/explore-seasonal-fruit-and-vegetables-in-europe
+:END:
 #+title: Explore Seasonal Fruit and Vegetables in Europe
-#+roam_key: https://www.eufic.org/en/explore-seasonal-fruit-and-vegetables-in-europe
-- tags :: [[file:20210329141332-food.org][Food]], Comidinhas
+- tags :: [[id:32544cba-2450-4759-9321-7ec33894e203][Food]], Comidinhas

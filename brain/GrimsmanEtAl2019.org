@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       f99e9278-cae8-4af6-8edf-40795b0c7da9
+:ROAM_REFS: cite:GrimsmanEtAl2019
+:END:
 #+TITLE: GrimsmanEtAl2019: The impact of information in distributed submodular maximization
-#+ROAM_KEY: cite:GrimsmanEtAl2019
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200923155306-graph_theory.org][Graph Theory]],  [[file:20200427161129-network_topologies.org][network topologies]], [[file:20200608100448-networked_control.org][NCS]]
+- tags :: [[id:e9766a59-fd79-4be1-8a46-387c852c22f0][Graph Theory]],  [[id:521bb956-14c1-472b-879f-2e458bcfc8a4][network topologies]], [[id:f3727224-7286-465f-bff0-bff8dd490ea4][NCS]]
 - keywords ::
 
 

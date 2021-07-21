@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       199e71d5-15cb-4170-bcd5-fca5f9292cf0
+:ROAM_REFS: https://www.youtube.com/watch?v=6avJHaC3C2U
+:END:
 #+title: The Art of Code - Dylan Beattie - YouTube
-#+roam_key: https://www.youtube.com/watch?v=6avJHaC3C2U
-- tags :: [[file:20200713160350-programming.org][Programming]], obscure languages
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]], obscure languages
 
 - emergent behavior from simple rules
   #+begin_quote

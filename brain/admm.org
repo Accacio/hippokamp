@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       6f210e88-50da-4dc2-9f28-c723667a7bc9
+:ROAM_REFS: https://web.stanford.edu/~boyd/admm.html
+:ROAM_ALIASES: ADMM
+:END:
 #+TITLE: Alternating Direction Method of Multipliers
-#+ROAM_ALIAS: ADMM
-#+ROAM_KEY: https://web.stanford.edu/~boyd/admm.html
 
-- tags :: [[file:20200427164136-decomposition.org][Decomposition]]
+- tags :: [[id:dc49d7a6-a3e4-48f5-bf13-242f40a8ffa0][Decomposition]]
 
 https://web.stanford.edu/~boyd/admm.html
 

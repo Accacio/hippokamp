@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       630860d3-4aba-4364-a578-ddc4da63e1fa
+:END:
 #+title: Electric Grid Test Cases
-- tags :: [[file:20200422220259-energie.org][Energy]], [[file:20210506210043-benchmarks.org][Benchmarks]]
+- tags :: [[id:908aeea6-39e7-499f-812e-5e5b96a8000c][Energy]], [[id:27dfbdc3-2851-4cc0-9e83-dc5e34887f0e][Benchmarks]]
  
 - IEEE 14-bus
 - IEEE 30-bus

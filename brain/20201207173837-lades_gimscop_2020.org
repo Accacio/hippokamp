@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       8dd3e87d-358b-44cd-9cf1-c37a69bfd106
+:END:
 #+title: LADES-GIMSCOP 2020
-- tags :: [[file:20210309151223-seminarios_de_controle.org][Seminários de Controle]]
+- tags :: [[id:b3f7ab0a-c526-4488-a6f6-c3fdcfeba8a1][Seminários de Controle]]
 
-- Palestrante :: [[file:20210309155733-luis_claudio_oliveira_lopes.org][Luís Cláudio Oliveira Lopes]]
+- Palestrante :: [[id:7c63eb26-3a81-4fd3-aca8-84c9440468fe][Luís Cláudio Oliveira Lopes]]
 
 - cite:Morris2020
 - cite:ChristofidesEtAl2013

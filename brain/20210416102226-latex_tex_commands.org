@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       f777385e-64bd-45bc-8f03-a0d455f621d5
+:END:
 #+title: LaTeX/TeX Commands
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]]
 
 * raisebox
 $\text{h\raisebox{2pt}{i}\raisebox{4pt}{g\raisebox{2pt}{h}}\raisebox{4pt}{e\raisebox{3pt}{r}}}$

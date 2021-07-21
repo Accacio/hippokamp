@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       1cbc9947-7efc-4ccb-92da-a62dc92d0474
+:ROAM_REFS: https://github.com/arvidsson/Mix/tree/master/Mix
+:END:
 #+title: Mix/Mix at master · arvidsson/Mix
-#+roam_key: https://github.com/arvidsson/Mix/tree/master/Mix
-- tags :: [[file:20200809193336-entity_component_system.org][ECS]]
+- tags :: [[id:c41b8c19-cf6b-432a-a30d-67d1f6560612][ECS]]

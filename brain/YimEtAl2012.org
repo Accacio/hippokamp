@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       b4edadca-37df-4d54-9001-a102894e4bee
+:ROAM_REFS: cite:YimEtAl2012
+:END:
 #+TITLE: YimEtAl2012
-#+ROAM_KEY: cite:YimEtAl2012
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200422140353-estimation.org][Estimation]], [[file:20200617105641-khalman.org][Khalman]]
+- tags :: [[id:73c6fea6-0266-4dfb-b66b-0c502c51cbab][Estimation]], [[id:06eaec01-bb86-4313-b6bf-a5a70012a919][Khalman]]
  
 * YimEtAl2012
 :PROPERTIES:

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       58b8c0f2-c66b-4119-9155-bc5e64e1d541
+:ROAM_REFS: cite:MaestreEtAl2021
+:END:
 #+TITLE: MaestreEtAl2021
-#+ROAM_KEY: cite:MaestreEtAl2021
-#+ROAM_TAGS: rank4 read article
+#+filetags: rank4 read article
 
-- tags :: [[file:20200709101933-dmpc.org][DMPC]], [[file:20200427105830-cybersecurity.org][Cyber-Security]], [[file:20210712154017-attacks_in_dmpc.org][Attacks in DMPC]]
+- tags :: [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][DMPC]], [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]], [[id:cf737a91-5945-49ce-aa2b-8ce6021fd3d6][Attacks in DMPC]]
 - keywords :: Model predictive control, Distributed control, Multi-agent network, Cyber-security
 
 

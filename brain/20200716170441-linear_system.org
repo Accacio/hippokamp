@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       5c4f0c72-d430-4bef-a9db-1f48b1630f82
+:END:
 #+title: Linear Systems
-- tags :: [[file:20200708153036-dynamic_systems.org][Dynamic Systems]]
+- tags :: [[id:e3029c97-70bc-44cb-a8f8-706fd4732343][Dynamic Systems]]
 * Stable Systems
 ** 1 pole
 *** Transfer Function:
@@ -31,7 +34,7 @@ where $cos(\beta)=\psi$
 - $t_s={4.6\over \psi\omega_n}$
 - $t_r={1.8\over \omega_n}$
 
-* [[file:20200907171901-translations.org][Translations]]
+* [[id:322f1d64-93a2-4a51-8a78-1f3783d88b5c][Translations]]
 :PROPERTIES:
 :ID:       50cc097f-1e92-4a2b-b0ff-879f46a3ab83
 :END:

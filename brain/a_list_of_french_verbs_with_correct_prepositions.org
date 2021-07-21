@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       9825020c-0361-46b2-b8fe-2560ae5a3c9d
+:ROAM_REFS: https://www.thoughtco.com/french::verbs-with-prepositions-p2-1364548
+:END:
 #+TITLE: A List of French Verbs With Correct Prepositions
-#+ROAM_KEY: https://www.thoughtco.com/french::verbs-with-prepositions-p2-1364548
--  tags :: [[file:20200608092119-francais.org][Français]]
+-  tags :: [[id:427080a8-63d0-456a-8b02-9b0645ebdc8c][Français]]
 
 * A
 - s'abriter contre (le vent) :: to take shelter against (the wind)

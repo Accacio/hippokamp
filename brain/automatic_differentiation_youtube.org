@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       0ac7aca6-4bf8-4e7a-804f-3228a2ffe770
+:ROAM_REFS: https://www.youtube.com/watch?v=ZGSUrfJcXmA
+:END:
 #+title: Automatic Differentiation. - YouTube
-#+roam_key: https://www.youtube.com/watch?v=ZGSUrfJcXmA
-- tags :: [[file:20210315102208-automatic_differentiation.org][Automatic Differentiation]]
+- tags :: [[id:b65dd093-72ad-401c-9597-131909dbf612][Automatic Differentiation]]
 
 
 * AD

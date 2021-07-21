@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1dd75fc5-1a97-49a9-b100-4a156d3418cf
+:END:
 #+title: State-Space Neural Network
-- tags :: [[file:20200813180431-neural_networks.org][Neural Networks]], State-Space
+- tags :: [[id:a6fbcdd3-a1a1-4dd5-bf26-dd778fdfab56][Neural Networks]], State-Space
 
 
   \(x_{k+1}=\mathcal{N}(x_{k},u_{k})\)

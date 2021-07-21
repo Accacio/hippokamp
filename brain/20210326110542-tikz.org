@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       53676d14-253e-4a09-aeee-94f523c97bb9
+:END:
 #+title: Tikz
-- tags :: [[file:20200424101609-latex.org][LaTeX/TeX]], [[file:20200617111624-graphics.org][graphics]]
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]], [[id:461957de-10c9-432e-ae59-3db33c323192][graphics]]

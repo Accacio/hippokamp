@@ -1,4 +1,7 @@
 # -*- eval: (rainbow-mode); -*-
+:PROPERTIES:
+:ID:       2bd50a35-976e-4620-ba51-be654af91e12
+:END:
 #+title: color palettes
 - tags :: color
 

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       de3605b0-052d-4e03-b6da-42815b8c3ed5
+:END:
 #+title: Otimização de Fornecimento de Energia em Micro Redes
-- tags :: [[file:20210423224944-microgrid_sizing.org][Microgrid Sizing]]
+- tags :: [[id:cf82aa2e-8572-4343-8529-f891ce5682f3][Microgrid Sizing]]
 
 - lecturer :: Evelise
 

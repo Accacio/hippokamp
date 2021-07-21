@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       7c81edf4-31fc-4a87-9104-6072d6115880
+:END:
 #+title: Bibliography Review
 #+OPTIONS: toc:nil
 #+LaTeX_HEADER: \newenvironment{results}{}{}
@@ -12,315 +15,315 @@ done
 
 #+RESULTS:
 #+begin_results
-- [[file:AastroemWittenmark1989.org][AastroemWittenmark1989]] ::
+- [[id:bbd88d5a-0df3-4b76-a581-0a470eb123ac][AastroemWittenmark1989]] ::
 
 
   Book about adaptive control, great reference for real time parameter estimation, Recursive Least-squares and etc
-- [[file:AgbodjanEtAl2019.org][AgbodjanEtAl2019]] ::
+- [[id:e70030ed-f064-4181-ab4e-c58c986c12e9][AgbodjanEtAl2019]] ::
 
 
-- [[file:AlessioBemporad2009.org][AlessioBemporad2009]] ::
+- [[id:a80ff3ca-df92-46ae-a9b3-d7b113453dbf][AlessioBemporad2009]] ::
 
 
   Survey on Explicit MPC
-- [[file:AnandutaEtAl2020.org][AnandutaEtAl2020]] ::
+- [[id:baa6286b-2bb4-4352-a6d5-51dc1e3f229b][AnandutaEtAl2020]] ::
 
 
-  Resilient [[file:20200709101933-dmpc.org][DMPC]] under Attack using [[file:20200813155010-bayesian_inference.org][Bayesian Inference]]
+  Resilient [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][DMPC]] under Attack using [[id:c34a53cd-f404-415a-b26e-0c4ed12b20a1][Bayesian Inference]]
   Good example of distribution network
-- [[file:ArabloueiEtAl2014.org][ArabloueiEtAl2014]] ::
+- [[id:b20be717-a912-42db-a88b-893fa1cd8e3d][ArabloueiEtAl2014]] ::
 
 
   An unbiased recursive least-squares estimator
-- [[file:AranovskiyFreidovich2013.org][AranovskiyFreidovich2013]] ::
+- [[id:b031d7c3-3830-40b3-a9b7-ccda00e19e14][AranovskiyFreidovich2013]] ::
 
 
   Identification-based adaptive tuning of coefficients with unknown disturbance
-- [[file:BansalMukhija2020.org][BansalMukhija2020]] ::
+- [[id:c48bef28-30e6-4c10-96d8-391a603602de][BansalMukhija2020]] ::
 
 
   Hybrid Triggering scheme (Aperiodic Sampled-Data Control) to control Networked system under stochastic Deception Attacks find a way to obtain Minimum inter-event time (MIET)
-- [[file:BauschkeCombettes2011.org][BauschkeCombettes2011]] ::
+- [[id:2aea285f-52ce-4df9-a0f8-f54d4ea48a1b][BauschkeCombettes2011]] ::
 
 
-- [[file:BesselmannEtAl2008.org][BesselmannEtAl2008]] ::
+- [[id:9b19e155-4fb0-4571-8da7-3589d8b528dd][BesselmannEtAl2008]] ::
 
 
-- [[file:BiegelEtAl2012.org][BiegelEtAl2012]] ::
+- [[id:d63d8622-ed86-4923-bb8a-5219da4a0d7f][BiegelEtAl2012]] ::
 
 
   Use of Shadow Prices to resolve grid congestion
-- [[file:Bindra2017.org][Bindra2017]] ::
+- [[id:e922a535-42a0-488b-998f-a663538b6471][Bindra2017]] ::
 
 
-- [[file:BittantiEtAl1990.org][BittantiEtAl1990]] ::
+- [[id:edd2fce6-e624-4835-9997-dbea8b8df48f][BittantiEtAl1990]] ::
 
 
   Convergence of adaptive recursive least-squares algorithms
-- [[file:BlanchardEtAl2008.org][BlanchardEtAl2008]] ::
+- [[id:388994f7-4156-44b6-958f-e1e7bc461be9][BlanchardEtAl2008]] ::
 
 
   Use EKF to update polynomial chaos
-- [[file:BoemEtAl2020.org][BoemEtAl2020]] ::
+- [[id:eabdb44b-69ea-4d4d-84c2-47a3344913ba][BoemEtAl2020]] ::
 
 
   Zonotope tube created to estimate possible outcomes of the state, if it is outside the tube then that is a fault.
-- [[file:Bouckaert2014.org][Bouckaert2014]] ::
+- [[id:24509e86-b0ed-42e0-9cd3-d858852e98b0][Bouckaert2014]] ::
 
 
   Smart Grids and Energetic Transition. Exampls of Reunion Island
-- [[file:BourdaisEtAl2012.org][BourdaisEtAl2012]] ::
+- [[id:d1bb8983-c446-4f01-ab1f-e7c3a5a8c15f][BourdaisEtAl2012]] ::
 
 
   Distributed MPC (Dual Decomposition) for continuous systems controlled using discrete inputs
-- [[file:BoydEtAl2011.org][BoydEtAl2011]] ::
+- [[id:948bdb7f-ca90-47aa-b80a-a9a1b0d391d6][BoydEtAl2011]] ::
 
 
-  Distributed optimization using [[file:admm.org][ADMM]]
-- [[file:BoydEtAl2015.org][BoydEtAl2015]] ::
+  Distributed optimization using [[id:6f210e88-50da-4dc2-9f28-c723667a7bc9][ADMM]]
+- [[id:c064cc88-da6d-43a3-ac6b-ed819b3a5253][BoydEtAl2015]] ::
 
 
   Notes on dual and primal decomposition methods.
 
   Good Source for decomposing problems with complicatings constraints
-- [[file:BoydVandenberghe2004.org][BoydVandenberghe2004]] ::
+- [[id:f70f26a2-1135-46c1-8aae-193933bb261b][BoydVandenberghe2004]] ::
 
 
   Convex Optimization Bible
-- [[file:BoyleDykstra1986.org][BoyleDykstra1986]] ::
+- [[id:40017381-2db7-4c29-8eeb-3826646d8e63][BoyleDykstra1986]] ::
 
 
   Project into intersection of convex set using projection to simpler regions
-- [[file:BraunEtAl2020.org][BraunEtAl2020]] ::
+- [[id:32e98c28-3b05-487c-895a-450e87200bcd][BraunEtAl2020]] ::
 
 
   Identify attack using evolution of coupling variables
-- [[file:CamachoBordons2007.org][CamachoBordons2007]] ::
+- [[id:7c0fb869-3c37-49ad-a28f-1911524bec59][CamachoBordons2007]] ::
 
 
-  Book on [[file:20200709101720-mpc.org][MPC]]
-- [[file:ChanfreutEtAl2018.org][ChanfreutEtAl2018]] ::
+  Book on [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
+- [[id:adcc4a05-99db-4dc0-9c09-a23f84827b97][ChanfreutEtAl2018]] ::
 
 
   Show vulnerabilites in a dMPC structure using Jacobi-Gauss decomposition
-- [[file:DibajiIshii2015.org][DibajiIshii2015]] ::
+- [[id:d1ea4e39-85cb-4809-b8db-3c633cfacea4][DibajiIshii2015]] ::
 
 
   Consensus of second order sampled-data in presence of misbehaving agents. This article uses a modified Mean subsequence Reduced (MSR) algorithm, where $f$ greatest and $f$ smallest values are ignored.
-- [[file:DigraPandey2013.org][DigraPandey2013]] ::
+- [[id:bfab635f-c680-4490-b839-a049ba518e47][DigraPandey2013]] ::
 
 
   Multi-agent based controller coordination of microgrid with critical loads under  normal, faulty and overload conditions.
-- [[file:DingEtAl2018.org][DingEtAl2018]] ::
+- [[id:5931d71e-7025-4b7d-a45f-03884164ce21][DingEtAl2018]] ::
 
 
   Survey on Security control and attack detection
-- [[file:ElGhaoui2002.org][ElGhaoui2002]] ::
+- [[id:c974bd57-5a53-4558-bc79-62375aadc425][ElGhaoui2002]] ::
 
 
   A new quantity to characterize inversion error
-- [[file:Frangipani2015.org][Frangipani2015]] ::
+- [[id:5dd196a7-a7aa-41b2-94b2-9ab79b89de8f][Frangipani2015]] ::
 
 
   This article uses Unscented Kalman Filter (UKF) to localize a submarine using one acoustic reference.
-- [[file:GilbertEtAl1988.org][GilbertEtAl1988]] ::
+- [[id:1725062d-ff58-4c79-8ea4-6bcf6fb95666][GilbertEtAl1988]] ::
 
 
   This article proposes a fast procedure to compute distance between complex objects. Great use of Minkowski sum.
-- [[file:GossnerEtAl1997.org][GossnerEtAl1997]] ::
+- [[id:3147d515-af89-420d-b530-d32c08b6b877][GossnerEtAl1997]] ::
 
 
   Algorithms for stability and asymptotic tracking in constrained generalized predictive control with bounded disturbances
-- [[file:GoudaEtAl2002.org][GoudaEtAl2002]] ::
+- [[id:a9136c1a-04e6-44f7-b495-973dc8cee6cd][GoudaEtAl2002]] ::
 
 
   Here we find a lower order example of thermal modelling of rooms
-- [[file:GrimsmanEtAl2019.org][GrimsmanEtAl2019]] ::
+- [[id:f99e9278-cae8-4af6-8edf-40795b0c7da9][GrimsmanEtAl2019]] ::
 
 
   Impact of topology, decision order, and information distribution to agent decisions and consequently on the consensus.
-- [[file:GuEtAl2016.org][GuEtAl2016]] ::
+- [[id:6903960c-0f18-49d7-999c-71c6795fecf8][GuEtAl2016]] ::
 
 
   Example microgrid system with a multi-agent system with fault protection using current values.
-- [[file:HuangDong2020.org][HuangDong2020]] ::
+- [[id:ae5f0a25-10c3-4cae-b9f0-4e1acdac7785][HuangDong2020]] ::
 
 
   Reliable control in systems with intermittent communication
-- [[file:Iiduka2019.org][Iiduka2019]] ::
+- [[id:afaeef25-569b-481f-afef-f02a7d7a2b8e][Iiduka2019]] ::
 
 
   Distributed optimal resource allocation. Comparison between different distributed optimization algorithms, Projected Proximal Algorithm, Projected Subgradient Algorithm and other for nonsmooth convex optimization.
-- [[file:Jury1962.org][Jury1962]] ::
+- [[id:0f22c7a1-b176-4080-b813-ffaa9777904f][Jury1962]] ::
 
 
   Stability criterion for linear discrete time systems
-- [[file:Kalouptsidis1997.org][Kalouptsidis1997]] ::
+- [[id:a9a350c1-4507-4c61-9533-cdd4c4d3c71a][Kalouptsidis1997]] ::
 
 
-- [[file:KatewaEtAl2021.org][KatewaEtAl2021]] ::
+- [[id:9cd8a635-75a3-4162-9e22-636f741471a3][KatewaEtAl2021]] ::
 
 
   Quantify trade-off between security and privacy
-- [[file:KolarijaniEtAl2020.org][KolarijaniEtAl2020]] ::
+- [[id:62ce40dc-5379-4b62-9ab4-e612a28bdd7f][KolarijaniEtAl2020]] ::
 
 
-  [[file:20200803164121-decentralized_control.org][Decentralized]] [[file:20200803164930-event_based_control.org][Event-Based]] [[file:20200803163941-robust_control.org][Robust]] [[file:20200709101720-mpc.org][MPC]]
-- [[file:KuzinEtAl2020.org][KuzinEtAl2020]] ::
+  [[id:0048fff1-e997-4b77-8215-ea92fe7dd527][Decentralized]] [[id:02289306-4cb1-4371-a5da-eedd95e7b268][Event-Based]] [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust]] [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
+- [[id:941ae4b8-93f8-476f-912a-8c07f05a7e72][KuzinEtAl2020]] ::
 
 
   Use of multiple Raspberry Pi as HIL to simulate agents
-- [[file:LandauEtAl2011.org][LandauEtAl2011]] ::
+- [[id:6ffd5315-aa02-4ae0-bd04-b561383d2df9][LandauEtAl2011]] ::
 
 
   Adaptive Control
-  Reference on [[file:20200504163253-recursive_least_squares.org][recursive least-squares]] parameter estimation.
-- [[file:LauerBloch2019.org][LauerBloch2019]] ::
+  Reference on [[id:0147d11c-6d28-4f4c-98ac-23eb096ff3fa][recursive least-squares]] parameter estimation.
+- [[id:c4f2e136-4d06-4643-810f-96a1d448060b][LauerBloch2019]] ::
 
 
-  [[file:20210323094314-identification.org][Identification]] of Hybrid Systems
-- [[file:LeBlancEtAl2013.org][LeBlancEtAl2013]] ::
+  [[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]] of Hybrid Systems
+- [[id:da02c877-8fb0-4d82-9aa4-0a206dbf3fe1][LeBlancEtAl2013]] ::
 
 
   Resilient consensus in the presence of misbehaving nodes. Resilience is achieved by ignoring the extreme values
-- [[file:LiceagaCastroEtAl2015.org][LiceagaCastroEtAl2015]] ::
+- [[id:72cf0ca4-02fe-4644-ad49-dc8295b1f513][LiceagaCastroEtAl2015]] ::
 
 
-  Show that [[file:20200911115431-multivariable_systems.org][MIMO]] systems controlled passively are not necessarily robust.
-- [[file:LinEtAl2020.org][LinEtAl2020]] ::
+  Show that [[id:f62d60ca-4a29-4d6e-8ead-89e4dda9aca3][MIMO]] systems controlled passively are not necessarily robust.
+- [[id:34768710-02d3-4c55-9b64-a60a8adf8cda][LinEtAl2020]] ::
 
 
   Obtain state estimation under delayed communication
-- [[file:LiuEtAl2009.org][LiuEtAl2009]] ::
+- [[id:2e346283-a32f-4c14-8d42-980037735068][LiuEtAl2009]] ::
 
 
   False data injection attack that isn't detected using norm of linear regression model residues.
-- [[file:LiuEtAl2016.org][LiuEtAl2016]] ::
+- [[id:25bd0637-3d22-46d2-af7d-3445b7dccc9c][LiuEtAl2016]] ::
 
 
-  Study of Networked Control in a [[file:20200716170854-stochastic_control.org][Stochastic]] [[file:20200716162527-hybrid_control.org][Hybrid Control]] Scheme using stochastic variable with [[file:20200716165417-bernoulli_distribution.org][Bernoulli Distribution]] in order to increase performance on over occupied channels
-- [[file:LiuEtAl2019.org][LiuEtAl2019]] ::
+  Study of Networked Control in a [[id:3ec3cd81-0163-4fe1-9c20-b5dfd33427d6][Stochastic]] [[id:a3b6d44b-4f1d-43dd-942b-45c2df959e6e][Hybrid Control]] Scheme using stochastic variable with [[id:66cea64f-9e73-423a-80f2-58fd01dd5b6c][Bernoulli Distribution]] in order to increase performance on over occupied channels
+- [[id:514a757c-1021-475a-b741-54199cf990e7][LiuEtAl2019]] ::
 
 
-  Analysis of the effects of[[file:20200716164436-deception_attacks.org][ Deception Attacks]] and use [[file:20200716162527-hybrid_control.org][Hybrid Control]] and verify stability using Lyapunov
-- [[file:LuciaEtAl2021.org][LuciaEtAl2021]] ::
+  Analysis of the effects of[[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]] and use [[id:a3b6d44b-4f1d-43dd-942b-45c2df959e6e][Hybrid Control]] and verify stability using Lyapunov
+- [[id:5d727bf4-e366-40e5-a58c-5549ce77b551][LuciaEtAl2021]] ::
 
 
-  Use 2 [[file:20210526102541-command_governor.org][Command Governor]]s  in order to detect setpoint attack. If attacker has complete information about system, attack is still possible. In order to counteract [[file:20210526111126-watermarking.org][watermarking]] is used
-- [[file:LuYang2020.org][LuYang2020]] ::
+  Use 2 [[id:5133942a-3973-406d-ae61-67709c4f9c98][Command Governor]]s  in order to detect setpoint attack. If attacker has complete information about system, attack is still possible. In order to counteract [[id:1158d11b-d0e9-40dd-bdd8-bbeb85092f71][watermarking]] is used
+- [[id:64c27345-042a-4a97-b5f8-ff5460baf924][LuYang2020]] ::
 
 
-  State [[file:20200422140353-estimation.org][Estimation]] of NCS, with faulty and malicious agents based on [[file:20200828102813-least_squares.org][Least-squares]]
-- [[file:MaestreEtAl2021.org][MaestreEtAl2021]] ::
+  State [[id:73c6fea6-0266-4dfb-b66b-0c502c51cbab][Estimation]] of NCS, with faulty and malicious agents based on [[id:fbd817a8-43a5-4b8e-95b5-7b199bf98be1][Least-squares]]
+- [[id:58b8c0f2-c66b-4119-9155-bc5e64e1d541][MaestreEtAl2021]] ::
 
 
   # springGreen
   Similar to cite:VelardeEtAl2017a but showing how to compute the scenarios
   Interesting way to present cumulative cost
-- [[file:MendhamClarke2005.org][MendhamClarke2005]] ::
+- [[id:49d11cdb-dad3-40ec-a7ba-35a09c6b2390][MendhamClarke2005]] ::
 
 
   Simulation environment of multi-agent system embedded into industry standard
-- [[file:MoSinopoli2009.org][MoSinopoli2009]] ::
+- [[id:536029f2-b4dd-4403-adda-baf66d3b818d][MoSinopoli2009]] ::
 
 
-- [[file:MukherjeeZelazo2019.org][MukherjeeZelazo2019]] ::
+- [[id:d62a48b2-10a3-4fe5-90ff-2138e7f86faf][MukherjeeZelazo2019]] ::
 
 
   Uses of Kharitonov's Theorem to study condition for consensus of $m$-th order linear uncertain interval plants
-- [[file:Norton1986.org][Norton1986]] ::
+- [[id:89107338-ce66-4656-b619-7c90ad55468c][Norton1986]] ::
 
 
   Book about system identification.
 
   Good notes on parameter estimation.
-- [[file:OConnorVandenberghe2014.org][OConnorVandenberghe2014]] ::
+- [[id:9a2c8a0d-5dec-4586-b17b-52d8ccd6c87e][OConnorVandenberghe2014]] ::
 
 
   Use of decomposition methods to solve image deblurring
-- [[file:Ouyang2020.org][Ouyang2020]] ::
+- [[id:9234541e-369e-473c-b3c1-a7b9f5dfca42][Ouyang2020]] ::
 
 
   Projection onto intersections of halfspaces and hyperplanes
-- [[file:RajeshEtAl2013.org][RajeshEtAl2013]] ::
+- [[id:1c630605-1fe8-467a-8efc-f5e403cc724e][RajeshEtAl2013]] ::
 
 
   Framework for MAS with simulation in rural Indian micro-grid
-- [[file:Reams1999.org][Reams1999]] ::
+- [[id:b155c2f8-ef0f-4d85-ba5b-a2c543d5b79e][Reams1999]] ::
 
 
   Hadamard operations.
-- [[file:RichardsHow2006.org][RichardsHow2006]] ::
+- [[id:4d434bb9-1d9b-4636-ac2b-66bab8023f10][RichardsHow2006]] ::
 
 
-  [[file:20200803163941-robust_control.org][Robust]] [[file:20200709101720-mpc.org][MPC]] with tightening constraints
-- [[file:SatchidanandanKumar2017.org][SatchidanandanKumar2017]] ::
+  [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust]] [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]] with tightening constraints
+- [[id:20e633cc-fe68-4c47-b675-cb6707aa02ac][SatchidanandanKumar2017]] ::
 
 
-  Use of [[file:20210526111126-watermarking.org][Watermarking]] as active defense. Study for different types of systems, ARX, ARMAX, SISO with partial observations, MIMO with gaussian noise, extension to non-gaussian
+  Use of [[id:1158d11b-d0e9-40dd-bdd8-bbeb85092f71][Watermarking]] as active defense. Study for different types of systems, ARX, ARMAX, SISO with partial observations, MIMO with gaussian noise, extension to non-gaussian
 
-- [[file:ShiromotoEtAl2019.org][ShiromotoEtAl2019]] ::
+- [[id:d6cb1ed9-731b-43f2-b360-deb6b48cf260][ShiromotoEtAl2019]] ::
 
 
   Use of separable metric structures to distributed nonlinear control
-- [[file:SujilKumar2017.org][SujilKumar2017]] ::
+- [[id:5cdf34dd-cece-43a4-bce6-ea3949db0533][SujilKumar2017]] ::
 
 
   Multi-agent based system simulated in the presence of different events
-- [[file:TanikawaMukai1983a.org][TanikawaMukai1983a]] ::
+- [[id:c2afcefe-dda3-4e37-8b85-6ae528005296][TanikawaMukai1983a]] ::
 
 
   Creation of new lagrangian to convexify the lagrangian function, reducing decomposition to two levels of iterative optimization
-- [[file:TanikawaMukai1983.org][TanikawaMukai1983]] ::
+- [[id:5b094f2d-e44e-4668-91f0-a3671e9aac71][TanikawaMukai1983]] ::
 
 
   New separable (lagrange-like) multiplier to nonconvex separable large-scale problems.
-- [[file:VelardeEtAl2017a.org][VelardeEtAl2017a]] ::
+- [[id:a5b7cde4-ae5c-4140-bd1f-60a9e6cb9228][VelardeEtAl2017a]] ::
 
 
   Secure dMPC for consensus using scenario based mechanism
-- [[file:VelardeEtAl2017b.org][VelardeEtAl2017b]] ::
+- [[id:8785f783-962d-4ed2-b7cc-5a1b2ee1479d][VelardeEtAl2017b]] ::
 
 
   Vulnerabilities in lagrange-based dMPC scheme on multi-agent consensus
-- [[file:VelardeEtAl2017.org][VelardeEtAl2017]] ::
+- [[id:387697c4-8204-42c0-8523-3782cf7c8664][VelardeEtAl2017]] ::
 
 
   Analysis of dual decomposition [[FILE:20200709101933-dmpc.org][DMPC]] scheme under influence of malicious agents. It presents different types of attacks.
-- [[file:WakaikiEtAl2020.org][WakaikiEtAl2020]] ::
+- [[id:5bfb45fb-fe39-48c7-ac50-2fc11737eaa1][WakaikiEtAl2020]] ::
 
 
-  [[File:20200504113017-stability.org][stability]] on NCS with [[file:20200722151834-denial_of_service_attacks.org][DoS]] and quantization noise using observer-based controller
-- [[file:WangIshii2019.org][WangIshii2019]] ::
+  [[File:20200504113017-stability.org][stability]] on NCS with [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] and quantization noise using observer-based controller
+- [[id:bbd0f067-dbfe-46c5-880a-0105381e0e5d][WangIshii2019]] ::
 
 
-- [[file:WuEtAl2018.org][WuEtAl2018]] ::
+- [[id:8409c277-f936-43a0-a442-a55ba648e1a9][WuEtAl2018]] ::
 
 
-  [[file:20200813180431-neural_networks.org][Neural Networks]] based detection and Lyapunov [[file:20200709101720-mpc.org][MPC]], using cumulative sum detection
-- [[file:Yamasaki2016.org][Yamasaki2016]] ::
+  [[id:a6fbcdd3-a1a1-4dd5-bf26-dd778fdfab56][Neural Networks]] based detection and Lyapunov [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]], using cumulative sum detection
+- [[id:9824eb79-3a87-44ac-bfed-e0a07c22653c][Yamasaki2016]] ::
 
 
   Adaptive robust altitude control scheme based on a smooth sliding mode controller
-- [[file:YangEtAl2019.org][YangEtAl2019]] ::
+- [[id:c9eab5b6-7e7f-47b2-969c-fba01036c7b1][YangEtAl2019]] ::
 
 
-  [[file:20200716170854-stochastic_control.org][Stochastic]] [[file:20200709101933-dmpc.org][dMPC]] with defense against [[file:20200722151834-denial_of_service_attacks.org][DoS]] Attacks
-- [[file:YimEtAl2012.org][YimEtAl2012]] ::
+  [[id:3ec3cd81-0163-4fe1-9c20-b5dfd33427d6][Stochastic]] [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]] with defense against [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] Attacks
+- [[id:b4edadca-37df-4d54-9001-a102894e4bee][YimEtAl2012]] ::
 
 
   Estimation of non-linear systems using EKF and UKF
-- [[file:Zafiriou1990.org][Zafiriou1990]] ::
+- [[id:00ddebfd-ca6a-4eea-919b-c98d415c47b4][Zafiriou1990]] ::
 
 
-- [[file:ZhuMartinez2014.org][ZhuMartinez2014]] ::
+- [[id:042db509-2e28-4ae0-a3fd-7265a025e09f][ZhuMartinez2014]] ::
 
 
   Resilient MPC with resource allocation to deal with replay attacks
 
   (A,B) Stabilizable
-- [[file:ZhuZheng2020.org][ZhuZheng2020]] ::
+- [[id:a59e3ddd-90ef-4027-b219-da252fc9baf5][ZhuZheng2020]] ::
 
 
-  Observer based $\mathcal{H}_\infty$ control in [[file:20200722151834-denial_of_service_attacks.org][DoS]] prone measurement and control channels
+  Observer based $\mathcal{H}_\infty$ control in [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] prone measurement and control channels
 #+end_results

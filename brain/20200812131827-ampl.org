@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       9f7348a1-cbd6-4396-bada-7a1c69e1c3a7
+:END:
 #+title: AMPL
-- tags :: [[file:20200713160350-programming.org][Programming]], [[file:20200709102805-optimization.org][Optimization]]
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]], [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]
 Modeling language for optimization
 
-[[file:20200812131754-brian_kernighan.org][Brian Kernighan]]
+[[id:8c70fa62-9db0-410e-bff3-e990aaa56fb2][Brian Kernighan]]
 #+BEGIN_SRC ampl
 set Plants;
  set Markets;

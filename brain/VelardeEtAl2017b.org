@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       8785f783-962d-4ed2-b7cc-5a1b2ee1479d
+:ROAM_REFS: cite:VelardeEtAl2017b
+:END:
 #+TITLE: VelardeEtAl2017b: Vulnerabilities in lagrange-based DMPC in the context of cyber-security
-#+ROAM_KEY: cite:VelardeEtAl2017b
-#+ROAM_TAGS: rank4 article
+#+filetags: rank4 article
 
-- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200406135143-secure_dmpc.org][Secure dMPC]]
+- tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][cyber-security]], [[id:4cabbb59-a17c-4583-9826-6e6eb436488e][Secure dMPC]]
 - keywords :: control engineering computing;fault tolerant computing;predictive control;security of data;Lagrange-based DMPC scheme;cyber-security;autonomic computing;distributed model predictive control scheme;insider attacks;DMPC negotiation procedure;Computer security;Couplings;Cost function;Reliability;Process control;Computational modeling
 
 
@@ -42,7 +45,7 @@ Vulnerabilities in lagrange-based dMPC scheme on multi-agent consensus
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++0.08;;annot-4-0]]
 :ID:       ../../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-0
 :END:
-Ver [[file:DibajiIshii2015.org][DibajiIshii2015]] [[file:LeBlancEtAl2013.org][LeBlancEtAl2013]]
+Ver [[id:d1ea4e39-85cb-4809-b8db-3c633cfacea4][DibajiIshii2015]] [[id:da02c877-8fb0-4d82-9aa4-0a206dbf3fe1][LeBlancEtAl2013]]
 *** ignore extreme values of variables
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++0.00;;annot-4-1]]

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       1c630605-1fe8-467a-8efc-f5e403cc724e
+:ROAM_REFS: cite:RajeshEtAl2013
+:END:
 #+TITLE: RajeshEtAl2013: Multi-agent system framework for rural indian microgrids
-#+ROAM_KEY: cite:RajeshEtAl2013
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200908140517-multi_agents.org][Multi-Agents]], [[file:20200427161129-network_topologies.org][network topologies]]
+- tags :: [[id:6a11e808-f5e6-4bdd-ad52-609056cc541d][Multi-Agents]], [[id:521bb956-14c1-472b-879f-2e458bcfc8a4][network topologies]]
 - keywords :: data acquisition;distributed power generation;multi-agent systems;power engineering computing;renewable energy sources;multi-agent system;MAS;rural Indian microgrid;data acquisition;DG agent;load agent;grid agent;DER agent;storage agent;renewable sources;intermittent grid supply;energy sources;Microgrids;Load modeling;Multi-agent systems;Density estimation robust algorithm;Conferences;Renewable energy sources;Context;Electrifying Rural Areas;Functions;Multi-Agents;Microgrid;Renewable Energy
 
 

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       02138622-6b39-4f01-842d-6527778681fb
+:END:
 #+title: SQL
-- tags :: [[file:20210323095435-database.org][Database]]
+- tags :: [[id:33337caa-afdd-4439-8757-84150392c871][Database]]

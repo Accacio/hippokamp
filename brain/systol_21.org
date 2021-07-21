@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       11b9000d-3339-4223-88d4-f1e6ec6d57e8
+:ROAM_REFS: http://www.systol.org/systol21/
+:END:
 #+title: SysTol’21
-#+roam_key: http://www.systol.org/systol21/
 #+LINK: note file:%s.org
-- tags :: [[file:20210120110751-control_conferences.org][Control Conferences]]
+- tags :: [[id:acc20c04-d224-4825-8481-a9cf1868d0e8][Control Conferences]]
 
 * Paper :ACCEPTED:
 file:~/docsThese/docs/articles/SysTol21/article.tex
@@ -10,7 +13,7 @@ file:~/docsThese/docs/articles/SysTol21/article.tex
 - unexcitation subspace :: $\bar{\mathcal{E}}=\{x\in\mathbb{R}^n| \exists L<\infty:x'\sum\limits^N_1 \phi(t)\phi(t)'x<L,\forall N\}$
 - excitation subspace :: $\mathcal{E}=\bar{\mathcal{E}}^{\perp}$
 *** [[note:AastroemWittenmark1989][AastroemWittenmark1989]]
-- [[file:AastroemWittenmark1989.org][Theorem 3.2 :]]
+- [[id:bbd88d5a-0df3-4b76-a581-0a470eb123ac][Theorem 3.2 :]]
   + LS has no bias
   + depends on $(\Phi^T\Phi)^{-1}$
 *** [[note:ArabloueiEtAl2014][ArabloueiEtAl2014]]

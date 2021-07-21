@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       8b72e3af-1ffe-44e2-8566-515b28e58724
+:ROAM_REFS: https://www.youtube.com/watch?v=IeaD0ZaUJ3Y
+:END:
 #+title: How to Read a Paper Efficiently (By Prof. Pete Carr) - YouTube
-#+roam_key: https://www.youtube.com/watch?v=IeaD0ZaUJ3Y
-- tags :: [[file:20210304090408-research.org][Research]], [[file:20210309145947-soft_skills.org][Soft Skills]], [[file:20210309153048-pete_carr.org][Pete Carr]]
+- tags :: [[id:95a6d782-ca34-4422-9e39-2686189c6e04][Research]], [[id:0fecbdfc-d386-49cf-ba72-b1e25a82e84c][Soft Skills]], [[id:a0ed0482-3e69-41c6-b70d-f8ee000872e0][Pete Carr]]
 
 * Phases
 **  Survey the paper

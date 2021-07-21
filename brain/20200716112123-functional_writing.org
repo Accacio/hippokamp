@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       e9533ad5-a64b-4d8b-9776-393e04d0e533
+:END:
 #+title: Functional Writing
-- tags :: [[file:20200422201907-writing.org][Writing]]
+- tags :: [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]]

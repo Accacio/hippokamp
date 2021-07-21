@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       89a32407-3b84-4a4d-b715-99a4a8db5a75
+:ROAM_REFS: https://austinmorlan.com/posts/entity_component_system/
+:END:
 #+title: A Simple Entity Component System (ECS) [C++] - Austin Morlan
-#+roam_key: https://austinmorlan.com/posts/entity_component_system/
-- tags :: [[file:20200809193336-entity_component_system.org][ECS]]
+- tags :: [[id:c41b8c19-cf6b-432a-a30d-67d1f6560612][ECS]]

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       c4f2e136-4d06-4643-810f-96a1d448060b
+:ROAM_REFS: cite:LauerBloch2019
+:END:
 #+TITLE: LauerBloch2019
-#+ROAM_KEY: cite:LauerBloch2019
-#+ROAM_TAGS: book
+#+filetags: book
 
-- tags :: [[file:20210323094314-identification.org][Identification]]
+- tags :: [[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]]
 - keywords ::
 
 
@@ -18,7 +21,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-[[file:20210323094314-identification.org][Identification]] of Hybrid Systems
+[[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]] of Hybrid Systems
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications
@@ -266,4 +269,10 @@ use of flops to analysis
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.94;;annot-137-15]]
 :ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-137-15
+:END:
+
+*** Indeed, recall that in PWA regression, the modes are typically assumed to be linearly separable in the regression space R d , whereas this is not the case in switching regression, where the mode sequence {q k } Nk=1 is arbitrary.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::140++0.00;;annot-140-8]]
+:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-140-8
 :END:

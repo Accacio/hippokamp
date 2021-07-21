@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ab4a25f6-228b-4c23-a54c-2152db6c70e4
+:ROAM_REFS: https://github.com/jkitchin/techela
+:END:
 #+TITLE: jkitchin/techela: Techela in a Flask
-#+ROAM_KEY: https://github.com/jkitchin/techela
-- tag :: [[file:20200424101435-education.org][education]]
+- tag :: [[id:92200229-0f70-409d-b99f-1260dc066b59][education]]

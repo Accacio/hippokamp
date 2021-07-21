@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       d5a6021b-fba0-4c6c-a277-ab09d7fa2209
+:ROAM_REFS: https://www.youtube.com/watch?v=pW-SOdj4Kkk
+:END:
 #+title: Jonathan Blow - Preventing the Collapse of Civilization
-#+roam_key: https://www.youtube.com/watch?v=pW-SOdj4Kkk
-- tags :: [[file:20200709114935-jonathan_blow.org][Jonathan Blow]]
+- tags :: [[id:452333bf-14c6-4ad8-aa6a-50ae9429cb18][Jonathan Blow]]
 * Lost technologies
 ** Lycurgus Cup
 Nanoparticles in Roman Empire 4th-century
@@ -15,4 +18,4 @@ Without generational transfer civilizations die
 * 5 9s
 Software was made to have 99.999% uptime, nowadays not even 98%
 * QA
-[[file:e_w_dijkstra_archive_the_humble_programmer_ewd_340.org][E.W.Dijkstra Archive: The Humble Programmer (EWD 340)]]
+[[id:b35c2684-522b-4358-b378-0aa04723d0c0][E.W.Dijkstra Archive: The Humble Programmer (EWD 340)]]

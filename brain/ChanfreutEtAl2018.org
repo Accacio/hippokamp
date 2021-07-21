@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       adcc4a05-99db-4dc0-9c09-a23f84827b97
+:ROAM_REFS: cite:ChanfreutEtAl2018
+:END:
 #+TITLE: ChanfreutEtAl2018
-#+ROAM_KEY: cite:ChanfreutEtAl2018
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200709101933-dmpc.org][dMPC]]
+- tags :: [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]]
 - keywords :: distributed control;Jacobian matrices;matrix decomposition;multi-agent systems;numerical analysis;predictive control;security of data;distributed model predictive control;jacobi-gauss decomposition;multiagent system;malicious agents;nonconforming local controllers;Vulnerabilities;DMPC;security breach;numerical simulations;Optimization;Trajectory;Predictive control;Jacobian matrices;Linear programming;Couplings, read
 
 

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       03648e8f-ec98-4457-8b04-35e86a257eac
+:END:
 #+title: Linear Programming Relaxation
-- tags :: [[file:20200709102805-optimization.org][Optimization]]
+- tags :: [[id:65a4d865-7509-4dc3-a787-ee36d0a2ed71][Optimization]]
 #+begin_quote
 In mathematics, the relaxation of a (mixed) integer linear program is the problem that arises by removing the integrality constraint of each variable.
 #+end_quote

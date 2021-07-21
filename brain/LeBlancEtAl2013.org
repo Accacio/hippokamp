@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       da02c877-8fb0-4d82-9aa4-0a206dbf3fe1
+:ROAM_REFS: cite:LeBlancEtAl2013
+:END:
 #+TITLE: LeBlancEtAl2013: Resilient asymptotic consensus in robust networks
-#+ROAM_KEY: cite:LeBlancEtAl2013
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags ::  [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200427161129-network_topologies.org][network topologies]]
+- tags ::  [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][cyber-security]], [[id:521bb956-14c1-472b-879f-2e458bcfc8a4][network topologies]]
  
 * LeBlancEtAl2013
 :PROPERTIES:

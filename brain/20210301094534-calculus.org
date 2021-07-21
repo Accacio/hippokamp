@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       39c8f694-01f3-44fa-a588-e0103e2c965b
+:END:
 #+title: Calculus
-- tags :: [[file:20200424163014-mathematics.org][Mathematics]]
+- tags :: [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]]

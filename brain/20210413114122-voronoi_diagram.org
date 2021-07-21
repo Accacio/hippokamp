@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6cadee82-49ba-43bc-8bbd-ce1084574447
+:END:
 #+title: Voronoi diagram
 
 # * octave

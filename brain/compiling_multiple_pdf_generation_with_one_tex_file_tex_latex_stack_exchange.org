@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       3a7eb6cc-1387-402b-85c6-51d91370a7bf
+:ROAM_REFS: https://tex.stackexchange.com/questions/162042/multiple-pdf-generation-with-one-tex-file
+:END:
 #+TITLE: compiling - Multiple PDF generation with one tex file - TeX - LaTeX Stack Exchange
-#+ROAM_KEY: https://tex.stackexchange.com/questions/162042/multiple-pdf-generation-with-one-tex-file
-- tag :: [[file:20200424101609-latex.org][latex]]
+- tag :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][latex]]

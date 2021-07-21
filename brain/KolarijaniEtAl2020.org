@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       62ce40dc-5379-4b62-9ab4-e612a28bdd7f
+:ROAM_REFS: cite:KolarijaniEtAl2020
+:END:
 #+TITLE: KolarijaniEtAl2020: A decentralized event-based approach for robust model predictive control
-#+ROAM_KEY: cite:KolarijaniEtAl2020
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]], [[file:20200803163941-robust_control.org][Robust Control]], [[file:20200709101720-mpc.org][Model Predictive Control]]
+- tags :: [[id:80483591-299e-4627-9e13-587aeb852b94][Spatially Separated Operator]], [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust Control]], [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][Model Predictive Control]]
 - keywords ::
 
 
@@ -18,13 +21,13 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-[[file:20200803164121-decentralized_control.org][Decentralized]] [[file:20200803164930-event_based_control.org][Event-Based]] [[file:20200803163941-robust_control.org][Robust]] [[file:20200709101720-mpc.org][MPC]]
+[[id:0048fff1-e997-4b77-8215-ea92fe7dd527][Decentralized]] [[id:02289306-4cb1-4371-a5da-eedd95e7b268][Event-Based]] [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust]] [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
 *** Model :lightSkyblue:
-- [[file:20200716170441-linear_system.org][Linear ]][[file:20200504113008-discrete_time_systems.org][Discrete-time ]]with additive disturbance
+- [[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear]][[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][Discrete-time]]with additive disturbance
 - Controllable Pair (A,B)
 *** Remarks
 *** Applications
-Batch reactor show differences between [[file:20200804171800-second_order_cone_programming.org][Second Order Cone Programming]] and [[file:20200804171343-linear_programming_relaxation.org][Linear Programming Relaxation]] approaches
+Batch reactor show differences between [[id:07f22483-9b1f-4eed-bc67-bef3d6920b30][Second Order Cone Programming]] and [[id:03648e8f-ec98-4457-8b04-35e86a257eac][Linear Programming Relaxation]] approaches
 *** Expressions
 - hindering
 - One thus hopes

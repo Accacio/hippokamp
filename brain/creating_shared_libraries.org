@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       2812aeaa-86e9-4593-a4aa-7d8642c884c8
+:ROAM_REFS: https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
+:END:
 #+title: Creating Shared Libraries
-#+roam_key: https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
-- tags :: [[file:20200708151656-c_c.org][C/C++]], [[file:20210115202150-shared_libraries.org][Shared Libraries]]
+- tags :: [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]], [[id:3b7e21aa-8be6-4082-a963-049578c96348][Shared Libraries]]
 
 * Creating shared libraries
-1. First create object with [[file:20210115201710-position_independent_code.org][Position Independent Code]]
+1. First create object with [[id:3610584f-a476-48ce-bcb6-36421b0d550c][Position Independent Code]]
 #+begin_src bash
 gcc -fPIC -g -c -Wall a.c
 #+end_src

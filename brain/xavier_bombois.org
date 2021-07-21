@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       ecaa14ca-f27f-41eb-897a-e0f8ffe59f2a
+:ROAM_REFS: https://www.ec-lyon.fr/en/contacts/xavier-bombois
+:END:
 #+title: Xavier Bombois
-#+roam_key: https://www.ec-lyon.fr/en/contacts/xavier-bombois
-#+roam_tags: people
+#+filetags: people
 
 https://www.ec-lyon.fr/en/contacts/xavier-bombois

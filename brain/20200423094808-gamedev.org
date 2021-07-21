@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       ed3f80b9-425d-48b8-b838-19ca3d2ca38e
+:END:
 #+TITLE: gamedev

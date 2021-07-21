@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       38d40885-b262-4081-821a-0902e6e00d26
+:ROAM_REFS: http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/
+:END:
 #+title: NES Graphics – Part 1 | dustmop.io blog
-#+roam_key: http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/
-- tags :: nes, [[file:20200423094808-gamedev.org][gamedev]], [[file:20200617111624-computer_graphics.org][graphics]]
+- tags :: nes, [[id:ed3f80b9-425d-48b8-b838-19ca3d2ca38e][gamedev]], [[id:46181a21-ecc6-4969-bbf6-ef40617937b0][graphics]]

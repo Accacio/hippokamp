@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       170be5ba-8021-4daa-ae2a-65c04bda70d5
+:ROAM_REFS: https://www.youtube.com/watch?v=j_h3GdMtO0M
+:END:
 #+title: Tutorial 3 - Introduction to OpenGL Shaders - YouTube
-#+roam_key: https://www.youtube.com/watch?v=j_h3GdMtO0M
-- tags :: [[file:20200617111549-opengl.org][OpenGL]]
+- tags :: [[id:db00423b-3c3b-4d69-969a-a063a11dd129][OpenGL]]

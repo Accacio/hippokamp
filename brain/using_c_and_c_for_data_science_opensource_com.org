@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       5d09b26f-5852-4a00-84bf-5b1a65ef44e0
+:ROAM_REFS: https://opensource.com/article/20/2/c-data-science
+:END:
 #+title: Using C and C++ for data science | Opensource.com
-#+roam_key: https://opensource.com/article/20/2/c-data-science
-- tags :: [[file:20200708145614-scientific_computing.org][Scientific Computing]], [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:b6b646dd-6a8c-4cd6-ad68-74e27e15020a][Scientific Computing]], [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]

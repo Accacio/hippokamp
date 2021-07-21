@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       e5344612-49f9-4077-889c-fc8fd55092bb
+:END:
 #+title: Note Taking
-- tags :: [[file:20200422201907-writing.org][Writing]]
+- tags :: [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]]

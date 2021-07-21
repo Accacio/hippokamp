@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       f482738a-22e8-4411-89a1-87b06c3bf21e
+:ROAM_REFS: http://decompile.com/cpp/faq/file_and_line_error_string.htm
+:END:
 #+title: __LINE__ to string (stringify) using preprocessor directives
-#+roam_key: http://decompile.com/cpp/faq/file_and_line_error_string.htm
-- tags :: [[file:20200708151656-c_c.org][C/C++]],
+- tags :: [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]],
   better errro messages using preprocessor

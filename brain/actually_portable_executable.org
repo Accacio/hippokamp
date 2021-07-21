@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       03e2bbee-44b4-479d-a791-b2a7fb48cc0d
+:ROAM_REFS: https://justine.lol/ape.html
+:END:
 #+title: Actually Portable Executable
-#+roam_key: https://justine.lol/ape.html
-- tags :: [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]

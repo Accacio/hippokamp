@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1a64b9a3-0676-4970-9e6e-9ceb5480690d
+:ROAM_REFS: https://guide.handmadehero.org/code/day010/#1873
+:END:
 #+title: QueryPerformanceCounter and RDTSC  —  Handmade Hero  —  Watch
-#+roam_key: https://guide.handmadehero.org/code/day010/#1873
-- tags :: [[file:20200708151656-c_c.org][C/C++]]
+- tags :: [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]]
 
-  - variables from anonymous structures in unions in [[file:20200708151656-c_c.org][C/C++]] can be accessed
+  - variables from anonymous structures in unions in [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]] can be accessed

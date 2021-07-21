@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       d3c6a082-eabc-494c-8f99-f77cee5de817
+:ROAM_REFS: https://www.gnu.org/software/make/manual/html_node/Recursion.html
+:END:
 #+title: Recursion (GNU make)
-#+roam_key: https://www.gnu.org/software/make/manual/html_node/Recursion.html
 
-- tags :: [[file:20200428005424-linux.org][Linux]], [[file:20200713160350-programming.org][Programming]]
+- tags :: [[id:b401932b-c548-4220-96e5-723542a4d30b][Linux]], [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]]
 
 
 - Make can be called recursively

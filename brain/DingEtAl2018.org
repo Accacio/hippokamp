@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       5931d71e-7025-4b7d-a45f-03884164ce21
+:ROAM_REFS: cite:DingEtAl2018
+:END:
 #+TITLE: DingEtAl2018: A survey on security control and attack detection for industrial cyber-physical systems
-#+ROAM_KEY: cite:DingEtAl2018
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200427105830-cybersecurity.org][cyber-security]], [[file:20200908135242-survey.org][Survey]]
+- tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][cyber-security]], [[id:5402d61d-29b3-4618-b058-09f58831b40a][Survey]]
 - keywords :: Industrial cyber-physical systems, Cyber-attacks, Attack detection, Security control
 
 

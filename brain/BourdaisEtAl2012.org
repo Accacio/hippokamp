@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       d1bb8983-c446-4f01-ab1f-e7c3a5a8c15f
+:ROAM_REFS: cite:BourdaisEtAl2012
+:END:
 #+TITLE: BourdaisEtAl2012: Distributed Model Predictive Control for a class of hybrid system based on lagrangian relaxation
-#+ROAM_KEY: cite:BourdaisEtAl2012
 
-- tags :: [[file:20200709101933-dmpc.org][dMPC]], [[file:20200922104714-dual_decomposition.org][Dual Decomposition]]
+- tags :: [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]], [[id:11824f31-8d18-4698-9586-d2a3c1c1b0a3][Dual Decomposition]]
 - keywords ::
 
 
@@ -19,7 +22,7 @@
 *** Motivation :springGreen:
 Distributed MPC (Dual Decomposition) for continuous systems controlled using discrete inputs
 *** Model :lightSkyblue:
-- [[file:20200716170441-linear_system.org][Linear]] [[file:20200504113008-discrete_time_systems.org][Discrete-time System]] décomposable
+- [[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear]] [[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][Discrete-time System]] décomposable
 *** Remarks
 *** Applications
 *** Expressions
@@ -78,7 +81,7 @@ $\Phi$
 :ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-3-1
 :END:
 
-*** solve central problem using [[file:20200921153249-arrow_hurwicz_uzawa_algorithm.org][Arrow-Hurwicz-Uzawa algorithm]]
+*** solve central problem using [[id:38214294-634e-48a9-aa33-f891f80e9c10][Arrow-Hurwicz-Uzawa algorithm]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::3++2.34;;annot-3-2]]
 :ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-3-2

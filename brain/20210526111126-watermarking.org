@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       1158d11b-d0e9-40dd-bdd8-bbeb85092f71
+:END:
 #+title: Watermarking
-- tags :: [[file:20200504164021-control.org][Control]], [[file:20210216114642-fault_protection.org][Fault Protection]]
+- tags :: [[id:183fa358-b121-432e-be54-3e09847c988c][Control]], [[id:573d59cd-037a-4a28-a72b-5cf79ea16fc5][Fault Protection]]
 
   Technique where signals are watermarked in order to prevent attacks
 

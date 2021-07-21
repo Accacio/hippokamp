@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       e1e535e3-e5c1-48fb-ad83-13053a4b1dc2
+:END:
 #+title: ruby

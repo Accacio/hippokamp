@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       c81e4cd5-bc84-4084-acf9-bb61453972de
+:ROAM_REFS: https://www.youtube.com/watch?v=_kIa4D7kQ8I
+:END:
 #+title: How to Load Libraries at Runtime - YouTube
-#+roam_key: https://www.youtube.com/watch?v=_kIa4D7kQ8I
-- tags :: [[file:20200708151656-c_c.org][C/C++]], [[file:20210115202150-shared_libraries.org][Shared Libraries]]
+- tags :: [[id:4fdd738f-c72c-4e32-b1a8-cda124c7f64d][C/C++]], [[id:3b7e21aa-8be6-4082-a963-049578c96348][Shared Libraries]]
 
  |             | Linux /Mac | Windows       |
  | Open        | dlopen     | LoadLibrary   |

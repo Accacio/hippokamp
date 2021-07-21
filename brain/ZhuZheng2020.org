@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       a59e3ddd-90ef-4027-b219-da252fc9baf5
+:ROAM_REFS: cite:ZhuZheng2020
+:END:
 #+TITLE: ZhuZheng2020: Observer-based control for cyber-physical systems with periodic dos attacks via a cyclic switching strategy
-#+ROAM_KEY: cite:ZhuZheng2020
-#+ROAM_TAGS: article
+#+filetags: article
 
-- tags :: [[file:20200427105830-cybersecurity.org][Cyber-Security]], [[file:20200722151834-denial_of_service_attacks.org][DoS]], [[file:20200908140252-spatially_separated_operator.org][Spatially Separated Operator]]
+- tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]], [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]], [[id:80483591-299e-4627-9e13-587aeb852b94][Spatially Separated Operator]]
 - keywords ::
 
 
@@ -18,9 +21,9 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Observer based $\mathcal{H}_\infty$ control in [[file:20200722151834-denial_of_service_attacks.org][DoS]] prone measurement and control channels
+Observer based $\mathcal{H}_\infty$ control in [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] prone measurement and control channels
 *** Model :lightSkyblue:
-Unstable [[file:20200504113008-discrete_time_systems.org][Discrete-time ]][[file:20200716170441-linear_system.org][Linear System]] with exogenous disturbance belonging to $l_2[0,\infty)$, [[file:20200722151834-denial_of_service_attacks.org][DoS]] is periodic with dwell-time
+Unstable [[id:1dcd7d7b-53fd-4c3b-9cde-8515caa61713][Discrete-time]][[id:5c4f0c72-d430-4bef-a9db-1f48b1630f82][Linear System]] with exogenous disturbance belonging to $l_2[0,\infty)$, [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] is periodic with dwell-time
 - Observer based control
 *** Remarks
 *** Applications
