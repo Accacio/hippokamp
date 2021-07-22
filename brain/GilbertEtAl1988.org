@@ -127,7 +127,7 @@ $$\mathrm{aff} X= \left\{ \sum_{i=1}^{l}\lambda^ix_i:x_i\in X,\lambda^1+\dots+\l
 :ID:       ../../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-5
 :END:
 
-$$\mathrm{co} X=\left\{ \sum_{i=1}^{l}\lambda^ix_i:x_i\in X,\lambda^i\geq0,\lambda^1+\dots+\lambda^l=1 \right}$$
+$$\mathrm{co} X=\left\{ \sum_{i=1}^{l}\lambda^ix_i:x_i\in X,\lambda^i\geq0,\lambda^1+\dots+\lambda^l=1 \right\}$$
 
 *** minkowski sum/difference have $M1_M_2$ elements
 :PROPERTIES:
