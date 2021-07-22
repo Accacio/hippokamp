@@ -53,6 +53,7 @@ imwrite(f.cdata,[ filename '.gif'],'DelayTime',3,'WriteMode','append')
 #+name: voronoi
 #+caption: Voronoi diagram for 10 points
 [[file:img/voronoi.gif]]
+
 * OpenGL Fragment shader
 glsl code based on [[https://www.youtube.com/watch?v=l-07BXzNdPw][The Art of Code video]], showing two different measures ($\ell_2$ norm and $\ell_1$ norm)
 #+begin_src glsl

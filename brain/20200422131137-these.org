@@ -104,8 +104,105 @@ Project starts the 2019-11-01
 #+RESULTS:
 [[file:img/ganttTheseBeforeCSI2021.png]]
 
+** After CSI 2021
+#+BEGIN_SRC plantuml :file ../img/ganttTheseAfterCSI2021.png :exports results
+printscale monthly
+<style>
+ganttDiagram {
+    task {
+        BackGroundColor lightgreen
+        LineColor LightBlue
+    }
+    milestone {
+        BackGroundColor lightblue
+        LineColor lightblue
+    }
+}
+</style>
+
+Project starts the 2021-05-16
+
+-- CSI --
+[CSI 2021] happens at 2021-05-17
+
+-- Training Courses --
+[FS1] starts at 2021-09-06 and ends 2021-09-22
+[FS2] starts at 2022-01-06 and ends 2022-01-22
+
+[FS1] is 0% completed
+[FS2] is 0% completed
+
+[CD1] starts at 2021-11-06 and ends 2021-11-22
+[CD2] starts at 2022-04-06 and ends 2022-04-22
+
+[CD1] is 0% completed
+[CD2] is 0% completed
+
+[FS2] displays on same row as [FS1]
+[CD2] displays on same row as [CD1]
+
+-- Teaching --
+[ µGrid 21/22] as [V5] starts 2022-03-16 and ends 2022-4-06
+[ MPC 20/21] as [V3] starts 2021-04-21 and ends 2021-5-26
+[ Auto 21/22] as [V4] starts 2021-09-16 and ends 2021-10-16
+[ MPC 21/22] as [V6] starts 2022-04-21 and ends 2022-5-26
+
+[V3] is 50% completed
+[V4] is 0% completed
+[V5] is 0% completed
+[V6] is 0% completed
+
+[V4] displays on same row as [V5]
+[V6] displays on same row as [V3]
+
+-- Research --
+[N-agents | Ineq. Constraints] as [Ex3] happens at 2021-09-01
+
+[Alg. Robust.] as [S1] starts 2021-04-18 and lasts 30 days
+[S1] is 20% completed
+
+[Identify piecewise-linear] as [SHYB] starts 2021-05-17 and lasts 45 days
+[SHYB] is 0% completed
+
+[Adap. Recov. Algo] as [ARA] starts 2021-07-30 and lasts 45 days
+[ARA] is 0% completed
+[ARA] displays on same row as [S1]
+
+[Study Path 1] as [SP1] starts 2021-11-01 and lasts 150 days
+[SP1] is 0% completed
+
+
+[Article 2 (writing)] as [A2W] starts at 2021-09-15 and lasts 30 days
+[Article 2] as [A2] happens at [A2W]'s end
+[A2W] is 0% completed
+
+
+[Article 3 (writing)] as [A3W] starts at 2022-03-15 and lasts 60 days
+[Article 3] as [A3] happens at [A3W]'s end
+[A3W] is 0% completed
+
+[A3] displays on same row as [A2]
+[A3W] displays on same row as [A2W]
+
+
+[Thesis writing] as [W1] starts at 2022-02-25 and lasts 180 days
+[Presentation] as [W2] starts at 2022-08-30 and lasts 90 days
+[W1] is 0% completed
+[W2] is 0% completed
+
+[ Bibliography ] as [B1] starts at 2019-11-01 and ends 2022-07-31
+[B1] is 50% completed
+[B1] links to [[https://gitlab.com/Accacio/docsthese/raw/master/bibliography.bib]]
+[Documentation (code + text)] as [Doc1] starts at 2020-01-01 and ends 2022-11-30
+[Doc1] is 42% completed
+
+#+end_src
+
+#+RESULTS:
+[[file:img/ganttTheseAfterCSI2021.png]]
+
 ** Complete
-#+BEGIN_SRC plantuml :file img/ganttThese.png :exports results
+#+BEGIN_SRC plantuml :file ../img/ganttThese.png :exports results
 printscale monthly
 <style>
 ganttDiagram {
@@ -278,104 +375,7 @@ today is 30 days after start and is colored in #AAF
 #+END_SRC
 
 #+RESULTS:
-[[file:img/ganttThese.png]]
-
-** After CSI 2021
-#+BEGIN_SRC plantuml :file img/ganttTheseAfterCSI2021.png :exports results
-printscale monthly
-<style>
-ganttDiagram {
-    task {
-        BackGroundColor lightgreen
-        LineColor LightBlue
-    }
-    milestone {
-        BackGroundColor lightblue
-        LineColor lightblue
-    }
-}
-</style>
-
-Project starts the 2021-05-16
-
--- CSI --
-[CSI 2021] happens at 2021-05-17
-
--- Training Courses --
-[FS1] starts at 2021-09-06 and ends 2021-09-22
-[FS2] starts at 2022-01-06 and ends 2022-01-22
-
-[FS1] is 0% completed
-[FS2] is 0% completed
-
-[CD1] starts at 2021-11-06 and ends 2021-11-22
-[CD2] starts at 2022-04-06 and ends 2022-04-22
-
-[CD1] is 0% completed
-[CD2] is 0% completed
-
-[FS2] displays on same row as [FS1]
-[CD2] displays on same row as [CD1]
-
--- Teaching --
-[ µGrid 21/22] as [V5] starts 2022-03-16 and ends 2022-4-06
-[ MPC 20/21] as [V3] starts 2021-04-21 and ends 2021-5-26
-[ Auto 21/22] as [V4] starts 2021-09-16 and ends 2021-10-16
-[ MPC 21/22] as [V6] starts 2022-04-21 and ends 2022-5-26
-
-[V3] is 50% completed
-[V4] is 0% completed
-[V5] is 0% completed
-[V6] is 0% completed
-
-[V4] displays on same row as [V5]
-[V6] displays on same row as [V3]
-
--- Research --
-[N-agents | Ineq. Constraints] as [Ex3] happens at 2021-09-01
-
-[Alg. Robust.] as [S1] starts 2021-04-18 and lasts 30 days
-[S1] is 20% completed
-
-[Identify piecewise-linear] as [SHYB] starts 2021-05-17 and lasts 45 days
-[SHYB] is 0% completed
-
-[Adap. Recov. Algo] as [ARA] starts 2021-07-30 and lasts 45 days
-[ARA] is 0% completed
-[ARA] displays on same row as [S1]
-
-[Study Path 1] as [SP1] starts 2021-11-01 and lasts 150 days
-[SP1] is 0% completed
-
-
-[Article 2 (writing)] as [A2W] starts at 2021-09-15 and lasts 30 days
-[Article 2] as [A2] happens at [A2W]'s end
-[A2W] is 0% completed
-
-
-[Article 3 (writing)] as [A3W] starts at 2022-03-15 and lasts 60 days
-[Article 3] as [A3] happens at [A3W]'s end
-[A3W] is 0% completed
-
-[A3] displays on same row as [A2]
-[A3W] displays on same row as [A2W]
-
-
-[Thesis writing] as [W1] starts at 2022-02-25 and lasts 180 days
-[Presentation] as [W2] starts at 2022-08-30 and lasts 90 days
-[W1] is 0% completed
-[W2] is 0% completed
-
-[ Bibliography ] as [B1] starts at 2019-11-01 and ends 2022-07-31
-[B1] is 50% completed
-[B1] links to [[https://gitlab.com/Accacio/docsthese/raw/master/bibliography.bib]]
-[Documentation (code + text)] as [Doc1] starts at 2020-01-01 and ends 2022-11-30
-[Doc1] is 42% completed
-
-#+end_src
-
-#+RESULTS:
-[[file:img/ganttTheseAfterCSI2021.png]]
+[[file:../img/ganttThese.png]]
 
 * [[id:643844e6-2f3f-4420-a332-c499fd8e66fc][CSI]]
 * Problems normally found
@@ -405,6 +405,7 @@ awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressio
 - [[file:BraunEtAl2020.org::*Expressions][Instead]]
 - [[file:BraunEtAl2020.org::*Expressions][In contrast to]]
 - [[file:BraunEtAl2020.org::*Expressions][approach]]
+- [[file:FungMangasarian2001.org::*Expressions][Omitting some algebra,]]
 - [[file:GrimsmanEtAl2019.org::*Expressions][More specifically, the contributions of this paper are the following results]]
 - [[file:GrimsmanEtAl2019.org::*Expressions][each node is an agent (and thus we use the terms interchangeably)]]
 - [[file:Iiduka2019.org::*Expressions][This paper makes the following three contributions.]]
@@ -426,7 +427,9 @@ awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressio
 - [[file:LuciaEtAl2021.org::*Expressions][The main contributions of this article can be stated as follows:]]
 - [[file:LuciaEtAl2021.org::*Expressions][play a key role in our society]]
 - [[file:MaestreEtAl2021.org::*Expressions][An alternative to deal with this kind of problems is to ...]]
+- [[file:MaestreEtAl2021.org::*Expressions][A preliminary version of this paper has appeared as]]
 - [[file:MaestreEtAl2021.org::*Expressions][geographically disperse systems]]
+- [[file:MaestreEtAl2021.org::*Expressions][inner iteration of the dual decomposition DMPC algorithm.]]
 - [[file:MoSinopoli2009.org::*Expressions][The research community has acknowledged the importance of addressing the challenge]]
 - [[file:MukherjeeZelazo2019.org::*Expressions][As another direction of work]]
 - [[file:Reams1999.org::*Expressions][lemmas are essentially well-known however for completeness we provide short proofs.]]

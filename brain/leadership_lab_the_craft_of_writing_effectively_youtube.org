@@ -4,6 +4,9 @@
 :END:
 #+title: LEADERSHIP LAB: The Craft of Writing Effectively - YouTube
 - tags :: [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]]
+
+  https://www.youtube.com/watch?v=vtIzMaLkCaM
+
 - Speaker :: Larry McEnerney
 lmce@uchicago.ed
 
@@ -12,14 +15,18 @@ lmce@uchicago.ed
 You are writing about a subject at which you have expert knowledge
 --- Larry McEnerney
 #+end_quote
-        Readers
-          |
-          v
+
+#+begin_src txt
+         Readers
+           |
+           v
 _Write_ -> Text
-          |
-          v
+           |
+           v
 Think -> World
      About
+#+end_src
+
 
 * Problems when someone is reading
 - Slow Down ( Reread )
