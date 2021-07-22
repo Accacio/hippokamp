@@ -119,7 +119,7 @@ $$h_X(\eta)=\mathrm{max}\{x\cdot\eta:x\in X\}$$
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/GilbertEtAl1988.pdf::3++6.30;;annot-3-4]]
 :ID:       ../../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-4
 :END:
-$$\mathrm{aff} X=\left{ \sum_{i=1}^{l}\lambda^ix_i:x_i\in X,\lambda^1+\dots+\lambda^l=1 \right}$$
+$$\mathrm{aff} X= \left\{ \sum_{i=1}^{l}\lambda^ix_i:x_i\in X,\lambda^1+\dots+\lambda^l=1 \right\} $$
 
 *** convex hull
 :PROPERTIES:
@@ -127,7 +127,7 @@ $$\mathrm{aff} X=\left{ \sum_{i=1}^{l}\lambda^ix_i:x_i\in X,\lambda^1+\dots+\lam
 :ID:       ../../docsThese/bibliography/GilbertEtAl1988.pdf-annot-3-5
 :END:
 
-$$\mathrm{co} X=\left{ \sum_{i=1}^{l}\lambda^ix_i:x_i\in X,\lambda^i\geq0,\lambda^1+\dots+\lambda^l=1 \right}$$
+$$\mathrm{co} X=\left\{ \sum_{i=1}^{l}\lambda^ix_i:x_i\in X,\lambda^i\geq0,\lambda^1+\dots+\lambda^l=1 \right}$$
 
 *** minkowski sum/difference have $M1_M_2$ elements
 :PROPERTIES:
@@ -151,7 +151,7 @@ this increases complexity
 1. get set of $v$ points $1\leq v\leq m+1$
 2. get distance of convex hull of this set $v_k$ to zero (subalgorithm)
 3. if $|v_k|^2+h_k(-v_k)==0$ distance is $v_k$
-4.
+4. ??
 
 *** take combinatoric approach, since $v$ is small
 :PROPERTIES:
