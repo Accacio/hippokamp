@@ -1,0 +1,123 @@
+:PROPERTIES:
+:ID:       822a0df7-3c82-4752-8456-1634e49261d9
+:END:
+#+title: systol'21 reviewers
+#+filetags: reviewers
+
+- tags :: [[id:11b9000d-3339-4223-88d4-f1e6ec6d57e8][SysTol’21]]
+
+
+* Comments
+** Comments to author (Associate Editor)
+=====================================
+Both reviewers consider the paper interesting but mention
+several issues: unclear notation; a simulation which is not
+necessarily realistic; insufficiently characterized nature
+of the attack.
+
+** Reviewer 1 ID 221
+
+Comments to the author
+======================
+
+This paper discusses how to mitigate the effects of an
+uncooperative agent in a distributed model predictive
+control system, and illustrates the application of this
+approach on a temperature controller for multiple rooms.
+
+An uncooperative agent can modify its local cost (via
+lagrangian multiplier) which then affects the coordinator's
+resource allocation to other agents.
+
+The proposed approach re-constructs the langrangian
+multiplier, which represents importance of local cost, from
+the resource variables, thus bypassing a corrupt agent.
+
+Robustness of experiments.
+Were the experiments repeated with different environmental
+and model parameters to establish the veracity of results?
+Given the experiments, it is not evident how sensitive this
+mechanism is to different attack magnitudes. In section V
+the severity of the selfish agent is also not documented,
+so it is not apparent if the simulation is realistic.
+
+Presentation.
+The terms for formulae were sometimes left undocumented:
+
+    \Lambda on page 3. Is it a stacked version of \lambda
+lagrangian multipliers?
+    \Gamma in equation 2. It may be part of standard MPC
+terminology, but is not described in the paper.
+    Q, R in problem 1. In fact more common terms like x,
+u, t, and w are not defined when they are first introduced
+and have to be inferred. In come cases it was easy to infer
+due to their common usage in literature. In other cases, it
+was not.
+    An intuitive understanding or description of P_i(k),
+H_i, s_i(k), and f in equations 8,9,10 would help
+comprehension and accessibility.
+** Reviewer 2 ID 223
+
+Comments to the author
+======================
+
+The following comments may be considered for improving the
+quality of the manuscript.
+
+Pg1. 2nd paragraph under section introduction: should it be
+"Furthermore, distributed model predictive control (DMPC)"
+instead of "Furthermore, distributed predictive control
+(DMPC)"
+
+Pg1. 2nd paragraph under section introduction: It is not
+clear what the author is trying to convey in the sentence
+"These strategies thus reduce the computing burden while
+increasing confidentiality."
+
+Pg1 col2: Typo in " Moreover, In Section V" needs to
+corrected.
+
+in Eq (2): $\Gamma_i$ is not defined.
+
+Pg3 col2 ln1 : it is not clear what $Lambda$ denotes and
+what its contents are
+
+Pg4 Assumption 1:  $P_i$ is a constant matrix, why is the
+estimate of $P_i$ given by $\hat{\tilde{P}}_i(k)$ obtained
+and compared for two different times. wouldn't it suffice
+if the estimate is obtained and compared with the actual
+$P_i$ matrix.
+
+Pg4 Assumption 3: when comparing eq(10) and eq(13),
+shouldn't it be $\hat{\tilde{P}}_i$ and
+$\hat{\tilde{s}}_i(k)$
+$T_i(k)$
+It is not clear how the authors have derived the eq(14)
+- modelo ataque $\tilde{P}=TP$
+
+Table I: The cost for each room is different even though
+each room is identical, perhaps illustrating the building
+layout might help in visualizing the interaction that can
+justify the cost.
+
+* Resume
+** Reviewer 1 [4/5]
+*** TODO Robustness of experiments [0/4]
+**** TODO Different environmental and model parameters?
+**** TODO Sensibility to different attack magnitudes
+**** TODO Severity of selfish agent in section V
+**** TODO Is simulation realistic?
+*** DONE $\Lambda$ on page 3
+*** DONE $\Gamma$ in equation 2
+*** DONE Q R in problem 1
+*** KILL Intuitive understanding of P_i(k), H_i, s_i(k), and f in eq 8 9 and 10
+** TODO Reviewer 2 [8/9]
+*** DONE "Furthermore, distributed model predictive control (DMPC)" instead of "Furthermore, distributed predictive control (DMPC)"
+*** TODO "These strategies thus reduce the computing burden while increasing confidentiality." not clear
+*** DONE Pg1 col2: Typo in " Moreover, In Section V" needs to
+*** DONE in Eq (2): $\Gamma_i$ is not defined.
+*** DONE Pg3 col2 ln1 : it is not clear what $Lambda$ denotes and what its contents are
+*** DONE Pg4 Assumption 1:  $P_i$ is a constant matrix, why is the
+*** DONE Pg4 Assumption 3: when comparing eq(10) and eq(13), shouldn't it be $\hat{\tilde{P}}_i$ and $\hat{\tilde{s}}_i(k)$
+*** DONE It is not clear how the authors have derived the eq(14)
+*** KILL Table I: The cost for each room is different even though each room is identical,

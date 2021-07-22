@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       3006e8c7-6a2b-4fd7-a93f-076a66e80b95
+:ROAM_REFS: cite:TabatabaeiPourEtAl2006
+:END:
+#+TITLE: TabatabaeiPourEtAl2006
+#+filetags: reading article
+
+- tags :: [[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]], [[id:e10aedf9-7688-416f-8fed-446bc658eb85][Piecewise Affine]], [[id:c7730082-bed6-4140-b921-b464f9b697c6][Hybrid Systems]]
+- keywords ::
+
+
+* Recursive identification of piecewise affine hybrid systems
+  :PROPERTIES:
+  :Custom_ID: TabatabaeiPourEtAl2006
+  :URL:
+  :AUTHOR: Tabatabaei-Pour, M., Gholami, M., Shaker, H., & Moshiri, B.
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Estimate parameters of affine submodels and the partition of the map from data
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** The PWA identification problem involves the estimation of both the parameters of affine submodels and the partition of the PWA map from data.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::1++0.00;;annot-1-0]]
+:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-0
+:END:

@@ -5,15 +5,17 @@
 - tags :: [[id:37d1782e-73eb-4e2d-a7d2-efaf157d63d9][Algebra]]
 
 * Definitions
-** <<<Matrix>>>
-A "rectangular" array of scalar values
-** <<<Vector>>>
-A "linear" array of scalar values
-They can be row vectors or column vectors
-*** Row Vector
-$\vec{x}=[x_1\, x_2\, \dots\, x_N]$
-*** Column Vector
-$\vec{x}=\left[\begin{matrix}x_1\\ x_2\\ \vdots\\ x_N\end{matrix}\right]$
+- <<<Matrix>>> ::
+  A "rectangular" array of scalar values
+- <<<Vector>>> ::
+  A "linear" array of scalar values
+  They can be row vectors or column vectors
+
+ *-* Row Vector ::
+   $\vec{x}=[x_1\, x_2\, \dots\, x_N]$
+
+ - Column Vector ::
+   $\vec{x}=\left[\begin{matrix}x_1\\ x_2\\ \vdots\\ x_N\end{matrix}\right]$
 * Types of Matrices
 ** <<<Square>>>
 $A:\mathbb R^{n\times n},\, n\in\mathbb Z^{+}_{\varnothing}$

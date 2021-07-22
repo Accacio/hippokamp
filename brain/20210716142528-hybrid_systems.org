@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c7730082-bed6-4140-b921-b464f9b697c6
+:END:
+#+title: Hybrid Systems
+
+- tags :: [[id:e3029c97-70bc-44cb-a8f8-706fd4732343][Dynamic Systems]]

@@ -119,12 +119,12 @@ Tentativa de listar todos professores que já tive
 - [[https://folk.uib.no/dpi081/][Didier Jacques François Pilod]]
 - [[http://darnassus.if.ufrj.br/~vanhecke/][Franciscus Jozef VANHECKE]]
 - Victor de Barros Brasil
-- [[www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
+- [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
 - Lucidalva dos Santos Pinheiro
 ** 2° Período
 - Jose Arthur da Rocha
 - [[http://im.ufrj.br/~epmoura/][Eleonora Pinto de Moura]]
-- [[darnassus.if.ufrj.br/~beatriz/][Beatriz Bianco Siffert]]
+- [[http://darnassus.if.ufrj.br/~beatriz/][Beatriz Bianco Siffert]]
 - [[https://www.if.ufrj.br/docentes/ribamar-rondon-de-rezende-dos-reis/][Ribamar Rondon de Rezende dos Reis]]
 - Sérgio Barbosa Villas Boas \dag
 - Gisele Silva Barbosa
@@ -141,7 +141,7 @@ Tentativa de listar todos professores que já tive
 - Carlos Julio Tierra Ciollo
 - [[https://www.if.ufrj.br/docentes/malena-osorio-hor-meyll/][Malena Osório Hor-Meyll]]
 - Marcello Barbosa da Silva Neto
-- [[www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
+- [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
 ** 4°.3
 - Luiz Eduardo Azambuja Sauerbronn
 ** 5°
@@ -159,7 +159,7 @@ Tentativa de listar todos professores que já tive
 - Rafael Consentino de la Vega
 - Jose Luiz da Silva Neto
 - Carlos Augusto Guimarães Perlingeiro \dag
-- [[www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
+- [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
 - Lab Eletronica ? (Coloc do Paulo Yamasaki)
 ** 7°
 - Marcos Vicente de Brito Moreira

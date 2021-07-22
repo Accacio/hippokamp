@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       37d1782e-73eb-4e2d-a7d2-efaf157d63d9
+:END:
+#+title: Algebra
+- tags :: [[id:d0771c2f-de53-4858-aab6-42586b506452][Mathematics]]

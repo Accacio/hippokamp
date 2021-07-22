@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8e90a066-2281-479c-a704-1360d714d287
+:END:
+#+title: Geometric Algebra
+- tags :: [[id:37d1782e-73eb-4e2d-a7d2-efaf157d63d9][Algebra]]

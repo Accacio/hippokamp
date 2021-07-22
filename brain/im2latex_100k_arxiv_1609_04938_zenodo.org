@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       805d29db-64e3-4f74-9c28-959709cb3c27
+:ROAM_REFS: https://zenodo.org/record/56198#.V2px0jXT6eA
+:END:
+#+title: im2latex-100k , arXiv:1609.04938 | Zenodo
+
+https://zenodo.org/record/56198#.V2px0jXT6eA
+
+- tags :: [[id:5288fd29-8ef7-43dc-9b9b-908d3d2a7fdb][LaTeX/TeX]], [[id:58915987-7fd7-4b3a-b6f8-737d2c67e1a5][OCR]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0d3feeaa-60cb-430c-9e55-f0cbd0e783e2
+:END:
+#+title: Sherman-Morrison-Woodbury formula
+
+$(A+UV^T)^{-1}=A^{-1}-A^{-1}U(I+V^TA^{-1}U)^{-1}V^TA^{-1}$

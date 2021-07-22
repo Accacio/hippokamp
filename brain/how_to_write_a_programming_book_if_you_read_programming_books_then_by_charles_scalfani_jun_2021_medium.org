@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       526cd79a-3c49-4580-85ec-003446d3ffa3
+:ROAM_REFS: https://cscalfani.medium.com/how-to-write-a-programming-book-76ab4f8a7071
+:END:
+#+title: How To Write a Programming Book. If you read Programming books, then… | by Charles Scalfani | Jun, 2021 | Medium
+
+https://cscalfani.medium.com/how-to-write-a-programming-book-76ab4f8a7071
+
+- tags :: [[id:06e35bd7-1325-41c1-80bc-461a17f43aa8][Writing]]
+
+  #+begin_quote
+Here are some of my most important teaching rules:
+1. Always start where the student is an expert.
+2. Take the student from where they are to where you want to take them one micro-baby step at a time for the whole trip explaining yourself before each and every step while never skipping a single step or leaving anything out.
+3. Never give a student a solution to a problem they don’t have.
+4. Simulate discovery whenever possible.
+  Concrete models are far more powerful than Abstract ones.
+  #+end_quote

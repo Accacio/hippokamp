@@ -1,0 +1,119 @@
+:PROPERTIES:
+:ID:       55c2d7e1-ac35-4c87-8eda-0c1c67f80722
+:ROAM_REFS: cite:FungMangasarian2001
+:END:
+#+TITLE: FungMangasarian2001
+#+filetags: read article
+
+- tags :: [[id:0c3bfff3-b30d-42ac-ba95-b15e4ab732ea][Proximal Support Vector Machine]]
+- keywords ::
+
+
+* Proximal Support Vector Machine Classifiers
+  :PROPERTIES:
+  :Custom_ID: FungMangasarian2001
+  :URL:
+  :AUTHOR: Fung, G., & Mangasarian, O. L.
+  :NOTER_DOCUMENT: ../../docsThese/bibliography/FungMangasarian2001.pdf
+  :NOTER_PAGE:
+  :END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Use two parallel planes instead of one (as in standard SVM) in order to handle larger sets.
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- Omitting some algebra,
+*** References :violet:
+
+** NOTES
+
+*** of two parallel planes (in input or feature space) that are pushed apart as far as possible.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::1++4.50;;annot-1-0]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-1-0
+:END:
+
+*** with parameter ν
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::2++2.50;;annot-2-3]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-2-3
+:END:
+tunning parameter
+
+*** (7)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::2++1.42;;annot-2-2]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-2-2
+:END:
+Linear classifier
+
+*** Our key idea in this present paper is to make a very simple, but very fundamental change in the formulation (8), namely replace the inequality constraint by an equality as follows:
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::2++7.53;;annot-2-0]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-2-0
+:END:
+
+*** it turns out that we can write an explicit exact solution to the prob- lem in terms of the problem data as we show below, whereas it is impossible to do that in the previous formulations be- cause of their combinatorial nature.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::2++7.53;;annot-2-1]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-2-1
+:END:
+
+*** Explicit solution for u
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::3++3.00;;annot-3-0]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-3-0
+:END:
+
+*** [[id:0d3feeaa-60cb-430c-9e55-f0cbd0e783e2][Sherman-Morrison-Woodbury formula]] [14, p. 51] for matrix inversion
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::3++8.76;;annot-3-1]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-3-1
+:END:
+
+*** nvolve the inversion of a much smaller di- γ mensional matrix of order (n + 1) × (n + 1) and completely solves the classification problem.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::3++8.76;;annot-3-2]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-3-2
+:END:
+instead of using $HH'$ uses $H'H$
+
+*** leave-one-out-correctness looc [32], that is the fraction of correctly classified data points if each point in turn is left out of the PSVM formula- tion (9) and then is classified by the classifier (7).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::4++5.76;;annot-4-0]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-4-0
+:END:
+
+*** Omitting some algebra,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::4++5.76;;annot-4-1]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-4-1
+:END:
+
+*** However, the reduced kernel techniques of [17]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::4++9.69;;annot-4-2]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-4-2
+:END:
+
+@inproceedings{LeeMangasarian2000,
+  author = {Lee, Y.-J. and Mangasarian, O.L.},
+  title = {RSVM: Reduced support vector machines},
+  publisher = {Data Mining Institute, Computer Sciences Department, University of Wisconsin},
+  date = {2000-07},
+  pages = {–},
+  url = {ftp://ftp.cs.wisc.edu/pub/dmi/tech-reports/00-07.ps.},
+  booktitle = {Proceedings of the First SIAM International Conference on Data Mining},
+  type = {Technical Report 00-07,},
+  address = {Madison, Wisconsin}
+}
+
+*** Non linear classifier using the kernel
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FungMangasarian2001.pdf::5++0.31;;annot-5-0]]
+:ID:       ../../docsThese/bibliography/FungMangasarian2001.pdf-annot-5-0
+:END:
