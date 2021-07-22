@@ -105,7 +105,7 @@ Project starts the 2019-11-01
 [[file:img/ganttTheseBeforeCSI2021.png]]
 
 ** After CSI 2021
-#+BEGIN_SRC plantuml :file ../img/ganttTheseAfterCSI2021.png :exports results
+#+BEGIN_SRC plantuml :file img/ganttTheseAfterCSI2021.png :exports results
 printscale monthly
 <style>
 ganttDiagram {
@@ -202,7 +202,7 @@ Project starts the 2021-05-16
 [[file:img/ganttTheseAfterCSI2021.png]]
 
 ** Complete
-#+BEGIN_SRC plantuml :file ../img/ganttThese.png :exports results
+#+BEGIN_SRC plantuml :file img/ganttThese.png :exports results
 printscale monthly
 <style>
 ganttDiagram {
@@ -375,7 +375,7 @@ today is 30 days after start and is colored in #AAF
 #+END_SRC
 
 #+RESULTS:
-[[file:../img/ganttThese.png]]
+[[file:img/ganttThese.png]]
 
 * [[id:643844e6-2f3f-4420-a332-c499fd8e66fc][CSI]]
 * Problems normally found
