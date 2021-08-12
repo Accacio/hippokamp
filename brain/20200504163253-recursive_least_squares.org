@@ -1,4 +1,21 @@
 :PROPERTIES:
 :ID:       0147d11c-6d28-4f4c-98ac-23eb096ff3fa
+:ROAM_ALIASES: RLS
 :END:
-#+TITLE: recursive least-squares
+#+TITLE: Recursive Least-Squares
+
+* Problem
+Given sequences $u(\cdot)$ and $y(\cdot)$, find the associated linear predictor $\hat{\theta}$ such as
+$$\hat{y}(t)=\phi(t)'\theta(t)$$
+where $\phi(t)=[u(\cdot)\; y(\cdot)]'$
+1. Calculate residue $\epsilon(t)$
+   $\epsilon(t)=y(t)-\phi(t)'\hat{\theta}(t-1)$
+2. Calculate gain $K(t)$
+   $K(t)=\frac{P(t-1)\phi(t)}{1+\phi'(t)P(t-1)\phi(t)}$
+3. Update predictor $\hat{\theta}(t)$
+   $\hat{\theta}(t)=\hat{\theta}(t-1)+K(t)\epsilon(t)$
+3. Update gain $P(t)$
+   $P(t)=\frac{1}{\mu_1(t)}\left[P(t-1)-\frac{P(t-1)\phi(t)\phi(t)'P(t-1)}{\frac{\mu_1(t)}{\mu_2(t)}+\phi(t)'P(t-1)\phi(t)}\right]$
+
+
+$\mu_1(t)$ and $\mu_2(t)$ can vary, depending on the objective of the forgetting factor see [[id:../../docsThese/bibliography/LandauEtAl2011.pdf-annot-87-11][Choice of the Adaptation Gain]]

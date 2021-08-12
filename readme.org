@@ -3,6 +3,7 @@
 :END:
 #+TITLE: Hippokamp
 * Hippokamp
+
 ** What is this?
 - This is a "second brain" for my own use.
 - This repo may increase rapidly.
@@ -19,15 +20,5 @@ From wikipedia the hippocampus is :
 #+begin_quote
 … under the cerebral cortex. It is important in spatial memory and navigation, and _helps turn short-term memory into long-term memory_.
 #+end_quote
-** Some interesting notes (maybe)
-- [[id:183fa358-b121-432e-be54-3e09847c988c][Control]]
-- [[id:e9766a59-fd79-4be1-8a46-387c852c22f0][Graph Theory]]
-** Cool articles
-- [[id:1725062d-ff58-4c79-8ea4-6bcf6fb95666][GilbertEtAl1988: A fast procedure for computing the distance between complex objects in three-dimensional space]]
-** Cool comics
-- [[id:29525c21-2bb3-4690-8825-8e1d8b8aef0f][xkcd: s/keyboard/leopard/]]
-- [[id:8ce7acfb-028a-43ba-be41-a5a112c95fb4][xkcd: the problem with wikipedia]]
-** List of recipes
-- [[id:04fee8c6-f8cf-4333-9220-3ba1b75815bf][Meal Planning]]
 ** HTML version
 the HTML version of these notes is [[https://accacio.gitlab.io/brain][here]]

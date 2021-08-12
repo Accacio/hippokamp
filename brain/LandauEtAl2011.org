@@ -28,6 +28,12 @@ Reference on [[id:0147d11c-6d28-4f4c-98ac-23eb096ff3fa][recursive least-squares]
 
 *** RLS
 :PROPERTIES:
-:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LandauEtAl2011.pdf: :81++0.00;;annot-81-8]]
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LandauEtAl2011.pdf::81++0.00;;annot-81-8]]
 :ID:       ../../docsThese/bibliography/LandauEtAl2011.pdf-annot-81-8
+:END:
+
+*** Choice of the Adaptation Gain
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LandauEtAl2011.pdf::87++0.00;;annot-87-11]]
+:ID:       ../../docsThese/bibliography/LandauEtAl2011.pdf-annot-87-11
 :END:

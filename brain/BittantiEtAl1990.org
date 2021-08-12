@@ -30,6 +30,8 @@ Pdf has no ocr
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BittantiEtAl1990.pdf::1++0.10;;annot-1-0]]
 :ID:       ~/docsThese/bibliography/BittantiEtAl1990.pdf-annot-1-0
 :END:
+- RLS :: $\mu = 1$
+- Exponential forgetting :: $\mu \in (0,1)$
 *** persistent excitation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BittantiEtAl1990.pdf::1++0.31;;annot-1-1]]

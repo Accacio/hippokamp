@@ -4,30 +4,99 @@
 #+title: Graph Theory
 #+OPTIONS: todo:nil num:nil timestamp:nil author:nil
 
+Based on cite:GodsilRoyle2001.
+
 * Definitions
 
 -  <<<Vertex>>> or <<<node>>> ::
   A vertex is the fundamental unit of _graph theory_
+#+begin_src dot :file img/vertex.svg :exports results :cache yes
+graph {
+rankdir="LR";
+a;
+}
+#+end_src
 
+#+RESULTS[0a2670363f1671ef022902f2a2b3f6531a72dcdc]:
+[[file:img/vertex.svg]]
 
 -  <<<Edge>>> ::
   An edge is an unordered pair of vertices of vertex set $V(\mathcal{X})$
 
+#+begin_src dot :file img/edge.svg :exports results :cache yes
+graph {
+rankdir="LR";
+a -- b [label="e"];
+}
+#+end_src
+
+#+RESULTS[df4e7453383fd38abf919a36243e1acabffef28f]:
+[[file:img/edge.svg]]
 
 -  <<<Arc>>> ::
   An arc is an ordered pair of vertices of vertex set $V(\mathcal{X})$
+#+begin_src dot :file img/arc.svg :exports results :cache yes
+digraph {
+rankdir="LR";
+a -> b;
+}
+#+end_src
+
+#+RESULTS[b6ecee338b93d2066ec1b143821fc24724f44bab]:
+[[file:img/arc.svg]]
 
 
 - Undirected <<<graph>>> ::
   A graph $\mathcal{X}$ consists of a vertex set $V(\mathcal{X})$ and an edge set $E(\mathcal{X})$.
 
+#+begin_src dot :file img/graph.svg :exports results :cache yes
+graph {
+rankdir="LR";
+a -- b;
+b -- c;
+c -- d;
+d -- b;
+c -- a;
+}
+#+end_src
+
+#+RESULTS[7ba9e628af4b55c5d8f54d5a7dbc816a4308a3dd]:
+[[file:img/graph.svg]]
 
 - <<<Directed graph>>> ::
   A graph $\mathcal{X}$ consists of a vertex set $V(\mathcal{X})$ and an arc set $A(\mathcal{X})$.
+#+begin_src dot :file img/digraph.svg :exports results
+digraph {
+rankdir="LR";
+a -> c;
+b -> c;
+c -> d;
+d -> b;
+c -> a;
+}
+#+end_src
+
+#+RESULTS:
+[[file:img/digraph.svg]]
 
 
 - <<<Induced subgraph>>> ::
   A Graph created from vertices and edge​s from the original graph
+  #+name: originalGraph
+  #+caption: Original graph
+  [[file:img/graph.png]]
+  #+begin_src dot :file img/inducedSubgraph.svg :exports results
+  graph {
+  rankdir="LR";
+  c -- a;
+  c -- d;
+  d -- b;
+  }
+  #+end_src
+
+  #+caption: a subgraph of [[originalGraph]]
+  #+RESULTS:
+  [[file:img/inducedSubgraph.svg]]
 
 
 - <<<Path>>> ::
@@ -85,3 +154,6 @@
 
 - Tree decomposition ::
     mapping of a graph into a tree where each vertex is a clique of the original graph.
+* Bibliography :ignore:
+bibliographystyle:plain
+bibliography:~/docsThese/bibliography.bib

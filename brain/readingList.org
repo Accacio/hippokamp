@@ -18,14 +18,15 @@
 
 
 * Articles
-** LIRE [2/83]
+** LIRE [3/83]
 *** TO-READ [#A] LauerBloch2019 | [[note:LauerBloch2019][org]] [[pdf:LauerBloch2019][pdf]] [[mobi:LauerBloch2019][mobi]] [[epub:LauerBloch2019][epub]]
 *** READ FungMangasarian2001 | [[note:FungMangasarian2001][org]] [[pdf:FungMangasarian2001][pdf]] [[mobi:FungMangasarian2001][mobi]] [[epub:FungMangasarian2001][epub]]
 - State "READ"       from "TO-READ"        [2021-07-16 ven. 10:43]
 *** READ WuZhao2006 | [[note:WuZhao2006][org]] [[pdf:WuZhao2006][pdf]] [[mobi:WuZhao2006][mobi]] [[epub:WuZhao2006][epub]]
 - State "READ"       from "TO-READ"        [2021-07-16 ven. 12:04]
-*** READING TabatabaeiPourEtAl2006 | [[note:TabatabaeiPourEtAl2006][org]] [[pdf:TabatabaeiPourEtAl2006][pdf]] [[mobi:TabatabaeiPourEtAl2006][mobi]] [[epub:TabatabaeiPourEtAl2006][epub]]
- - state "READING"    from "TO-READ"    [2021-07-22 jeu. 15:38]
+*** READ [#A] TabatabaeiPourEtAl2006 | [[note:TabatabaeiPourEtAl2006][org]] [[pdf:TabatabaeiPourEtAl2006][pdf]] [[mobi:TabatabaeiPourEtAl2006][mobi]] [[epub:TabatabaeiPourEtAl2006][epub]]
+- State "READ"       from "READING"    [2021-08-09 lun. 18:24]
+- State "READING"    from "TO-READ"    [2021-07-22 jeu. 15:38]
 *** TO-READ LuZavala2021 | [[note:LuZavala2021][org]] [[pdf:LuZavala2021][pdf]] [[mobi:LuZavala2021][mobi]] [[epub:LuZavala2021][epub]]
 *** TO-READ [#A] SchildbachMorari2015 | [[note:SchildbachMorari2015][org]] [[pdf:SchildbachMorari2015][pdf]] [[mobi:SchildbachMorari2015][mobi]] [[epub:SchildbachMorari2015][epub]]
 
