@@ -5,7 +5,7 @@
 #+TITLE: BoydEtAl2011
 #+filetags: article
 
-- tag :: [[id:dc49d7a6-a3e4-48f5-bf13-242f40a8ffa0][Decomposition]], [[id:de9b0ee5-95dc-4826-825a-e9efb5b83136][Distributed Optimization]]
+- tag :: [[id:dc49d7a6-a3e4-48f5-bf13-242f40a8ffa0][Decomposition]], [[id:de9b0ee5-95dc-4826-825a-e9efb5b83136][Distributed Optimization]], [[id:b68a732e-381f-4183-b9c1-da340e8d3c88][Stephen P. Boyd]]
 - keywords :: Artificial Intelligence;Machine Learning;Optimization and Control Theory;Computer Science, read
 
 

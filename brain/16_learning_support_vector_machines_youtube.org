@@ -22,7 +22,7 @@ Classify points using two lines and maximize width of separation between them
   - $\vec{\omega}\cdot\vec{x}_++b\geq1$
   - $\vec{\omega}\cdot\vec{x}_-+b\geq-1$
 - create $y_i$ and multiply
-  $y_i=\begin{cases}1,& \mathrm{positive}\, \vec{x}\\-1,& \mathrm{negative}\, \vec{x}\end{cases}$
+  $$y_i=\begin{cases}1,& \mathrm{positive}\, \vec{x}\\ -1,& \mathrm{negative}\, \vec{x}\end{cases}$$
 
   - $y_i(\vec{\omega}\cdot\vec{x}_i+b)\geq1$ if point is outside the space between the two lines
 

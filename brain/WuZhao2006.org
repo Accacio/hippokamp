@@ -24,6 +24,7 @@
 Use SVM to classify unlabeled data
 *** Model :lightSkyblue:
 *** Remarks
+Not very well written
 *** Applications
 *** Expressions
 *** References :violet:
