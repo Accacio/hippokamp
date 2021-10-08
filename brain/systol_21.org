@@ -108,3 +108,52 @@ CLOCK: [2021-03-26 ven. 16:58]--[2021-03-26 ven. 17:23] =>  0:25
 [[file:img/errorPropagationBlock.png]]
 
 ** [[file:~/these/Org/Systol Préparation.pdf][DOC ROMAIN]]
+* Program
+https://controls.papercept.net/conferences/conferences/SYSTOL21/program/
+** Plenary - Cyber Security and Privacy in Networked Control Systems
+:PROPERTIES:
+:ID:       e8d22025-12b6-4343-a99c-802570e9a7b2
+:END:
+<2021-09-29 mer. 09:00>
+
+- lecturer :: [[id:f862ef72-3c2a-4673-8846-fad5a35718e5][Karl Henrik Johansson]]
+*** Security
+- Confidentiality
+- integrity
+- availability
+*** IT Security not enough
+- security in deep
+*** Adversary model
+cite:TeixeiraEtAl2015
+*** False-data injection Attack
+*** Shannon two way coding
+Fang et al 2019
+*** Covert Attack \to Impossibility theorem
+*** Replay attacks
+IEEE Spectrum Feb 2013
+**** how to defend
+- [[id:1158d11b-d0e9-40dd-bdd8-bbeb85092f71][Watermarking]]
+  online watermarking design Liu et al 2020
+*** Remote estimation under Privacy Constraints
+Nekouei et al 2021
+- trade-off privacy \times accuracy
+
+** Design of Fault-tolerant Cruise Control in a hierarchical framework for connected automated vehicles
+<2021-09-29 mer. 10:20>
+** Plenary - Mind the Gap: Model-Based Techniques for Flight Operational Issues Management
+<2021-09-30 jeu. 11:20>
+- lecturer :: [[id:c1322af5-2230-4c95-b9cc-72533e6c0d92][Ali Zolghadri]]
+*** Fragility
+closeness to failure
+**** TRL scale
+:PROPERTIES:
+:ID:       6c89c888-030e-41d1-a6f0-6ed128b17e43
+:END:
+- TRL :: Technology Readiness Level
+
+** Distributed Intersection Control Based on Cooperative Awareness Messages
+SUMO Traffic Simulator
+OMNeT++
+** Detection and Mitigation of Corrupted Information in Distributed Model Predictive Control Based on Resource Allocation :: Our
+** Plenary
+http://wind.nrel.gov/designcodes
