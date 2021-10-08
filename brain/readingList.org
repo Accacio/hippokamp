@@ -18,8 +18,16 @@
 
 
 * Articles
-** LIRE [3/83]
-*** TO-READ [#A] LauerBloch2019 | [[note:LauerBloch2019][org]] [[pdf:LauerBloch2019][pdf]] [[mobi:LauerBloch2019][mobi]] [[epub:LauerBloch2019][epub]]
+** LIRE [3/84]
+*** TO-READ MarafiotiEtAl2014 | [[note:MarafiotiEtAl2014][org]] [[pdf:MarafiotiEtAl2014][pdf]] [[mobi:MarafiotiEtAl2014][mobi]] [[epub:MarafiotiEtAl2014][epub]]
+*** DIAGONAL [#A] LauerBloch2019 | [[note:LauerBloch2019][org]] [[pdf:LauerBloch2019][pdf]] [[mobi:LauerBloch2019][mobi]] [[epub:LauerBloch2019][epub]]
+- State "DIAGONAL"   from "TO-READ"    [2021-08-23 lun. 12:20] \\
+  interesting for k-linreg and other algorithms
+*** TO-READ VidalEtAl2005 | [[note:VidalEtAl2005][org]] [[pdf:VidalEtAl2005][pdf]] [[mobi:VidalEtAl2005][mobi]] [[epub:VidalEtAl2005][epub]]
+:PROPERTIES:
+:ID:       91214f28-7bb6-465a-9336-8fafcfaabf16
+:END:
+
 *** READ FungMangasarian2001 | [[note:FungMangasarian2001][org]] [[pdf:FungMangasarian2001][pdf]] [[mobi:FungMangasarian2001][mobi]] [[epub:FungMangasarian2001][epub]]
 - State "READ"       from "TO-READ"        [2021-07-16 ven. 10:43]
 *** READ WuZhao2006 | [[note:WuZhao2006][org]] [[pdf:WuZhao2006][pdf]] [[mobi:WuZhao2006][mobi]] [[epub:WuZhao2006][epub]]
