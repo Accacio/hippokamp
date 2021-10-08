@@ -49,7 +49,7 @@ Resilient MPC with resource allocation to deal with replay attacks
 - cite:PasqualettiEtAl2012
 - cite:SundaramHadjicostis2011
 
-*** deception attacks
+*** [[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.48;;annot-1-2]]
 :ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-2
@@ -60,7 +60,7 @@ Resilient MPC with resource allocation to deal with replay attacks
 - cite:ZhuMartinez2011
 - cite:ZhuMartinez2011a
 
-*** denial of service
+*** [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][Denial-of-service attacks]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.04;;annot-1-3]]
 :ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-3
@@ -92,8 +92,6 @@ Resilient MPC with resource allocation to deal with replay attacks
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::2++0.00;;annot-2-0]]
 :ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-2-0
 :END:
-
-
 *** Attack-Resilient Receding-Horizon Control Law
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::2++5.70;;annot-2-1]]
