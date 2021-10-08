@@ -9,3 +9,5 @@ https://xkcd.com/1031/
 - tags :: [[id:46a117a5-0a94-4fc1-a9a8-bd9eaa7daf69][comics]]
 
   make the internet 100 times better
+
+https://chrome.google.com/webstore/detail/regex-replace/eggkcpojddgjkakokkdhocbjebhgkonb/related
