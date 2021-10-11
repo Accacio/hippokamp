@@ -18,8 +18,10 @@
 
 
 * Articles
-** LIRE [3/84]
+** LIRE [3/87]
 *** TO-READ MarafiotiEtAl2014 | [[note:MarafiotiEtAl2014][org]] [[pdf:MarafiotiEtAl2014][pdf]] [[mobi:MarafiotiEtAl2014][mobi]] [[epub:MarafiotiEtAl2014][epub]]
+*** TO-READ LuEtAl2020 | [[note:LuEtAl2020][org]] [[pdf:LuEtAl2020][pdf]] [[mobi:LuEtAl2020][mobi]] [[epub:LuEtAl2020][epub]]
+*** TO-READ LorenzenEtAl2019 | [[note:LorenzenEtAl2019][org]] [[pdf:LorenzenEtAl2019][pdf]] [[mobi:LorenzenEtAl2019][mobi]] [[epub:LorenzenEtAl2019][epub]]
 *** DIAGONAL [#A] LauerBloch2019 | [[note:LauerBloch2019][org]] [[pdf:LauerBloch2019][pdf]] [[mobi:LauerBloch2019][mobi]] [[epub:LauerBloch2019][epub]]
 - State "DIAGONAL"   from "TO-READ"    [2021-08-23 lun. 12:20] \\
   interesting for k-linreg and other algorithms
