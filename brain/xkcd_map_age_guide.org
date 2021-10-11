@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       dd411166-30b2-44d2-9009-e111bd5567ad
+:ROAM_REFS: https://xkcd.com/1688/
+:END:
+#+title: xkcd: Map Age Guide
+
+[[https://imgs.xkcd.com/comics/map_age_guide.png]]
+
+- tags :: [[id:46a117a5-0a94-4fc1-a9a8-bd9eaa7daf69][comics]]
+

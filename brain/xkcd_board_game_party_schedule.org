@@ -4,6 +4,6 @@
 :END:
 #+title: xkcd: Board Game Party Schedule
 
-https://xkcd.com/2486/
+[[https://imgs.xkcd.com/comics/board_game_party_schedule.png]]
 
 - tags :: [[id:46a117a5-0a94-4fc1-a9a8-bd9eaa7daf69][comics]]
