@@ -18,30 +18,28 @@
 
 
 * Articles
-** LIRE [3/87]
-*** TO-READ MarafiotiEtAl2014 | [[note:MarafiotiEtAl2014][org]] [[pdf:MarafiotiEtAl2014][pdf]] [[mobi:MarafiotiEtAl2014][mobi]] [[epub:MarafiotiEtAl2014][epub]]
+** LIRE [0/86]
+*** READING MarafiotiEtAl2014 | [[note:MarafiotiEtAl2014][org]] [[pdf:MarafiotiEtAl2014][pdf]] [[mobi:MarafiotiEtAl2014][mobi]] [[epub:MarafiotiEtAl2014][epub]]
+:LOGBOOK:
+CLOCK: [2021-10-12 mar. 16:46]--[2021-10-12 mar. 16:58] =>  0:12
+:END:
+- State "READING"    from "TO-READ"    [2021-10-12 mar. 16:46]
+*** TO-READ [#A] BorrelliEtAl2017 | [[note:BorrelliEtAl2017][org]] [[pdf:BorrelliEtAl2017][pdf]] [[mobi:BorrelliEtAl2017][mobi]] [[epub:BorrelliEtAl2017][epub]]
+
+*** TO-READ [#A] OkajimaFujinami2021 | [[note:OkajimaFujinami2021][org]] [[pdf:OkajimaFujinami2021][pdf]] [[mobi:OkajimaFujinami2021][mobi]] [[epub:OkajimaFujinami2021][epub]]
+*** TO-READ [#A] RollEtAl2004 | [[note:RollEtAl2004][org]] [[pdf:RollEtAl2004][pdf]] [[mobi:RollEtAl2004][mobi]] [[epub:RollEtAl2004][epub]]
+*** TO-READ [#A] WangIshii2019 | [[note:WangIshii2019][org]] [[pdf:WangIshii2019][pdf]] [[mobi:WangIshii2019][mobi]] [[epub:WangIshii2019][epub]]
+*** TO-READ ZhangFeng2021 | [[note:ZhangFeng2021][org]] ZhangFeng2021 [[mobi:ZhangFeng2021][mobi]] [[epub:ZhangFeng2021][epub]]
 *** TO-READ LuEtAl2020 | [[note:LuEtAl2020][org]] [[pdf:LuEtAl2020][pdf]] [[mobi:LuEtAl2020][mobi]] [[epub:LuEtAl2020][epub]]
 *** TO-READ LorenzenEtAl2019 | [[note:LorenzenEtAl2019][org]] [[pdf:LorenzenEtAl2019][pdf]] [[mobi:LorenzenEtAl2019][mobi]] [[epub:LorenzenEtAl2019][epub]]
-*** DIAGONAL [#A] LauerBloch2019 | [[note:LauerBloch2019][org]] [[pdf:LauerBloch2019][pdf]] [[mobi:LauerBloch2019][mobi]] [[epub:LauerBloch2019][epub]]
-- State "DIAGONAL"   from "TO-READ"    [2021-08-23 lun. 12:20] \\
-  interesting for k-linreg and other algorithms
 *** TO-READ VidalEtAl2005 | [[note:VidalEtAl2005][org]] [[pdf:VidalEtAl2005][pdf]] [[mobi:VidalEtAl2005][mobi]] [[epub:VidalEtAl2005][epub]]
 :PROPERTIES:
 :ID:       91214f28-7bb6-465a-9336-8fafcfaabf16
 :END:
 
-*** READ FungMangasarian2001 | [[note:FungMangasarian2001][org]] [[pdf:FungMangasarian2001][pdf]] [[mobi:FungMangasarian2001][mobi]] [[epub:FungMangasarian2001][epub]]
-- State "READ"       from "TO-READ"        [2021-07-16 ven. 10:43]
-*** READ WuZhao2006 | [[note:WuZhao2006][org]] [[pdf:WuZhao2006][pdf]] [[mobi:WuZhao2006][mobi]] [[epub:WuZhao2006][epub]]
-- State "READ"       from "TO-READ"        [2021-07-16 ven. 12:04]
-*** READ [#A] TabatabaeiPourEtAl2006 | [[note:TabatabaeiPourEtAl2006][org]] [[pdf:TabatabaeiPourEtAl2006][pdf]] [[mobi:TabatabaeiPourEtAl2006][mobi]] [[epub:TabatabaeiPourEtAl2006][epub]]
-- State "READ"       from "READING"    [2021-08-09 lun. 18:24]
-- State "READING"    from "TO-READ"    [2021-07-22 jeu. 15:38]
 *** TO-READ LuZavala2021 | [[note:LuZavala2021][org]] [[pdf:LuZavala2021][pdf]] [[mobi:LuZavala2021][mobi]] [[epub:LuZavala2021][epub]]
 *** TO-READ [#A] SchildbachMorari2015 | [[note:SchildbachMorari2015][org]] [[pdf:SchildbachMorari2015][pdf]] [[mobi:SchildbachMorari2015][mobi]] [[epub:SchildbachMorari2015][epub]]
 
-*** TO-READ [#A] RollEtAl2004 | [[note:RollEtAl2004][org]] [[pdf:RollEtAl2004][pdf]] [[mobi:RollEtAl2004][mobi]] [[epub:RollEtAl2004][epub]]
-*** TO-READ [#A] WangIshii2019 | [[note:WangIshii2019][org]] [[pdf:WangIshii2019][pdf]] [[mobi:WangIshii2019][mobi]] [[epub:WangIshii2019][epub]]
 *** TO-READ KshetriVoas2017 | [[note:KshetriVoas2017][org]] [[pdf:KshetriVoas2017][pdf]] [[mobi:KshetriVoas2017][mobi]] [[epub:KshetriVoas2017][epub]]
 *** TO-READ SimonEtAl2012 | [[note:SimonEtAl2012][org]] [[pdf:SimonEtAl2012][pdf]] [[mobi:SimonEtAl2012][mobi]] [[epub:SimonEtAl2012][epub]]
 *** TO-READ WangEtAl2021 | [[note:WangEtAl2021][org]] [[pdf:WangEtAl2021][pdf]] [[mobi:WangEtAl2021][mobi]] [[epub:WangEtAl2021][epub]]
@@ -260,6 +258,16 @@ pag 37
 - State "READING"      from "TO-READ"        [2021-05-31 lun. 17:29]
 *** READ [#A] MaestreEtAl2021 | [[note:MaestreEtAl2021][org]] [[pdf:MaestreEtAl2021][pdf]] [[mobi:MaestreEtAl2021][mobi]] [[epub:MaestreEtAl2021][epub]]
 - State "READ"       from "TO-READ"        [2021-07-12 lun. 15:35]
+*** READ FungMangasarian2001 | [[note:FungMangasarian2001][org]] [[pdf:FungMangasarian2001][pdf]] [[mobi:FungMangasarian2001][mobi]] [[epub:FungMangasarian2001][epub]]
+- State "READ"       from "TO-READ"        [2021-07-16 ven. 10:43]
+*** READ WuZhao2006 | [[note:WuZhao2006][org]] [[pdf:WuZhao2006][pdf]] [[mobi:WuZhao2006][mobi]] [[epub:WuZhao2006][epub]]
+- State "READ"       from "TO-READ"        [2021-07-16 ven. 12:04]
+*** READ [#A] TabatabaeiPourEtAl2006 | [[note:TabatabaeiPourEtAl2006][org]] [[pdf:TabatabaeiPourEtAl2006][pdf]] [[mobi:TabatabaeiPourEtAl2006][mobi]] [[epub:TabatabaeiPourEtAl2006][epub]]
+- State "READ"       from "READING"    [2021-08-09 lun. 18:24]
+- State "READING"    from "TO-READ"    [2021-07-22 jeu. 15:38]
+*** DIAGONAL [#A] LauerBloch2019 | [[note:LauerBloch2019][org]] [[pdf:LauerBloch2019][pdf]] [[mobi:LauerBloch2019][mobi]] [[epub:LauerBloch2019][epub]]
+- State "DIAGONAL"   from "TO-READ"    [2021-08-23 lun. 12:20] \\
+  interesting for k-linreg and other algorithms
 * Config :noexport:
 
 # Local Variables:
