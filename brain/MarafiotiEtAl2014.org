@@ -1,0 +1,164 @@
+:PROPERTIES:
+:ID:       aea4858c-7b01-43b6-8667-95367e53f0d5
+:ROAM_REFS: cite:MarafiotiEtAl2014
+:END:
+#+title: MarafiotiEtAl2014
+- tags ::
+- keywords :: model predictive control, persistent excitation, sufficient richness, dual control, adaptive control, system identification
+
+* Persistently exciting model predictive control
+:PROPERTIES:
+:Custom_ID: MarafiotiEtAl2014
+:URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.2414
+:AUTHOR: Marafioti, G., Bitmead, R. R., & Hovd, M.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/MarafiotiEtAl2014.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+In this article an non-convex input constraint is added to the MPC formulation to provide
+guarantees on signal «richness». Some of this can be used to identify parameters during a negotiation for distributed MPC. A difference is that the controller is not memory-less and due to the persistent excitation, the solution is not necessarily optimal, when compared with the MPC without the added constraint.
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** MPC is a nondynamic or memoryless state feedback control.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::1++0.00;;annot-1-0]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-1-0
+:END:
+
+*** on-line tuning of the model requires guaranteeing signal properties, known as ‘persistent excitation’,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::1++0.00;;annot-1-1]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-1-1
+:END:
+
+*** We propose an approach to augment the input constraint set of MPC to provide this guaran- tee.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::1++4.75;;annot-1-2]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-1-2
+:END:
+
+*** it is well known that attempting to optimize a control performance criterion over both the regulation and excitation frameworks is essentially an intractable problem
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::1++5.06;;annot-1-3]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-1-3
+:END:
+
+*** persistence of excitation condition (<<<PEC>>>)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::1++9.99;;annot-1-4]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-1-4
+:END:
+
+*** signal sufficient richness condition (<<<SRC>>>)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::2++0.00;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-2-0
+:END:
+
+*** Anderson and Johnson [6] show that input richness conditions alone suffice for the entire regressor to satisfy the excitation condition.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::2++0.00;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-2-1
+:END:
+
+*** [7], it is shown that by incorporating an additive external signal, also known as a dithering signal,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::2++7.00;;annot-2-2]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-2-2
+:END:
+
+*** However, dither must diminish control performance even when the closed-loop signals are otherwise PE by dint of, say, reference changes or other transients.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::2++7.00;;annot-2-3]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-2-3
+:END:
+
+*** Model Predictive Control and Identification (MPCI) framework provided by [8] where the input is forced to be PE by impos- ing a PE constraint.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::2++7.00;;annot-2-4]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-2-4
+:END:
+
+*** <<<PE>>>; that is, summed outer products of the regression vector, $\phi_k$ , should satisfy uniform boundedness conditions.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::4++6.00;;annot-4-0]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-4-0
+:END:
+
+*** it is more convenient to investigate how persistence of exci- tation propagates from input signal to the regressors.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::4++10.70;;annot-4-1]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-4-1
+:END:
+
+***  input conditions so that guarantee parameter convergence. SISO [6, 20, 21] MIMO [5, 22, 23].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::4++10.70;;annot-4-2]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-4-2
+:END:
+
+*** u k satisfying this definition must have a nonzero spectrum at N frequencies, at least.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::5++0.00;;annot-5-0]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-5-0
+:END:
+
+*** it is necessary to insist that the between the applied new control signal, n PEC considers the relationship o kP N C2 k k1 u k , and its recent past, u kP N C2 , : : : , u k1
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::7++6.50;;annot-7-0]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-7-0
+:END:
+
+*** PE-MPC requires that the state feedback control law have memory of a certain number of previous inputs
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::7++6.50;;annot-7-1]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-7-1
+:END:
+
+*** (6) in a more compact form
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::8++3.81;;annot-8-0]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-8-0
+:END:
+yes, I know we take off from (6) but this equations is dubious if seen by itself.
+$\tilde{\Omega}_k=-\rho_0\bm{I}_{Nm}+\sum_{j=0}^{P-1}\phi_{k-j}\phi_{k-j}^T$ would be better
+
+*** the PE candidate constraint for the MPC is
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::9++1.88;;annot-9-0]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-9-0
+:END:
+
+
+*** Persistently exciting model predictive control
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::10++4.69;;annot-10-0]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-10-0
+:END:
+
+*** The periodic solution u k D u kP is feasible but not necessarily optimal.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::11++6.25;;annot-11-0]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-11-0
+:END:
+
+*** This alters the MPC controller from memoryless full-state feedback to dynamic full-state feedback.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::16++7.19;;annot-16-0]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-16-0
+:END:
+
+
+*** PE-MPC is a dynamic state feedback controller.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MarafiotiEtAl2014.pdf::7++6.49;;annot-7-2]]
+:ID:       ~/docsThese/bibliography/MarafiotiEtAl2014.pdf-annot-7-2
+:END:
