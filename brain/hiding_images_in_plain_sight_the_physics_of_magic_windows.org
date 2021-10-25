@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5b1022c3-ba0e-4b6f-8dbf-906f12817e9e
+:ROAM_REFS: https://mattferraro.dev/posts/caustics-engineering
+:END:
+#+title: Hiding Images in Plain Sight: The Physics Of Magic Windows
+- tags :: Optics
