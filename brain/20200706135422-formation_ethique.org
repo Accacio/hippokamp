@@ -3,6 +3,7 @@
 :END:
 #+title: Formation Ethique
 - tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]], [[id:65fa478b-7a51-495d-8f50-631262768d30][Ethique]]
+- hours :: 3
 
 <2020-07-17 ven.>
 

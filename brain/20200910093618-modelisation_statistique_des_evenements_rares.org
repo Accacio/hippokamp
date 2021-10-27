@@ -5,6 +5,7 @@
 - tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]], [[id:25f37643-7c4e-48bc-a9b3-728c0d301bc2][Statistics]]
 
 - intervenant :: Jean-François Dupuy
+- hours :: 6
 
 * datas
 <2020-03-02 lun.>

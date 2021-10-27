@@ -7,6 +7,7 @@
 #+filetags: courses
 
 - tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]]
+- hours :: 23
 
 * System Identification: data-based modeling
 <2021-04-06 mar. 14:00-15:00>

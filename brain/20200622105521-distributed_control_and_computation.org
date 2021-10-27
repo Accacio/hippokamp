@@ -6,6 +6,7 @@
 
 - tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]], [[id:f802edea-9e18-4a60-846f-c86d17d57b33][International Graduate School On Control 2020]], [[id:521bb956-14c1-472b-879f-2e458bcfc8a4][network topologies]], [[id:341c848c-ee5e-4e31-bb34-5cbd4c758183][Distributed Control]]
 - lecturer :: [[https://seas.yale.edu/faculty-research/faculty-directory/a-stephen-morse][A. Stephen Morse]]
+- hours :: 21
 
   Quando criar uma nomenclatura, usar nomes que sejam bem descritivos
 * outline
