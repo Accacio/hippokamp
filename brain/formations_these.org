@@ -8,9 +8,9 @@
 
 * UBL
 - https://ed-mathstic.doctorat-bretagneloire.fr/sites/default/files/u50/Rennes/formations-complementaires-mathstic-regles-procedures.2018-02-20.pdf
-** Catalog
+** Catalogue
 - https://www.doctorat-bretagneloire.fr/pdf/catalogueFormationDoctorat.pdf
-*** Transversales
+*** Transversales / Professionnels
 1. Concevoir une carte mentale
 2. Droit d'auteur et propriété intellectuelle
 3. Métiers du livre et de l'édition
@@ -18,9 +18,40 @@
 5. Prendre la parole en public
 6. Gagner en assurance
 7. Publier et diffuser
+
 *** Scientifiques
-*** Hors-Catalogue
-**** [[id:cc547c05-78ea-4ba4-b953-5252516e4556][Distributed Control and Computation]]
-**** [[id:843d7c4b-4d31-4d79-814d-c23313334790][Modélisation Statistique des Événements Rares]]
-**** [[id:31fea233-0f1e-4642-9d78-8fd9692b0dcc][Spring School on Data-driven Model Learning of Dynamic Systems]]
-**** [[id:02533248-4ada-4bac-a851-cf543cf9dee3][Law and Intellectual Property]]
+
+** Counting
+*** Transversales / Professionnels minimum 40h
+|   | Activité                      | Heures    |
+|---+-------------------------------+-----------|
+|   | [[id:7f1ee860-f46a-4230-9b37-68aed09ad5ca][Formation Ethique]]             | 3         |
+|   | [[id:02533248-4ada-4bac-a851-cf543cf9dee3][Law and Intellectual Property]] | 9* 2      |
+| / | Formations                    | 21        |
+| ^ |                               | transv    |
+|---+-------------------------------+-----------|
+|   | AUTO 2020/2021                | 18 * 2/3  |
+|   | MPC 2020/2021                 | 12 * 2/3  |
+|   | ST 2020/2021                  | 10 * 2/3  |
+| / | Vacation 2020-2021            | 26.666667 |
+| ^ |                               | ens2020   |
+|---+-------------------------------+-----------|
+|   | AUTO 2021/2022                | 18 * 2/3  |
+| / | Vacation 2021-2022            | 12        |
+| ^ |                               | ens2021   |
+|---+-------------------------------+-----------|
+|   | Total                         | 59.666667 |
+| ^ |                               | Total     |
+#+TBLFM: $Total=$transv+$ens2020+$ens2021::$transv=vsum(@I..@-1)::$ens2020=vmin([vsum(@II..@-1),32])::$ens2021=vmin([vsum(@III..@-1),32])
+
+*** Scientifiques \ge40h
+|   | Formation                                                      | Heures |
+|---+----------------------------------------------------------------+--------|
+|   | [[id:843d7c4b-4d31-4d79-814d-c23313334790][Modélisation Statistique des Événements Rares]]                  |      6 |
+|   | [[id:cc547c05-78ea-4ba4-b953-5252516e4556][Distributed Control and Computation]]                            |     21 |
+|   | [[id:31fea233-0f1e-4642-9d78-8fd9692b0dcc][Spring School on Data-driven Model Learning of Dynamic Systems]] |     23 |
+|---+----------------------------------------------------------------+--------|
+| # | Total                                                          |     50 |
+| ^ |                                                                |  Total |
+#+TBLFM: $Total=vsum(@-II..@-I)
+
