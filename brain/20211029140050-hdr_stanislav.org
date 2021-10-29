@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       46b3310b-dbf6-416f-a8eb-ca3ac4e0c567
+:END:
+#+title: HDR Stanislav
+
+* Parameter estimation with enhanced performance
+**
+*** work experienc
+**** PhD 2009
+**** Post-doc 2012 Umeå
+*** research interests
+*** Applications
+*** Scientif outcome
+- publications
+*** Community Activities
+- membership
+- editorial activities
+- Scientific culture dissemination
+*** Teach and Supervision
+** sdf
+gestation
+- PE necessary
+- transient not guaranteed
+
+** sdf
+  $y(t)=\phi^T(t)\theta+\omega(t)$
+** Excitation
+** Gradient estimator
+:PROPERTIES:
+:ID:       1422c002-dca1-4d3f-a825-9050e2c323cd
+:END:
+** Other methods
+*** concurrent/composite learning
+** Open questions
+- convergence without PE
+- transient performance
+** DREM Dynamic Regressor Extension and Mixing (2016)
+- DREM dynamic regresseor extension and mixing
+** DREM
+1. choose n line $\mathcal{L}_\infty$ -stable
+2. Mutiplying it by the adjugate of $\Phi$
+3. choose $\gamma_i>0$
+** Open questions
+- $\phi$ has linearly dependent rows <<
