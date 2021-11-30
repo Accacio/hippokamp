@@ -19,13 +19,10 @@
 
 * Articles
 ** LIRE [0/86]
-*** READING MarafiotiEtAl2014 | [[note:MarafiotiEtAl2014][org]] [[pdf:MarafiotiEtAl2014][pdf]] [[mobi:MarafiotiEtAl2014][mobi]] [[epub:MarafiotiEtAl2014][epub]]
-:LOGBOOK:
-CLOCK: [2021-10-12 mar. 16:46]--[2021-10-12 mar. 16:58] =>  0:12
-:END:
-- State "READING"    from "TO-READ"    [2021-10-12 mar. 16:46]
-*** TO-READ [#A] BorrelliEtAl2017 | [[note:BorrelliEtAl2017][org]] [[pdf:BorrelliEtAl2017][pdf]] [[mobi:BorrelliEtAl2017][mobi]] [[epub:BorrelliEtAl2017][epub]]
+*** READING AfsiEtAl2020 | [[note:AfsiEtAl2020][org]] [[pdf:AfsiEtAl2020][pdf]] [[mobi:AfsiEtAl2020][mobi]] [[epub:AfsiEtAl2020][epub]]
 
+- State "READING"    from "TO-READ"    [2021-11-30 mar. 17:08]
+*** TO-READ [#A] ArauzEtAl2021 | [[note:ArauzEtAl2021][org]] [[pdf:ArauzEtAl2021][pdf]] [[mobi:ArauzEtAl2021][mobi]] [[epub:ArauzEtAl2021][epub]]
 *** TO-READ [#A] OkajimaFujinami2021 | [[note:OkajimaFujinami2021][org]] [[pdf:OkajimaFujinami2021][pdf]] [[mobi:OkajimaFujinami2021][mobi]] [[epub:OkajimaFujinami2021][epub]]
 *** TO-READ [#A] RollEtAl2004 | [[note:RollEtAl2004][org]] [[pdf:RollEtAl2004][pdf]] [[mobi:RollEtAl2004][mobi]] [[epub:RollEtAl2004][epub]]
 *** TO-READ [#A] WangIshii2019 | [[note:WangIshii2019][org]] [[pdf:WangIshii2019][pdf]] [[mobi:WangIshii2019][mobi]] [[epub:WangIshii2019][epub]]
@@ -117,7 +114,7 @@ CLOCK: [2021-10-12 mar. 16:46]--[2021-10-12 mar. 16:58] =>  0:12
 *** TO-READ HespanhaEtAl2007 | [[note:HespanhaEtAl2007][org]] [[pdf:HespanhaEtAl2007][pdf]] [[mobi:HespanhaEtAl2007][mobi]] [[epub:HespanhaEtAl2007][epub]]
 *** TO-READ ZecevicSiljak2012 | [[note:ZecevicSiljak2012][org]] [[pdf:ZecevicSiljak2012][pdf]] [[mobi:ZecevicSiljak2012][mobi]] [[epub:ZecevicSiljak2012][epub]]
 
-** LU [57/65]
+** LU [61/70]
 *** READ Ouyang2020 | [[note:Ouyang2020][org]] [[pdf:Ouyang2020][pdf]] [[mobi:Ouyang2020][mobi]] [[epub:Ouyang2020][epub]]
 + Projection onto intersections of halfspaces and hyperplanes
 *** READ ShiromotoEtAl2019 | [[note:ShiromotoEtAl2019][org]] [[pdf:ShiromotoEtAl2019][pdf]] [[mobi:ShiromotoEtAl2019][mobi]] [[epub:ShiromotoEtAl2019][epub]]
@@ -268,6 +265,19 @@ pag 37
 *** DIAGONAL [#A] LauerBloch2019 | [[note:LauerBloch2019][org]] [[pdf:LauerBloch2019][pdf]] [[mobi:LauerBloch2019][mobi]] [[epub:LauerBloch2019][epub]]
 - State "DIAGONAL"   from "TO-READ"    [2021-08-23 lun. 12:20] \\
   interesting for k-linreg and other algorithms
+*** READ MarafiotiEtAl2014 | [[note:MarafiotiEtAl2014][org]] [[pdf:MarafiotiEtAl2014][pdf]] [[mobi:MarafiotiEtAl2014][mobi]] [[epub:MarafiotiEtAl2014][epub]]
+- State "READ"       from "READING"    [2021-10-25 lun. 16:28]
+- State "READING"    from "TO-READ"    [2021-10-12 mar. 16:46]
+*** DIAGONAL [#A] BorrelliEtAl2017 | [[note:BorrelliEtAl2017][org]] [[pdf:BorrelliEtAl2017][pdf]] [[mobi:BorrelliEtAl2017][mobi]] [[epub:BorrelliEtAl2017][epub]]
+:LOGBOOK:
+CLOCK: [2021-11-12 ven. 17:45]--[2021-11-12 ven. 18:10] =>  0:25
+CLOCK: [2021-11-12 ven. 17:20]--[2021-11-12 ven. 17:45] =>  0:25
+CLOCK: [2021-11-12 ven. 16:49]--[2021-11-12 ven. 17:14] =>  0:25
+CLOCK: [2021-11-12 ven. 16:14]--[2021-11-12 ven. 16:39] =>  0:25
+:END:
+- State "DIAGONAL"   from "READING"    [2021-11-26 ven. 09:47]
+
+- State "READING"    from "TO-READ"    [2021-10-28 jeu. 09:51]
 * Config :noexport:
 
 # Local Variables:

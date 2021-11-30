@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       b5a04104-c885-4d51-8cb2-114c7c3f6ec2
+:ROAM_REFS: cite:AfsiEtAl2020
+:END:
+#+filetags: :read:
+- tags ::
+- keywords ::
+
+* Model predictive control for continuous lactide ring‐opening polymerization processes
+:PROPERTIES:
+:Custom_ID: AfsiEtAl2020
+:URL: https://doi.org/10.1002/asjc.2453
+:AUTHOR: Afsi, N., Othman, S., Bakir, T., Costa, L. I., Sakly, A., & Sheibat‐Othman, N.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/AfsiEtAl2020.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+MPC used to control polylactic acid (PLA) fabrication
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** Besides the coupling of inputs and outputs, the process model is highly nonlinear, and the control is done only on the boundaries.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AfsiEtAl2020.pdf::1++0.00;;annot-1-5]]
+:ID:       ~/docsThese/bibliography/AfsiEtAl2020.pdf-annot-1-5
+:END:
+MPC helps using the constraints to reduce solution space?
+
+*** measured process outputs which reflect the impact of different types of disturbances.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AfsiEtAl2020.pdf::2++4.57;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/AfsiEtAl2020.pdf-annot-2-0
+:END:
+add measured process, to increase robustness
+
+*** the material balances of the reacting species,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AfsiEtAl2020.pdf::3++3.17;;annot-3-0]]
+:ID:       ~/docsThese/bibliography/AfsiEtAl2020.pdf-annot-3-0
+:END:
+as seen in the Modelling course of Liu Hsu
+
+*** predefined polymer molecular weight and monomer conversion.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AfsiEtAl2020.pdf::4++1.66;;annot-4-0]]
+:ID:       ~/docsThese/bibliography/AfsiEtAl2020.pdf-annot-4-0
+:END:
+reference following
+
+*** either Raman, near infrared, or Fourier transform infrared spectroscopy
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AfsiEtAl2020.pdf::4++1.66;;annot-4-1]]
+:ID:       ~/docsThese/bibliography/AfsiEtAl2020.pdf-annot-4-1
+:END:
+Both are types of spectroscopy [[https://en.wikipedia.org/wiki/Raman_spectroscopy][Raman]] spectroscopy
+[[https://en.wikipedia.org/wiki/Fourier-transform_spectroscopy][Fourier spectroscopy]], that determinine vibrational modes of molecules and thus the chemical composition
+
+*** outputs and the variation of the input,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AfsiEtAl2020.pdf::5++2.46;;annot-5-0]]
+:ID:       ~/docsThese/bibliography/AfsiEtAl2020.pdf-annot-5-0
+:END:
+They put the increments of $\vec{u}$ as decision variable
+
+*** The MATLAB optimization function, “lsqnonlin” is used.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AfsiEtAl2020.pdf::5++4.35;;annot-5-1]]
+:ID:       ~/docsThese/bibliography/AfsiEtAl2020.pdf-annot-5-1
+:END:
+nonlinear least squares
+
+*** The routine cftool of MATLAB was used to get an equation that describes these curves.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AfsiEtAl2020.pdf::9++0.35;;annot-9-2]]
+:ID:       ~/docsThese/bibliography/AfsiEtAl2020.pdf-annot-9-2
+:END:
+curve fitting tool, needs another toolbox
