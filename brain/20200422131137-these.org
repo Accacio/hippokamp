@@ -459,3 +459,14 @@ file:~/these/DocAdm/
 - deixar tempo para ler ao fim do slide
 - expor motivaçoes
 - Qual escala consideraria para utilizar os algoritmos??
+
+* Context
+** Uses of MPC
+- Water distribution
+  cite:ZhangEtAl2021
+- Chemistry
+  cite:AfsiEtAl2020
+
+* References :noexport:
+bibliography:~/docsThese/bibliography.bib
+bibliographystyle:plain
