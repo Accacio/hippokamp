@@ -3,7 +3,7 @@
 :ROAM_REFS: cite:TabatabaeiPourEtAl2006
 :END:
 #+TITLE: TabatabaeiPourEtAl2006
-#+filetags: reading article
+#+filetags: read article
 
 - tags :: [[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]], [[id:e10aedf9-7688-416f-8fed-446bc658eb85][Piecewise Affine]], [[id:c7730082-bed6-4140-b921-b464f9b697c6][Hybrid Systems]]
 - keywords ::
