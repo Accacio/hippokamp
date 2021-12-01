@@ -30,30 +30,40 @@ Vulnerabilities in lagrange-based dMPC scheme on multi-agent consensus
 *** References :violet:
 
 ** NOTES
-*** Q and R are the same for all subsystems
-:PROPERTIES:
-:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::2++0.05;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-2-0
-:END:
-*** in this one, they use only 2 attacks Selfish and "Liar" agent
-:PROPERTIES:
-:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::3++0.29;;annot-3-0]]
-:ID:       ../../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-3-0
-:END:
-*** inspired by other algorithms
-:PROPERTIES:
-:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++0.08;;annot-4-0]]
-:ID:       ../../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-0
-:END:
-Ver [[id:d1ea4e39-85cb-4809-b8db-3c633cfacea4][DibajiIshii2015]] [[id:da02c877-8fb0-4d82-9aa4-0a206dbf3fe1][LeBlancEtAl2013]]
-*** ignore extreme values of variables
-:PROPERTIES:
-:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++0.00;;annot-4-1]]
-:ID:       ../../docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-1
-:END:
 
 *** vulnerabilities in lagrange-based dMPC scheme of consensus
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::1++0.56;;annot-1-0]]
 :ID:       /home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.pdf-annot-1-0
+:END:
+*** Remark 1: The matrix Q and R do not depend on the considered agent. These values represent trustworthy settings that let us compute the overall cost function and the local cost function for each agent in the system.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::2++2.88;;annot-2-0]]
+:ID:       /home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.pdf-annot-2-0
+:END:
+Q and R are the same for all subsystems
+
+*** In this section, we present two different ways in which an attacker can take advantage of the rest of the subsystems.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::3++0.00;;annot-3-0]]
+:ID:       /home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.pdf-annot-3-0
+:END:
+
+in this one, they use only 2 attacks Selfish and "Liar" agent
+*** To this end, we present an algorithm inspired by [19], [20], which requires a minimum of ﬁve controllers with only one malicious agent inside the system, although under certain conditions more agents can be assumed.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++0.00;;annot-4-0]]
+:ID:       /home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-0
+:END:
+Ver [[id:d1ea4e39-85cb-4809-b8db-3c633cfacea4][DibajiIshii2015]] [[id:da02c877-8fb0-4d82-9aa4-0a206dbf3fe1][LeBlancEtAl2013]]
+*** This means that the attacker recalculates its control signal in a selﬁsh manner, with λ = 0 in its objective function given by (8).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++0.00;;annot-4-2]]
+:ID:       /home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-2
+:END:
+In our case, in primal decomposition, this cannot happen. If $\lambda=0$ is given then agent is disadvantaged.
+*** Hence, the consensus process is performed by ignoring extreme values that could steer the value of the shared variables away from the social consensus.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::4++2.50;;annot-4-1]]
+:ID:       /home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.pdf-annot-4-1
 :END:
