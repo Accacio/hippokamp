@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2cd7468b-b6c0-4c8d-82a3-11b4ef655ae6
+:ROAM_REFS: https://www.youtube.com/watch?v=4zicWglBfIE&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&index=7
+:END:
+#+title: Lecture 5: Differential Forms (Discrete Differential Geometry) - YouTube
+- tags :: [[id:359a3c96-e896-4743-9ca0-f7796115ee08][Discrete Differential Geometry - Course]]
+
+* Differential forms
+Associates a k-form to each point $p$
+- NOTA BENE! k-forms show how to measure at each point p
+** 0-form
+- one scalar to each point \to a scalar function
+** 1-form
+- similar to vector field
+** 2-form
+- similar to 2-vector field
+* Pointwise operations
+for a point $p=(x_1,\dots,x_n)$
+- Hodge star
+  $(\star\alpha)_p:=\star(\alpha_p)$
+  $(\alpha\wedge\beta)_p:=(\alpha_p)\wedge(\beta_p)$

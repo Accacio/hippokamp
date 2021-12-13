@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       359a3c96-e896-4743-9ca0-f7796115ee08
+:END:
+#+title: Discrete Differential Geometry - Course
+- tags :: [[id:edcb0311-0fef-44c0-b2f2-5dd8fb8fdfb8][Discrete Differential Geometry]]
+
+- lecturer :: Keenan Crane

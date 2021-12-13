@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9cee8ad4-26a4-4d46-b797-514a24bc6a7f
+:ROAM_REFS: https://www.youtube.com/watch?v=xRf9-hdxB0w&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&index=6
+:END:
+#+title: Lecture 4: k-Forms (Discrete Differential Geometry) - YouTube
+- tags :: [[id:359a3c96-e896-4743-9ca0-f7796115ee08][Discrete Differential Geometry - Course]]
+
+* k-forms
+$e_2$ \to covector
+
+** 1-form
+$\alpha(u)$\Sum_{i=1}^n\alpha_iu^i$
+
+** 2-form
+$(\alpha \wedge \beta)(u,v)=\alpha(u)\beta(v)-\alpha(v)\beta(u)$ \to as determinant
+** and so on ...
+* Musical isomorphism
+$\alpha=\alpha_1e^2+\dots+\alpha_ne^n$ and  $u=u^1e_2+\dots+u^ne_n$
+$\alpha^\sharp=u$ $u^\flat=\alpha$

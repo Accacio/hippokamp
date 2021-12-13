@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       71c905f7-1bd6-47b1-aef5-a916f4479cde
+:ROAM_REFS: https://www.youtube.com/watch?v=KZjoxwUxlIs&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&index=4
+:END:
+#+title: Lecture 2B: Introduction to Manifolds (Discrete Differential Geometry) - YouTube
+- tags :: [[id:359a3c96-e896-4743-9ca0-f7796115ee08][Discrete Differential Geometry - Course]]
+
+* Sparse Matrix Data Structures
+- Associative array
+  #+begin_example
+  (0,0) -> 4
+  (0,0) -> 4
+  #+end_example
+  - Pro: easy to lookup (hash table)
+  - Con: harder to matrix operations
+
++ Array of linked lists
+  #+begin_example
+  row 0: (O,4) -> (1,2)
+  row 1: (2,3)
+  #+end_example
+  - Pro: simple
+  - con: slow access time \to incoherent memory access
++ Compressed column format
+#+begin_example
+values 4,2,7,3
+row indices 0,0,2,1
+cumulative # entries by column 1,3,4
+#+end_example
+- Pro: fast for actual matrix operations
+- Con: hard to add/remove entries
+* Half edge Mesh
+#+begin_src c
+struct Halfedge
+{
+    Halfedge* twin;
+    Halfedge* next;
+    Vertex* vertex;
+    Edge *edge;
+    Face *face;
+};
+
+struct Edge
+{
+    Halfedge * halfedge;
+};
+
+struct Face
+{
+    Halfedge * halfedge;
+};
+
+struct Vertex
+{
+    Halfedge * halfedge;
+};
+#+end_src
