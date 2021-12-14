@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b68a732e-381f-4183-b9c1-da340e8d3c88
+:END:
+#+title: Stephen P. Boyd
+#+filetags: people
+
+https://web.stanford.edu/~boyd/index.html

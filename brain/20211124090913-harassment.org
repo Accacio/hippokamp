@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       cfc2d482-df86-4248-a919-fdf1aa535793
+:END:
+#+title: Harassment at Work
+- tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]]
+
+- lecturer :: Clare Rambsbottom
+
+* Harassment
+** Ground rules
+- Mutual respect
+- Trigger warning - sensitive topic
+- confidentiality
+- no judging
+- a safe space to share experiences
+** Introduction
+25 classes of harassment
+** Identifying harassment
+- moral harassment
+*** Sexual harassment
+- sexist jokes or remarks
+- questions about love life
+** Discrimination
+- less favourable treatement
+- protected characteristice
+- situation that is recognised by the law
+ https://defenseurdesdroits.fr
+** Stand up
+- Distract
+- Delegate
+- Document
+- Direct
+- Dialogue

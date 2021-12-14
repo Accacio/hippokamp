@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       d31406c6-f234-461d-b3f7-1b35ac069118
+:ROAM_REFS: cite:RollEtAl2004
+:END:
+#+title: RollEtAl2004
+- tags ::
+- keywords :: System identification, Piecewise affine systems, Mixed-integer programming, Global optimization, Change detection, Wiener models
+
+* Identification of piecewise affine systems via mixed-integer programming
+:PROPERTIES:
+:Custom_ID: RollEtAl2004
+:URL: https://doi.org/https://doi.org/10.1016/j.automatica.2003.08.006
+:AUTHOR: Roll, J., Bemporad, A., & Ljung, L.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/RollEtAl2004.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+

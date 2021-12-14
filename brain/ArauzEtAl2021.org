@@ -1,0 +1,185 @@
+:PROPERTIES:
+:ID:       762c085a-731c-4b31-b8c9-2b9f64c1ae12
+:ROAM_REFS: cite:ArauzEtAl2021
+:END:
+#+title: ArauzEtAl2021
+- tags ::
+- keywords ::
+
+* Cyber-security in networked and distributed model predictive control
+:PROPERTIES:
+:Custom_ID: ArauzEtAl2021
+:URL: https://doi.org/10.1016/j.arcontrol.2021.10.005
+:AUTHOR: Arauz, T., Chanfreut, P., & Maestre, J.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/ArauzEtAl2021.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Raise awareness of vulnerabilities in [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][DMPC]]
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- reduce its costs at the expense of others subsystems,
+*** References :violet:
+
+** NOTES
+
+*** However, we find that schemes have been developed naively, presenting flaws and vulnerabilities that malicious entities can exploit to gain leverage in cyber-attacks.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::1++0.00;;annot-1-67]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-1-67
+:END:
+
+*** raise awareness about this issue by reviewing the vulnerabilities of DMPC methods and surveying defense mechanisms
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::1++0.00;;annot-1-68]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-1-68
+:END:
+
+*** See Chanfreut, Maestre and Camacho (2021) for a survey on clustering methods where it can be seen that the interaction between controllers can be exploited to boost scalability and flexibility, and also to deal with unpredicted changes in the inter-agents communication network.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::1++3.75;;annot-1-70]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-1-70
+:END:
+
+
+*** Being a computer-based approach, the method is constantly increasing the size of the problems it can handle due to the advances in information and communication technologies.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::1++4.69;;annot-1-69]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-1-69
+:END:
+
+*** In particular, the information available to each agent is often restricted to a local level, which implies some degree of uncertainty regarding the impact of their own and their neighbors’ actions.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::1++4.69;;annot-1-71]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-1-71
+:END:
+
+*** can be alleviated through communication among controllers
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::1++4.69;;annot-1-72]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-1-72
+:END:
+
+*** Regarding the latter, three different security goals are often defined (Zeldovich, 2014): confidentiality, i.e., to maintain the secrecy of the important data, integrity, i.e., to guarantee the fidelity of the data, and availability, i.e., to ensure the accessibility of the data at the right time.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++0.00;;annot-2-79]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-79
+:END:
+
+*** the above-mentioned re- quirements are likely to fail at some point in the long-term.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++0.00;;annot-2-80]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-80
+:END:
+
+*** the number and configuration of the agents may experience changes in time, as a consequence of the possible incoming and outgoing subsystems and the turning on/off of certain system processes
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++0.00;;annot-2-81]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-81
+:END:
+
+*** reduce its costs at the expense of others subsystems,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++0.00;;annot-2-82]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-82
+:END:
+
+*** Finally, being a computer-based approach, DMPC algorithms can be easily extended to incorporate defense mechanisms that already exist in the literature for other control methods.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++0.65;;annot-2-87]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-87
+:END:
+It is not possible on non computer based approaches?
+
+*** For instance, Liu and Bai (2018) presented an iterative DMPC where data injection attacks are considered.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++0.97;;annot-2-86]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-86
+:END:
+cite:LiuBai2018
+
+*** attacks may origi- nate at different system components and propagate within the system, which renders their detection and identification difficult.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++5.62;;annot-2-83]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-83
+:END:
+
+*** In this regard, it is assumed that  𝑖 measures the local variables and manages the inputs of subsystem  𝑖 .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++6.01;;annot-2-88]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-88
+:END:
+
+*** are interconnected by a data network that allows them to communicate and perform coordinated tasks.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++6.01;;annot-2-89]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-89
+:END:
+
+*** Therefore, whenever sets  a and  s do not coincide, not all coupled controllers can communicate,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++6.01;;annot-2-90]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-90
+:END:
+
+
+*** For example, Velarde, Maestre, Ishii, and Negenborn (2018) consider insider attacks and present a resilient DMPC negotiation procedure.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++7.88;;annot-2-84]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-84
+:END:
+cite:VelardeEtAl2017
+
+*** Similarly, Ananduta, Maestre, Ocampo-Martinez, and Ishii (2020) pro- pose an active method to deal with adversarial agents within the DMPC algorithm.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++7.88;;annot-2-85]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-85
+:END:
+cite:AnandutaEtAl2020
+
+*** where the objective function is separable.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::3++3.12;;annot-3-35]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-3-35
+:END:
+
+*** updated in the direction of the sub-gradient of the dual problem,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::3++7.88;;annot-3-36]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-3-36
+:END:
+
+*** Note that outcome of this procedure relies on continuous and reliable communi- cation among agents, since the variables associated with the coupling constraints need to be shared to evaluate
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::3++7.88;;annot-3-37]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-3-37
+:END:
+
+*** The update of the Lagrange prices can be performed by a central coordinator,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::4++2.19;;annot-4-56]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-4-56
+:END:
+
+*** ikewise, this update can also be performed directly by the local agents as long as each one knows the neighbors that it needs to coordinate with,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::4++2.19;;annot-4-57]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-4-57
+:END:
+
+*** For example, an augmented Lagrangian approach is employed by Mc Namara, Negenborn, De Schutter, Lightbody, and McLoone (2016) for frequency regulation in power grids.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::4++3.75;;annot-4-58]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-4-58
+:END:
+cite:McNamaraEtAl2016
+
+*** Also, authors as Hammami, Maraoui, and Bouzrara (2020)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::4++3.75;;annot-4-59]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-4-59
+:END:

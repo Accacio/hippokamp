@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       7281c278-8f88-43ac-9395-37fe09fa3474
+:END:
+#+title: Bayesian Networks and inference in latent variable models
+#+filetags: courses
+
+- lecturer :: Simon Leglaive
+- site :: https://centralesupelec.edunao.com/course/view.php?id=4170
+
+
+
+* Bayesian networks
+** topology
+- directed model \to directed acyclic graph
+  factorization $p(a,b,c)=p(c|a,b)p(b|a)p(a)$
+
+  #+begin_src dot :file img/bayesian_network.svg
+digraph{
+    a[xlabel="p(a)"];
+    b[xlabel="p(b|a)"];
+    c[xlabel="p(c|a,b)"];
+a->b;
+b->c;
+a->c;
+}
+  #+end_src
+
+  #+RESULTS:
+  [[file:img/bayesian_network.svg]]
+$p(x)=\prod_{k=1}^K p(x_k|\mathrm{pa}_k)$ $\mathrm{pa}_k$  are the parents of $x_k$
+
+  #+begin_src dot :file img/bayesian_network_1.svg
+digraph{
+    a[xlabel="p(a)"];
+    b[xlabel="p(b|a)"];
+    c[xlabel="p(c|a,b)"];
+    d[xlabel="p(c|a,b)"];
+a->b;
+a->c;
+a->d;
+}
+  #+end_src
+
+  #+RESULTS:
+  [[file:img/bayesian_network_1.svg]]
+$b$ $c$ and $d$ are not marginally independent, but conditionally independent
+- bayesian network captures causal process \to generative model
+
+** Condition independence
+- $p(a|b,c)=p(a|c)$ \to conditionally independence given $c$
+*** D-separation
+**** Tail-to-tail or common-parent
+- observing $c$ makes a and b independent
+**** Head-to-tail or cascade structure
+#+begin_src dot :file img/bayesian_network_2.svg
+digraph{
+rankdir="LR";
+a->c->b;
+}
+#+end_src
+
+  #+RESULTS:
+  [[file:img/bayesian_network_2.svg]]
+- observing $c$ makes a and b independent
+**** Head-to-head
+#+begin_src dot :file img/bayesian_network_3.svg
+digraph{
+a->c;
+b->c;
+}
+#+end_src
+
+  #+RESULTS:
+  [[file:img/bayesian_network_3.svg]]
+- observing $c$ makes a and b dependent
+* Inference in latent variable models

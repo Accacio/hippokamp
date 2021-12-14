@@ -1,0 +1,157 @@
+:PROPERTIES:
+:ID:       b6cac635-9fd7-4811-b3fc-bbd02a3cacbc
+:ROAM_REFS: cite:Bishop2006
+:END:
+#+title: Bishop2006
+- tags ::
+- keywords ::
+
+* Pattern recognition and machine learning :reading:
+:PROPERTIES:
+:Custom_ID: Bishop2006
+:URL:
+:AUTHOR: Bishop, C. M.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/Bishop2006.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** Mixture Models and EM
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::443++0.00;;annot-443-0]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-443-0
+:END:
+
+**** nonprobabilistic technique called the K-means algorithm
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::443++4.36;;annot-443-1]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-443-1
+:END:
+
+**** Problem definition
+
+
+***** data set {x 1 , . . . , x N } consisting of N observations of a random D-dimensional Euclidean variable x.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::444++0.00;;annot-444-0]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-444-0
+:END:
+
+***** for the moment that the value of K is given.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::444++0.00;;annot-444-1]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-444-1
+:END:
+
+***** Our goal is then to ﬁnd an assignment of data points to clusters, as well as a set of vectors {µ k }, such that the sum of the squares of the distances of each data point to its closest vector µ k , is a minimum.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::444++0.00;;annot-444-2]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-444-2
+:END:
+Here $\mu_k$ is a prototyp for cluster k (parameters??)
+
+***** 1-of-K coding scheme.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::444++4.36;;annot-444-3]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-444-3
+:END:
+$r_{nk}$ indicates if $n\mathrm{-th}$  point belongs to cluster $k$
+
+***** We can do this through an iterative procedure in which each iteration involves two successive steps corresponding to successive optimizations with respect to the $r_{nk}$ and the $\mu_k$ .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::445++0.00;;annot-445-0]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-445-0
+:END:
+1. find best matching cluster
+2. update all parameters
+
+***** The terms involving different n are independent and so we can optimize for each n separately by choosing r nk to be 1 for whichever value of k gives the minimum value of x n − µ k  2 .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::445++0.00;;annot-445-1]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-445-1
+:END:
+Can be solved in parallel
+
+***** The objective function J is a quadratic function of µ k ,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::445++1.17;;annot-445-2]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-445-2
+:END:
+Easily solved with respect to the parameters
+
+***** In practice, a better initialization procedure would be to choose the cluster centres µ k to be equal to a random subset of K data points.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::447++1.56;;annot-447-0]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-447-0
+:END:
+
+***** a data structure such as a tree such that nearby points are in the same subtree
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::447++1.56;;annot-447-1]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-447-1
+:END:
+quadtrees??
+
+***** We can also derive an on-line stochastic algorithm (MacQueen, 1967)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::447++1.56;;annot-447-2]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-447-2
+:END:
+
+***** determination of the cluster means nonrobust to outliers.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::448++0.00;;annot-448-0]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-448-0
+:END:
+
+***** For a general choice of dissimi- larity measure, the M step is potentially more complex than for K-means, and so it is common to restrict each cluster prototype to be equal to one of the data vectors as- signed to that cluster, as this allows the algorithm to be implemented for any choice of dissimilarity measure V(·, ·) so long as it can be readily evaluated.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::448++0.00;;annot-448-1]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-448-1
+:END:
+
+***** the M step involves, for each cluster k, a discrete search over the N k points assigned to that cluster, which requires O(N k 2 ) evaluations of V(·, ·).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::448++0.00;;annot-448-2]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-448-2
+:END:
+
+***** ‘soft’ assignments of data points to clusters in a way that reﬂects the level of uncertainty over the most appropriate assignment.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::448++0.00;;annot-448-3]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-448-3
+:END:
+
+***** We can hope to avoid the singularities by using suitable heuristics, for instance by detecting when a Gaussian component is collapsing and resetting its mean to a randomly chosen value while also resetting its covariance to some large value, and then continuing with the optimization.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::454++1.17;;annot-454-0]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-454-0
+:END:
+👍 Been there done that
+
+***** a K-component mixture will have a total of K! equivalent solutions corresponding to the K! ways of assigning K sets of parameters to K components.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::454++3.95;;annot-454-1]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-454-1
+:END:
+
+***** The difﬁculty arises from the presence of the summation over k that appears inside the logarithm in (9.14), so that the logarithm function no longer acts directly on the Gaussian.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::455++0.39;;annot-455-0]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-455-0
+:END:
+
+***** maximum likelihood solutions for models with latent variables is called the expectation-maximization algorithm, or EM algorithm
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::455++0.32;;annot-455-1]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-455-1
+:END:

@@ -1,0 +1,157 @@
+:PROPERTIES:
+:ID:       1d5f154e-4b59-40e1-9372-d1665c2ee34f
+:ROAM_REFS: cite:BorrelliEtAl2017
+:END:
+#+title: BorrelliEtAl2017
+- tags :: [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
+- keywords ::
+
+* Predictive control for linear and hybrid systems
+:PROPERTIES:
+:Custom_ID: BorrelliEtAl2017
+:URL:
+:AUTHOR: Borrelli, F., Bemporad, A., & Morari, M.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/BorrelliEtAl2017.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- The interested reader is referred to [65].
+*** References :violet:
+
+** NOTES
+
+
+*** The terms q(x, u) and and p(x) are referred to as the stage cost and terminal cost, respectively.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::13++0.00;;annot-13-0]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-13-0
+:END:
+
+*** starting from the measured state x(1) as the new initial condition.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::14++0.00;;annot-14-1]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-14-1
+:END:
+
+*** Again, there is no other controller design method available today for such systems that provides constraint satisfaction and stability guarantees.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::14++1.25;;annot-14-2]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-14-2
+:END:
+
+*** It requires the solution of the Bellman equation and has been a long- standing problem in optimal control
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::14++5.31;;annot-14-3]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-14-3
+:END:
+
+*** If S = Z the problem is said to be unconstrained.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::28++0.00;;annot-28-6]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-28-6
+:END:
+noice
+
+*** The simplest way to remove equality constraints is to replace them with two inequalities for each equality, i.e., h i (z) = 0 is replaced by h i (z) ≤ 0 and −h i (z) ≤ 0.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::29++7.89;;annot-29-4]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-29-4
+:END:
+As I thought, but the problems a
+
+*** Such a method, however, can lead to poor numerical conditioning and may ruin the eﬃciency and accuracy of a numerical solver.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::29++7.89;;annot-29-5]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-29-5
+:END:
+as I imagined
+
+*** In large problems it can destroy useful structural properties of the problem such as sparsity.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::30++0.00;;annot-30-1]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-30-1
+:END:
+
+*** The interested reader is referred to [65].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::33++4.37;;annot-33-5]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-33-5
+:END:
+
+*** Thus, violation of LICQ is equivalent to having more than s constraints active at an optimal vertex.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::47++5.62;;annot-47-18]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-47-18
+:END:
+
+*** Lemma 3.1 (L-Smoothness: Second-Order Characterization)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::60++7.89;;annot-60-8]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-60-8
+:END:
+
+
+*** We deﬁne CR A as the set of parameters x for which the same set A of constraints is active at the optimum.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::132++7.26;;annot-132-4]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-132-4
+:END:
+They always remove inactive constraints
+
+*** Deﬁnition 6.1 The optimal partition of I at x is the partition (A(x), N A(x)) where
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::132++7.26;;annot-132-5]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-132-5
+:END:
+Active \to solution is on the equality
+
+*** Note that the more general problem with J(z, x) = 12 z  Hz + x  F z can always be transformed into an mp-QP of form (6.38) by using the variable substitution z̃ = z + H −1 F  x.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::149++5.15;;annot-149-19]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-149-19
+:END:
+
+*** mp-QP Algorithm
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::158++5.42;;annot-158-13]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-158-13
+:END:
+
+*** “active set generator”
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::158++5.42;;annot-158-14]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-158-14
+:END:
+
+*** “KKT solver.”
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::158++5.42;;annot-158-15]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-158-15
+:END:
+
+*** mp-QP Algorithm
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::159++0.00;;annot-159-29]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-159-29
+:END:
+
+
+*** Literature Review
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::166++3.96;;annot-166-29]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-166-29
+:END:
+May be interesting to cite some, if I use
+
+*** Theorem 6.7 states that the solution z ∗ (x(0)) of the mp-QP problem (11.33) is a continuous and piecewise aﬃne function on polyhedra of x(0). Clearly the same properties are inherited by the controller. The following corollaries of Theorem 6.7 establish the analytical properties of the optimal control law and of the value function.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::244++0.00;;annot-244-27]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-244-27
+:END:
+I can cite this in the thesis
