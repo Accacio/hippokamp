@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       99735535-5c2d-41c0-be8b-845e19b76dc0
+:END:
+#+title: Animer un compte Twitter 
+#+filetags: :courses:
+- tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]]
+
+- lecturer :: Segolene Chaudru
+
+* Objectifs
+- améliorer l'audience et l'engagement de ses tweets
+- utiliser des outils dédiés pour optimiser twitter
+* Twitter
+- 1er Tweet - 21 mars 2006
+- visibilité aux recherches scientifiques
+
+* Quelles hashtags?
+http://hashtagify.me
+* Recherche
+- #
+- lang:
+- since:
+- since: until:
+- from:
+- -from: ou exclude:
+- Min_retweets:
+- Min_faves:
+- near:
+- near: within:
+- url:
+- filter: filter:videos|images|links
+- exclude:
+- filter:follows
+- AND
+* Conférences
+** Avant
+- choisir un hashtag et promouvoir
+
+** Pendant
+  http://livetweetapp.com/fr
+  - Annoncer les comptes des conférenciers
+** Après
+* Devenir un influenceur
+http://hashtagify.me/hashtag/tbt
+** Conseils
+1. Compléter le profil
+2. Suivre les personnes par lesquelles vous souhaitez être suivi
+3. Surveiller les mots clés et hashtags
+4. Interagir avec les influenceurs
+5. Servez-vous de Twitter comme d'un outil de diffusion
+6. Proposez du contenu qui intéresse les gens
+7. Tweetez souvent. Mais pas trop
+8. bonnes informations
+9. la qualité avant quantité
+10. ajoutez de la visibilité a votre nom d'utilisateur Twitter
+
+* Horaire
+9h~11h
+* Outils web
+- http://untweeps.com/oa/
+- http://who.unfollowed.me
+- http://tweepsmap.com
+- http:/wiley.altmetric.com
+- https://plu.mx/sign_in
+- http://tweetdeck.twitter.com
