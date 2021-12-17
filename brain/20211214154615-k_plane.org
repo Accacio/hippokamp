@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       eaa731fc-52ba-42e8-a1ec-74938a16dcf4
+:END:
+#+title: K-plane
+- tags :: [[id:1f41126c-c173-41a6-be48-d9e546f440d0][Algorithms]]
+
+* The algorithm
+1. Cluster Assignement
+    Using $w_\ell$ and $\gamma_\ell$
+   $\undersset{}{\mathrm{min.}} |A_iw_\ell^j-\gamma_\ell^j|$
+   \begin{equation}
+2. Cluster Update
+   $B(\ell)=A(\ell)'(I-\frac{ee'}{m(\ell)})A(\ell)$
+    $w_\ell^{j+1}$ is eigenvector associated to the smallest eigenvalue of $B(\ell)$
+    set $\gamma_\ell^{j+1}=\frac{e'A(\ell)w_\ell^{j+1}}{m(\ell)}$

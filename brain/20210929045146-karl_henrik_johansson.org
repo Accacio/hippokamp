@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f862ef72-3c2a-4673-8846-fad5a35718e5
+:END:
+#+title: Karl Henrik Johansson
+#+filetags: people
+
+https://people.kth.se/~kallej
