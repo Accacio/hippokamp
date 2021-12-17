@@ -47,6 +47,7 @@ Estimate parameters of affine submodels and the partition of the map from data
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::1++8.99;;annot-1-7]]
 :ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-7
 :END:
+cite:BradleyMangasarian2000
 
 
 *** Unfortunately, the aforementioned algorithms are all in the batch mode,
