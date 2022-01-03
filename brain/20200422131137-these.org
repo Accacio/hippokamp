@@ -2,208 +2,44 @@
 :ID:       ebb4a160-db74-41df-925c-fd4c17f3b82b
 :END:
 #+TITLE: These
+#+filetags: :THESE:
 #+OPTIONS: toc:nil
 
 - tags :: [[id:4cabbb59-a17c-4583-9826-6e6eb436488e][Secure dMPC]], [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]]
 
+* [[id:643844e6-2f3f-4420-a332-c499fd8e66fc][CSI]]
+
 * Planning
-** Before CSI 2021
-#+BEGIN_SRC plantuml :file img/ganttTheseBeforeCSI2021.png :exports results
-printscale monthly
-<style>
-ganttDiagram {
-    task {
-        BackGroundColor lightgreen
-        LineColor LightBlue
-    }
-    milestone {
-        BackGroundColor lightblue
-        LineColor lightblue
-    }
-}
-</style>
+:PROPERTIES:
+:ID:       aeb0a81d-a6d4-4956-a9d5-c9ee9b07d62d
+:END:
+** Complete
+#+name: complete-gantt
+#+BEGIN_SRC plantuml :file img/ganttThese.png :exports results :noweb yes
+<<2019-gantt>>
+<<2020-gantt>>
+<<2021-gantt>>
+<<2022-gantt>>
 Project starts the 2019-11-01
+printscale monthly
 
--- CSI --
-[CSI 2020] happens at 2020-06-03
-[CSI 2021] happens at 2021-05-17
-
-[CSI 2020] is colored in lightgreen
-
-[CSI 2021] displays on same row as [CSI 2020]
--- Training Courses --
-[MSER] as [F1] starts at 2020-03-02
-[DSC] as [F2] starts at 2020-06-22 and ends 2020-06-26
-[Ethics] as [F3] starts at 2020-07-17
-[DDML] as [F4] starts at 2021-04-06 and ends 2021-04-09
-[L&IP] as [F5] starts at 2021-04-06 and ends 2021-04-22
-
-[F2] displays on same row as [F1]
-[F4] displays on same row as [F1]
-[F5] displays on same row as [F3]
-
--- Teaching --
-
-[ Auto 20/21 ] as [V1] starts 2020-09-16 and ends 2020-10-16
-[ µGrid 20/21] as [V2] starts 2021-03-16 and ends 2021-4-06
-[ MPC 20/21] as [V3] starts 2021-04-21 and ends 2021-5-26
-[V3] is 50% completed
-
--- Research --
-[First running example] as [Ex1] happens at 2019-12-01
-[Ex1] is colored in lightgreen
-[N-agents | Eq. Constraints] as [Ex2] happens at 2020-10-01
-[Ex2] is colored in lightgreen
-[Ex2] displays on same row as [Ex1]
-
-[Exploration | Identify steps] as [T1] starts at 2020-02-01 and lasts 30 days
-[Detection] as [T11] starts after [T1]'s end and lasts 15 days
-[Isolation] as [T12] starts after [T11]'s end and lasts 15 days
-[Recovery] as [T13] starts after [T12]'s end and lasts 20 days
-
-[Parameter Identification] as [SE] starts 2020-06-01 and lasts 30 days
-[Recovery Alg.] as [SR] starts 2020-08-01 and lasts 30 days
-
-[Projection] starts at 2021-01-15 and ends at 2021-02-16
-
-[Alg. Robust.] as [S1] starts 2021-04-18 and lasts 30 days
-[S1]  displays on same row as [SR]
-[S1] is 20% completed
-
-[Rework Article CDC] starts at 2020-10-15 and lasts 15 days
-[Rework Article ECC] starts at 2021-02-15 and lasts 15 days
-[Rework Article ECC] displays on same row as [Rework Article CDC]
-
-[CDC 2020 (writing)] as [CDC20W] starts at 2020-02-15 and ends 2020-03-17
-[CDC 2020] as [CDC20] happens at [CDC20W]'s end
-
-[ECC 2021 (writing)] as [ECC21W] starts at 2020-10-25 and ends 2020-11-25
-[ECC 2021] as [ECC21] happens at [ECC21W]'s end
-
-[Systol 2021 (writing)] as [A1W] starts at 2021-03-18 and ends 2021-05-17
-[Systol 2021] as [A1] happens at [A1W]'s end
 [A1W] is 100% completed
 
-[CDC20] is colored in red
-[ECC 2021] is colored in red
-[Systol 2021] is colored in lightblue
-
-[ECC21W] displays on same row as [CDC20W]
-[A1W] displays on same row as [ECC21W]
-[ECC 2021] displays on same row as [CDC 2020]
-[Systol 2021] displays on same row as [ECC 2021]
-
-[ Bibliography ] as [B1] starts at 2019-11-01 and ends 2021-05-17
-[B1] is 50% completed
+[ Bibliography ] as [B1] starts at 2019-11-01 and ends 2022-07-31
+[B1] is 60% completed
 [B1] links to [[https://gitlab.com/Accacio/docsthese/raw/master/bibliography.bib]]
 
-[Documentation (code + text)] as [Doc1] starts at 2020-01-01 and ends 2021-05-17
-[Doc1] is 42% completed
+[Documentation (code + text)] as [Doc1] starts at 2020-01-01 and ends 2022-11-30
+[Doc1] is 60 completed
 #+END_SRC
 
-#+RESULTS:
-[[file:img/ganttTheseBeforeCSI2021.png]]
+#+RESULTS: complete-gantt
+[[file:img/ganttThese.png]]
 
-** After CSI 2021
-#+BEGIN_SRC plantuml :file img/ganttTheseAfterCSI2021.png :exports results
-printscale monthly
-<style>
-ganttDiagram {
-    task {
-        BackGroundColor lightgreen
-        LineColor LightBlue
-    }
-    milestone {
-        BackGroundColor lightblue
-        LineColor lightblue
-    }
-}
-</style>
-
-Project starts the 2021-05-16
-
--- CSI --
-[CSI 2021] happens at 2021-05-17
-
--- Training Courses --
-[FS1] starts at 2021-09-06 and ends 2021-09-22
-[FS2] starts at 2022-01-06 and ends 2022-01-22
-
-[FS1] is 0% completed
-[FS2] is 0% completed
-
-[CD1] starts at 2021-11-06 and ends 2021-11-22
-[CD2] starts at 2022-04-06 and ends 2022-04-22
-
-[CD1] is 0% completed
-[CD2] is 0% completed
-
-[FS2] displays on same row as [FS1]
-[CD2] displays on same row as [CD1]
-
--- Teaching --
-[ µGrid 21/22] as [V5] starts 2022-03-16 and ends 2022-4-06
-[ MPC 20/21] as [V3] starts 2021-04-21 and ends 2021-5-26
-[ Auto 21/22] as [V4] starts 2021-09-16 and ends 2021-10-16
-[ MPC 21/22] as [V6] starts 2022-04-21 and ends 2022-5-26
-
-[V3] is 50% completed
-[V4] is 0% completed
-[V5] is 0% completed
-[V6] is 0% completed
-
-[V4] displays on same row as [V5]
-[V6] displays on same row as [V3]
-
--- Research --
-[N-agents | Ineq. Constraints] as [Ex3] happens at 2021-09-01
-
-[Alg. Robust.] as [S1] starts 2021-04-18 and lasts 30 days
-[S1] is 20% completed
-
-[Identify piecewise-linear] as [SHYB] starts 2021-05-17 and lasts 45 days
-[SHYB] is 0% completed
-
-[Adap. Recov. Algo] as [ARA] starts 2021-07-30 and lasts 45 days
-[ARA] is 0% completed
-[ARA] displays on same row as [S1]
-
-[Study Path 1] as [SP1] starts 2021-11-01 and lasts 150 days
-[SP1] is 0% completed
-
-
-[Article 2 (writing)] as [A2W] starts at 2021-09-15 and lasts 30 days
-[Article 2] as [A2] happens at [A2W]'s end
-[A2W] is 0% completed
-
-
-[Article 3 (writing)] as [A3W] starts at 2022-03-15 and lasts 60 days
-[Article 3] as [A3] happens at [A3W]'s end
-[A3W] is 0% completed
-
-[A3] displays on same row as [A2]
-[A3W] displays on same row as [A2W]
-
-
-[Thesis writing] as [W1] starts at 2022-02-25 and lasts 180 days
-[Presentation] as [W2] starts at 2022-08-30 and lasts 90 days
-[W1] is 0% completed
-[W2] is 0% completed
-
-[ Bibliography ] as [B1] starts at 2019-11-01 and ends 2022-07-31
-[B1] is 50% completed
-[B1] links to [[https://gitlab.com/Accacio/docsthese/raw/master/bibliography.bib]]
-[Documentation (code + text)] as [Doc1] starts at 2020-01-01 and ends 2022-11-30
-[Doc1] is 42% completed
-
-#+end_src
-
-#+RESULTS:
-[[file:img/ganttTheseAfterCSI2021.png]]
-
-** Complete
-#+BEGIN_SRC plantuml :file img/ganttThese.png :exports results
-printscale monthly
+** 2019
+#+NAME:2019-gantt
+#+BEGIN_SRC plantuml :file img/ganttThese-2019.png :exports results
+printscale weekly
 <style>
 ganttDiagram {
     task {
@@ -217,80 +53,52 @@ ganttDiagram {
 }
 </style>
 Project starts the 2019-11-01
-today is 30 days after start and is colored in #AAF
--- CSI --
-[CSI 2020] happens at 2020-06-03
-[CSI 2021] happens at 2021-05-17
+[First running example] as [Ex1] happens at 2019-12-01
+#+END_SRC
 
+#+RESULTS: 2019-gantt
+[[file:img/ganttThese-2019.png]]
+
+** 2020
+#+NAME:2020-gantt
+#+BEGIN_SRC plantuml :file img/ganttThese-2020.png :exports results :noweb yes
+printscale weekly
+<style>
+ganttDiagram {
+    task {
+        BackGroundColor lightgreen
+        LineColor LightBlue
+    }
+    milestone {
+        BackGroundColor lightblue
+        LineColor lightblue
+    }
+}
+</style>
+Project starts the 2020-01-01
+' CSI
+[CSI 2020] happens at 2020-06-03
 [CSI 2020] is colored in lightgreen
 
-[CSI 2021] displays on same row as [CSI 2020]
-
--- Training Courses --
+' Formations
 [MSER] as [F1] starts at 2020-03-02
 [DSC] as [F2] starts at 2020-06-22 and ends 2020-06-26
 [Ethics] as [F3] starts at 2020-07-17
-[DDML] as [F4] starts at 2021-04-06 and ends 2021-04-09
-[L&IP] as [F5] starts at 2021-04-06 and ends 2021-04-22
-
-[FS1] starts at 2021-09-06 and ends 2021-09-22
-[FS2] starts at 2022-01-06 and ends 2022-01-22
-
-[FS1] is 0% completed
-[FS2] is 0% completed
-
-[CD1] starts at 2021-11-06 and ends 2021-11-22
-[CD2] starts at 2022-04-06 and ends 2022-04-22
-
-[CD1] is 0% completed
-[CD2] is 0% completed
 
 [F1] is 100% completed
 [F2] is 100% completed
 [F3] is 100% completed
-[F4] is 100% completed
-[F5] is 100% completed
 
 [F2] displays on same row as [F1]
-[F4] displays on same row as [F1]
-[F5] displays on same row as [F3]
 
-[FS1] displays on same row as [F1]
-[FS2] displays on same row as [FS1]
-[CD1] displays on same row as [F3]
-[CD2] displays on same row as [CD1]
-
--- Teaching --
+' Teaching
 [ Auto 20/21 ] as [V1] starts 2020-09-16 and ends 2020-10-16
-[ µGrid 20/21] as [V2] starts 2021-03-16 and ends 2021-4-06
-[ MPC 20/21] as [V3] starts 2021-04-21 and ends 2021-5-26
 
-[ Auto 21/22] as [V4] starts 2021-09-16 and ends 2021-10-16
-[ µGrid 21/22] as [V5] starts 2022-03-16 and ends 2022-4-06
-[ MPC 21/22] as [V6] starts 2022-04-21 and ends 2022-5-26
-
-[V2] is 100% completed
-[V3] is 50% completed
-[V4] is 0% completed
-[V5] is 0% completed
-[V6] is 0% completed
-
-
-[V2] displays on same row as [V1]
-[V4] displays on same row as [V1]
-[V5] displays on same row as [V2]
-[V6] displays on same row as [V3]
-
--- Research --
-
-[First running example] as [Ex1] happens at 2019-12-01
+' Research
 [Ex1] is colored in lightgreen
 [N-agents | Eq. Constraints] as [Ex2] happens at 2020-10-01
 [Ex2] is colored in lightgreen
 [Ex2] displays on same row as [Ex1]
-
-[N-agents | Ineq. Constraints] as [Ex3] happens at 2021-09-01
-[Ex3] displays on same row as [Ex2]
 
 
 [Exploration | Identify steps] as [T1] starts at 2020-02-01 and lasts 30 days
@@ -301,13 +109,90 @@ today is 30 days after start and is colored in #AAF
 [Parameter Identification] as [SE] starts 2020-06-01 and lasts 30 days
 [Recovery Alg.] as [SR] starts 2020-08-01 and lasts 30 days
 
+' Articles
+[CDC 2020 ✎] as [CDC20W] starts at 2020-02-15 and ends 2020-03-17
+[CDC 2020] as [CDC20] happens at [CDC20W]'s end
+
+[CDC20] is colored in red
+
+[Rework Article CDC] as [RCDC2020] starts at 2020-10-15 and lasts 15 days
+
+[ECC 2021 ✎] as [ECC21W] starts at 2020-10-25 and ends 2020-11-25
+[ECC 2021] as [ECC21] happens at [ECC21W]'s end
+
+[ECC 2021] is colored in red
+[ECC21W] displays on same row as [CDC20W]
+[ECC 2021] displays on same row as [CDC20]
+
+#+END_SRC
+
+#+RESULTS: 2020-gantt
+[[file:img/ganttThese-2020.png]]
+
+** 2021
+#+NAME:2021-gantt
+#+BEGIN_SRC plantuml :file img/ganttThese-2021.png :exports results :noweb yes
+printscale weekly
+<style>
+ganttDiagram {
+    task {
+        BackGroundColor lightgreen
+        LineColor LightBlue
+    }
+    milestone {
+        BackGroundColor lightblue
+        LineColor lightblue
+    }
+}
+</style>
+<<2020-gantt>>
+Project starts the 2021-01-01
+
+[CSI 2021] happens at 2021-05-17
+[CSI 2021] is colored in lightgreen
+[CSI 2021] displays on same row as [CSI 2020]
+
+
+[ µGrid 20/21] as [V2] starts 2021-03-16 and ends 2021-4-06
+[ MPC 20/21] as [V3] starts 2021-04-21 and ends 2021-5-26
+
+[ Auto 21/22] as [V4] starts 2021-09-16 and ends 2021-10-16
+
+[V2] is 100% completed
+[V3] is 100% completed
+[V4] is 100% completed
+
+[V2] displays on same row as [V1]
+[V3] displays on same row as [V1]
+[V4] displays on same row as [V1]
+
+'Training Courses
+[DDML] as [F4] starts at 2021-04-06 and ends 2021-04-09
+[L&IP] as [F5] starts at 2021-04-06 and ends 2021-04-22
+
+[F4] displays on same row as [F1]
+[F5] displays on same row as [F3]
+[F4] is 100% completed
+[F5] is 100% completed
+
+[HSW] starts at 2021-11-24 and ends 2021-11-24
+[TWT] starts at 2021-12-15 and ends 2021-12-15
+[HSW] is 100% completed
+[TWT] is 100% completed
+
+[HSW] displays on same row as [F4]
+[TWT] displays on same row as [F5]
+
+
+' Research
+[N-agents | Ineq. Constraints] as [Ex3] happens at 2021-09-01
+[Ex3] displays on same row as [Ex2]
+
 [Projection] starts at 2021-01-15 and ends at 2021-02-16
-
-'[Projection] displays on same row as [SR]
-
-[Identify piecewise-linear] as [SHYB] starts 2021-05-17 and lasts 45 days
-[SHYB] is 0% completed
+[Identify piecewise-linear] as [SHYB] starts 2021-10-05 and lasts 60 days
+[SHYB] is 80% completed
 [SHYB] displays on same row as [Projection]
+[Projection] displays on same row as [T1]
 
 [Alg. Robust.] as [S1] starts 2021-04-18 and lasts 30 days
 [S1]  displays on same row as [SR]
@@ -317,75 +202,66 @@ today is 30 days after start and is colored in #AAF
 [ARA] is 0% completed
 [ARA] displays on same row as [S1]
 
-[Study Path 1] as [SP1] starts 2021-11-01 and lasts 150 days
-[SP1] is 0% completed
-
-[Rework Article CDC] starts at 2020-10-15 and lasts 15 days
-[Rework Article ECC] starts at 2021-02-15 and lasts 15 days
-[Rework Article ECC] displays on same row as [Rework Article CDC]
-
-[CDC 2020 (writing)] as [CDC20W] starts at 2020-02-15 and ends 2020-03-17
-[CDC 2020] as [CDC20] happens at [CDC20W]'s end
-
-[ECC 2021 (writing)] as [ECC21W] starts at 2020-10-25 and ends 2020-11-25
-[ECC 2021] as [ECC21] happens at [ECC21W]'s end
-
-[Systol 2021 (writing)] as [A1W] starts at 2021-03-18 and ends 2021-05-17
+'Articles
+[Systol 2021 ✎] as [A1W] starts at 2021-03-18 and ends 2021-05-17
 [Systol 2021] as [A1] happens at [A1W]'s end
-[A1W] is 100% completed
 
-
-[Article 2 (writing)] as [A2W] starts at 2021-09-15 and lasts 30 days
-[Article 2] as [A2] happens at [A2W]'s end
-[A2W] is 0% completed
-
-[Article 3 (writing)] as [A3W] starts at 2022-03-15 and lasts 60 days
-[Article 3] as [A3] happens at [A3W]'s end
-[A3W] is 0% completed
-
-[A2] displays on same row as [A1]
-[A3] displays on same row as [A2]
-
-/'
- ' colors
- '/
-[CDC20] is colored in red
-[ECC 2021] is colored in red
-[Systol 2021] is colored in lightblue
-
-[ECC21W] displays on same row as [CDC20W]
+[A1] is colored in lightgreen
+[A1] displays on same row as [ECC 2021]
 [A1W] displays on same row as [ECC21W]
-[ECC 2021] displays on same row as [CDC 2020]
-[Systol 2021] displays on same row as [ECC 2021]
 
-[A2W] displays on same row as [ECC21W]
-[A3W] displays on same row as [A2W]
+[Rework Article ECC] starts at 2021-02-15 and lasts 15 days
+[Rework Article ECC] displays on same row as [RCDC2020]
 
+#+END_SRC
+
+#+RESULTS: 2021-gantt
+[[file:img/ganttThese-2021.png]]
+
+** 2022
+#+NAME:2022-gantt
+#+BEGIN_SRC plantuml :file img/ganttThese-2022.png :exports results :noweb yes
+printscale weekly
+today is colored in #AAF
+<<2019-gantt>>
+<<2020-gantt>>
+<<2021-gantt>>
+Project starts the 2022-01-01
+
+'Teaching
+
+[ µGrid 21/22] as [V5] starts 2022-03-16 and ends 2022-4-06
+[ MPC 21/22] as [V6] starts 2022-04-21 and ends 2022-5-26
+
+[V5] is 0% completed
+[V6] is 0% completed
+
+[V5] displays on same row as [V2]
+[V6] displays on same row as [V3]
+
+' Thesis
 [Thesis writing] as [W1] starts at 2022-02-25 and lasts 180 days
 [Presentation] as [W2] starts at 2022-08-30 and lasts 90 days
 [W1] is 0% completed
 [W2] is 0% completed
 
-[ Bibliography ] as [B1] starts at 2019-11-01 and ends 2022-07-31
-[B1] is 50% completed
-[B1] links to [[https://gitlab.com/Accacio/docsthese/raw/master/bibliography.bib]]
-
-[Documentation (code + text)] as [Doc1] starts at 2020-01-01 and ends 2022-11-30
-[Doc1] is 42% completed
 #+END_SRC
 
-#+RESULTS:
-[[file:img/ganttThese.png]]
+#+RESULTS: 2022-gantt
+[[file:img/ganttThese-2022.png]]
 
-* [[id:643844e6-2f3f-4420-a332-c499fd8e66fc][CSI]]
 * Problems normally found
 - Negotiation
   + Projection
     - Hyperplanes/HalfSpaces
   + Estimation
     - Richness of signal
+
 * Words
 - mitigation
+- detection
+- behavior
+
 * Expressions
 #+begin_src bash :results drawer :exports results
 awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressions]["$0"]]"}' *[0-9][0-9][0-9][0-9].org | sed "s,\[- ,\[,"| grep -v "*** Expressions\|References" | sort -V
@@ -400,7 +276,9 @@ awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressio
 - [[file:AnandutaEtAl2020.org::*Expressions][The main advantages of such approaches include]]
 - [[file:AnandutaEtAl2020.org::*Expressions][Trivially separable]]
 - [[file:ArabloueiEtAl2014.org::*Expressions][Unlike]]
+- [[file:ArauzEtAl2021.org::*Expressions][reduce its costs at the expense of others subsystems,]]
 - [[file:BansalMukhija2020.org::*Expressions][Unlike ... where ..., in the proposed]]
+- [[file:BorrelliEtAl2017.org::*Expressions][The interested reader is referred to [65].]]
 - [[file:BourdaisEtAl2012.org::*Expressions][In all the previous works]]
 - [[file:BraunEtAl2020.org::*Expressions][Instead]]
 - [[file:BraunEtAl2020.org::*Expressions][In contrast to]]
@@ -444,11 +322,14 @@ awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressio
 :end:
 
 * Ideias & Perguntas
+:PROPERTIES:
+:ID:       7361b119-73f0-4bbc-83bc-236df8d6b265
+:END:
 ** se a variação de um tempo para outro for pequena pode tentar estimar o gradiente?? algo como expansão de taylor de 2 ordem
 ** verificar erro de estimação
 - $\|T-\hat T\|\leq\epsilon$
 - $\kappa(\hat T)=f(\kappa(T),\epsilon)$
-** [[file:daily/2021-03-30.org::*porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?][porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?]]
+** porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?
 
 * Documents
 file:~/these/DocAdm/
@@ -462,6 +343,9 @@ file:~/these/DocAdm/
 
 * Context
 ** Uses of MPC
+:PROPERTIES:
+:ID:       d2cbae57-7e69-487f-9d0a-4df113a87e67
+:END:
 - Water distribution
   cite:ZhangEtAl2021
 - Chemistry
