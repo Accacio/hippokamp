@@ -2,7 +2,7 @@
 :ID:       f67ff2cb-26f8-40b1-bcfc-aa758261930b
 :END:
 #+TITLE: Formations Doctorat
-#+filetags: courses
+#+filetags: courses THESE
 
 - tags :: [[id:ebb4a160-db74-41df-925c-fd4c17f3b82b][These]]
 
@@ -26,8 +26,10 @@
 |   | Activité                      | Heures    |
 |---+-------------------------------+-----------|
 |   | [[id:7f1ee860-f46a-4230-9b37-68aed09ad5ca][Formation Ethique]]             | 3         |
-|   | [[id:02533248-4ada-4bac-a851-cf543cf9dee3][Law and Intellectual Property]] | 9* 2      |
-| / | Formations                    | 21        |
+|   | [[id:02533248-4ada-4bac-a851-cf543cf9dee3][Law and Intellectual Property]] | 9*2       |
+|   | [[id:cfc2d482-df86-4248-a919-fdf1aa535793][Harassment at Work]]            | 6         |
+|   | [[id:99735535-5c2d-41c0-be8b-845e19b76dc0][Animer un compte Twitter]]      | 6         |
+| / | Formations                    | 33        |
 | ^ |                               | transv    |
 |---+-------------------------------+-----------|
 |   | AUTO 2020/2021                | 18 * 2/3  |
@@ -36,11 +38,11 @@
 | / | Vacation 2020-2021            | 26.666667 |
 | ^ |                               | ens2020   |
 |---+-------------------------------+-----------|
-|   | AUTO 2021/2022                | 18 * 2/3  |
-| / | Vacation 2021-2022            | 12        |
+|   | AUTO 2021/2022                | 6 * 2/3   |
+| / | Vacation 2021-2022            | 4         |
 | ^ |                               | ens2021   |
 |---+-------------------------------+-----------|
-|   | Total                         | 59.666667 |
+|   | Total                         | 63.666667 |
 | ^ |                               | Total     |
 #+TBLFM: $Total=$transv+$ens2020+$ens2021::$transv=vsum(@I..@-1)::$ens2020=vmin([vsum(@II..@-1),32])::$ens2021=vmin([vsum(@III..@-1),32])
 
