@@ -19,256 +19,254 @@
 
 * Articles
 ** LIRE [0/86]
-*** READING AfsiEtAl2020 | [[note:AfsiEtAl2020][org]] [[pdf:AfsiEtAl2020][pdf]] [[mobi:AfsiEtAl2020][mobi]] [[epub:AfsiEtAl2020][epub]]
-
-- State "READING"    from "TO-READ"    [2021-11-30 mar. 17:08]
-*** TO-READ [#A] ArauzEtAl2021 | [[note:ArauzEtAl2021][org]] [[pdf:ArauzEtAl2021][pdf]] [[mobi:ArauzEtAl2021][mobi]] [[epub:ArauzEtAl2021][epub]]
-*** TO-READ [#A] OkajimaFujinami2021 | [[note:OkajimaFujinami2021][org]] [[pdf:OkajimaFujinami2021][pdf]] [[mobi:OkajimaFujinami2021][mobi]] [[epub:OkajimaFujinami2021][epub]]
-*** TO-READ [#A] RollEtAl2004 | [[note:RollEtAl2004][org]] [[pdf:RollEtAl2004][pdf]] [[mobi:RollEtAl2004][mobi]] [[epub:RollEtAl2004][epub]]
-*** TO-READ [#A] WangIshii2019 | [[note:WangIshii2019][org]] [[pdf:WangIshii2019][pdf]] [[mobi:WangIshii2019][mobi]] [[epub:WangIshii2019][epub]]
-*** TO-READ ZhangFeng2021 | [[note:ZhangFeng2021][org]] ZhangFeng2021 [[mobi:ZhangFeng2021][mobi]] [[epub:ZhangFeng2021][epub]]
-*** TO-READ LuEtAl2020 | [[note:LuEtAl2020][org]] [[pdf:LuEtAl2020][pdf]] [[mobi:LuEtAl2020][mobi]] [[epub:LuEtAl2020][epub]]
-*** TO-READ LorenzenEtAl2019 | [[note:LorenzenEtAl2019][org]] [[pdf:LorenzenEtAl2019][pdf]] [[mobi:LorenzenEtAl2019][mobi]] [[epub:LorenzenEtAl2019][epub]]
-*** TO-READ VidalEtAl2005 | [[note:VidalEtAl2005][org]] [[pdf:VidalEtAl2005][pdf]] [[mobi:VidalEtAl2005][mobi]] [[epub:VidalEtAl2005][epub]]
+*** TO-READ McNamaraEtAl2016 | [[note:McNamaraEtAl2016][org]] [[pdf:McNamaraEtAl2016][pdf]]
+*** TO-READ [#A] ArauzEtAl2021 | [[note:ArauzEtAl2021][org]] [[pdf:ArauzEtAl2021][pdf]]
+*** TO-READ [#A] OkajimaFujinami2021 | [[note:OkajimaFujinami2021][org]] [[pdf:OkajimaFujinami2021][pdf]]
+*** TO-READ [#A] RollEtAl2004 | [[note:RollEtAl2004][org]] [[pdf:RollEtAl2004][pdf]]
+*** TO-READ [#A] WangIshii2019 | [[note:WangIshii2019][org]] [[pdf:WangIshii2019][pdf]]
+*** TO-READ ZhangFeng2021 | [[note:ZhangFeng2021][org]] ZhangFeng2021
+*** TO-READ LuEtAl2020 | [[note:LuEtAl2020][org]] [[pdf:LuEtAl2020][pdf]]
+*** TO-READ LorenzenEtAl2019 | [[note:LorenzenEtAl2019][org]] [[pdf:LorenzenEtAl2019][pdf]]
+*** TO-READ VidalEtAl2005 | [[note:VidalEtAl2005][org]] [[pdf:VidalEtAl2005][pdf]]
 :PROPERTIES:
 :ID:       91214f28-7bb6-465a-9336-8fafcfaabf16
 :END:
 
-*** TO-READ LuZavala2021 | [[note:LuZavala2021][org]] [[pdf:LuZavala2021][pdf]] [[mobi:LuZavala2021][mobi]] [[epub:LuZavala2021][epub]]
-*** TO-READ [#A] SchildbachMorari2015 | [[note:SchildbachMorari2015][org]] [[pdf:SchildbachMorari2015][pdf]] [[mobi:SchildbachMorari2015][mobi]] [[epub:SchildbachMorari2015][epub]]
+*** TO-READ LuZavala2021 | [[note:LuZavala2021][org]] [[pdf:LuZavala2021][pdf]]
+*** TO-READ [#A] SchildbachMorari2015 | [[note:SchildbachMorari2015][org]] [[pdf:SchildbachMorari2015][pdf]]
 
-*** TO-READ KshetriVoas2017 | [[note:KshetriVoas2017][org]] [[pdf:KshetriVoas2017][pdf]] [[mobi:KshetriVoas2017][mobi]] [[epub:KshetriVoas2017][epub]]
-*** TO-READ SimonEtAl2012 | [[note:SimonEtAl2012][org]] [[pdf:SimonEtAl2012][pdf]] [[mobi:SimonEtAl2012][mobi]] [[epub:SimonEtAl2012][epub]]
-*** TO-READ WangEtAl2021 | [[note:WangEtAl2021][org]] [[pdf:WangEtAl2021][pdf]] [[mobi:WangEtAl2021][mobi]] [[epub:WangEtAl2021][epub]]
-*** TO-READ ZhuEtAl2011 | [[note:ZhuEtAl2011][org]] [[pdf:ZhuEtAl2011][pdf]] [[mobi:ZhuEtAl2011][mobi]] [[epub:ZhuEtAl2011][epub]]
-*** TO-READ DeconinckEtAl2008 | [[note:DeconinckEtAl2008][org]] [[pdf:DeconinckEtAl2008][pdf]] [[mobi:DeconinckEtAl2008][mobi]] [[epub:DeconinckEtAl2008][epub]]
-*** TO-READ Bemporad2003 | [[note:Bemporad2003][org]] [[pdf:Bemporad2003][pdf]]  [[mobi:Bemporad2003][mobi]] [[epub:Bemporad2003][epub]]
-*** TO-READ RamosEtAl2021 | [[note:RamosEtAl2021][org]] [[pdf:RamosEtAl2021][pdf]] [[mobi:RamosEtAl2021][mobi]] [[epub:RamosEtAl2021][epub]]
-*** TO-READ AlavianiElia2020 | [[note:AlavianiElia2020][org]] [[pdf:AlavianiElia2020][pdf]] [[mobi:AlavianiElia2020][mobi]] [[epub:AlavianiElia2020][epub]]
-*** TO-READ DarivianakisEtAl2020 | [[note:DarivianakisEtAl2020][org]] [[pdf:DarivianakisEtAl2020][pdf]] [[mobi:DarivianakisEtAl2020][mobi]] [[epub:DarivianakisEtAl2020][epub]]
-*** TO-READ RezaieniaEtAl2020 | [[note:RezaieniaEtAl2020][org]] [[pdf:RezaieniaEtAl2020][pdf]] [[mobi:RezaieniaEtAl2020][mobi]] [[epub:RezaieniaEtAl2020][epub]]
-*** TO-READ WangBoyd2010 | [[note:WangBoyd2010][org]] [[pdf:WangBoyd2010][pdf]] [[mobi:WangBoyd2010][mobi]] [[epub:WangBoyd2010][epub]]
-*** TO-READ Masopust2020 | [[note:Masopust2020][org]] [[pdf:Masopust2020][pdf]] [[mobi:Masopust2020][mobi]] [[epub:Masopust2020][epub]]
-*** TO-READ AlghunaimSayed2020 | [[note:AlghunaimSayed2020][org]] [[pdf:AlghunaimSayed2020][pdf]] [[mobi:AlghunaimSayed2020][mobi]] [[epub:AlghunaimSayed2020][epub]]
-*** TO-READ BuergerEtAl2014 | [[note:BuergerEtAl2014][org]] [[pdf:BuergerEtAl2014][pdf]] [[mobi:BuergerEtAl2014][mobi]] [[epub:BuergerEtAl2014][epub]]
-*** TO-READ ChanfreutEtAl2018 | [[note:ChanfreutEtAl2018][org]] [[pdf:ChanfreutEtAl2018][pdf]] [[mobi:ChanfreutEtAl2018][mobi]] [[epub:ChanfreutEtAl2018][epub]]
+*** TO-READ KshetriVoas2017 | [[note:KshetriVoas2017][org]] [[pdf:KshetriVoas2017][pdf]]
+*** TO-READ SimonEtAl2012 | [[note:SimonEtAl2012][org]] [[pdf:SimonEtAl2012][pdf]]
+*** TO-READ WangEtAl2021 | [[note:WangEtAl2021][org]] [[pdf:WangEtAl2021][pdf]]
+*** TO-READ ZhuEtAl2011 | [[note:ZhuEtAl2011][org]] [[pdf:ZhuEtAl2011][pdf]]
+*** TO-READ DeconinckEtAl2008 | [[note:DeconinckEtAl2008][org]] [[pdf:DeconinckEtAl2008][pdf]]
+*** TO-READ Bemporad2003 | [[note:Bemporad2003][org]] [[pdf:Bemporad2003][pdf]]
+*** TO-READ RamosEtAl2021 | [[note:RamosEtAl2021][org]] [[pdf:RamosEtAl2021][pdf]]
+*** TO-READ AlavianiElia2020 | [[note:AlavianiElia2020][org]] [[pdf:AlavianiElia2020][pdf]]
+*** TO-READ DarivianakisEtAl2020 | [[note:DarivianakisEtAl2020][org]] [[pdf:DarivianakisEtAl2020][pdf]]
+*** TO-READ RezaieniaEtAl2020 | [[note:RezaieniaEtAl2020][org]] [[pdf:RezaieniaEtAl2020][pdf]]
+*** TO-READ WangBoyd2010 | [[note:WangBoyd2010][org]] [[pdf:WangBoyd2010][pdf]]
+*** TO-READ Masopust2020 | [[note:Masopust2020][org]] [[pdf:Masopust2020][pdf]]
+*** TO-READ AlghunaimSayed2020 | [[note:AlghunaimSayed2020][org]] [[pdf:AlghunaimSayed2020][pdf]]
+*** TO-READ BuergerEtAl2014 | [[note:BuergerEtAl2014][org]] [[pdf:BuergerEtAl2014][pdf]]
+*** TO-READ ChanfreutEtAl2018 | [[note:ChanfreutEtAl2018][org]] [[pdf:ChanfreutEtAl2018][pdf]]
  - Show vulnerabilites in a dMPC structure using Jacobi-Gauss decomposition
-*** TO-READ ChatelEtAl2017 | [[note:ChatelEtAl2017][org]] [[pdf:ChatelEtAl2017][pdf]] [[mobi:ChatelEtAl2017][mobi]] [[epub:ChatelEtAl2017][epub]]
-*** TO-READ ChristofidesEtAl2013 | [[note:ChristofidesEtAl2013][org]] [[pdf:ChristofidesEtAl2013][pdf]] [[mobi:ChristofidesEtAl2013][mobi]] [[epub:ChristofidesEtAl2013][epub]]
-*** TO-READ Domahidi2013 | [[note:Domahidi2013][org]] [[pdf:Domahidi2013][pdf]] [[mobi:Domahidi2013][mobi]] [[epub:Domahidi2013][epub]]
-*** TO-READ ConejoEtAl2006 | [[note:ConejoEtAl2006][org]] [[pdf:ConejoEtAl2006][pdf]] [[mobi:ConejoEtAl2006][mobi]] [[epub:ConejoEtAl2006][epub]]
-*** TO-READ DaiEtAl2017 | [[note:DaiEtAl2017][org]] [[pdf:DaiEtAl2017][pdf]] [[mobi:DaiEtAl2017][mobi]] [[epub:DaiEtAl2017][epub]]
-*** TO-READ DoanEtAl2011 | [[note:DoanEtAl2011][org]] [[pdf:DoanEtAl2011][pdf]] [[mobi:DoanEtAl2011][mobi]] [[epub:DoanEtAl2011][epub]]
-*** TO-READ ElEtAl2019 | [[note:ElEtAl2019][org]] [[pdf:ElEtAl2019][pdf]] [[mobi:ElEtAl2019][mobi]] [[epub:ElEtAl2019][epub]]
-*** TO-READ Forte2010 | [[note:Forte2010][org]] [[pdf:Forte2010][pdf]] [[mobi:Forte2010][mobi]] [[epub:Forte2010][epub]]
-*** TO-READ Gallissot2012 | [[note:Gallissot2012][org]] [[pdf:Gallissot2012][pdf]] [[mobi:Gallissot2012][mobi]] [[epub:Gallissot2012][epub]]
-*** TO-READ GarciaEtAl1989 | [[note:GarciaEtAl1989][org]] [[pdf:GarciaEtAl1989][pdf]] [[mobi:GarciaEtAl1989][mobi]] [[epub:GarciaEtAl1989][epub]]
-*** TO-READ KeelBhattacharyya1997 | [[note:KeelBhattacharyya1997][org]] [[pdf:KeelBhattacharyya1997][pdf]] [[mobi:KeelBhattacharyya1997][mobi]] [[epub:KeelBhattacharyya1997][epub]]
-*** TO-READ HerreraEtAl2014 | [[note:HerreraEtAl2014][org]] [[pdf:HerreraEtAl2014][pdf]] [[mobi:HerreraEtAl2014][mobi]] [[epub:HerreraEtAl2014][epub]]
-*** TO-READ HerreraEtAl2015 | [[note:HerreraEtAl2015][org]] [[pdf:HerreraEtAl2015][pdf]] [[mobi:HerreraEtAl2015][mobi]] [[epub:HerreraEtAl2015][epub]]
-*** TO-READ KuwataHow2011 | [[note:KuwataHow2011][org]] [[pdf:KuwataHow2011][pdf]] [[mobi:KuwataHow2011][mobi]] [[epub:KuwataHow2011][epub]]
-*** TO-READ LatrachEtAl2016 | [[note:LatrachEtAl2016][org]] [[pdf:LatrachEtAl2016][pdf]] [[mobi:LatrachEtAl2016][mobi]] [[epub:LatrachEtAl2016][epub]]
-*** TO-READ LeEtAl2014 | [[note:LeEtAl2014][org]] [[pdf:LeEtAl2014][pdf]] [[mobi:LeEtAl2014][mobi]] [[epub:LeEtAl2014][epub]]
-*** TO-READ Li2019 | [[note:Li2019][org]] [[pdf:Li2019][pdf]] [[mobi:Li2019][mobi]] [[epub:Li2019][epub]]
-*** TO-READ LiaoLou2016 | [[note:LiaoLou2016][org]] [[pdf:LiaoLou2016][pdf]] [[mobi:LiaoLou2016][mobi]] [[epub:LiaoLou2016][epub]]
-*** TO-READ LiuBai2018 | [[note:LiuBai2018][org]] [[pdf:LiuBai2018][pdf]] [[mobi:LiuBai2018][mobi]] [[epub:LiuBai2018][epub]]
-*** TO-READ LoboEtAl1998 | [[note:LoboEtAl1998][org]] [[pdf:LoboEtAl1998][pdf]] [[mobi:LoboEtAl1998][mobi]] [[epub:LoboEtAl1998][epub]]
-*** TO-READ MagnussonEtAl2018 | [[note:MagnussonEtAl2018][org]] [[pdf:MagnussonEtAl2018][pdf]] [[mobi:MagnussonEtAl2018][mobi]] [[epub:MagnussonEtAl2018][epub]]
-*** TO-READ MorariaLee1999 | [[note:MorariaLee1999][org]] [[pdf:MorariaLee1999][pdf]] [[mobi:MorariaLee1999][mobi]] [[epub:MorariaLee1999][epub]]
-*** TO-READ NegenbornMaestre2014 | [[note:NegenbornMaestre2014][org]] [[pdf:NegenbornMaestre2014][pdf]] [[mobi:NegenbornMaestre2014][mobi]] [[epub:NegenbornMaestre2014][epub]]
-*** TO-READ PaulenEtAl2016 | [[note:PaulenEtAl2016][org]] [[pdf:PaulenEtAl2016][pdf]] [[mobi:PaulenEtAl2016][mobi]] [[epub:PaulenEtAl2016][epub]]
-*** TO-READ PenetEtAl2016 | [[note:PenetEtAl2016][org]] [[pdf:PenetEtAl2016][pdf]] [[mobi:PenetEtAl2016][mobi]] [[epub:PenetEtAl2016][epub]]
-*** TO-READ PflaumEtAl2014 | [[note:PflaumEtAl2014][org]] [[pdf:PflaumEtAl2014][pdf]] [[mobi:PflaumEtAl2014][mobi]] [[epub:PflaumEtAl2014][epub]]
-*** TO-READ RuiFanEtAl2015 | [[note:RuiFanEtAl2015][org]] [[pdf:RuiFanEtAl2015][pdf]] [[mobi:RuiFanEtAl2015][mobi]] [[epub:RuiFanEtAl2015][epub]]
-*** TO-READ SalehghaffariKhorrami2019 | [[note:SalehghaffariKhorrami2019][org]] [[pdf:SalehghaffariKhorrami2019][pdf]] [[mobi:SalehghaffariKhorrami2019][mobi]] [[epub:SalehghaffariKhorrami2019][epub]]
-*** TO-READ SeungEtAl2013 | [[note:SeungEtAl2013][org]] [[pdf:SeungEtAl2013][pdf]] [[mobi:SeungEtAl2013][mobi]] [[epub:SeungEtAl2013][epub]]
-*** TO-READ WeiEtAl2017 | [[note:WeiEtAl2017][org]] [[pdf:WeiEtAl2017][pdf]] [[mobi:WeiEtAl2017][mobi]] [[epub:WeiEtAl2017][epub]]
-*** TO-READ YildirimEtAl2020 | [[note:YildirimEtAl2020][org]] [[pdf:YildirimEtAl2020][pdf]] [[mobi:YildirimEtAl2020][mobi]] [[epub:YildirimEtAl2020][epub]]
-*** TO-READ YingEtAl2018 | [[file:~/org/YingEtAl2018.org][org]] [[pdf:YingEtAl2018][pdf]] [[mobi:YingEtAl2018][mobi]] [[epub:YingEtAl2018][epub]]
-*** TO-READ ZangEtAl2017 | [[note:ZangEtAl2017][org]] [[pdf:ZangEtAl2017][pdf]] [[mobi:ZangEtAl2017][mobi]] [[epub:ZangEtAl2017][epub]]
-*** TO-READ ZhengEtAl2006 | [[note:ZhengEtAl2006][org]] [[pdf:ZhengEtAl2006][pdf]] [[mobi:ZhengEtAl2006][mobi]] [[epub:ZhengEtAl2006][epub]]
-*** TO-READ ZhengEtAl2010 | [[note:ZhengEtAl2010][org]] [[pdf:ZhengEtAl2010][pdf]] [[mobi:ZhengEtAl2010][mobi]] [[epub:ZhengEtAl2010][epub]]
-*** TO-READ DoerflerEtAl2019 | [[note:DoerflerEtAl2019][org]] [[pdf:DoerflerEtAl2019][pdf]] [[mobi:DoerflerEtAl2019][mobi]] [[epub:DoerflerEtAl2019][epub]]
-*** TO-READ PasqualettiEtAl2012 | [[note:PasqualettiEtAl2012][org]] [[pdf:PasqualettiEtAl2012][pdf]] [[mobi:PasqualettiEtAl2012][mobi]] [[epub:PasqualettiEtAl2012][epub]]
-*** TO-READ SundaramHadjicostis2011 | [[note:SundaramHadjicostis2011][org]] [[pdf:SundaramHadjicostis2011][pdf]] [[mobi:SundaramHadjicostis2011][mobi]] [[epub:SundaramHadjicostis2011][epub]]
-*** TO-READ Bouckaert2014 | [[note:Bouckaert2014][org]] [[pdf:Bouckaert2014][pdf]] [[mobi:Bouckaert2014][mobi]] [[epub:Bouckaert2014][epub]]
-*** TO-READ SatoTakeda2020 | [[note:SatoTakeda2020][org]] [[pdf:SatoTakeda2020][pdf]] [[mobi:SatoTakeda2020][mobi]] [[epub:SatoTakeda2020][epub]]
-*** TO-READ Mattioni2020 | [[note:Mattioni2020][org]] [[pdf:Mattioni2020][pdf]] [[mobi:Mattioni2020][mobi]] [[epub:Mattioni2020][epub]]
-*** TO-READ BarboniEtAl2020 | [[note:BarboniEtAl2020][org]] [[pdf:BarboniEtAl2020][pdf]] [[mobi:BarboniEtAl2020][mobi]] [[epub:BarboniEtAl2020][epub]]
-*** TO-READ SuShahrampour2020 | [[note:SuShahrampour2020][org]] [[pdf:SuShahrampour2020][pdf]] [[mobi:SuShahrampour2020][mobi]] [[epub:SuShahrampour2020][epub]]
-*** TO-READ GalloEtAl2020 | [[note:GalloEtAl2020][org]] [[pdf:GalloEtAl2020][pdf]] [[mobi:GalloEtAl2020][mobi]] [[epub:GalloEtAl2020][epub]]
-*** TO-READ YuXiong2020 | [[note:YuXiong2020][org]] [[pdf:YuXiong2020][pdf]] [[mobi:YuXiong2020][mobi]] [[epub:YuXiong2020][epub]]
-*** TO-READ YuXiong2020a | [[note:YuXiong2020a][org]] [[pdf:YuXiong2020a][pdf]] [[mobi:YuXiong2020a][mobi]] [[epub:YuXiong2020a][epub]]
-*** TO-READ DengWen2020 | [[note:DengWen2020][org]] [[pdf:DengWen2020][pdf]] [[mobi:DengWen2020][mobi]] [[epub:DengWen2020][epub]]
-*** TO-READ LiuJiang2020 | [[note:LiuJiang2020][org]] [[pdf:LiuJiang2020][pdf]] [[mobi:LiuJiang2020][mobi]] [[epub:LiuJiang2020][epub]]
-*** TO-READ ZhaoEtAl2020 | [[note:ZhaoEtAl2020][org]] [[pdf:ZhaoEtAl2020][pdf]] [[mobi:ZhaoEtAl2020][mobi]] [[epub:ZhaoEtAl2020][epub]]
-*** TO-READ LiuDong2020 | [[note:LiuDong2020][org]] [[pdf:LiuDong2020][pdf]] [[mobi:LiuDong2020][mobi]] [[epub:LiuDong2020][epub]]
-*** TO-READ ChenLiu2020 | [[note:ChenLiu2020][org]] [[pdf:ChenLiu2020][pdf]] [[mobi:ChenLiu2020][mobi]] [[epub:ChenLiu2020][epub]]
-*** TO-READ LiuEtAl2020 | [[note:LiuEtAl2020][org]] [[pdf:LiuEtAl2020][pdf]] [[mobi:LiuEtAl2020][mobi]] [[epub:LiuEtAl2020][epub]]
-*** TO-READ Hespanha2009 | [[note:Hespanha2009][org]] [[pdf:Hespanha2009][pdf]] [[mobi:Hespanha2009][mobi]] [[epub:Hespanha2009][epub]]
-*** TO-READ WangEtAl2015 | [[note:WangEtAl2015][org]] [[pdf:WangEtAl2015][pdf]] [[mobi:WangEtAl2015][mobi]] [[epub:WangEtAl2015][epub]]
-*** TO-READ BaillieulAntsaklis2007 | [[note:BaillieulAntsaklis2007][org]] [[pdf:BaillieulAntsaklis2007][pdf]] [[mobi:BaillieulAntsaklis2007][mobi]] [[epub:BaillieulAntsaklis2007][epub]]
-*** TO-READ MoyneTilbury2007 | [[note:MoyneTilbury2007][org]] [[pdf:MoyneTilbury2007][pdf]] [[mobi:MoyneTilbury2007][mobi]] [[epub:MoyneTilbury2007][epub]]
-*** TO-READ Baillieul2002 | [[note:Baillieul2002][org]] [[pdf:Baillieul2002][pdf]] [[mobi:Baillieul2002][mobi]] [[epub:Baillieul2002][epub]]
-*** TO-READ ZhangEtAl2001 | [[note:ZhangEtAl2001][org]] [[pdf:ZhangEtAl2001][pdf]] [[mobi:ZhangEtAl2001][mobi]] [[epub:ZhangEtAl2001][epub]]
-*** TO-READ HespanhaEtAl2007 | [[note:HespanhaEtAl2007][org]] [[pdf:HespanhaEtAl2007][pdf]] [[mobi:HespanhaEtAl2007][mobi]] [[epub:HespanhaEtAl2007][epub]]
-*** TO-READ ZecevicSiljak2012 | [[note:ZecevicSiljak2012][org]] [[pdf:ZecevicSiljak2012][pdf]] [[mobi:ZecevicSiljak2012][mobi]] [[epub:ZecevicSiljak2012][epub]]
+*** TO-READ ChatelEtAl2017 | [[note:ChatelEtAl2017][org]] [[pdf:ChatelEtAl2017][pdf]]
+*** TO-READ ChristofidesEtAl2013 | [[note:ChristofidesEtAl2013][org]] [[pdf:ChristofidesEtAl2013][pdf]]
+*** TO-READ Domahidi2013 | [[note:Domahidi2013][org]] [[pdf:Domahidi2013][pdf]]
+*** TO-READ ConejoEtAl2006 | [[note:ConejoEtAl2006][org]] [[pdf:ConejoEtAl2006][pdf]]
+*** TO-READ DaiEtAl2017 | [[note:DaiEtAl2017][org]] [[pdf:DaiEtAl2017][pdf]]
+*** TO-READ DoanEtAl2011 | [[note:DoanEtAl2011][org]] [[pdf:DoanEtAl2011][pdf]]
+*** TO-READ ElEtAl2019 | [[note:ElEtAl2019][org]] [[pdf:ElEtAl2019][pdf]]
+*** TO-READ Forte2010 | [[note:Forte2010][org]] [[pdf:Forte2010][pdf]]
+*** TO-READ Gallissot2012 | [[note:Gallissot2012][org]] [[pdf:Gallissot2012][pdf]]
+*** TO-READ GarciaEtAl1989 | [[note:GarciaEtAl1989][org]] [[pdf:GarciaEtAl1989][pdf]]
+*** TO-READ KeelBhattacharyya1997 | [[note:KeelBhattacharyya1997][org]] [[pdf:KeelBhattacharyya1997][pdf]]
+*** TO-READ HerreraEtAl2014 | [[note:HerreraEtAl2014][org]] [[pdf:HerreraEtAl2014][pdf]]
+*** TO-READ HerreraEtAl2015 | [[note:HerreraEtAl2015][org]] [[pdf:HerreraEtAl2015][pdf]]
+*** TO-READ KuwataHow2011 | [[note:KuwataHow2011][org]] [[pdf:KuwataHow2011][pdf]]
+*** TO-READ LatrachEtAl2016 | [[note:LatrachEtAl2016][org]] [[pdf:LatrachEtAl2016][pdf]]
+*** TO-READ LeEtAl2014 | [[note:LeEtAl2014][org]] [[pdf:LeEtAl2014][pdf]]
+*** TO-READ Li2019 | [[note:Li2019][org]] [[pdf:Li2019][pdf]]
+*** TO-READ LiaoLou2016 | [[note:LiaoLou2016][org]] [[pdf:LiaoLou2016][pdf]]
+*** TO-READ LiuBai2018 | [[note:LiuBai2018][org]] [[pdf:LiuBai2018][pdf]]
+*** TO-READ LoboEtAl1998 | [[note:LoboEtAl1998][org]] [[pdf:LoboEtAl1998][pdf]]
+*** TO-READ MagnussonEtAl2018 | [[note:MagnussonEtAl2018][org]] [[pdf:MagnussonEtAl2018][pdf]]
+*** TO-READ MorariaLee1999 | [[note:MorariaLee1999][org]] [[pdf:MorariaLee1999][pdf]]
+*** TO-READ NegenbornMaestre2014 | [[note:NegenbornMaestre2014][org]] [[pdf:NegenbornMaestre2014][pdf]]
+*** TO-READ PaulenEtAl2016 | [[note:PaulenEtAl2016][org]] [[pdf:PaulenEtAl2016][pdf]]
+*** TO-READ PenetEtAl2016 | [[note:PenetEtAl2016][org]] [[pdf:PenetEtAl2016][pdf]]
+*** TO-READ PflaumEtAl2014 | [[note:PflaumEtAl2014][org]] [[pdf:PflaumEtAl2014][pdf]]
+*** TO-READ RuiFanEtAl2015 | [[note:RuiFanEtAl2015][org]] [[pdf:RuiFanEtAl2015][pdf]]
+*** TO-READ SalehghaffariKhorrami2019 | [[note:SalehghaffariKhorrami2019][org]] [[pdf:SalehghaffariKhorrami2019][pdf]]
+*** TO-READ SeungEtAl2013 | [[note:SeungEtAl2013][org]] [[pdf:SeungEtAl2013][pdf]]
+*** TO-READ WeiEtAl2017 | [[note:WeiEtAl2017][org]] [[pdf:WeiEtAl2017][pdf]]
+*** TO-READ YildirimEtAl2020 | [[note:YildirimEtAl2020][org]] [[pdf:YildirimEtAl2020][pdf]]
+*** TO-READ YingEtAl2018 | [[file:~/org/YingEtAl2018.org][org]] [[pdf:YingEtAl2018][pdf]]
+*** TO-READ ZangEtAl2017 | [[note:ZangEtAl2017][org]] [[pdf:ZangEtAl2017][pdf]]
+*** TO-READ ZhengEtAl2006 | [[note:ZhengEtAl2006][org]] [[pdf:ZhengEtAl2006][pdf]]
+*** TO-READ ZhengEtAl2010 | [[note:ZhengEtAl2010][org]] [[pdf:ZhengEtAl2010][pdf]]
+*** TO-READ DoerflerEtAl2019 | [[note:DoerflerEtAl2019][org]] [[pdf:DoerflerEtAl2019][pdf]]
+*** TO-READ PasqualettiEtAl2012 | [[note:PasqualettiEtAl2012][org]] [[pdf:PasqualettiEtAl2012][pdf]]
+*** TO-READ SundaramHadjicostis2011 | [[note:SundaramHadjicostis2011][org]] [[pdf:SundaramHadjicostis2011][pdf]]
+*** TO-READ Bouckaert2014 | [[note:Bouckaert2014][org]] [[pdf:Bouckaert2014][pdf]]
+*** TO-READ SatoTakeda2020 | [[note:SatoTakeda2020][org]] [[pdf:SatoTakeda2020][pdf]]
+*** TO-READ Mattioni2020 | [[note:Mattioni2020][org]] [[pdf:Mattioni2020][pdf]]
+*** TO-READ BarboniEtAl2020 | [[note:BarboniEtAl2020][org]] [[pdf:BarboniEtAl2020][pdf]]
+*** TO-READ SuShahrampour2020 | [[note:SuShahrampour2020][org]] [[pdf:SuShahrampour2020][pdf]]
+*** TO-READ GalloEtAl2020 | [[note:GalloEtAl2020][org]] [[pdf:GalloEtAl2020][pdf]]
+*** TO-READ YuXiong2020 | [[note:YuXiong2020][org]] [[pdf:YuXiong2020][pdf]]
+*** TO-READ YuXiong2020a | [[note:YuXiong2020a][org]] [[pdf:YuXiong2020a][pdf]]
+*** TO-READ DengWen2020 | [[note:DengWen2020][org]] [[pdf:DengWen2020][pdf]]
+*** TO-READ LiuJiang2020 | [[note:LiuJiang2020][org]] [[pdf:LiuJiang2020][pdf]]
+*** TO-READ ZhaoEtAl2020 | [[note:ZhaoEtAl2020][org]] [[pdf:ZhaoEtAl2020][pdf]]
+*** TO-READ LiuDong2020 | [[note:LiuDong2020][org]] [[pdf:LiuDong2020][pdf]]
+*** TO-READ ChenLiu2020 | [[note:ChenLiu2020][org]] [[pdf:ChenLiu2020][pdf]]
+*** TO-READ LiuEtAl2020 | [[note:LiuEtAl2020][org]] [[pdf:LiuEtAl2020][pdf]]
+*** TO-READ Hespanha2009 | [[note:Hespanha2009][org]] [[pdf:Hespanha2009][pdf]]
+*** TO-READ WangEtAl2015 | [[note:WangEtAl2015][org]] [[pdf:WangEtAl2015][pdf]]
+*** TO-READ BaillieulAntsaklis2007 | [[note:BaillieulAntsaklis2007][org]] [[pdf:BaillieulAntsaklis2007][pdf]]
+*** TO-READ MoyneTilbury2007 | [[note:MoyneTilbury2007][org]] [[pdf:MoyneTilbury2007][pdf]]
+*** TO-READ Baillieul2002 | [[note:Baillieul2002][org]] [[pdf:Baillieul2002][pdf]]
+*** TO-READ ZhangEtAl2001 | [[note:ZhangEtAl2001][org]] [[pdf:ZhangEtAl2001][pdf]]
+*** TO-READ HespanhaEtAl2007 | [[note:HespanhaEtAl2007][org]] [[pdf:HespanhaEtAl2007][pdf]]
+*** TO-READ ZecevicSiljak2012 | [[note:ZecevicSiljak2012][org]] [[pdf:ZecevicSiljak2012][pdf]]
 
-** LU [61/70]
-*** READ Ouyang2020 | [[note:Ouyang2020][org]] [[pdf:Ouyang2020][pdf]] [[mobi:Ouyang2020][mobi]] [[epub:Ouyang2020][epub]]
+** LU [62/72]
+*** READ Ouyang2020 | [[note:Ouyang2020][org]] [[pdf:Ouyang2020][pdf]]
 + Projection onto intersections of halfspaces and hyperplanes
-*** READ ShiromotoEtAl2019 | [[note:ShiromotoEtAl2019][org]] [[pdf:ShiromotoEtAl2019][pdf]] [[mobi:ShiromotoEtAl2019][mobi]] [[epub:ShiromotoEtAl2019][epub]]
+*** READ ShiromotoEtAl2019 | [[note:ShiromotoEtAl2019][org]] [[pdf:ShiromotoEtAl2019][pdf]]
 + Use of separable metric structures to distributed nonlinear control
-*** READ BoyleDykstra1986 | [[note:BoyleDykstra1986][org]] [[pdf:BoyleDykstra1986][pdf]] [[mobi:BoyleDykstra1986][mobi]] [[epub:BoyleDykstra1986][epub]]
+*** READ BoyleDykstra1986 | [[note:BoyleDykstra1986][org]] [[pdf:BoyleDykstra1986][pdf]]
 + Algorithm to project onto intersection of halfspaces
 pag 37
-*** READ TanikawaMukai1983a | [[note:TanikawaMukai1983a][org]] [[pdf:TanikawaMukai1983][pdf]] [[mobi:TanikawaMukai1983][mobi]] [[epub:TanikawaMukai1983][epub]]
+*** READ TanikawaMukai1983a | [[note:TanikawaMukai1983a][org]] [[pdf:TanikawaMukai1983][pdf]]
 + Creation of new lagrangian to convexify the lagrangian function, reducing decomposition to two levels of iterative optimization
-*** READ RajeshEtAl2013 | [[note:RajeshEtAl2013][org]] [[pdf:RajeshEtAl2013][pdf]] [[mobi:RajeshEtAl2013][mobi]] [[epub:RajeshEtAl2013][epub]]
+*** READ RajeshEtAl2013 | [[note:RajeshEtAl2013][org]] [[pdf:RajeshEtAl2013][pdf]]
 + Framework for MAS with simulation in rural Indian micro-grid
-*** READ SujilKumar2017 | [[note:SujilKumar2017][org]] [[pdf:SujilKumar2017][pdf]] [[mobi:SujilKumar2017][mobi]] [[epub:SujilKumar2017][epub]]
+*** READ SujilKumar2017 | [[note:SujilKumar2017][org]] [[pdf:SujilKumar2017][pdf]]
 + Multi-agent based system simulated in the presence of different events
-*** READ KuzinEtAl2020 | [[note:KuzinEtAl2020][org]] [[pdf:KuzinEtAl2020][pdf]] [[mobi:KuzinEtAl2020][mobi]] [[epub:KuzinEtAl2020][epub]]
+*** READ KuzinEtAl2020 | [[note:KuzinEtAl2020][org]] [[pdf:KuzinEtAl2020][pdf]]
 + Use of multiple Raspberry Pis as HIL to simulate agents
-*** READ MendhamClarke2005 | [[note:MendhamClarke2005][org]] [[pdf:MendhamClarke2005][pdf]] [[mobi:MendhamClarke2005][mobi]] [[epub:MendhamClarke2005][epub]]
+*** READ MendhamClarke2005 | [[note:MendhamClarke2005][org]] [[pdf:MendhamClarke2005][pdf]]
 + Simulation environment of multi-agent system embedded into industry standard
-*** READ DigraPandey2013 | [[note:DigraPandey2013][org]] [[pdf:DigraPandey2013][pdf]] [[mobi:DigraPandey2013][mobi]] [[epub:DigraPandey2013][epub]]
+*** READ DigraPandey2013 | [[note:DigraPandey2013][org]] [[pdf:DigraPandey2013][pdf]]
 + Multi-agent based controller coordination of microgrid with critical loads under  normal, faulty and overload conditions.
-*** READ [#C] GuEtAl2016 | [[note:GuEtAl2016][org]] [[pdf:GuEtAl2016][pdf]] [[mobi:GuEtAl2016][mobi]] [[epub:GuEtAl2016][epub]]
+*** READ [#C] GuEtAl2016 | [[note:GuEtAl2016][org]] [[pdf:GuEtAl2016][pdf]]
 + Example microgrid system with a multi-agent system
-*** READ BourdaisEtAl2012 | [[note:BourdaisEtAl2012][org]] [[pdf:BourdaisEtAl2012][pdf]] [[mobi:BourdaisEtAl2012][mobi]] [[epub:BourdaisEtAl2012][epub]]
+*** READ BourdaisEtAl2012 | [[note:BourdaisEtAl2012][org]] [[pdf:BourdaisEtAl2012][pdf]]
 + Distributed MPC (Dual Decomposition) for continuous systems controlled using discrete inputs
-*** READ [#A] MukherjeeZelazo2019 | [[note:MukherjeeZelazo2019][org]] [[pdf:MukherjeeZelazo2019][pdf]] [[mobi:MukherjeeZelazo2019][mobi]] [[epub:MukherjeeZelazo2019][epub]]
+*** READ [#A] MukherjeeZelazo2019 | [[note:MukherjeeZelazo2019][org]] [[pdf:MukherjeeZelazo2019][pdf]]
 + Uses of Kharitonov's Theorem to study condition for consensus of $m$-th order linear uncertain interval plants
 # ** READ BlanchardEtAl2008
-# [[note:BlanchardEtAl2008][org]] [[pdf:BlanchardEtAl2008][pdf]] [[mobi:BlanchardEtAl2008][mobi]] [[epub:BlanchardEtAl2008][epub]]
+# [[note:BlanchardEtAl2008][org]] [[pdf:BlanchardEtAl2008][pdf]]
 # + Use EKF to update polynomial chaos
-*** READ LiceagaCastroEtAl2015 | [[note:Liceaga-CastroEtAl2015][org]] [[pdf:Liceaga-CastroEtAl2015][pdf]] [[mobi:Liceaga-CastroEtAl2015][mobi]] [[epub:Liceaga-CastroEtAl2015][epub]]
+*** READ LiceagaCastroEtAl2015 | [[note:Liceaga-CastroEtAl2015][org]] [[pdf:Liceaga-CastroEtAl2015][pdf]]
 + Show that [[id:f62d60ca-4a29-4d6e-8ead-89e4dda9aca3][MIMO]] systems controlled passively are not necessarily robust.
 
-*** READ OConnorVandenberghe2014 | [[note:OConnorVandenberghe2014][org]] [[pdf:OConnorVandenberghe2014][pdf]] [[mobi:OConnorVandenberghe2014][mobi]] [[epub:OConnorVandenberghe2014][epub]]
+*** READ OConnorVandenberghe2014 | [[note:OConnorVandenberghe2014][org]] [[pdf:OConnorVandenberghe2014][pdf]]
 + Use of decomposition methods to solve image deblurring
-*** READ LinEtAl2020 | [[note:LinEtAl2020][org]] [[pdf:LinEtAl2020][pdf]] [[mobi:LinEtAl2020][mobi]] [[epub:LinEtAl2020][epub]]
+*** READ LinEtAl2020 | [[note:LinEtAl2020][org]] [[pdf:LinEtAl2020][pdf]]
 + Obtain state estimation under delayed communication
-*** READ Bindra2017 | [[note:Bindra2017][org]] [[pdf:Bindra2017][pdf]] [[mobi:Bindra2017][mobi]] [[epub:Bindra2017][epub]]
+*** READ Bindra2017 | [[note:Bindra2017][org]] [[pdf:Bindra2017][pdf]]
 + Review Attacks
-*** READ ZhuMartinez2014 | [[note:ZhuMartinez2014][org]] [[pdf:ZhuMartinez2014][pdf]] [[mobi:ZhuMartinez2014][mobi]] [[epub:ZhuMartinez2014][epub]]
+*** READ ZhuMartinez2014 | [[note:ZhuMartinez2014][org]] [[pdf:ZhuMartinez2014][pdf]]
 + Resilient MPC with resource allocation to deal with replay attacks
-*** READ DibajiIshii2015 | [[note:DibajiIshii2015][org]] [[pdf:DibajiIshii2015][pdf]] [[mobi:DibajiIshii2015][mobi]] [[epub:DibajiIshii2015][epub]]
+*** READ DibajiIshii2015 | [[note:DibajiIshii2015][org]] [[pdf:DibajiIshii2015][pdf]]
 + Consensus of second order sampled-data in presence of misbehaving agents
-*** READ [#A] WuEtAl2018 | [[note:WuEtAl2018][org]] [[pdf:WuEtAl2018][pdf]] [[mobi:WuEtAl2018][mobi]] [[epub:WuEtAl2018][epub]]
+*** READ [#A] WuEtAl2018 | [[note:WuEtAl2018][org]] [[pdf:WuEtAl2018][pdf]]
 + Neural Networks based detection and Lyapunov MPC
-*** READ [#A] AnandutaEtAl2020 | [[note:AnandutaEtAl2020][org]] [[pdf:AnandutaEtAl2020][pdf]] [[mobi:AnandutaEtAl2020][mobi]] [[epub:AnandutaEtAl2020][epub]]
+*** READ [#A] AnandutaEtAl2020 | [[note:AnandutaEtAl2020][org]] [[pdf:AnandutaEtAl2020][pdf]]
 + Resilient [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]] under [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attack]] using [[id:c34a53cd-f404-415a-b26e-0c4ed12b20a1][Bayesian Inference]]
-*** READ LuYang2020 | [[note:LuYang2020][org]] [[pdf:LuYang2020][pdf]] [[mobi:LuYang2020][mobi]] [[epub:LuYang2020][epub]]
+*** READ LuYang2020 | [[note:LuYang2020][org]] [[pdf:LuYang2020][pdf]]
 + State estimation of NCS, with faulty and malicious agents based on
-*** READ WakaikiEtAl2020 | [[note:WakaikiEtAl2020][org]] [[pdf:WakaikiEtAl2020][pdf]] [[mobi:WakaikiEtAl2020][mobi]] [[epub:WakaikiEtAl2020][epub]]
+*** READ WakaikiEtAl2020 | [[note:WakaikiEtAl2020][org]] [[pdf:WakaikiEtAl2020][pdf]]
 + stability on NCS with DoS and quantization noise using observer-based controller
-*** READ ZhuZheng2020 | [[note:ZhuZheng2020][org]] [[pdf:ZhuZheng2020][pdf]] [[mobi:ZhuZheng2020][mobi]] [[epub:ZhuZheng2020][epub]]
+*** READ ZhuZheng2020 | [[note:ZhuZheng2020][org]] [[pdf:ZhuZheng2020][pdf]]
 + Observer based $\mathcal{H}_\infty$ control in [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] prone measurement and control channels
-*** READ BansalMukhija2020 | [[note:BansalMukhija2020][org]] [[pdf:BansalMukhija2020][pdf]] [[mobi:BansalMukhija2020][mobi]] [[epub:BansalMukhija2020][epub]]
+*** READ BansalMukhija2020 | [[note:BansalMukhija2020][org]] [[pdf:BansalMukhija2020][pdf]]
 + Hybrid Triggering scheme (Aperiodic Sampled-Data Control) to control Networked system under stochastic Deception Attacks find a way to obtain Minimum inter-event time (MIET)
-*** READ GossnerEtAl1997 | [[note:GossnerEtAl1997][org]] [[pdf:GossnerEtAl1997][pdf]] [[mobi:GossnerEtAl1997][mobi]] [[epub:GossnerEtAl1997][epub]]
+*** READ GossnerEtAl1997 | [[note:GossnerEtAl1997][org]] [[pdf:GossnerEtAl1997][pdf]]
 + Algorithms for stability and asymptotic tracking in constrained generalized predictive control with bounded disturbances
-*** READ RichardsHow2006 | [[note:RichardsHow2006][org]] [[pdf:RichardsHow2006][pdf]] [[mobi:RichardsHow2006][mobi]] [[epub:RichardsHow2006][epub]]
+*** READ RichardsHow2006 | [[note:RichardsHow2006][org]] [[pdf:RichardsHow2006][pdf]]
 + [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust]] [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]] with tightening constraints
-*** READ [#A] YangEtAl2019 | [[note:YangEtAl2019][org]] [[pdf:YangEtAl2019][pdf]] [[mobi:YangEtAl2019][mobi]] [[epub:YangEtAl2019][epub]]
+*** READ [#A] YangEtAl2019 | [[note:YangEtAl2019][org]] [[pdf:YangEtAl2019][pdf]]
 + [[id:3ec3cd81-0163-4fe1-9c20-b5dfd33427d6][Stochastic]] [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]] with defense against [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] Attacks
-*** READ KolarijaniEtAl2020 | [[note:KolarijaniEtAl2020][org]] [[pdf:KolarijaniEtAl2020][pdf]] [[mobi:KolarijaniEtAl2020][mobi]] [[epub:KolarijaniEtAl2020][epub]]
+*** READ KolarijaniEtAl2020 | [[note:KolarijaniEtAl2020][org]] [[pdf:KolarijaniEtAl2020][pdf]]
 + [[id:0048fff1-e997-4b77-8215-ea92fe7dd527][Decentralized]] [[id:02289306-4cb1-4371-a5da-eedd95e7b268][Event-Based]] [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust]] [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
-*** READ LiuEtAl2019 | [[note:LiuEtAl2019][org]] [[pdf:LiuEtAl2019][pdf]] [[mobi:LiuEtAl2019][mobi]] [[epub:LiuEtAl2019][epub]]
+*** READ LiuEtAl2019 | [[note:LiuEtAl2019][org]] [[pdf:LiuEtAl2019][pdf]]
 + Analysis of the effects of[[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]] and use [[id:a3b6d44b-4f1d-43dd-942b-45c2df959e6e][Hybrid Control]] and verify stability using Lyapunov
-*** READ [#A] BraunEtAl2020 | [[note:BraunEtAl2020][org]] [[pdf:BraunEtAl2020][pdf]] [[mobi:BraunEtAl2020][mobi]] [[epub:BraunEtAl2020][epub]]
+*** READ [#A] BraunEtAl2020 | [[note:BraunEtAl2020][org]] [[pdf:BraunEtAl2020][pdf]]
 + Identify attack using evolution of coupling variables
   + *Important:* Sensitivity Exchange
-*** READ [#A] LiuEtAl2016 | [[note:LiuEtAl2016][org]] [[pdf:LiuEtAl2016][pdf]] [[mobi:LiuEtAl2016][mobi]] [[epub:LiuEtAl2016][epub]]
+*** READ [#A] LiuEtAl2016 | [[note:LiuEtAl2016][org]] [[pdf:LiuEtAl2016][pdf]]
 + Study of [[id:f3727224-7286-465f-bff0-bff8dd490ea4][Networked Control]] in a [[id:3ec3cd81-0163-4fe1-9c20-b5dfd33427d6][Stochastic]] [[id:a3b6d44b-4f1d-43dd-942b-45c2df959e6e][Hybrid Control]] Scheme using stochastic variable with [[id:66cea64f-9e73-423a-80f2-58fd01dd5b6c][Bernoulli Distribution]] in order to increase performance on over occupied channels
-*** READ DingEtAl2018 | [[note:DingEtAl2018][org]] [[pdf:DingEtAl2018][pdf]] [[mobi:DingEtAl2018][mobi]] [[epub:DingEtAl2018][epub]]
+*** READ DingEtAl2018 | [[note:DingEtAl2018][org]] [[pdf:DingEtAl2018][pdf]]
 + Survey on Security control and attack detection
-*** READ HuangDong2020 | [[note:HuangDong2020][org]] [[pdf:HuangDong2020][pdf]] [[mobi:HuangDong2020][mobi]] [[epub:HuangDong2020][epub]]
+*** READ HuangDong2020 | [[note:HuangDong2020][org]] [[pdf:HuangDong2020][pdf]]
 + Reliable control in systems with intermittent communication
-*** READ BoemEtAl2020 | [[note:BoemEtAl2020][org]] [[pdf:BoemEtAl2020][pdf]] [[mobi:BoemEtAl2020][mobi]] [[epub:BoemEtAl2020][epub]]
+*** READ BoemEtAl2020 | [[note:BoemEtAl2020][org]] [[pdf:BoemEtAl2020][pdf]]
 + [[https://mathworld.wolfram.com/Zonotope.html][Zonotope]] tube created to estimate possible outcomes of the state, if it is outside the tube then that is a fault.
-*** READ LeBlancEtAl2013 | [[note:LeBlancEtAl2013][org]] [[pdf:LeBlancEtAl2013][pdf]] [[mobi:LeBlancEtAl2013][mobi]] [[epub:LeBlancEtAl2013][epub]]
+*** READ LeBlancEtAl2013 | [[note:LeBlancEtAl2013][org]] [[pdf:LeBlancEtAl2013][pdf]]
 + Resilient consensus in the presence of misbehaving nodes
-*** READ BoydEtAl2011 | [[note:BoydEtAl2011][org]] [[pdf:BoydEtAl2011][pdf]] [[file:BoydEtAl2011.mobi][mobi]] [[epub:BoydEtAl2011][epub]]
+*** READ BoydEtAl2011 | [[note:BoydEtAl2011][org]] [[pdf:BoydEtAl2011][pdf]] [[file:BoydEtAl2011.mobi][mobi]]
 + Optimization Augmented Lagrangian
-*** READ BoydEtAl2015 | [[note:BoydEtAl2015][org]] [[pdf:BoydEtAl2015][pdf]] [[mobi:BoydEtAl2015][mobi]] [[epub:BoydEtAl2015][epub]]
+*** READ BoydEtAl2015 | [[note:BoydEtAl2015][org]] [[pdf:BoydEtAl2015][pdf]]
 + Dual, Primal and decomposition methods
-*** READ BoydVandenberghe2004 | [[note:BoydVandenberghe2004][org]] [[pdf:BoydVandenberghe2004][pdf]] [[mobi:BoydVandenberghe2004][mobi]] [[epub:BoydVandenberghe2004][epub]]
+*** READ BoydVandenberghe2004 | [[note:BoydVandenberghe2004][org]] [[pdf:BoydVandenberghe2004][pdf]]
 + Convex Optimization
-*** READ [#A] VelardeEtAl2017b | [[note:VelardeEtAl2017b][org]] [[pdf:VelardeEtAl2017b][pdf]] [[mobi:VelardeEtAl2017b][mobi]] [[epub:VelardeEtAl2017b][epub]]
+*** READ [#A] VelardeEtAl2017b | [[note:VelardeEtAl2017b][org]] [[pdf:VelardeEtAl2017b][pdf]]
 + Vulnerabilities in lagrange-based dMPC scheme on multi-agent consensus
-*** READ BiegelEtAl2012 | [[note:BiegelEtAl2012][org]] [[pdf:BiegelEtAl2012][pdf]] [[mobi:BiegelEtAl2012][mobi]] [[epub:BiegelEtAl2012][epub]]
+*** READ BiegelEtAl2012 | [[note:BiegelEtAl2012][org]] [[pdf:BiegelEtAl2012][pdf]]
 - Use of Shadow Prices to resolve grid congestion
-*** READ VelardeEtAl2017 | [[note:VelardeEtAl2017][org]] [[pdf:VelardeEtAl2017][pdf]] [[mobi:VelardeEtAl2017][mobi]] [[epub:VelardeEtAl2017][epub]]
+*** READ VelardeEtAl2017 | [[note:VelardeEtAl2017][org]] [[pdf:VelardeEtAl2017][pdf]]
 + Analysis of dMPC scheme under influence of malicious agents
-*** READ VelardeEtAl2017a | [[note:VelardeEtAl2017a][org]] [[pdf:VelardeEtAl2017a][pdf]] [[mobi:VelardeEtAl2017a][mobi]] [[epub:VelardeEtAl2017a][epub]]
+*** READ VelardeEtAl2017a | [[note:VelardeEtAl2017a][org]] [[pdf:VelardeEtAl2017a][pdf]]
 + Secure dMPC for consensus using scenario based mechanism
-*** READ Jury1962 | [[note:Jury1962][org]] [[pdf:Jury1962][pdf]] [[mobi:Jury1962][mobi]] [[epub:Jury1962][epub]]
+*** READ Jury1962 | [[note:Jury1962][org]] [[pdf:Jury1962][pdf]]
 + Stability criterion for linear discrete time systems
-*** READ LandauEtAl2011 | [[note:LandauEtAl2011][  org]] [[pdf:LandauEtAl2011][pdf]] [[mobi:LandauEtAl2011][mobi]] [[epub:LandauEtAl2011][epub]]
+*** READ LandauEtAl2011 | [[note:LandauEtAl2011][  org]] [[pdf:LandauEtAl2011][pdf]]
 + Adaptive Control
-*** READ AranovskiyFreidovich2013 | [[note:AranovskiyFreidovich2013][org]] [[pdf:AranovskiyFreidovich2013][pdf]] [[mobi:AranovskiyFreidovich2013][mobi]] [[epub:AranovskiyFreidovich2013][epub]]
+*** READ AranovskiyFreidovich2013 | [[note:AranovskiyFreidovich2013][org]] [[pdf:AranovskiyFreidovich2013][pdf]]
 + Identification-based adaptive tuning of coefficients with unknown disturbance
-*** READ [#A] BittantiEtAl1990 | [[note:BittantiEtAl1990][org]] [[pdf:BittantiEtAl1990][pdf]] [[mobi:BittantiEtAl1990][mobi]] [[epub:BittantiEtAl1990][epub]]
+*** READ [#A] BittantiEtAl1990 | [[note:BittantiEtAl1990][org]] [[pdf:BittantiEtAl1990][pdf]]
 + Convergence of adaptive recursive least-squares algorithms
-*** READ Frangipani2015 | [[note:Frangipani2015][org]] [[pdf:Frangipani2015][pdf]] [[mobi:Frangipani2015][mobi]] [[epub:Frangipani2015][epub]]
+*** READ Frangipani2015 | [[note:Frangipani2015][org]] [[pdf:Frangipani2015][pdf]]
 - Localização submarina utilzando uma
   única referência acústiva via filtro UKF.
 
-*** READ Yamasaki2016 | [[note:Yamasaki2016][org]] [[pdf:Yamasaki2016][pdf]] [[mobi:Yamasaki2016][mobi]] [[epub:Yamasaki2016][epub]]
+*** READ Yamasaki2016 | [[note:Yamasaki2016][org]] [[pdf:Yamasaki2016][pdf]]
 + Adaptive robust altitude control scheme based on a smooth sliding mode controller
-*** READ YimEtAl2012 | [[note:YimEtAl2012][org]] [[pdf:YimEtAl2012][pdf]] [[mobi:YimEtAl2012][mobi]] [[epub:YimEtAl2012][epub]]
+*** READ YimEtAl2012 | [[note:YimEtAl2012][org]] [[pdf:YimEtAl2012][pdf]]
 + Estimation of non-linear systems using EKF and UKF
-*** DIAGONAL AgbodjanEtAl2019 | [[note:AgbodjanEtAl2019][org]] [[pdf:AgbodjanEtAl2019][pdf]] [[mobi:AgbodjanEtAl2019][mobi]] [[epub:AgbodjanEtAl2019][epub]]
-*** READ TanikawaMukai1983 | [[note:TanikawaMukai1983][org]] [[pdf:TanikawaMukai1983][pdf]] [[mobi:TanikawaMukai1983][mobi]] [[epub:TanikawaMukai1983][epub]]
+*** DIAGONAL AgbodjanEtAl2019 | [[note:AgbodjanEtAl2019][org]] [[pdf:AgbodjanEtAl2019][pdf]]
+*** READ TanikawaMukai1983 | [[note:TanikawaMukai1983][org]] [[pdf:TanikawaMukai1983][pdf]]
 + New separable multiplier to nonconvex separable large-scale
-*** READ GrimsmanEtAl2019 | [[note:GrimsmanEtAl2019][org]] [[pdf:GrimsmanEtAl2019][pdf]] [[mobi:GrimsmanEtAl2019][mobi]] [[epub:GrimsmanEtAl2019][epub]]
+*** READ GrimsmanEtAl2019 | [[note:GrimsmanEtAl2019][org]] [[pdf:GrimsmanEtAl2019][pdf]]
 + Impact of topology, and information distribution to agent decisions
-*** DIAGONAL AlessioBemporad2009 | [[note:AlessioBemporad2009][org]] [[pdf:AlessioBemporad2009][pdf]] [[mobi:AlessioBemporad2009][mobi]] [[epub:AlessioBemporad2009][epub]]
+*** DIAGONAL AlessioBemporad2009 | [[note:AlessioBemporad2009][org]] [[pdf:AlessioBemporad2009][pdf]]
 + Survey on Explicit MPC
-*** DIAGONAL AastroemWittenmark1989 | [[note:AstromWittenmark1989][org]] [[pdf:AstromWittenmark1989][pdf]] [[mobi:AstromWittenmark1989][mobi]] [[epub:AstromWittenmark1989][epub]]
-*** DIAGONAL KatewaEtAl2021 | [[note:KatewaEtAl2021][org]] [[pdf:KatewaEtAl2021][pdf]] [[mobi:KatewaEtAl2021][mobi]] [[epub:KatewaEtAl2021][epub]]
+*** DIAGONAL AastroemWittenmark1989 | [[note:AstromWittenmark1989][org]] [[pdf:AstromWittenmark1989][pdf]]
+*** DIAGONAL KatewaEtAl2021 | [[note:KatewaEtAl2021][org]] [[pdf:KatewaEtAl2021][pdf]]
 + quantify trade-off between security and privacy
-*** READ [#A] ArabloueiEtAl2014 | [[note:ArabloueiEtAl2014][org]] [[pdf:ArabloueiEtAl2014][pdf]] [[mobi:ArabloueiEtAl2014][mobi]] [[epub:ArabloueiEtAl2014][epub]]
-*** READ ElGhaoui2002 | [[note:ElGhaoui2002][org]] [[pdf:ElGhaoui2002][pdf]] [[mobi:ElGhaoui2002][mobi]] [[epub:ElGhaoui2002][epub]]
-*** READ [#A] ArabloueiEtAl2014 | [[note:ArabloueiEtAl2014][org]] [[pdf:ArabloueiEtAl2014][pdf]] [[mobi:ArabloueiEtAl2014][mobi]] [[epub:ArabloueiEtAl2014][epub]]
-*** READ ElGhaoui2002 | [[note:ElGhaoui2002][org]] [[pdf:ElGhaoui2002][pdf]] [[mobi:ElGhaoui2002][mobi]] [[epub:ElGhaoui2002][epub]]
+*** READ [#A] ArabloueiEtAl2014 | [[note:ArabloueiEtAl2014][org]] [[pdf:ArabloueiEtAl2014][pdf]]
+*** READ ElGhaoui2002 | [[note:ElGhaoui2002][org]] [[pdf:ElGhaoui2002][pdf]]
+*** READ [#A] ArabloueiEtAl2014 | [[note:ArabloueiEtAl2014][org]] [[pdf:ArabloueiEtAl2014][pdf]]
+*** READ ElGhaoui2002 | [[note:ElGhaoui2002][org]] [[pdf:ElGhaoui2002][pdf]]
 - A new quantity to characterize inversion error
 
-*** DIAGONAL CamachoBordons2007 | [[note:CamachoBordons2007][org]] [[pdf:CamachoBordons2007][pdf]] [[mobi:CamachoBordons2007][mobi]] [[epub:CamachoBordons2007][epub]]
+*** DIAGONAL CamachoBordons2007 | [[note:CamachoBordons2007][org]] [[pdf:CamachoBordons2007][pdf]]
 
 - State "DIAGONAL"   from "TO-READ"        [2021-04-29 jeu. 17:53] \\
   Describe elements of MPC, and many alternative formulations
 
-*** READ [#A] LuciaEtAl2021 | [[note:LuciaEtAl2021][org]] [[pdf:LuciaEtAl2021][pdf]] [[mobi:LuciaEtAl2021][mobi]] [[epub:LuciaEtAl2021][epub]]
+*** READ [#A] LuciaEtAl2021 | [[note:LuciaEtAl2021][org]] [[pdf:LuciaEtAl2021][pdf]]
 - State "READ"       from "READING"      [2021-05-26 mer. 11:25]
 - State "READING"    from "TO-READ"     [2021-04-29 jeu. 15:32]
-*** DIAGONAL Iiduka2019 | [[note:Iiduka2019][org]] [[pdf:Iiduka2019][pdf]] [[mobi:Iiduka2019][mobi]] [[epub:Iiduka2019][epub]]
+*** DIAGONAL Iiduka2019 | [[note:Iiduka2019][org]] [[pdf:Iiduka2019][pdf]]
 - State "DIAGONAL"   from "READING"      [2021-05-31 lun. 15:58] \\
   algorithms for distributed optimization,
-*** DIAGONAL [#A] LiuEtAl2009 | [[note:LiuEtAl2009][org]] [[pdf:LiuEtAl2009][pdf]] [[mobi:LiuEtAl2009][mobi]] [[epub:LiuEtAl2009][epub]]
+*** DIAGONAL [#A] LiuEtAl2009 | [[note:LiuEtAl2009][org]] [[pdf:LiuEtAl2009][pdf]]
 - State "DIAGONAL"   from "TO-READ"        [2021-05-31 lun. 17:04]
-*** DIAGONAL [#A] SatchidanandanKumar2017 | [[note:SatchidanandanKumar2017][org]] [[pdf:SatchidanandanKumar2017][pdf]] [[mobi:SatchidanandanKumar2017][mobi]] [[epub:SatchidanandanKumar2017][epub]]
+*** DIAGONAL [#A] SatchidanandanKumar2017 | [[note:SatchidanandanKumar2017][org]] [[pdf:SatchidanandanKumar2017][pdf]]
 - State "DIAGONAL"   from "READING"      [2021-06-02 mer. 10:15]
 - State "READING"      from "TO-READ"        [2021-05-31 lun. 17:29]
-*** READ [#A] MaestreEtAl2021 | [[note:MaestreEtAl2021][org]] [[pdf:MaestreEtAl2021][pdf]] [[mobi:MaestreEtAl2021][mobi]] [[epub:MaestreEtAl2021][epub]]
+*** READ [#A] MaestreEtAl2021 | [[note:MaestreEtAl2021][org]] [[pdf:MaestreEtAl2021][pdf]]
 - State "READ"       from "TO-READ"        [2021-07-12 lun. 15:35]
-*** READ FungMangasarian2001 | [[note:FungMangasarian2001][org]] [[pdf:FungMangasarian2001][pdf]] [[mobi:FungMangasarian2001][mobi]] [[epub:FungMangasarian2001][epub]]
+*** READ FungMangasarian2001 | [[note:FungMangasarian2001][org]] [[pdf:FungMangasarian2001][pdf]]
 - State "READ"       from "TO-READ"        [2021-07-16 ven. 10:43]
-*** READ WuZhao2006 | [[note:WuZhao2006][org]] [[pdf:WuZhao2006][pdf]] [[mobi:WuZhao2006][mobi]] [[epub:WuZhao2006][epub]]
+*** READ WuZhao2006 | [[note:WuZhao2006][org]] [[pdf:WuZhao2006][pdf]]
 - State "READ"       from "TO-READ"        [2021-07-16 ven. 12:04]
-*** READ [#A] TabatabaeiPourEtAl2006 | [[note:TabatabaeiPourEtAl2006][org]] [[pdf:TabatabaeiPourEtAl2006][pdf]] [[mobi:TabatabaeiPourEtAl2006][mobi]] [[epub:TabatabaeiPourEtAl2006][epub]]
+*** READ [#A] TabatabaeiPourEtAl2006 | [[note:TabatabaeiPourEtAl2006][org]] [[pdf:TabatabaeiPourEtAl2006][pdf]]
 - State "READ"       from "READING"    [2021-08-09 lun. 18:24]
 - State "READING"    from "TO-READ"    [2021-07-22 jeu. 15:38]
-*** DIAGONAL [#A] LauerBloch2019 | [[note:LauerBloch2019][org]] [[pdf:LauerBloch2019][pdf]] [[mobi:LauerBloch2019][mobi]] [[epub:LauerBloch2019][epub]]
+*** DIAGONAL [#A] LauerBloch2019 | [[note:LauerBloch2019][org]] [[pdf:LauerBloch2019][pdf]]
 - State "DIAGONAL"   from "TO-READ"    [2021-08-23 lun. 12:20] \\
   interesting for k-linreg and other algorithms
-*** READ MarafiotiEtAl2014 | [[note:MarafiotiEtAl2014][org]] [[pdf:MarafiotiEtAl2014][pdf]] [[mobi:MarafiotiEtAl2014][mobi]] [[epub:MarafiotiEtAl2014][epub]]
+*** READ MarafiotiEtAl2014 | [[note:MarafiotiEtAl2014][org]] [[pdf:MarafiotiEtAl2014][pdf]]
 - State "READ"       from "READING"    [2021-10-25 lun. 16:28]
 - State "READING"    from "TO-READ"    [2021-10-12 mar. 16:46]
-*** DIAGONAL [#A] BorrelliEtAl2017 | [[note:BorrelliEtAl2017][org]] [[pdf:BorrelliEtAl2017][pdf]] [[mobi:BorrelliEtAl2017][mobi]] [[epub:BorrelliEtAl2017][epub]]
+*** DIAGONAL [#A] BorrelliEtAl2017 | [[note:BorrelliEtAl2017][org]] [[pdf:BorrelliEtAl2017][pdf]]
 :LOGBOOK:
 CLOCK: [2021-11-12 ven. 17:45]--[2021-11-12 ven. 18:10] =>  0:25
 CLOCK: [2021-11-12 ven. 17:20]--[2021-11-12 ven. 17:45] =>  0:25
@@ -278,6 +276,10 @@ CLOCK: [2021-11-12 ven. 16:14]--[2021-11-12 ven. 16:39] =>  0:25
 - State "DIAGONAL"   from "READING"    [2021-11-26 ven. 09:47]
 
 - State "READING"    from "TO-READ"    [2021-10-28 jeu. 09:51]
+*** READ AfsiEtAl2020 | [[note:AfsiEtAl2020][org]] [[pdf:AfsiEtAl2020][pdf]]
+
+- State "READ"       from "READING"    [2021-11-30 mar. 17:51]
+- State "READING"    from "TO-READ"    [2021-11-30 mar. 17:08]
 * Config :noexport:
 
 # Local Variables:
