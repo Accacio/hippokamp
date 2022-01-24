@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       160fe82a-ba50-44c4-97ba-dc89e2ab02f9
+:END:
+#+title: Principal Component Analysis
+#+ROAM_ALIAS: PCA

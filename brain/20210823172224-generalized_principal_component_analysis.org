@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fa5df1b1-a3e0-46ca-81be-8c0fc80f6870
+:END:
+#+title: Generalized Principal Component Analysis
+- tags :: [[id:160fe82a-ba50-44c4-97ba-dc89e2ab02f9][Principal Component Analysis]]
+#+ROAM_ALIAS: GPCA

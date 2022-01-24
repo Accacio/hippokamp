@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e4587e38-7e93-424e-9bf8-ccc68d0171a5
+:END:
+#+title: Computation
+- tags :: [[id:b81cd419-d9e1-4897-8c50-009a4b3ccab1][Programming]]
+
+* Classes of Problems
+- <<<decision problem>>> :: yes/no question
+- $\mathcal{P}$ :: decision problem solved by deterministic Turing machine in polynomial time
+- $\mathcal{NP}$ :: decision problem solved by non-deterministic Turing machine in polynomial time
+- $\mathcal{NP}$ -hard :: at least as hard as a $\mathcal{NP}$ problem
+- $\mathcal{NP} complete$ :: decision problem in $\mathcal{NP}$ and $\mathcal{NP}$ -hard at least as hard as a $\mathcal{NP}$ problem
