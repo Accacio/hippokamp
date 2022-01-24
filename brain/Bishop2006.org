@@ -25,6 +25,13 @@
 
 ** NOTES
 
+*** The Gaussian distribution
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::44++0.00;;annot-44-0]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-44-0
+:END:
+
+
 *** Mixture Models and EM
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::443++0.00;;annot-443-0]]
