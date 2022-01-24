@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3f0cc815-f82f-4eb0-ab88-89abec380a75
+:ROAM_REFS: https://xkcd.com/2571/
+:END:
+#+title: xkcd: Hydraulic Analogy
+- tags :: [[id:46a117a5-0a94-4fc1-a9a8-bd9eaa7daf69][comics]]
+
+:ROAM_REFS: https://xkcd.com/2571/
