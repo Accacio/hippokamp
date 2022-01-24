@@ -4,7 +4,7 @@
 :END:
 #+title: Spring School on Data-driven Model Learning of Dynamic Systems
 #+OPTIONS: toc:nil -:nil ^:nil
-#+filetags: courses
+#+filetags: courses THESE
 
 - tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]]
 - hours :: 23
