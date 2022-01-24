@@ -24,7 +24,7 @@
 :PROPERTIES:
 :ID:       3398250e-f2db-408a-8f87-df3e40bca70a
 :END:
-[[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]] of Hybrid Systems
+Identification of Hybrid Systems
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications
