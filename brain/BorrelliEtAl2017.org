@@ -90,6 +90,13 @@ as I imagined
 :ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-47-18
 :END:
 
+*** where A † is the generalized inverse of A.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::54++0.00;;annot-54-8]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-54-8
+:END:
+Notation for generalized inverse
+
 *** Lemma 3.1 (L-Smoothness: Second-Order Characterization)
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::60++7.89;;annot-60-8]]
