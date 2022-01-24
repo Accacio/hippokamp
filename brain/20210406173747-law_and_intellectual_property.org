@@ -2,7 +2,7 @@
 :ID:       02533248-4ada-4bac-a851-cf543cf9dee3
 :END:
 #+title: Law and Intellectual Property
-#+filetags: courses
+#+filetags: courses THESE
 
 - tags :: [[id:f67ff2cb-26f8-40b1-bcfc-aa758261930b][Formations Doctorat]]
 - hours :: 18
