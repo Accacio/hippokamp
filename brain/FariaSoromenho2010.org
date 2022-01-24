@@ -1,0 +1,89 @@
+:PROPERTIES:
+:ID:       67e902e7-ee00-4514-a13b-55748464c843
+:ROAM_REFS: cite:FariaSoromenho2010
+:END:
+#+title: FariaSoromenho2010
+- tags :: [[id:265d4605-0b90-4f6a-b495-304f2eb038f4][Identification]]
+- keywords ::
+
+* Fitting mixtures of linear regressions
+:PROPERTIES:
+:Custom_ID: FariaSoromenho2010
+:URL: https://doi.org/10.1080/00949650802590261
+:AUTHOR: Faria, S., & Soromenho, G.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/FariaSoromenho2010.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** comparison of three algorithms to compute maximum likelihood estimates
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FariaSoromenho2010.pdf::2++5.93;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/FariaSoromenho2010.pdf-annot-2-0
+:END:
+
+*** φ j (y i |x i ) denotes the density of an univariate Gaussian distribution with mean x i T β j and variance σ j 2 .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FariaSoromenho2010.pdf::4++0.00;;annot-4-0]]
+:ID:       ~/docsThese/bibliography/FariaSoromenho2010.pdf-annot-4-0
+:END:
+
+*** CEM
+**** The M-step updates the estimate θ (r+1) using the sub-samples P j (r+1) .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FariaSoromenho2010.pdf::5++2.67;;annot-5-1]]
+:ID:       ~/docsThese/bibliography/FariaSoromenho2010.pdf-annot-5-1
+:END:
+Here we use only the subsamples, it can reduce computational burden
+**** CEM algorithm is a K-means-like algorithm and contrary to EM, it converges in a finite number of iterations.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FariaSoromenho2010.pdf::5++8.30;;annot-5-0]]
+:ID:       ~/docsThese/bibliography/FariaSoromenho2010.pdf-annot-5-0
+:END:
+k-medoid
+*** SEM
+**** On the S-step of the (r + 1)th iteration, a partition P (r+1) = (P 1 (r+1) , . . . , P J (r+1) ) of (x 1 , y 1 ), . . . , (x n , y n ) is designed by assigning each observation at random to one of the mixture components according to the multinomial distribution with parameter w ij (r) ,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FariaSoromenho2010.pdf::6++0.00;;annot-6-0]]
+:ID:       ~/docsThese/bibliography/FariaSoromenho2010.pdf-annot-6-0
+:END:
+Assign to partition using multinomial distribution
+*** Initialization Strategies
+**** In the first strategy, the true values were used as the starting values.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FariaSoromenho2010.pdf::6++7.12;;annot-6-1]]
+:ID:       ~/docsThese/bibliography/FariaSoromenho2010.pdf-annot-6-1
+:END:
+Not so good, huh?
+**** selected the solution out of 20 runs which provided the best value of the optimized criterion
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FariaSoromenho2010.pdf::6++7.12;;annot-6-2]]
+:ID:       ~/docsThese/bibliography/FariaSoromenho2010.pdf-annot-6-2
+:END:
+not either
+*** Stopping rules
+**** change in log-likelihood
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FariaSoromenho2010.pdf::6++7.12;;annot-6-3]]
+:ID:       ~/docsThese/bibliography/FariaSoromenho2010.pdf-annot-6-3
+:END:
+**** the total number of iterations required for convergence by the EM algorithm
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FariaSoromenho2010.pdf::6++7.12;;annot-6-4]]
+:ID:       ~/docsThese/bibliography/FariaSoromenho2010.pdf-annot-6-4
+:END:
+*** # Samples
+**** 200 samples of size n were simulated
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FariaSoromenho2010.pdf::6++7.12;;annot-6-5]]
+:ID:       ~/docsThese/bibliography/FariaSoromenho2010.pdf-annot-6-5
+:END:
