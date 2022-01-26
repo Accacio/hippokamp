@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       818e4eae-23a6-4c62-a2be-0ab01c6d57a0
+:END:
+#+title: ML Mathworks Seminar
+- presenter :: Lama Itani
+
+* How to predict future electricity demand?
+** Overview load forecasting
+- distributed Producers and consumers
+- scattered generation \to power flows everywhere
+- behavior: unpredictable \to grid analytics
+** Application areas of grid analytics
+*** Asset management
+  - predictive maintenance
+*** Grid stability
+  - achieve a balanced production
+*** Load/price forecasting
+  - DL algorithms to predict load and price
+** Load forecasting
+- very short-term :: ~ 1h
+*** Methods
+1. Understand problem
+2. data available
+3. explore data
+4. make predicitons
+*** Model
+**** Univariate model
+***** con
+- SISO
+**** Multivariate model
+***** con
+- Requires tons of high quality data
+**** AI Models
+
+** AI Models
+**** Machine Learning vs Deep Learning
+- Machine learning while Deep learning is extracted by itself
+***** cons
+- Runtime
+- over/underfitting
+
+**** workflow
+- Access and load the data
+- Preprocess the data
+- Engineer / Extract features
+- Develop a predictive model
+- integrate model into the system
