@@ -1,0 +1,166 @@
+:PROPERTIES:
+:ID:       8579df07-f100-411e-aa74-ea25202c213b
+:ROAM_REFS: cite:YangEtAl2022
+:END:
+#+title: YangEtAl2022
+#+filetags: :skimmed:
+- tags ::
+- keywords ::
+
+* Adaptive distributed kalman-like filter for power system with cyber attacks
+:PROPERTIES:
+:Custom_ID: YangEtAl2022
+:URL: https://doi.org/10.1016/j.automatica.2021.110091
+:AUTHOR: Yang, J., Zhang, W., & Guo, F.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/YangEtAl2022.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Good references on power systems vulnerabilities.
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- In all, contributions of this article are summarized as follows
+- For convenience, the time index k is omitted
+*** References :violet:
+
+** NOTES
+
+*** investigates the distributed state estimation problem for large-scale power systems, where both false data injection (FDI) and denial-of-service (DoS) attacks are considered.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::1++0.00;;annot-1-100]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-1-100
+:END:
+
+*** DoS attacks are compensated by using measurement predictor
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::1++0.00;;annot-1-101]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-1-101
+:END:
+
+*** FDI attacks are treated as uncertainties in measurements
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::1++0.00;;annot-1-102]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-1-102
+:END:
+
+*** network security vulnerabilities to power system which may be devastating (Deng, Xiao, Lu, Liang, & Vasilakos, 2017).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::1++4.37;;annot-1-103]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-1-103
+:END:
+
+*** However, amounts of researches have proved that a carefully de- signed FDI attack can cause arbitrary deviation in state estimation without being detected by the energy management system (Deng, Xiao, Lu, Liang, & Vasilakos, 2017; Liu, Reiter, & Ning, 2009; Liu, Song, & Li, 2020; Song, Shi, Lim, Zhang, & Yu, 2019).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::1++4.37;;annot-1-104]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-1-104
+:END:
+
+*** The impact of DoS on state estimation in power system is generally reduced by applying the measurement holder or pre- dictor (Manandhar, Cao, Hu, & Liu, 2014).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::1++4.37;;annot-1-105]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-1-105
+:END:
+When suffering DoS, use observer
+
+*** These mechanisms can be roughly divided into two categories, namely the state or meter protection based attack defense mechanism and the hypothesis test based attack detection mechanism.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::1++4.37;;annot-1-106]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-1-106
+:END:
+
+**** a cluster of carefully selected meter measurements are protected such that no attack can be injected into these measurements without being detected (Bi & Zhang, 2014; Deng et al., 2017; Liu, Liang, et al., 2020).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::1++4.37;;annot-1-107]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-1-107
+:END:
+
+**** a class of typical methods are the residual analysis based methods (Chen, Li, et al., 2019; Gu et al., 2013; Rawat & Bajracharya, 2015).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::1++6.87;;annot-1-108]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-1-108
+:END:
+
+*** However, they are either centralized detection and estimation methods or can only be implemented independently in each subsystem.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++0.00;;annot-2-30]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-30
+:END:
+
+*** it is desirable to design a distributed state estimator which can obtain accurate state estimation against cyber attacks with less computational cost.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++0.00;;annot-2-31]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-31
+:END:
+
+*** such a large-scale power system is decomposed into several interconnected, non- overlapping and topologically observable subsystems.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++0.00;;annot-2-32]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-32
+:END:
+
+*** to detect the attacks in edge measurement at each subsystem locally, the edge measurement is preprocessed by using the information received from its immedi- ate neighbors
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++0.00;;annot-2-33]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-33
+:END:
+
+*** In all, contributions of this article are summarized as follows
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++0.00;;annot-2-34]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-34
+:END:
+
+*** For convenience, the time index k is omitted
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++0.94;;annot-2-35]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-35
+:END:
+
+*** the manipulated measurement is modeled by y(k) = z(k) + a(k)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++0.94;;annot-2-36]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-36
+:END:
+Attack is added
+
+*** one has e a ≜ y − H x̂ a = e + S M − 1 a.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++0.94;;annot-2-37]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-37
+:END:
+The attack bias the estimator
+
+*** will change the posterior residual vector no matter what structure the attack vector is. Therefore, it is theoretically feasible to detect all kinds of FDI attacks through a posterior residual analysis method
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++1.39;;annot-2-38]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-38
+:END:
+
+*** With a designed threshold τ , one believes FDI attack occurs if Υ > τ .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++4.52;;annot-2-39]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-39
+:END:
+
+*** When DoS attack occurs, the timely measurement will be unavailable for the control center
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++4.52;;annot-2-40]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-40
+:END:
+
+*** the one-step prediction z̄(k) = H(k) x̄(k) is used to replace the missing measurement y(k).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::2++7.64;;annot-2-41]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-2-41
+:END:
+Prediction for next k ??
+
+*** the existence of FDI attack can be treated as increment in observation uncertainty.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/YangEtAl2022.pdf::3++2.50;;annot-3-16]]
+:ID:       ~/docsThese/bibliography/YangEtAl2022.pdf-annot-3-16
+:END:
