@@ -31,6 +31,12 @@
 :ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-44-0
 :END:
 
+**** We are also interested in the Gaussian distribution deﬁned over a D-dimensional vector x of continuous variables, which is given by
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::45++0.00;;annot-45-0]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-45-0
+:END:
+
 
 *** Mixture Models and EM
 :PROPERTIES:
@@ -161,4 +167,14 @@ quadtrees??
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::455++0.32;;annot-455-1]]
 :ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-455-1
+:END:
+***** Our state of knowledge of the values of the latent variables in Z is given only by the posterior distribution p(Z|X, θ)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::460++0.00;;annot-460-0]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-460-0
+:END:
+***** Because we cannot use the complete-data log likelihood, we consider instead its expected value under the posterior distribution of the latent variable
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::460++0.00;;annot-460-1]]
+:ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-460-1
 :END:
