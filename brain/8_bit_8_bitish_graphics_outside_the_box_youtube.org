@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7f3344a9-f47c-4cb5-b3b7-1b6d46fdb363
+:ROAM_REFS: https://www.youtube.com/watch?v=aMcJ1Jvtef0&t=7s
+:END:
+#+title: 8 Bit & '8 Bitish' Graphics-Outside the Box - YouTube
+- tags :: [[id:ed3f80b9-425d-48b8-b838-19ca3d2ca38e][gamedev]]
+
+- speaker ::  [[id:be01764e-25e4-4f4c-a63e-db01b33016f2][Mark Ferrari]]

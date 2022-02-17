@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0c0e5d89-e9da-4d78-9517-53f170ba21d7
+:ROAM_REFS: https://www.youtube.com/watch?v=cktmhqXMsGI
+:END:
+#+title: HandmadeCon 2015 - Ron Gilbert - YouTube
+- tags ::
+
+* SCUMM
+- Rooms
+- objects
+- Actors

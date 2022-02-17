@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       be01764e-25e4-4f4c-a63e-db01b33016f2
+:END:
+#+title: Mark Ferrari
+#+filetags: :people:
+- tags :: people
