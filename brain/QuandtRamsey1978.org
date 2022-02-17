@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       9640bda0-424c-4e05-8c3d-05030458ddc2
+:ROAM_REFS: cite:QuandtRamsey1978
+:END:
+#+title: QuandtRamsey1978
+- tags ::
+- keywords ::
+
+* Estimating mixtures of normal distributions and switching regressions
+:PROPERTIES:
+:Custom_ID: QuandtRamsey1978
+:URL: http://www.jstor.org/stable/2286266
+:AUTHOR: Quandt, R. E., & Ramsey, J. B.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/QuandtRamsey1978.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- can be more compactly written as
+*** References :violet:
+
+** NOTES
+
+*** switching regression context in which observations are given on a random variable y and on a vector of nonstochastic regressors x,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/QuandtRamsey1978.pdf::2++1.17;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/QuandtRamsey1978.pdf-annot-2-0
+:END:
+
+*** case in which no prior infor- mation is available concerning the $\sigma$s
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/QuandtRamsey1978.pdf::2++2.34;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/QuandtRamsey1978.pdf-annot-2-1
+:END:
+
+*** is ignorant of what moves the system from one structural form to another
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/QuandtRamsey1978.pdf::2++2.34;;annot-2-2]]
+:ID:       ~/docsThese/bibliography/QuandtRamsey1978.pdf-annot-2-2
+:END:
+Probabilities are unknown
+
+
+*** can be more compactly written as
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/QuandtRamsey1978.pdf::4++1.95;;annot-4-0]]
+:ID:       ~/docsThese/bibliography/QuandtRamsey1978.pdf-annot-4-0
+:END:

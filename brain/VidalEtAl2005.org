@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       248fcfdb-bd85-48e5-a50f-6856e5ba5e84
+:ROAM_REFS: cite:VidalEtAl2005
+:END:
+#+title: VidalEtAl2005
+- tags :: [[id:fa5df1b1-a3e0-46ca-81be-8c0fc80f6870][Generalized Principal Component Analysis]]
+- keywords ::
+
+* Generalized principal component analysis (gpca)
+:PROPERTIES:
+:Custom_ID: VidalEtAl2005
+:URL: https://doi.org/10.1109/TPAMI.2005.244
+:AUTHOR: Vidal, R., Ma, Y., & Sastry, S.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/VidalEtAl2005.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Segment subspaces of unknown and varying dimensions from sample data points
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** segmenting an unknown number of subspaces of unknown and varying dimensions from sample data points.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VidalEtAl2005.pdf::1++0.00;;annot-1-0]]
+:ID:       ~/docsThese/bibliography/VidalEtAl2005.pdf-annot-1-0
+:END:
+
+*** Veronese map (a polynomial embedding)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VidalEtAl2005.pdf::1++8.00;;annot-1-1]]
+:ID:       ~/docsThese/bibliography/VidalEtAl2005.pdf-annot-1-1
+:END:

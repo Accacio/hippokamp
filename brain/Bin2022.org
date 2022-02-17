@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       60e02d35-008a-4d69-9090-914b1ab69b84
+:ROAM_REFS: cite:Bin2022
+:END:
+#+title: Bin2022
+- tags ::
+- keywords :: Least squares, Robust adaptive control, Errors-in-variables identification
+
+* Generalized recursive least squares: stability, robustness, and excitation
+:PROPERTIES:
+:Custom_ID: Bin2022
+:URL: https://doi.org/https://doi.org/10.1016/j.sysconle.2022.105144
+:AUTHOR: Bin, M.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/Bin2022.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Generalized recursive least squares
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- From a system-theoretic viewpoint,
+- For simplicity, we limit to the scalar case
+- in which ___, being ___ the ___
+- ___ are instrumental for the results that follows
+*** References :violet:
+
+** NOTES
+
+*** we find that persistence of excitation is associated with uniform, in fact exponential, convergence
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bin2022.pdf::1++0.31;;annot-1-20]]
+:ID:       ~/docsThese/bibliography/Bin2022.pdf-annot-1-20
+:END:
+
+*** Typically, in control applications, y ⋆ and φ ⋆ are not directly accessible and, instead, one measures the perturbed signals
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bin2022.pdf::1++5.62;;annot-1-21]]
+:ID:       ~/docsThese/bibliography/Bin2022.pdf-annot-1-21
+:END:
+
+*** Moreover, d is hardly characterizable in purely statistical terms, and typical assump- tions (e.g., that d is white) do not hold.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bin2022.pdf::1++5.62;;annot-1-22]]
+:ID:       ~/docsThese/bibliography/Bin2022.pdf-annot-1-22
+:END:
+
+*** d is, at least partly, endogenous, deterministic, and correlated with other closed-loop signals and even with the present and past estimates of θ ⋆ (this is typical of closed-loop operation [5–8]).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bin2022.pdf::1++5.62;;annot-1-23]]
+:ID:       ~/docsThese/bibliography/Bin2022.pdf-annot-1-23
+:END:
+
+*** For simplicity, we limit to the scalar case
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bin2022.pdf::3++0.00;;annot-3-39]]
+:ID:       ~/docsThese/bibliography/Bin2022.pdf-annot-3-39
+:END:
+
+
+*** From a system-theoretic viewpoint,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bin2022.pdf::3++1.56;;annot-3-38]]
+:ID:       ~/docsThese/bibliography/Bin2022.pdf-annot-3-38
+:END:
+◦
+
+*** in which x 1 (t) ∈ S n θ , being S n θ the set
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bin2022.pdf::3++5.62;;annot-3-40]]
+:ID:       ~/docsThese/bibliography/Bin2022.pdf-annot-3-40
+:END:
+
+*** These bounds are instrumental for the ISS results that follows
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bin2022.pdf::4++0.00;;annot-4-53]]
+:ID:       ~/docsThese/bibliography/Bin2022.pdf-annot-4-53
+:END:
