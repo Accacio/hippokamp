@@ -3,7 +3,7 @@
 :ROAM_REFS: cite:VelardeEtAl2017
 :END:
 #+TITLE: VelardeEtAl2017: Vulnerabilities in lagrange-based distributed model predictive control
-#+filetags: article
+#+filetags: :journal:article:
 
 - tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][cyber-security]], [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][DMPC]]
 - keywords ::
