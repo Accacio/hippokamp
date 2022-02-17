@@ -18,10 +18,19 @@
 
 
 * Articles
-** LIRE [0/88]
-*** TO-READ [#A] WangYang2022 | [[note:WangYang2022][org]] [[pdf:WangYang2022][pdf]]
-*** TO-READ [#A] CamisaEtAl2022 | [[note:CamisaEtAl2022][org]] [[pdf:CamisaEtAl2022][pdf]]
+** LIRE [2/89]
+*** TO-READ [#A] NotarnicolaNotarstefano2020 | [[note:NotarnicolaNotarstefano2020][org]] [[pdf:NotarnicolaNotarstefano2020][pdf]]
+*** READ [#A] WangYang2022 | [[note:WangYang2022][org]] [[pdf:WangYang2022][pdf]]
+:PROPERTIES:
+:ID:       c3fc7fc8-5072-4735-9c6f-d0abee46b2aa
+:END:
+- State "READ"       from "TO-READ"    [2022-02-17 jeu. 16:41]
+*** READ [#A] CamisaEtAl2022 | [[note:CamisaEtAl2022][org]] [[pdf:CamisaEtAl2022][pdf]]
+:PROPERTIES:
+:ID:       0bee0aa8-08c6-453d-ace8-9efa09c20f42
+:END:
 
+- State "READ"       from "TO-READ"    [2022-02-17 jeu. 18:48]
 *** TO-READ [#A] ArauzEtAl2021 | [[note:ArauzEtAl2021][org]] [[pdf:ArauzEtAl2021][pdf]]
 *** TO-READ [#A] OkajimaFujinami2021 | [[note:OkajimaFujinami2021][org]] [[pdf:OkajimaFujinami2021][pdf]]
 *** TO-READ [#A] RollEtAl2004 | [[note:RollEtAl2004][org]] [[pdf:RollEtAl2004][pdf]]
