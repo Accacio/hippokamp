@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       f01e2759-ad9c-489e-9170-04656d0d72d3
+:ROAM_REFS: cite:WangYang2022
+:END:
+#+title: WangYang2022
+#+filetags: :read:
+- tags ::
+- keywords :: Model predictive control, Distributed control, Cooperative control, Iterative solution
+
+* An improved iterative solution for cooperative distributed mpc
+:PROPERTIES:
+:Custom_ID: WangYang2022
+:URL: https://doi.org/https://doi.org/10.1016/j.automatica.2021.110155
+:AUTHOR: Wang, J., & Yang, Y.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/WangYang2022.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Accelerate convergence on cooperative dMPC
+*** Model :lightSkyblue:
+- Each agent solves for its control using a "plant-wise" objective function
+*** Remarks
+- Good for notation
+*** Applications
+*** Expressions
+- computationally intractable
+*** References :violet:
+
+** NOTES
+
+*** computationally intractable.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangYang2022.pdf::1++4.37;;annot-1-44]]
+:ID:       ~/docsThese/bibliography/WangYang2022.pdf-annot-1-44
+:END:
+
+*** noncooperative and cooperative control (Ferramosca, Limon, Alvarado, & Camacho, 2013).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangYang2022.pdf::1++4.37;;annot-1-45]]
+:ID:       ~/docsThese/bibliography/WangYang2022.pdf-annot-1-45
+:END:
+    reference about noncooperative control
+
+*** Generally, there are two ways of acceleration: reducing the operation time of each iteration step or reducing the iteration number.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangYang2022.pdf::1++4.37;;annot-1-46]]
+:ID:       ~/docsThese/bibliography/WangYang2022.pdf-annot-1-46
+:END:
+
+*** optimal solution can be obtained from a lookup table (Bemporad, Morari, Dua, & Pistikopoulos, 2002),
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangYang2022.pdf::1++4.37;;annot-1-47]]
+:ID:       ~/docsThese/bibliography/WangYang2022.pdf-annot-1-47
+:END:
+
+*** Inspired by this observation, the iteration error is integrated in the iteration to improve the convergence rate.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangYang2022.pdf::2++5.38;;annot-2-23]]
+:ID:       ~/docsThese/bibliography/WangYang2022.pdf-annot-2-23
+:END:
+Try to use a PI control, basically

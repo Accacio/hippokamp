@@ -1,0 +1,129 @@
+:PROPERTIES:
+:ID:       c032edc4-b05b-486f-ba09-6dcb8ae86e85
+:ROAM_REFS: cite:CamisaEtAl2022
+:END:
+#+title: CamisaEtAl2022
+- tags ::
+- keywords ::
+
+* Distributed primal decomposition for large-scale milps
+:PROPERTIES:
+:Custom_ID: CamisaEtAl2022
+:URL: https://doi.org/10.1109/tac.2021.3057061
+:AUTHOR: Camisa, A., Notarnicola, I., & Notarstefano, G.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/CamisaEtAl2022.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Primal decomposition for Mixed-integer Linear Programming
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- constrained coupled
+- This article unfolds as follows.
+- All the proofs of the theoretical results are deferred to the appendix
+- The decision variables are intertwined by S linear cou- pling constraints,
+*** References :violet:
+
+** NOTES
+
+*** distributed Mixed-Integer Lin- ear Programming (MILP) setup arising in several control applica- tions. Agents of a network aim to minimize the sum of local linear cost functions subject to both individual constraints and a linear coupling constraint involving all the decision variables.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::1++0.00;;annot-1-7]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-1-7
+:END:
+
+*** We term these MILPs constraint coupled.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::1++5.00;;annot-1-8]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-1-8
+:END:
+
+*** A distributed gradient descent method is proposed in [9] to solve smooth resource al- location problems.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::1++1.50;;annot-1-9]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-1-9
+:END:
+Reference on resource allocation
+H. Lakshmanan and D. P. De Farias, “Decentralized resource allocation in
+dynamic networks of agents,” SIAM J. Optim., vol. 19, no. 2, pp. 911–940,
+2008.
+*** This article unfolds as follows.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::1++8.50;;annot-1-10]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-1-10
+:END:
+*** All the proofs of the theoretical results are deferred to the appendix
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::2++0.25;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-2-0
+:END:
+*** The decision variables are intertwined by S linear cou- pling constraints,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::2++4.75;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-2-1
+:END:
+*** Therefore, in this article, we let N  S, leading to large-scale instances of problem (1).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::2++4.75;;annot-2-2]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-2-2
+:END:
+*** We assume each agent i has a partial knowledge of problem (1), i.e., it knows only its local data X i MILP , c i , A i , and b. The goal for each agent is to compute its portion x i of an optimal solution of (1), by means of neighboring communication and local computation.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::2++4.75;;annot-2-3]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-2-3
+:END:
+*** Agents communicate according to a connected and undirected graph G = ({1, . . . , N }, E), where E ⊆ {1, . . . , N } 2 is the set of edges. The set of neighbors of i in G is N i = {j ∈ {1, . . . , N } | (i, j) ∈ E}.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::2++4.75;;annot-2-4]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-2-4
+:END:
+*** Following [23]–[26], let us consider a modified version of prob- lem (1) where the right-hand side of the coupling constraint is restricted by a vector σ ≥ 0 and each mixed-integer set X i MILP is replaced by its convex hull, denoted by conv(X i MILP ).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::2++8.50;;annot-2-5]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-2-5
+:END:
+Substitute MILP by a relaxed LP and used convex hull of decision variable set
+*** n problem (3), the constraint Y i ⊆ R S is the set of y i for which problem (4) is feasible, i.e., such that there exists z i ∈ conv(X i MILP ) satisfying the local allocation constraint A i z i ≤ y i .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::2++8.70;;annot-2-6]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-2-6
+:END:
+Idea is to add the set $Y_i$ to impose feasability of local problem, exactly as I did but using the projection to this set.
+*** Note that, given an optimal allocation (y 1  , . . . , y N retrieve its portion of an optimal solution of problem (2) by relying only on its local allocation y i  .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::2++10.20;;annot-2-7]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-2-7
+:END:
+*** applying  a projected subgradient method to problem (3).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::3++1.00;;annot-3-0]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-3-0
+:END:
+same old, same old
+*** Operatively, the parameter M > 0 can be chosen by using an iterative update scheme as proposed in [26]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::3++6.70;;annot-3-1]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-3-1
+:END:
+Choice of M
+*** The main limitation of the algorithm is only due to the local computation capability of each node
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::3++7.20;;annot-3-2]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-3-2
+:END:
+*** Erdős–Rényi graph with edge probability 0.2.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::6++4.20;;annot-6-0]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-6-0
+:END:
+Method to form random graph
+*** I. Notarnicola and G. Notarstefano, “Constraint-coupled distributed opti- mization: A relaxation and duality approach,” IEEE Control Netw. Syst., vol. 7, no. 1, pp. 483–492, Mar. 2020. :read:
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CamisaEtAl2022.pdf::8++0.20;;annot-8-0]]
+:ID:       ~/docsThese/bibliography/CamisaEtAl2022.pdf-annot-8-0
+:END:
+cite:NotarnicolaNotarstefano2020
