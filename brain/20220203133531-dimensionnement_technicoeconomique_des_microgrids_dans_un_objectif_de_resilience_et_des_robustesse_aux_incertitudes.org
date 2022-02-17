@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       fe2e3afe-b1da-452b-a66e-2da407f18c61
+:END:
+#+title: Dimensionnement Technicoéconomique des microgrids dans un objectif de résilience et des robustesse aux incertitudes
+- intervenant :: Elsy El Sayegh
+
+* Contexte
+** Definition
+- EMS: Pilote
+** Dimensionnement et planification
+- Sizing
+- Producion Scheduling
+** Problèmes
+- Prise en compte des incertitudes
+- Résilience evenements extremes aleatoires
+* Comparaison WB BB
+** Description
+*** Black box
+** COmparaison
+- extrapolation :: simulation sur 1 an et propagée
+*** deterministe
+- Question :: blackbox doesn't predict because simulator use rule based
+*** stochastique
+- Two stage stochastic programming
