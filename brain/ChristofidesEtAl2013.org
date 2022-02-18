@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       3bc35f0a-087f-46da-87a9-f10f29f8aeb3
+:ROAM_REFS: cite:ChristofidesEtAl2013
+:END:
+#+title: ChristofidesEtAl2013
+- tags ::
+- keywords ::
+
+* Distributed model predictive control: a tutorial review and future research directions
+:PROPERTIES:
+:Custom_ID: ChristofidesEtAl2013
+:URL: https://doi.org/10.1016/j.compchemeng.2012.05.011
+:AUTHOR: Christofides, P. D., Scattolini, R., David Mu\~noz de la Pe\~na, & Liu, J.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/ChristofidesEtAl2013.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** review of recent results in the design of distributed model predictive control systems.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ChristofidesEtAl2013.pdf::1++2.19;;annot-1-51]]
+:ID:       ~/docsThese/bibliography/ChristofidesEtAl2013.pdf-annot-1-51
+:END:
+
+*** Speciﬁcally, we will refer to the distributed algorithms in which each local controller optimizes a local cost function as non-cooperative DMPC algorithms, and refer to the distributed algorithms in which each local controller optimizes a global cost function as cooperative DMPC algorithms.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ChristofidesEtAl2013.pdf::8++1.25;;annot-8-80]]
+:ID:       ~/docsThese/bibliography/ChristofidesEtAl2013.pdf-annot-8-80
+:END:
+Maybe we should not call as non-cooperative after all, competitive maybe
+
+*** In Richards and How (2007), the distributed controllers are evaluated in sequence which means that controller i + 1 is evalu- ated after controller i has been evaluated or vice versa.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ChristofidesEtAl2013.pdf::8++3.12;;annot-8-81]]
+:ID:       ~/docsThese/bibliography/ChristofidesEtAl2013.pdf-annot-8-81
+:END:
+Sequential dMPC
+
+*** the distributed controllers are evaluated in parallel, i.e., at the same time.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ChristofidesEtAl2013.pdf::8++3.37;;annot-8-82]]
+:ID:       ~/docsThese/bibliography/ChristofidesEtAl2013.pdf-annot-8-82
+:END:
+Parallel dMPC
+
+*** Note that each controller must have knowledge of the full system dynamics and of the overall objective function.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ChristofidesEtAl2013.pdf::9++2.50;;annot-9-38]]
+:ID:       ~/docsThese/bibliography/ChristofidesEtAl2013.pdf-annot-9-38
+:END:
+
+*** DMPC framework was constructed for control and coordi- nation of autonomous vehicle teams (Keviczky, Borrelli, & Fregene, 2008).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ChristofidesEtAl2013.pdf::8++1.63;;annot-8-83]]
+:ID:       ~/docsThese/bibliography/ChristofidesEtAl2013.pdf-annot-8-83
+:END:
+Example of dMPC for autonomous vehicles
+
+*** We review next a line of work on DMPC algorithms which adopt an iterative approach for constrained linear systems coupled through the inputs (Maestre, Muñoz de la Peña, & Camacho, 2011; Maestre, Muñoz de la Peña, Camacho, & Alamo, 2011)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ChristofidesEtAl2013.pdf::11++5.00;;annot-11-44]]
+:ID:       ~/docsThese/bibliography/ChristofidesEtAl2013.pdf-annot-11-44
+:END:
+cite:MaestreEtAl2011,MaestreEtAl2011a

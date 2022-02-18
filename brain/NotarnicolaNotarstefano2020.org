@@ -1,0 +1,142 @@
+:PROPERTIES:
+:ID:       823f14ea-4212-4650-b886-e20a53cd01dc
+:ROAM_REFS: cite:NotarnicolaNotarstefano2020
+:END:
+#+title: NotarnicolaNotarstefano2020
+- tags ::
+- keywords ::
+
+* Constraint-coupled distributed optimization: a relaxation and duality approach
+:PROPERTIES:
+:Custom_ID: NotarnicolaNotarstefano2020
+:URL: https://doi.org/10.1109/TCNS.2019.2925267
+:AUTHOR: Notarnicola, I., & Notarstefano, G.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Distributed optimization algorithm taking into account network's topology
+*** Model :lightSkyblue:
+*** Remarks
+- Relaxing problem helps to use distributed subgradient iteration
+*** Applications
+*** Expressions
+- The rest of this paper is presented as follows.
+- have corroborated the theoretical results
+*** References :violet:
+
+** NOTES
+
+*** We propose a novel fully distributed algorithm based on a relaxation of the primal problem and an elegant ex- ploration of duality theory.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::1++0.00;;annot-1-4]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-1-4
+:END:
+
+*** This primal recovery property is ob- tained without any averaging mechanism typically used in dual decomposition methods.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::1++0.00;;annot-1-5]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-1-5
+:END:
+
+*** each one depending on a local variable, subject to a local constraint for each variable and a coupling constraint involving all the decision variables.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::1++5.00;;annot-1-6]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-1-6
+:END:
+
+*** We call this framework a constraint-coupled optimization setup
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::1++1.92;;annot-1-7]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-1-7
+:END:
+
+*** Distributed MPC approaches are mainly classified into noncooperative and cooperative schemes (see, e.g., [11]).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::1++3.50;;annot-1-8]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-1-8
+:END:
+
+cite:ChristofidesEtAl2013
+
+
+
+*** Although sometimes termed as “distributed” algorithms, they require a centralized unit performing some steps in the proposed strategies.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::1++1.70;;annot-1-9]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-1-9
+:END:
+
+*** Distributed optimization algorithms for special versions of the constraint-coupled setup, arising in the context of resource allocation problems, have been proposed in [22]–[25].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::2++1.50;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-2-0
+:END:
+- H. Lakshmanan and D. P. De Farias, “Decentralized resource allocation in
+dynamic networks of agents,” SIAM J. Optim., vol. 19, no. 2, pp. 911–940,
+2008.
+- A. Simonetto, T. Keviczky, and M. Johansson, “A regularized saddle-
+point algorithm for networked optimization with resource allocation con-
+straints,” in Proc. IEEE Conf. Decis. Control, 2012, pp. 7476–7481.
+
+*** Local computations at each node involve only the local decision variable and, thus, scale nicely with respect to the dimension of the decision vector
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::2++5.57;;annot-2-2]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-2-2
+:END:
+
+*** Privacy is preserved since agents do not communicate and, thus, disclose their estimates of local decision vari- able, cost, or constraints
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::2++5.57;;annot-2-3]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-2-3
+:END:
+
+*** An estimate of a primal optimal solution component is directly computed by each agent without any averaging mechanism, which results in a faster algorithm
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::2++7.75;;annot-2-4]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-2-4
+:END:
+
+*** We consider a network of N processors communicating ac- cording to a connected and undirected graph
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::2++12.14;;annot-2-6]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-2-6
+:END:
+
+*** A well-known drawback in methods based on dual decomposition is that primal feasibility is not easily retrieved from dual so- lutions
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::2++0.76;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-2-1
+:END:
+*** The rest of this paper is presented as follows.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::2++0.00;;annot-2-5]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-2-5
+:END:
+*** In this subsection, we present our relaxation and successive distributed decomposition (RSDD) method which is a novel strategy to solve problem (1) over networks
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::3++4.80;;annot-3-0]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-3-0
+:END:
+*** Moreover, this local version of the coupling constraint is also relaxed, i.e., a positive violation ρ i 1 is allowed
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::3++7.86;;annot-3-1]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-3-1
+:END:
+*** agents can join or leave the network and problem data can change.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::3++11.70;;annot-3-2]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-3-2
+:END:
+*** solutions of (7) must have ρ  = 0.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::5++1.31;;annot-5-0]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-5-0
+:END:
+*** have corroborated the theoretical results
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf::10++0.44;;annot-10-0]]
+:ID:       ~/docsThese/bibliography/NotarnicolaNotarstefano2020.pdf-annot-10-0
+:END:

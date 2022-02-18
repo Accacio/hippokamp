@@ -18,8 +18,16 @@
 
 
 * Articles
-** LIRE [2/89]
-*** TO-READ [#A] NotarnicolaNotarstefano2020 | [[note:NotarnicolaNotarstefano2020][org]] [[pdf:NotarnicolaNotarstefano2020][pdf]]
+** LIRE [4/91]
+*** TO-READ MaestreEtAl2011 | [[note:MaestreEtAl2011][org]] [[pdf:MaestreEtAl2011][pdf]]
+*** TO-READ MaestreEtAl2011a | [[note:MaestreEtAl2011][org]] [[pdf:MaestreEtAl2011][pdf]]
+*** READ [#A] ChristofidesEtAl2013 | [[note:ChristofidesEtAl2013][org]] [[pdf:ChristofidesEtAl2013][pdf]]
+:PROPERTIES:
+:ID:       749af5f9-13aa-4613-8a16-0d29d32f5143
+:END:
+- State "READ"       from "TO-READ"    [2022-02-18 ven. 17:14]
+*** READ [#A] NotarnicolaNotarstefano2020 | [[note:NotarnicolaNotarstefano2020][org]] [[pdf:NotarnicolaNotarstefano2020][pdf]]
+- State "READ"       from "TO-READ"    [2022-02-18 ven. 13:09]
 *** READ [#A] WangYang2022 | [[note:WangYang2022][org]] [[pdf:WangYang2022][pdf]]
 :PROPERTIES:
 :ID:       c3fc7fc8-5072-4735-9c6f-d0abee46b2aa
@@ -64,7 +72,6 @@
 *** TO-READ ChanfreutEtAl2018 | [[note:ChanfreutEtAl2018][org]] [[pdf:ChanfreutEtAl2018][pdf]]
  - Show vulnerabilites in a dMPC structure using Jacobi-Gauss decomposition
 *** TO-READ ChatelEtAl2017 | [[note:ChatelEtAl2017][org]] [[pdf:ChatelEtAl2017][pdf]]
-*** TO-READ ChristofidesEtAl2013 | [[note:ChristofidesEtAl2013][org]] [[pdf:ChristofidesEtAl2013][pdf]]
 *** TO-READ Domahidi2013 | [[note:Domahidi2013][org]] [[pdf:Domahidi2013][pdf]]
 *** TO-READ ConejoEtAl2006 | [[note:ConejoEtAl2006][org]] [[pdf:ConejoEtAl2006][pdf]]
 *** TO-READ DaiEtAl2017 | [[note:DaiEtAl2017][org]] [[pdf:DaiEtAl2017][pdf]]
