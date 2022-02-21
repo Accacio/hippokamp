@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8579df07-f100-411e-aa74-ea25202c213b
-:ROAM_REFS: cite:YangEtAl2022
+:ROAM_REFS: [cite:YangEtAl2022]
 :END:
 #+title: YangEtAl2022
 #+filetags: :skimmed:
