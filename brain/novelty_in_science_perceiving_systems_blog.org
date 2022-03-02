@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       5b9f6b83-42c2-4cc0-b36b-bf9457f31c25
+:ROAM_REFS: https://perceiving-systems.blog/en/post/novelty-in-science
+:END:
+#+title: Novelty in Science | Perceiving Systems Blog
+
+- tags :: [[id:95a6d782-ca34-4422-9e39-2686189c6e04][Research]], [[id:f4b13ece-d6c8-4927-bee0-6effbc6db5f4][Meta]]
+
+Novelty is in beauty
+
+* novelty as complexity
+#+begin_quote
+If nobody thought to change that term, the it is ipso facto novel.
+#+end_quote
+* novelty as difficulty
+#+begin_quote
+Formulating a simple idea means stripping away the unnecessary to reveal the core of something. This is one of the most useful things that a scientist can do.
+#+end_quote
+* novelty as surprise
+#+begin_quote
+The novelty, however, must be evaluated before the idea existed.
+#+end_quote
+* novelty as technical novelty
+#+begin_quote
+The most common misconception of reviewers is that novelty pertains to technical details.
+#+end_quote
+#+begin_quote
+Before critiquing a paper for a lack to technical novelty ask yourself if the true novelty lies elsewhere.
+#+end_quote
+
+* novelty as usefulness or value
+#+begin_quote
+Lack of utility is indeed an issue but it is very hard to assess with a new idea. Reviewers should be careful here and aware that we all have limited imagination.
+#+end_quote
