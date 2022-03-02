@@ -183,3 +183,10 @@ cite:McNamaraEtAl2016
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::4++3.75;;annot-4-59]]
 :ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-4-59
 :END:
+
+*** Riverso et al. (2016) propose a DMPC strategy in a PnP framework for faulty subsystems identification and unplugging to avoid the propagation of the fault.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::13++3.62;;annot-13-57]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-13-57
+:END:
+Unplugging attacker

@@ -14,7 +14,7 @@
   :Custom_ID: ElGhaoui2002
   :URL: https://www.sciencedirect.com/science/article/pii/S0024379501002737
   :AUTHOR: El Ghaoui, L.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/ElGhaoui2002.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/ElGhaoui2002.pdf
   :NOTER_PAGE:
   :END:
 

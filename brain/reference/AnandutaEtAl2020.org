@@ -14,7 +14,7 @@
   :Custom_ID: AnandutaEtAl2020.pdf
   :URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.2534
   :AUTHOR: Ananduta, W., Maestre, J. M., Ocampo-Martinez, C., & Ishii, H.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/AnandutaEtAl2020.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/AnandutaEtAl2020.pdf
   :NOTER_PAGE:
   :END:
 
@@ -102,7 +102,7 @@ Decision and Control (CDC); 2016; Las Vegas, NV.
 :ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-3-0
 :END:
 
-*** Velarde et Al
+*** Citation to Velarde et Al
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::3++0.07;;annot-3-1]]
 :ID:       ../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-3-1

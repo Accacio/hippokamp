@@ -18,7 +18,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-Accelerate convergence on cooperative dMPC
+Use integrator to accelerate convergence on cooperative dMPC
 *** Model :lightSkyblue:
 - Each agent solves for its control using a "plant-wise" objective function
 *** Remarks
