@@ -30,12 +30,12 @@ Vulnerabilities in lagrange-based dMPC scheme on multi-agent consensus
 *** References :violet:
 
 ** NOTES
-
 *** vulnerabilities in lagrange-based dMPC scheme of consensus
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::1++0.56;;annot-1-0]]
 :ID:       /home/nogueirar/docsThese/bibliography/VelardeEtAl2017b.pdf-annot-1-0
 :END:
+
 *** Remark 1: The matrix Q and R do not depend on the considered agent. These values represent trustworthy settings that let us compute the overall cost function and the local cost function for each agent in the system.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017b.pdf::2++2.88;;annot-2-0]]
