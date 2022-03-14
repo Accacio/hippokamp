@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       0d27a4e7-1789-4b1d-bce1-759fa47af788
+:ROAM_REFS: cite:BramsTaylor1995
+:END:
+#+title: BramsTaylor1995
+#+filetags: :read:
+- tags ::
+- keywords ::
+
+* An Envy-Free Cake Division Protocol
+:PROPERTIES:
+:Custom_ID: BramsTaylor1995
+:URL: http://www.jstor.org/stable/2974850
+:AUTHOR: Brams, S. J., & Taylor, A. D.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/BramsTaylor1995.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Protocols to solve n-agents unsupervised envy-free cake cutting problem
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
