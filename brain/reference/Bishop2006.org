@@ -70,7 +70,7 @@
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::444++0.00;;annot-444-2]]
 :ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-444-2
 :END:
-Here $\mu_k$ is a prototyp for cluster k (parameters??)
+Here $\mu_k$ is a prototype for cluster k (parameters??)
 
 ***** 1-of-K coding scheme.
 :PROPERTIES:
