@@ -17,9 +17,6 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-:PROPERTIES:
-:ID:       22d06612-1964-4493-acb2-91adb0e0e2c2
-:END:
 Presentation of K-plane algorithm
 *** Model :lightSkyblue:
 *** Remarks

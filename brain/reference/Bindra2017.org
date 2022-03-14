@@ -14,13 +14,14 @@
   :Custom_ID: Bindra2017
   :URL: 
   :AUTHOR: A. Bindra
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/Bindra2017.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/Bindra2017.pdf
   :NOTER_PAGE:
   :END:
 
 ** CATALOG
 
 *** Motivation :springGreen:
+Examples of attacks in power systems
 *** Model :lihgSkyblue:
 *** Remarks
 *** Applications

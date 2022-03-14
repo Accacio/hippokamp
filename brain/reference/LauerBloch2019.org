@@ -21,9 +21,6 @@
 ** CATALOG
 
 *** Motivation :springGreen:
-:PROPERTIES:
-:ID:       3398250e-f2db-408a-8f87-df3e40bca70a
-:END:
 Identification of Hybrid Systems
 *** Model :lightSkyblue:
 *** Remarks
