@@ -42,6 +42,7 @@ done
 - [[file:reference/Bin2022.org::Motivation][Bin2022]] ::
   Generalized recursive least squares
 - [[file:reference/Bindra2017.org::Motivation][Bindra2017]] ::
+  Examples of attacks in power systems
 - [[file:reference/Bishop2006.org::Motivation][Bishop2006]] ::
 - [[file:reference/BittantiEtAl1990.org::Motivation][BittantiEtAl1990]] ::
   Convergence of adaptive recursive least-squares algorithms
@@ -65,9 +66,6 @@ done
 - [[file:reference/BoyleDykstra1986.org::Motivation][BoyleDykstra1986]] ::
   Project into intersection of convex set using projection to simpler regions
 - [[file:reference/BradleyMangasarian2000.org::Motivation][BradleyMangasarian2000]] ::
-  :PROPERTIES:
-  :ID:       22d06612-1964-4493-acb2-91adb0e0e2c2
-  :END:
   Presentation of K-plane algorithm
 - [[file:reference/BramsTaylor1995.org::Motivation][BramsTaylor1995]] ::
 - [[file:reference/BraunEtAl2020.org::Motivation][BraunEtAl2020]] ::
@@ -122,9 +120,6 @@ done
   Adaptive Control
   Reference on [[id:0147d11c-6d28-4f4c-98ac-23eb096ff3fa][recursive least-squares]] parameter estimation.
 - [[file:reference/LauerBloch2019.org::Motivation][LauerBloch2019]] ::
-  :PROPERTIES:
-  :ID:       3398250e-f2db-408a-8f87-df3e40bca70a
-  :END:
   Identification of Hybrid Systems
 - [[file:reference/LeBlancEtAl2013.org::Motivation][LeBlancEtAl2013]] ::
   Resilient consensus in the presence of misbehaving nodes. Resilience is achieved by ignoring the extreme values
@@ -217,8 +212,6 @@ done
 - [[file:reference/Zafiriou1990.org::Motivation][Zafiriou1990]] ::
 - [[file:reference/ZhuMartinez2014.org::Motivation][ZhuMartinez2014]] ::
   Resilient MPC with resource allocation to deal with replay attacks
-
-  (A,B) Stabilizable
 - [[file:reference/ZhuZheng2020.org::Motivation][ZhuZheng2020]] ::
   Observer based $\mathcal{H}_\infty$ control in [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][DoS]] prone measurement and control channels
 #+end_results
