@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       76d052c1-a800-4993-bcb4-8205a110d146
+:ROAM_REFS: cite:SchulzeEtAl2022
+:END:
+#+title: SchulzeEtAl2022
+- tags ::
+- keywords :: Explicit Model Predictive Control, Piecewise Affine function, Point location problem
+
+* Fast computation of binary search tree for pwa functions representation using intersection classification
+:PROPERTIES:
+:Custom_ID: SchulzeEtAl2022
+:URL: https://doi.org/https://doi.org/10.1016/j.automatica.2022.110217
+:AUTHOR: Schulze, L., Bertol, D. W., & Raffo, G. V.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/SchulzeEtAl2022.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** with respect to hyperplanes to build BST for PWA functions.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SchulzeEtAl2022.pdf::1++0.00;;annot-1-32]]
+:ID:       ~/docsThese/bibliography/SchulzeEtAl2022.pdf-annot-1-32
+:END:
+
+*** The solution of an eMPC is a Piecewise Affine (PWA) function that partitions the space of para- metric array into polyhedra, where each one is associated with a control law.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SchulzeEtAl2022.pdf::1++0.00;;annot-1-33]]
+:ID:       ~/docsThese/bibliography/SchulzeEtAl2022.pdf-annot-1-33
+:END:
+
+*** the current state belongs to and apply the respective control law, situation known as point location problem.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SchulzeEtAl2022.pdf::1++0.00;;annot-1-34]]
+:ID:       ~/docsThese/bibliography/SchulzeEtAl2022.pdf-annot-1-34
+:END:
+
+*** hyperplane D 0 j = { x ∈ R n : d j (x) = 0 } , where d j (x) = a T j x − b j , j = 1 , . . . , n I , with n I being the number of hyperplanes that defines X i .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SchulzeEtAl2022.pdf::2++0.78;;annot-2-17]]
+:ID:       ~/docsThese/bibliography/SchulzeEtAl2022.pdf-annot-2-17
+:END:
+nice definition for hyperplane
+
+*** Therefore, when X i and D 0 j do not have any intersection point, it is only necessary to know a point x R ∈ X i and verify the sign of d j (x R ) to determine which side from the hyperplane D 0 j lies on the region X i .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/SchulzeEtAl2022.pdf::3++1.56;;annot-3-29]]
+:ID:       ~/docsThese/bibliography/SchulzeEtAl2022.pdf-annot-3-29
+:END:
