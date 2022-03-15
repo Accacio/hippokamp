@@ -22,7 +22,6 @@
 
 *** Motivation :springGreen:
 Use of [[id:1158d11b-d0e9-40dd-bdd8-bbeb85092f71][Watermarking]] as active defense. Study for different types of systems, ARX, ARMAX, SISO with partial observations, MIMO with gaussian noise, extension to non-gaussian
-
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications
