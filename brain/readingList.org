@@ -2,7 +2,7 @@
 :ID:       c89ae1a5-9d64-4d13-bd1c-569c449e016b
 :END:
 #+TITLE: Reading List
-#+LINK: note file:%s.org
+#+LINK: note file:reference/%s.org
 #+LINK: pdf file:~/docsThese/bibliography/%s.pdf
 #+LINK: mobi file:~/docsThese/bibliography/%s.mobi
 #+LINK: epub file:~/docsThese/bibliography/%s.epub
