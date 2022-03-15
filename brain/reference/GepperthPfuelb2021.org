@@ -1,0 +1,114 @@
+:PROPERTIES:
+:ID:       093946d9-6d68-409a-bce8-9544408643cd
+:ROAM_REFS: cite:GepperthPfuelb2021
+:END:
+#+title: GepperthPfuelb2021
+- tags ::
+- keywords ::
+
+* Gradient-based training of gaussian mixture models for high-dimensional streaming data
+:PROPERTIES:
+:Custom_ID: GepperthPfuelb2021
+:URL: https://doi.org/10.1007/s11063-021-10599-3
+:AUTHOR: Gepperth, A., & Pf\"ulb, Benedikt
+:NOTER_DOCUMENT: ~/docsThese/bibliography/GepperthPfuelb2021.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Use Stochastic Gradient Descent to efficiently train Gaussian Mixture Model for high-dimensional streaming data.
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** Stochastic Gradient Descent (SGD) with non-stationary, high-dimensional streaming data.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::1++0.00;;annot-1-6]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-1-6
+:END:
+
+*** the approach allows mini- batch sizes as low as 1
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::1++0.00;;annot-1-7]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-1-7
+:END:
+
+*** Intrinsically, EM is a batch-type algorithm. Therefore, memory requirements can become excessive for large datasets.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::2++0.00;;annot-2-26]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-2-26
+:END:
+
+*** streaming-data scenarios require data samples to be processed one by one, which is impossible for a batch-type algorithm.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::2++0.00;;annot-2-27]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-2-27
+:END:
+
+*** Another approach is to modify the EM algorithm itself by, e.g., including heuristics for adding, splitting and merging centroids [3,10,15,24,26,29,30].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::2++4.95;;annot-2-28]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-2-28
+:END:
+
+*** The issue of local optima is side-stepped by a k-means type centroid initialization, and the used datasets are low-dimensional (36 dimensions)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::2++4.95;;annot-2-29]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-2-29
+:END:
+
+*** It exploits the properties of high-dimensional spaces in order to achieve learning with a number of samples that is poly- nomial in the number of Gaussian components.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::2++6.54;;annot-2-30]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-2-30
+:END:
+
+*** difficult to apply in streaming settings, since higher-order moments need to be estimated beforehand, and also because the number of samples is usually unknown.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::2++6.54;;annot-2-31]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-2-31
+:END:
+
+*** The numerical issues associated with log-likelihood computation in high-dimensional spaces are generally mitigated by using the “logsumexp” trick [21],
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::2++6.54;;annot-2-32]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-2-32
+:END:
+Nielsen F, Sun K (2016) Guaranteed bounds on information-theoretic measures of univariate mixtures
+using piecewise log-sum-exp inequalities. Entropy. https://doi.org/10.3390/e18120442
+
+*** precision matrices P k =  −1 k instead of covari- ances  k .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::3++1.25;;annot-3-5]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-3-5
+:END:
+
+*** This is what we call the max-component approximation of
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::5++0.00;;annot-5-3]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-5-3
+:END:
+
+*** This mitigates but does not avoid numerical problems when distances are high, a common occurrence for high data dimensions.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::5++0.00;;annot-5-4]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-5-4
+:END:
+
+*** which produces an underflow respectively NaN values.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::5++0.00;;annot-5-5]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-5-5
+:END:
+Exactly what happens in my examples
+
+*** A crucial issue when optimizing L̂ (and indeed L as well) by SGD without k-means initial- ization concerns undesirable local optima.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/GepperthPfuelb2021.pdf::5++5.94;;annot-5-6]]
+:ID:       ~/docsThese/bibliography/GepperthPfuelb2021.pdf-annot-5-6
+:END:
