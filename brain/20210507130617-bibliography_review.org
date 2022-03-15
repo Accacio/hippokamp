@@ -68,6 +68,7 @@ done
 - [[file:reference/BradleyMangasarian2000.org::Motivation][BradleyMangasarian2000]] ::
   Presentation of K-plane algorithm
 - [[file:reference/BramsTaylor1995.org::Motivation][BramsTaylor1995]] ::
+  Protocols to solve n-agents unsupervised envy-free cake cutting problem
 - [[file:reference/BraunEtAl2020.org::Motivation][BraunEtAl2020]] ::
   Identify attack using evolution of coupling variables
 - [[file:reference/CamachoBordons2007.org::Motivation][CamachoBordons2007]] ::
@@ -93,6 +94,8 @@ done
   This article uses Unscented Kalman Filter (UKF) to localize a submarine using one acoustic reference.
 - [[file:reference/FungMangasarian2001.org::Motivation][FungMangasarian2001]] ::
   Use two parallel planes instead of one (as in standard SVM) in order to handle larger sets.
+- [[file:reference/GepperthPfuelb2021.org::Motivation][GepperthPfuelb2021]] ::
+  Use Stochastic Gradient Descent to efficiently train Gaussian Mixture Model for high-dimensional streaming data.
 - [[file:reference/GilbertEtAl1988.org::Motivation][GilbertEtAl1988]] ::
   This article proposes a fast procedure to compute distance between complex objects. Great use of Minkowski sum.
 - [[file:reference/GossnerEtAl1997.org::Motivation][GossnerEtAl1997]] ::
@@ -139,7 +142,6 @@ done
 - [[file:reference/LuYang2020.org::Motivation][LuYang2020]] ::
   State [[id:73c6fea6-0266-4dfb-b66b-0c502c51cbab][Estimation]] of NCS, with faulty and malicious agents based on [[id:fbd817a8-43a5-4b8e-95b5-7b199bf98be1][Least-squares]]
 - [[file:reference/MaestreEtAl2021.org::Motivation][MaestreEtAl2021]] ::
-  # springGreen
   Similar to cite:VelardeEtAl2017a but showing how to compute the scenarios
   Interesting way to present cumulative cost
 - [[file:reference/MarafiotiEtAl2014.org::Motivation][MarafiotiEtAl2014]] ::
@@ -172,7 +174,6 @@ done
 - [[file:reference/RollEtAl2004.org::Motivation][RollEtAl2004]] ::
 - [[file:reference/SatchidanandanKumar2017.org::Motivation][SatchidanandanKumar2017]] ::
   Use of [[id:1158d11b-d0e9-40dd-bdd8-bbeb85092f71][Watermarking]] as active defense. Study for different types of systems, ARX, ARMAX, SISO with partial observations, MIMO with gaussian noise, extension to non-gaussian
-
 - [[file:reference/SchulzeEtAl2022.org::Motivation][SchulzeEtAl2022]] ::
 - [[file:reference/ShiromotoEtAl2019.org::Motivation][ShiromotoEtAl2019]] ::
   Use of separable metric structures to distributed nonlinear control
