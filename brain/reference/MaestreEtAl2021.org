@@ -20,12 +20,10 @@
 
 ** CATALOG
 
-*** Motivation
-# springGreen
+*** Motivation :springGreen:
 Similar to cite:VelardeEtAl2017a but showing how to compute the scenarios
 Interesting way to present cumulative cost
-*** Model
-# lightSkyblue
+*** Model :lightSkyblue:
 *** Remarks
 *** Applications
 *** Expressions
@@ -33,8 +31,7 @@ geographically disperse systems
 An alternative to deal with this kind of problems is to ...
 A preliminary version of this paper has appeared as
 inner iteration of the dual decomposition DMPC algorithm.
-*** References
-# violet
+*** References :violet:
 
 ** NOTES
 
