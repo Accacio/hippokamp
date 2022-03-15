@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3d14d282-97e0-48ac-97c4-8cd3dd986db6
+:ROAM_REFS: https://xkcd.com/2583/
+:END:
+#+title: xkcd: Chorded Keyboard
+
+https://imgs.xkcd.com/comics/chorded_keyboard.png
+
+- tags :: [[id:46a117a5-0a94-4fc1-a9a8-bd9eaa7daf69][comics]]
