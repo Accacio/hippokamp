@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       11c76ad7-3233-4c21-b55a-531b2e45919f
+:ROAM_REFS: https://www.youtube.com/watch?v=edLnZgF9mUg
+:END:
+#+title: 2. Airplane Aerodynamics - YouTube
+#+LINK: note https://www.youtube.com/watch?v=edLnZgF9mUg&t=%ss
+
+https://www.youtube.com/watch?v=edLnZgF9mUg
+
+- tags :: [[id:e3029c97-70bc-44cb-a8f8-706fd4732343][Dynamic Systems]], Airplane
+
+- Lecturer :: Tina Srisvastava
+
+* Bernoulli's Principle
+ - [[note:870]] when there is no movement in the fluid all pressure forces net to zero
+
+* Lift
+- the whole aircraft generates lift, not only wings
+  + race cars spoiler "spoil" air movement
+* Factors of lift
+- Object
+- Motion
+- Air
+
+* Calculating
+- Very difficult
+- approximations
+  + Laminar flow
+* Approximating lift
+$L=\oint p \vec{n}\cdot \vec{k} dS$
+- p pressure distribution
+
+* Approximating lift (2)
+$L={1\over2}\rho v^2AC_L$'
+- $\rho$ :: air density
+- $v$ :: velocity
+- $A$ :: Wing area
+- $C_L$ :: Coefficient of Lift (measure at a given angle of attack)
+* The Airfoil
+
+
+
