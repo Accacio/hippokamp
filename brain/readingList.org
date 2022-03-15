@@ -18,25 +18,22 @@
 
 
 * Articles
-** LIRE [4/91]
+** LIRE [5/93]
+*** READ [#A] GepperthPfuelb2021 | [[note:GepperthPfuelb2021][org]] [[pdf:GepperthPfuelb2021][pdf]]
+
+- State "READ"       from "READING"    [2022-03-15 mar. 11:30]
+- State "READING"    from "TO-READ"    [2022-03-15 mar. 10:11]
 *** TO-READ MaestreEtAl2011 | [[note:MaestreEtAl2011][org]] [[pdf:MaestreEtAl2011][pdf]]
 *** TO-READ MaestreEtAl2011a | [[note:MaestreEtAl2011][org]] [[pdf:MaestreEtAl2011][pdf]]
+*** TO-READ [#A] LiuEtAl2022 | [[note:LiuEtAl2022][org]] [[pdf:LiuEtAl2022][pdf]]
+
 *** READ [#A] ChristofidesEtAl2013 | [[note:ChristofidesEtAl2013][org]] [[pdf:ChristofidesEtAl2013][pdf]]
-:PROPERTIES:
-:ID:       749af5f9-13aa-4613-8a16-0d29d32f5143
-:END:
 - State "READ"       from "TO-READ"    [2022-02-18 ven. 17:14]
 *** READ [#A] NotarnicolaNotarstefano2020 | [[note:NotarnicolaNotarstefano2020][org]] [[pdf:NotarnicolaNotarstefano2020][pdf]]
 - State "READ"       from "TO-READ"    [2022-02-18 ven. 13:09]
 *** READ [#A] WangYang2022 | [[note:WangYang2022][org]] [[pdf:WangYang2022][pdf]]
-:PROPERTIES:
-:ID:       c3fc7fc8-5072-4735-9c6f-d0abee46b2aa
-:END:
 - State "READ"       from "TO-READ"    [2022-02-17 jeu. 16:41]
 *** READ [#A] CamisaEtAl2022 | [[note:CamisaEtAl2022][org]] [[pdf:CamisaEtAl2022][pdf]]
-:PROPERTIES:
-:ID:       0bee0aa8-08c6-453d-ace8-9efa09c20f42
-:END:
 
 - State "READ"       from "TO-READ"    [2022-02-17 jeu. 18:48]
 *** TO-READ [#A] ArauzEtAl2021 | [[note:ArauzEtAl2021][org]] [[pdf:ArauzEtAl2021][pdf]]
@@ -50,10 +47,6 @@
 *** TO-READ LuEtAl2020 | [[note:LuEtAl2020][org]] [[pdf:LuEtAl2020][pdf]]
 *** TO-READ LorenzenEtAl2019 | [[note:LorenzenEtAl2019][org]] [[pdf:LorenzenEtAl2019][pdf]]
 *** TO-READ VidalEtAl2005 | [[note:VidalEtAl2005][org]] [[pdf:VidalEtAl2005][pdf]]
-:PROPERTIES:
-:ID:       91214f28-7bb6-465a-9336-8fafcfaabf16
-:END:
-
 *** TO-READ LuZavala2021 | [[note:LuZavala2021][org]] [[pdf:LuZavala2021][pdf]]
 *** TO-READ KshetriVoas2017 | [[note:KshetriVoas2017][org]] [[pdf:KshetriVoas2017][pdf]]
 *** TO-READ SimonEtAl2012 | [[note:SimonEtAl2012][org]] [[pdf:SimonEtAl2012][pdf]]
