@@ -1,0 +1,226 @@
+:PROPERTIES:
+:ID:       a4477ef4-1e86-4960-855a-898f37263d54
+:ROAM_REFS: cite:BaudryCeleux2015
+:END:
+#+title: BaudryCeleux2015
+- tags :: [[id:1d06659d-d255-4ce2-a590-2652c630a32d][Expectation Maximization]]
+- keywords ::
+
+* Em for mixtures
+:PROPERTIES:
+:Custom_ID: BaudryCeleux2015
+:URL: https://doi.org/10.1007/s11222-015-9561-x
+:AUTHOR: Baudry, J., & Celeux, G.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/BaudryCeleux2015.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- The article is organized as follows.
+- Section 3 is devoted
+*** References :violet:
+
+** NOTES
+
+*** But the EM algo- rithm has well-documented drawbacks: its solution could be highly dependent from its initial position and it may fail as a result of degeneracies.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::1++0.00;;annot-1-7]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-1-7
+:END:
+
+*** EM may converge painfully slowly, (ii) its solutions may be highly dependent on its initial position θ 0 .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::2++0.00;;annot-2-12]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-2-12
+:END:
+    Pros and cons of EM
+
+*** But all our considerations are expected to be relevant for all latent structure models for which the EM algorithm encounters many local maxima, slow convergence situations, or degeneracies.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::2++0.00;;annot-2-13]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-2-13
+:END:
+
+*** n particular, EM is jeopardized with mixture models with a great number of components or in high dimension set- tings or when many local maxima of the likelihood function are present.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::2++1.88;;annot-2-14]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-2-14
+:END:
+
+*** this algorithm should be used with a great care to provide relevant and stable parameter estimates.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::2++1.88;;annot-2-15]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-2-15
+:END:
+
+*** propose relevant procedures to get honest ml estimates derived with the EM algorithm.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::2++1.88;;annot-2-16]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-2-16
+:END:
+
+*** The article is organized as follows.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::2++4.38;;annot-2-17]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-2-17
+:END:
+
+*** Section 3 is devoted
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::2++4.38;;annot-2-18]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-2-18
+:END:
+
+*** use inten- sively random initializations and have been proposed in
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::3++6.31;;annot-3-27]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-3-27
+:END:
+*** Initialization
+**** Random | This basic procedure consists of running the EM algorithm until convergence from several random positions and to keep the solution providing the largest likelihood.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::3++6.31;;annot-3-28]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-3-28
+:END:
+Multiple random runs and take the largest likelihood
+
+**** Small EM | This procedure consists of using a large num- ber of short runs of EM.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::3++7.87;;annot-3-29]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-3-29
+:END:
+Multiple random runs without convergence and take largest likelihood
+
+**** SEM | The SEM algorithm is a stochastic algorithm incor- porating between the E and M steps of EM a restoration of the unknown component labels z i , i = 1, . . . , n by drawing them at random from their current condi- tional distribution.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++0.00;;annot-4-16]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-16
+:END:
+choose latent at random using the probabilities found in the responsibility
+
+**** CEM | The CEM algorithm, see for instance (Celeux and Govaert 1992)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++0.00;;annot-4-17]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-17
+:END:
+choose latent which maximizes the responsibilities
+
+*** Among these pro- cedures, Small EM is often preferred.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++3.13;;annot-4-18]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-18
+:END:
+
+*** But none of them has shown to outperform the other procedures.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++3.13;;annot-4-19]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-19
+:END:
+
+*** all of them can appear to be disappointing in a large dimension setting because the domain parameter to be explored becomes very large or when the number of mixture components is large.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++3.13;;annot-4-20]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-20
+:END:
+
+*** 3.1.1 Recursive algorithms
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++1.88;;annot-4-21]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-21
+:END:
+
+1. Split at random one of the component $K$ into two to get a $K+1$ component solution
+2. Begin with a $K_min$ use one of the methods to initialize (Small EM, for example)
+3. Split one of the solutions found to calculate $K+1$
+**** How to choose which one to split?
+***** Random Choice
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++1.88;;annot-4-22]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-22
+:END:
+***** Optimal Sequential
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++1.88;;annot-4-23]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-23
+:END:
+optimize a splitting criterion
+***** Complete Choice
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++1.88;;annot-4-24]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-24
+:END:
+split all and choose the one with largest likelihood
+*** 3.1.2 Splitting criteria
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++7.87;;annot-4-25]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-25
+:END:
+**** Splitting the component with the weakest contribution to the likelihood
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::4++7.87;;annot-4-26]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-4-26
+:END:
+**** Splitting the component with the weakest contribution to the complete likelihood
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::5++0.00;;annot-5-14]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-5-14
+:END:
+**** Splitting the component with the largest contribution to the mixture entropy
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::5++4.69;;annot-5-15]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-5-15
+:END:
+*** d is the number of elements of an observed data
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::5++0.60;;annot-5-16]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-5-16
+:END:
+*** Multiple ways to avoid degeneracies
+**** replace the ml estimate with the maximum a posteriori (MAP) estimate which maximizes the regularized log-likelihood log L(θ K ) + log π(θ K ), π being a prior dis- tribution on the vector parameter θ K .
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::5++0.91;;annot-5-17]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-5-17
+:END:
+- general covariance matrices
+$\Sigma_{k}^{r+1}=\frac{\Lambda+\sum_{i=1}^{n} \tau_{i k}^{r}\left(y_{i}-\mu_{k}^{r+1}\right)\left(y_{i}-\mu_{k}^{r+1}\right)^{\prime}}{v+\sum_{i=1}^{n} \tau_{i k}^{r}+d+2}$
+where $\nu=d+2$ and $\lambda=\frac{\sigma_0^{1/d}S}{|S|^{1/d}}$, $S$ is the empirical covariance matrix of the observed data
+**** Gaussian mixture models with diagonal component covariance matrices
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::5++6.22;;annot-5-18]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-5-18
+:END:
+$B_{k j}^{r+1}=\frac{\zeta_{j}+\sum_{i=1}^{n} \tau_{i k}^{r}\left(y_{i j}-\mu_{k j}^{r+1}\right)^{2}}{v+\sum_{i=1}^{n} \tau_{i k}^{r}+2}$
+
+with
+$\zeta_{j}=\left(\sigma_{0}\right)^{1 / d} \frac{s_{j}}{\left(s_{1} \ldots s_{d}\right)^{1 / d}}$
+$s_j$ is the variance of variable $j$
+**** Gaussian mixture models with spherical covariance matrices $\lambda_kI(1\leq k\leq K)$
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::5++6.22;;annot-5-19]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-5-19
+:END:
+$\lambda_{k}^{r+1}=\frac{\zeta+\sum_{i=1}^{n} \tau_{i k}^{r}\left(y_{i}-\mu_{k}^{r+1}\right)^{\prime}\left(y_{i}-\mu_{k}^{r+1}\right)}{v+d \sum_{i=1}^{n} \tau_{i k}^{r}+d+2}$
+where $\zeta=2\left(\sigma_{0}\right)^{1 / d}$
+*** The degeneracies of the likelihood can be addressed by a Bayesian regularization. But the initializa- tion issue remains and can be a most influencial factor.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::13++6.57;;annot-13-4]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-13-4
+:END:
+*** Thus, the EM algorithm is expected to converge faster with them than with fully random initializations.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::14++0.94;;annot-14-2]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-14-2
+:END:
+Converges faster if initialization is close to original value
+*** Finally, let us stress the importance of the choice of the parameter σ 0 to get an honest regularization.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BaudryCeleux2015.pdf::14++2.81;;annot-14-3]]
+:ID:       ~/docsThese/bibliography/BaudryCeleux2015.pdf-annot-14-3
+:END:
+Choice of $\sigma_0$ is important!
