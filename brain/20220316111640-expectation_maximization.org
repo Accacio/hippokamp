@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1d06659d-d255-4ce2-a590-2652c630a32d
+:END:
+#+title: Expectation Maximization
+
+Algorithm to find maximum likelihood estimators with incomplete data
+
+2 Steps:
+1. Calculate posterior probabilities (responsibilities)
+2. Find parameters which maximize log-likelihood
+better explanation in cite:Bishop2006
+
+* Problems
+- Slow convergence cite:BaudryCeleux2015
+- Dependence on initialization cite:BaudryCeleux2015,GepperthPfuelb2021
+
+* Uses
+- Generally used for gaussian mixture models
+- We used to estimate MPC parameters
+* Some references
+- [[https://github.com/sleglaive/BayesianML#session1][Simon Leglaive's Bayesian methods for Machine Learning Course]]

@@ -163,7 +163,7 @@ quadtrees??
 :ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-455-0
 :END:
 
-***** maximum likelihood solutions for models with latent variables is called the expectation-maximization algorithm, or EM algorithm
+***** maximum likelihood solutions for models with latent variables is called the [[id:1d06659d-d255-4ce2-a590-2652c630a32d][expectation-maximization]] algorithm, or EM algorithm
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2006.pdf::455++0.32;;annot-455-1]]
 :ID:       ~/docsThese/bibliography/Bishop2006.pdf-annot-455-1
