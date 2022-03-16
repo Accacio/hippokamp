@@ -14,7 +14,7 @@
   :Custom_ID: KolarijaniEtAl2020
   :URL: 
   :AUTHOR: A. S. Kolarijani, S. C. Bregman, P. M. Esfahani, & T. Keviczky
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/KolarijaniEtAl2020.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/KolarijaniEtAl2020.pdf
   :NOTER_PAGE:
   :END:
 
