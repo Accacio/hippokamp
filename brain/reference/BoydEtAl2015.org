@@ -6,10 +6,15 @@
 #+filetags: article
 
 - tags :: [[id:dc49d7a6-a3e4-48f5-bf13-242f40a8ffa0][Decomposition]]
+- tags ::
+- keywords ::
 
-* BoydEtAl2015
+* Notes on decomposition methods
 :PROPERTIES:
-:NOTER_DOCUMENT: ../../docsThese/bibliography/BoydEtAl2015.pdf
+:Custom_ID: BoydEtAl2015
+:URL:
+:AUTHOR: Boyd, S., Xiao, L., Mutapcic, A., & Mattingley, J.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/BoydEtAl2015.pdf
 :END:
 
 ** CATALOG
@@ -28,26 +33,26 @@ Good Source for decomposing problems with complicatings constraints
 *** algo primal decomposition
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::4++0.00;;annot-4-0]]
-:ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-4-0
+:ID:       ~/docsThese/bibliography/BoydEtAl2015.pdf-annot-4-0
 :END:
 *** algo dual decomposition
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::7++0.00;;annot-7-0]]
-:ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-7-0
+:ID:       ~/docsThese/bibliography/BoydEtAl2015.pdf-annot-7-0
 :END:
 *** complicating constraints
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::11++0.00;;annot-11-0]]
-:ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-11-0
+:ID:       ~/docsThese/bibliography/BoydEtAl2015.pdf-annot-11-0
 :END:
 name for constraints that avoid parallel solution
 *** algo primal decomposition with Constraints
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::12++0.00;;annot-12-0]]
-:ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-12-0
+:ID:       ~/docsThese/bibliography/BoydEtAl2015.pdf-annot-12-0
 :END:
 *** algo dual decomposition with Constraints
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2015.pdf::13++0.00;;annot-13-0]]
-:ID:       ../../docsThese/bibliography/BoydEtAl2015.pdf-annot-13-0
+:ID:       ~/docsThese/bibliography/BoydEtAl2015.pdf-annot-13-0
 :END:
