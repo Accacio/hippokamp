@@ -7,13 +7,14 @@
 
 - tags :: [[id:4cabbb59-a17c-4583-9826-6e6eb436488e][Secure dMPC]], [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]]
 
-* [[id:643844e6-2f3f-4420-a332-c499fd8e66fc][CSI]]
+* Organization
+** [[id:643844e6-2f3f-4420-a332-c499fd8e66fc][CSI]]
 
-* Planning
+** Planning
 :PROPERTIES:
 :ID:       aeb0a81d-a6d4-4956-a9d5-c9ee9b07d62d
 :END:
-** Complete
+*** Complete
 #+name: complete-gantt
 #+BEGIN_SRC plantuml :file img/ganttThese.png :exports results :noweb yes
 <<2019-gantt>>
@@ -36,7 +37,7 @@ printscale monthly
 #+RESULTS: complete-gantt
 [[file:img/ganttThese.png]]
 
-** 2019
+*** 2019
 #+NAME:2019-gantt
 #+BEGIN_SRC plantuml :file img/ganttThese-2019.png :exports results
 printscale weekly
@@ -59,7 +60,7 @@ Project starts the 2019-11-01
 #+RESULTS: 2019-gantt
 [[file:img/ganttThese-2019.png]]
 
-** 2020
+*** 2020
 #+NAME:2020-gantt
 #+BEGIN_SRC plantuml :file img/ganttThese-2020.png :exports results :noweb yes
 printscale weekly
@@ -129,7 +130,7 @@ Project starts the 2020-01-01
 #+RESULTS: 2020-gantt
 [[file:img/ganttThese-2020.png]]
 
-** 2021
+*** 2021
 #+NAME:2021-gantt
 #+BEGIN_SRC plantuml :file img/ganttThese-2021.png :exports results :noweb yes
 printscale weekly
@@ -218,7 +219,7 @@ Project starts the 2021-01-01
 #+RESULTS: 2021-gantt
 [[file:img/ganttThese-2021.png]]
 
-** 2022
+*** 2022
 #+NAME:2022-gantt
 #+BEGIN_SRC plantuml :file img/ganttThese-2022.png :exports results :noweb yes
 printscale weekly
@@ -250,19 +251,52 @@ Project starts the 2022-01-01
 #+RESULTS: 2022-gantt
 [[file:img/ganttThese-2022.png]]
 
-* Problems normally found
+
+* Ideias & Perguntas
+:PROPERTIES:
+:ID:       7361b119-73f0-4bbc-83bc-236df8d6b265
+:END:
+** se a variação de um tempo para outro for pequena pode tentar estimar o gradiente?? algo como expansão de taylor de 2 ordem
+** verificar erro de estimação
+- $\|T-\hat T\|\leq\epsilon$
+- $\kappa(\hat T)=f(\kappa(T),\epsilon)$
+** porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?
+** Problems normally found
 - Negotiation
   + Projection
     - Hyperplanes/HalfSpaces
   + Estimation
     - Richness of signal
 
-* Words
+* Documents
+- Administrative :: file:~/these/DocAdm/
+
+* Defense
+- Open questions
+- 1 ideia por slide
+- deixar tempo para ler ao fim do slide
+- expor motivaçoes
+- Qual escala consideraria para utilizar os algoritmos??
+
+* Mémoire
+** Words
 - mitigation
 - detection
 - behavior
 
-* Expressions
+** Context
+*** Uses of MPC
+:PROPERTIES:
+:ID:       d2cbae57-7e69-487f-9d0a-4df113a87e67
+:END:
+- Water distribution
+  cite:ZhangEtAl2021
+- Chemistry
+  cite:AfsiEtAl2020
+*** Security
+- [[id:~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-1-9][As a matter of fact, CPSs have become the core tech- nology of the upcoming industrial revolution [2] since they have been widely used in advanced communications, power grids [3], transportation networks [4], vehicular social networks [5], and so on.]]
+
+** Expressions
 #+begin_src bash :results drawer :exports results
 awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressions]["$0"]]"}' ../reference/*[0-9][0-9][0-9][0-9].org | sed "s,\[- ,\[,"| grep -v "*** Expressions\|References" | sort -V
 #+end_src
@@ -335,35 +369,7 @@ awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressio
 - [[file:../reference/YangEtAl2022.org::*Expressions][In all, contributions of this article are summarized as follows]]
 :end:
 
-* Ideias & Perguntas
-:PROPERTIES:
-:ID:       7361b119-73f0-4bbc-83bc-236df8d6b265
-:END:
-** se a variação de um tempo para outro for pequena pode tentar estimar o gradiente?? algo como expansão de taylor de 2 ordem
-** verificar erro de estimação
-- $\|T-\hat T\|\leq\epsilon$
-- $\kappa(\hat T)=f(\kappa(T),\epsilon)$
-** porque continuar fazendo comunicação entre agentes se coordenador já conhece $H_i$ e $F_i$ ?
 
-* Documents
-file:~/these/DocAdm/
-
-* Defense
-- Open questions
-- 1 ideia por slide
-- deixar tempo para ler ao fim do slide
-- expor motivaçoes
-- Qual escala consideraria para utilizar os algoritmos??
-
-* Context
-** Uses of MPC
-:PROPERTIES:
-:ID:       d2cbae57-7e69-487f-9d0a-4df113a87e67
-:END:
-- Water distribution
-  cite:ZhangEtAl2021
-- Chemistry
-  cite:AfsiEtAl2020
 
 * References :noexport:
 bibliography:~/docsThese/bibliography.bib
