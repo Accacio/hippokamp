@@ -3,7 +3,7 @@
 :ROAM_REFS: https://www.youtube.com/watch?v=KZjoxwUxlIs&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS&index=4
 :END:
 #+title: Lecture 2B: Introduction to Manifolds (Discrete Differential Geometry) - YouTube
-- tags :: [[id:359a3c96-e896-4743-9ca0-f7796115ee08][Discrete Differential Geometry - Course]]
+- tags :: [[id:359a3c96-e896-4743-9ca0-f7796115ee08][Discrete Differential Geometry - Course]], [[id:076e2d11-bdf7-40fc-a62c-615614d37c7e][Manifolds]]
 
 * Sparse Matrix Data Structures
 - Associative array
