@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0f476a7a-61a0-4adb-9c7b-5d309c426a51
+:ROAM_ALIASES: GMM
+:END:
+#+title: Gaussian Mixture Model

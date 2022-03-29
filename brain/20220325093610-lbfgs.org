@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e38f8940-e43a-49b9-a02f-fd134cd222dc
+:END:
+#+title: LBFGS
+- tags :: [[id:1f41126c-c173-41a6-be48-d9e546f440d0][Algorithms]], [[id:5a49fd78-d9c6-41a4-910c-878a6f2d53ad][Broyden-Fletcher-Goldfarb-Shanno]]
+
+- Limited memory Broyden-Fletcher-Goldfarb-Shanno

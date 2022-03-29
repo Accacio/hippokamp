@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       64cd3f86-5f1e-4a54-86ea-bf073541ea49
+:END:
+#+title: Quasi-Newton
+- tags :: [[id:1f41126c-c173-41a6-be48-d9e546f440d0][Algorithms]]
