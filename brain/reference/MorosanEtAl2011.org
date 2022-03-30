@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       aba7108b-248e-4f8e-a5b4-72727d3a44a0
+:ROAM_REFS: cite:MorosanEtAl2011
+:END:
+#+title: MorosanEtAl2011
+- tags ::
+- keywords :: Distributed model predictive control, Linear programming, Decomposition methods, Energy saving, Building heating systems
+
+* A distributed mpc strategy based on benders' decomposition applied to multi-source multi-zone temperature regulation
+:PROPERTIES:
+:Custom_ID: MorosanEtAl2011
+:URL: https://doi.org/https://doi.org/10.1016/j.jprocont.2010.12.002
+:AUTHOR: Petru-Daniel Moro\csan, Bourdais, R., Dumur, D., & Buisson, J.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/MorosanEtAl2011.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+[[id:92ed23b5-1480-4241-b074-a5b4a1d42069][DMPC]] based on Bender's decomposition
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** (DMPC) algorithm based on Benders’ decom- position
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MorosanEtAl2011.pdf::1++0.00;;annot-1-19]]
+:ID:       ~/docsThese/bibliography/MorosanEtAl2011.pdf-annot-1-19
+:END:
+
+*** MPC optimization problem can be solved by linear programming.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MorosanEtAl2011.pdf::1++0.00;;annot-1-20]]
+:ID:       ~/docsThese/bibliography/MorosanEtAl2011.pdf-annot-1-20
+:END:
+
+*** The predictive control has been suc- cessfully used in many and varied applications [7–9].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MorosanEtAl2011.pdf::1++6.56;;annot-1-21]]
+:ID:       ~/docsThese/bibliography/MorosanEtAl2011.pdf-annot-1-21
+:END:
+Applications of predictive control
+
+*** The computational demand required to solve the centralized problem grows exponentially
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MorosanEtAl2011.pdf::2++3.73;;annot-2-21]]
+:ID:       ~/docsThese/bibliography/MorosanEtAl2011.pdf-annot-2-21
+:END:
+
+*** To avoid infeasibility issues, the comfort constraints will be soft- ened, adding a penalty, f i , to the cost criterion when they are not satisﬁed.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/MorosanEtAl2011.pdf::3++3.49;;annot-3-11]]
+:ID:       ~/docsThese/bibliography/MorosanEtAl2011.pdf-annot-3-11
+:END:
