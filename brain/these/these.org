@@ -293,6 +293,9 @@ Project starts the 2022-01-01
   cite:ZhangEtAl2021
 - Chemistry
   cite:AfsiEtAl2020
+- Traffic Control
+  [[id:~/docsThese/bibliography/LiuEtAl2022.pdf-annot-2-29][Model Predictive Control (MPC) for traffic networks has also been receiving more and more attention in the literature (Hegyi et al., 2005; Papamichail et al., 2010; Ferrara et al., 2015; Luo et al., 2016; Kim et al., 2017; Piacentini et al., 2018; Menelaou et al., 2019; Sirmatel and Geroliminis, 2018; Maestre et al., 2020).]]
+
 *** Security
 - [[id:~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-1-9][As a matter of fact, CPSs have become the core tech- nology of the upcoming industrial revolution [2] since they have been widely used in advanced communications, power grids [3], transportation networks [4], vehicular social networks [5], and so on.]]
 
@@ -368,8 +371,6 @@ awk '/*** Expressions/,/*** References/{print   "- [[file:"FILENAME"::*Expressio
 - [[file:../reference/YangEtAl2022.org::*Expressions][For convenience, the time index k is omitted]]
 - [[file:../reference/YangEtAl2022.org::*Expressions][In all, contributions of this article are summarized as follows]]
 :end:
-
-
 
 * References :noexport:
 bibliography:~/docsThese/bibliography.bib
