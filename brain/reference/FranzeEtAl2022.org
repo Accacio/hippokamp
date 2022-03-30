@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       0077b836-ff10-43ca-9807-21eb0663e307
+:ROAM_REFS: cite:FranzeEtAl2022
+:END:
+#+title: FranzeEtAl2022
+- tags ::
+- keywords ::
+
+* Resilient model predictive control for constrained cyber-physical systems subject to severe attacks on the communication channels
+:PROPERTIES:
+:Custom_ID: FranzeEtAl2022
+:URL: https://doi.org/10.1109/TAC.2021.3084237
+:AUTHOR: Franz\`e, Giuseppe, Lucia, W., & Tedesco, F.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/FranzeEtAl2022.pdf
+:END:
+** CATALOG
+*** Motivation :springGreen:
+Mitigation of False Data injection ([[id:a60ecbf6-c6d2-404e-8001-71ed8c41692f][replay attack]]) in MPC Constrained, 2 MPC types, delay-MPC and N-MPC
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+- and the CPS can be driven toward possibly dangerous operating conditions.
+*** References :violet:
+** NOTES
+*** mitigate unde- sired system behaviors due to external malicious actions.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::1++0.00;;annot-1-7]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-1-7
+:END:
+*** set-membership condi- tions allow us to quickly detect data integrity anomalies
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::1++0.00;;annot-1-8]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-1-8
+:END:
+*** As a matter of fact, CPSs have become the core tech- nology of the upcoming industrial revolution [2] since they have been widely used in advanced communications, power grids [3], transportation networks [4], vehicular social networks [5], and so on.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::1++0.29;;annot-1-9]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-1-9
+:END:
+References about security in CPS
+*** and the CPS can be driven toward possibly dangerous operating conditions.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::1++3.15;;annot-1-10]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-1-10
+:END:
+*** evaluation of the impact of adversary actions [14], [15]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::2++1.15;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-2-0
+:END:
+*** improve- ment of detection and isolation mechanisms [16], [17].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::2++1.15;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-2-1
+:END:
+*** modeling and detecting attacks issues, see, e.g., [18] and [19].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::2++1.15;;annot-2-2]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-2-2
+:END:
+*** attack detectability conditions have been derived in [9], whereas in [20], a threshold on the maximum number of attacks, which can be detected and corrected, has been provided.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::2++1.15;;annot-2-3]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-2-3
+:END:
+*** Finally, the effect of replay attacks and the tradeoff between the performance of the linear quadratic Gaussian control and the attack detector have been discussed in [22].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::2++1.15;;annot-2-4]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-2-4
+:END:
+*** In [23], a receding horizon controller has been designed for linear time-invariant systems in order to be resilient against attacks occurring along the controller-to-actuator channel.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::2++1.15;;annot-2-5]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-2-5
+:END:
+*** the second one implies that the controller-to-actuator channel must be considered permanently unsafe.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::4++0.00;;annot-4-0]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-4-0
+:END:
+*** any received data packet u(·) could be affected by adversaries.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::4++0.00;;annot-4-1]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-4-1
+:END:
+*** Assumption 1: For at least a time instant after the network recovery, the controller-to-actuator channel is guaranteed to be attack-free.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::4++7.34;;annot-4-2]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-4-2
+:END:
+*** Note that, at each instant t, the delayed state χ(t − 1) in (14) is instrumental to take care of the difference between the state measurement χ(t) and the real plant state x(t).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/FranzeEtAl2022.pdf::6++2.01;;annot-6-0]]
+:ID:       ~/docsThese/bibliography/FranzeEtAl2022.pdf-annot-6-0
+:END:
