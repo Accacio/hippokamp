@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       1d48c00b-be6e-4096-acb1-99b738f04b5f
+:END:
+#+title: Seminaire Flexibility
+* First Part
+- presenter :: Hervé Guéguen
+** Definitions
+- modification of consumption patterns depending on external values
+
+** Services
+- voltage deviagion
+- line overloading
+- timescale
+  - planning
+  - operation
+- Operators
+  - transmission system operators
+  - distribution
+** Signals
+- types
+  - implicit flexibility request
+  - explicit flexibility request
+
+*** implicit flexibility request
+- price
+*** explicit flexibility request
+- citizen awareness
+  - [[https://www.monecowatt.fr][ecowatt]]
+- direct control
+*** Modification of patterns
+- prediction of nominal patterns
+- estimation of flexibility potential
+
+** Flexibility and control
+- pattern prediction
+- implementation
+  - coordination of consumptions
+    - multi building heating
+    - heating and EV charging
+    - ...
+  - Load shifting
+  - Peak shaving (cancel consumption)
+  - Multi energy sytems
+  - generation/consumption balancing
+    - storage
+- Flexibility request
+  - grid control
+  - market clearing
+  - price-incentive setting
+
+* Flexibility characterization
+- presenter :: Zhighang Zhang
