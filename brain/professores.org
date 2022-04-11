@@ -18,6 +18,7 @@ Tentativa de listar todos professores que já tive
 - Márcia
 - Solange
 * J. Carlos
+- ?
 * Adlai Stevenson
 - Solange
 - Ana Lúcia
@@ -64,7 +65,7 @@ Tentativa de listar todos professores que já tive
 - Eduardo Lannes/ ??
 - Berta/ Begona
 - Begona
-- Berta
+- Berta \dag
 *** Francês
 - Dayse Elísio
 - Jordélia
@@ -92,7 +93,7 @@ Tentativa de listar todos professores que já tive
 *** Biologia
 - Marcelo
 - Ana Maria
-- Mazzetti / Ana Maria?
+- Mazzetti / Ana Maria
 *** Sociologia
 - Cícero
 - Silzane?
@@ -113,75 +114,86 @@ Tentativa de listar todos professores que já tive
 *** Francês
 - Maria Theresa
 * UFRJ
-** 1° Período
-- [[http://www.im.ufrj.br/index.php/pt/pessoal/docentes/docentes/185-luiz-carlos-guimaraes][Luiz Carlos Guimarães]]
-- Cláudio Esperança
-- [[https://folk.uib.no/dpi081/][Didier Jacques François Pilod]]
-- [[http://darnassus.if.ufrj.br/~vanhecke/][Franciscus Jozef VANHECKE]]
-- Victor de Barros Brasil
-- [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
-- Lucidalva dos Santos Pinheiro
-** 2° Período
-- Jose Arthur da Rocha
-- [[http://im.ufrj.br/~epmoura/][Eleonora Pinto de Moura]]
-- [[http://darnassus.if.ufrj.br/~beatriz/][Beatriz Bianco Siffert]]
-- [[https://www.if.ufrj.br/docentes/ribamar-rondon-de-rezende-dos-reis/][Ribamar Rondon de Rezende dos Reis]]
-- Sérgio Barbosa Villas Boas \dag
-- Gisele Silva Barbosa
-** 3° Período
-- [[http://www.im.ufrj.br/index.php/pt/?option=com_content&view=article&id=83&Itemid=195][Anatoli Leontiev]]
-- Raimundo Rocha dos Santos
-- FisExp III ???
-- Lógica Matemática ??
-- Natasha de Paula Amador da Costa
-- [[http://www.coep.ufrj.br/~jacoud/][Alessandro Peixoto Jacoud]]
+** 1°
+- Álgebra Linear 2 :: [[http://www.im.ufrj.br/index.php/pt/pessoal/docentes/docentes/185-luiz-carlos-guimaraes][Luiz Carlos Guimarães]]
+- Algoritmos de Programação ?? :: [[https://cesperanca.org][Cláudio Esperança]]
+- Cálculo 1 :: [[https://folk.uib.no/dpi081/][Didier Jacques François Pilod]]
+- Fisexp 1 :: [[http://darnassus.if.ufrj.br/~vanhecke/][Franciscus Jozef VANHECKE]]
+- Física 1 :: Victor de Barros Brasil (Nome que consta no histórico diferente )
+- Introdução a Engenharia de Controle e Automação :: [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
+- Química ?? :: [[https://www.iq.ufrj.br/docentes_ver_antiga/lucidalva-dos-santos-pinheiro/][Lucidalva dos Santos Pinheiro]]
+** 2°
+- Circuitos Lógicos :: Jose Arthur da Rocha
+- Cálculo 2 :: [[http://im.ufrj.br/~epmoura/][Eleonora Pinto de Moura]]
+- Fisexp 2 :: [[http://darnassus.if.ufrj.br/~beatriz/][Beatriz Bianco Siffert]]
+- Física 2 :: [[https://www.if.ufrj.br/docentes/ribamar-rondon-de-rezende-dos-reis/][Ribamar Rondon de Rezende dos Reis]]
+- Linguagens de Programação :: Sérgio Barbosa Villas Boas \dag
+- Sistemas Projetivos :: Gisele Silva Barbosa
+** 3°
+- Cálculo 3 :: [[http://www.im.ufrj.br/index.php/pt/?option=com_content&view=article&id=83&Itemid=195][Anatoli Leontiev]]
+- Física 3 :: [[https://www.if.ufrj.br/docentes/raimundo-rocha-dos-santos/][Raimundo Rocha dos Santos]]
+- FisExp III :: ???
+- Lógica Matemática :: ??
+- Mecânica :: Natasha de Paula Amador da Costa
+- Métodos Matemáticos Para Engenharia Eletrônica :: [[http://www.coep.ufrj.br/~jacoud/][Alessandro Peixoto Jacoud]]
 ** 4°
-- Jose Paulo Brafman
-- Walter Issamu Suemitsu
-- Carlos Julio Tierra Ciollo
-- [[https://www.if.ufrj.br/docentes/malena-osorio-hor-meyll/][Malena Osório Hor-Meyll]]
-- Marcello Barbosa da Silva Neto
-- [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
+- Arquitetura de Computadores :: Jose Paulo Brafman
+- Circuitos Elétricos 1 :: Walter Issamu Suemitsu
+- Probabilidade e Estatística :: Carlos Julio Tierra Ciollo
+- Fisexp 4 :: [[https://www.if.ufrj.br/docentes/malena-osorio-hor-meyll/][Malena Osório Hor-Meyll]]
+- Física 4 :: [[https://www.if.ufrj.br/docentes/marcello-barbosa-da-silva-neto/][Marcello Barbosa da Silva Neto]]
+- Sinais e Sistemas :: [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
 ** 4°.3
-- Luiz Eduardo Azambuja Sauerbronn
+- ?? :: Luiz Eduardo Azambuja Sauerbronn
 ** 5°
-- Markus Vinicius Santos Lima
-- Ricardo Eduardo Musafir
-- Felipe Gomes de Oliveira Cabral
-- Frederico Caetano Jandre de Assis Tavares
-- Liu Hsu
-- Sérgio Exel Gonçalves
+- Eletrônica 1 :: Markus Vinicius Santos Lima
+- Engenharia Meio-Ambiente :: Ricardo Eduardo Musafir
+- Laboratório de Circuitos Elétricos :: Felipe Gomes de Oliveira Cabral
+- Matemática Computacional :: Frederico Caetano Jandre de Assis Tavares
+- Modelagem de sistemas dinâmicos :: Liu Hsu
+- Processos de Fabricação :: [[http://lattes.cnpq.br/6078185829768737][Sérgio Exel Gonçalves]]
 - Tp Esp Hist da Eng (Materia da Elaine)
-- Matéria de alemão
+- Alemão para fins acadêmicos
+  - Katja Hölldampf
+  - Monica Heitz
+  - Kristina González Cedeño
 ** 6°
-- Ofélia de Queiroz Fernandes Araujo
-- Fernando Cesar Lizarralde
-- Rafael Consentino de la Vega
-- Jose Luiz da Silva Neto
-- Carlos Augusto Guimarães Perlingeiro \dag
-- [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
-- Lab Eletronica ? (Coloc do Paulo Yamasaki)
+- ?? :: Ofélia de Queiroz Fernandes Araujo
+- Controle Realimentado :: Fernando Cesar Lizarralde
+- Economia :: Rafael Consentino de la Vega
+- Eletrônica 2 :: Jose Luiz da Silva Neto
+- P ?? :: Carlos Augusto Guimarães Perlingeiro \dag
+- Introdução a Otimização :: [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]] ploft
+- Laboratório de Eletrônica 1 :: [[https://www.linkedin.com/in/aluizio-d-affons%C3%AAca-49648129/][Aluizio d'Affonsêca]]
+
 ** 7°
-- Marcos Vicente de Brito Moreira
-- [[http://www.coep.ufrj.br/~jacoud/][Alessandro Peixoto Jacoud]]
-- Mauricio Cagy
-- Jose Eduardo Pessoa de Andrade
-- Samuel Jurkiewicz
-- otto carlos muniz bandeira duarte
-- Marcelo Martins Werneck
+- Automação Industrial ?? :: Marcos Vicente de Brito Moreira
+- Controle Avançado :: [[http://www.coep.ufrj.br/~jacoud/][Alessandro Peixoto Jacoud]]
+- Laboratório de Eletrônica 2 :: Mauricio Cagy
+- PAP ? :: Jose Eduardo Pessoa de Andrade
+- COP473 ?? :: Samuel Jurkiewicz
+- Redes de Computadores :: otto carlos muniz bandeira duarte \dag
+- Sensores e Atuadores 1 :: Marcelo Martins Werneck
 ** 8°
-- Rossana Odette Mattos Folly
-- Gustavo da Silva Viana
+- ?? :: Rossana Odette Mattos Folly
+- Laboratório de Controle e Automação :: Gustavo da Silva Viana
 
 * CentraleSupélec
-** ISA
+** 2A
+- Automatique :: Didier Dumur
+** ISA - Ingénierie des Systemes Automatisées
 - Hervé Guéguen
 - Romain Bourdais
 - Nabil Sadou
 - Marie-Anne Lefebvre
+- Pierre Haessig
 - Hervé Cormerais
+- Pierre-Yves Richard
 - Stanislav Aranovskiy
 - [[https://people.rennes.inria.fr/Gerardo.Rubino/][Gerardo Rubino]]
+* Rennes 1
+** SISEA
+- Optimization
 * Doutorado
 - Jean-François Dupuy
 - Karim Tadrist
