@@ -1,0 +1,121 @@
+:PROPERTIES:
+:ID:       74109ba0-7987-4cee-a728-aa91997db1b4
+:ROAM_REFS: cite:HeEtAl2022
+:END:
+#+title: HeEtAl2022
+- tags ::
+- keywords ::
+* Resilient predictive control strategy of cyber-physical systems against fdi attack
+:PROPERTIES:
+:Custom_ID: HeEtAl2022
+:URL: https://doi.org/10.1049/cth2.12289
+:AUTHOR: He, N., Ma, K., & Li, H.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/HeEtAl2022.pdf
+:END:
+** CATALOG
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+** NOTES
+*** and a resilient control strategy is proposed based on control signal reconstruction.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::1++0.00;;annot-1-22]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-1-22
+:END:
+Signal reconstruction could be the name I use for such strategies
+*** FDI attack as a typical attack mode is to modify the transmitted system information (e.g. control signals, sensor measurements, and so on) at the network layer such that the performance of
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::1++7.04;;annot-1-23]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-1-23
+:END:
+Not only transmitted through network
+*** Several real cases regarding cyber security problem involving FDI attacks were reported in ref. [8]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::1++7.50;;annot-1-24]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-1-24
+:END:
+Examples of CPS attacks, Stuxnet etc
+*** In ref. [14], a novel resilient control strategy was devised which could detect and attenuate the effects of FDI attacks on non-linear and uncer- tain power systems in real-time.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::2++0.00;;annot-2-16]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-2-16
+:END:
+*** In ref. [18], a resilient automatic generation control scheme against FDI attack was proposed based on compensation-based reconstructed measures using significant information of FDI attack sequences.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::2++0.00;;annot-2-17]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-2-17
+:END:
+*** and spacecraft attitude control [19]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::2++0.00;;annot-2-18]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-2-18
+:END:
+use of MPC in spacecraft control
+*** ETMPC determines the next triggering instant by constantly checking the triggering condition to figure out whether it violates a designed thresh- old, while in STMPC, according to the self-triggered condi- tion designed based on closed-loop system stability analysis, the next update instant is determined in advance at the current update moment.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::2++1.38;;annot-2-19]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-2-19
+:END:
+    our approach should be considered ETMPC??
+*** u f (s) ∈ ℝ m is the input signal obtained by the attacker after malicious tampering through the network vulnerability.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::3++0.33;;annot-3-8]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-3-8
+:END:
+*** propose a resilient control scheme that only requires to protect a small number of con- trol samples, but still can ensure the system performance.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::4++0.64;;annot-4-20]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-4-20
+:END:
+*** As the transmission of the continuous control signal u ∗ (s) needs infinite bandwidth, in industrial appli- cations, the continuous control samples are usually discretised and only N (N ∈ ℕ + ) control samples are transmitted.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::4++1.15;;annot-4-21]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-4-21
+:END:
+This is one aspect of continuous
+
+*** Besides, it is worth pointing out that the detection of FDI attacks can be achieved through a variety of measures, such as the robust filtering based method [35], extreme learning based method [36], and so on.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::4++2.88;;annot-4-19]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-4-19
+:END:
+Detection is not shown
+examples of detection
+cite:ZhangEtAl2021
+
+*** when the system is attacked, it will switch to the FOH to achieve the input signal reconstruction, since the number of the control samples that can be used for input signal reconstruction are significantly reduced.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::5++0.00;;annot-5-9]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-5-9
+:END:
+Switching modes depending on attack
+
+*** the proposed method is developed via only focusing on the case of taking extra protection of two control samples u ∗ (t k ), u ∗ (t k + Λ c ).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::5++0.00;;annot-5-10]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-5-10
+:END:
+minimal protection \to ensure some data can always be trusted
+
+*** (Data reconstruction) based on the control data u ∗ (t k ) and u ∗ (t k + Λ c ), u r (s) can be expressed as
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::5++0.00;;annot-5-11]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-5-11
+:END:
+interpolate values using trusted values
+
+*** compared with the damage may be t k+1 caused by the attack, it is reasonable to sacrifice such perfor- mance downgrading.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::5++2.58;;annot-5-12]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-5-12
+:END:
+
+*** N ∶ 1 ∶ 1
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HeEtAl2022.pdf::6++0.29;;annot-6-18]]
+:ID:       ~/docsThese/bibliography/HeEtAl2022.pdf-annot-6-18
+:END:
+Is it right? Shouldn't it be 1:1:N?
