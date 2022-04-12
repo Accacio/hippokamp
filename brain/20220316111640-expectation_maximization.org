@@ -2,6 +2,7 @@
 :ID:       1d06659d-d255-4ce2-a590-2652c630a32d
 :END:
 #+title: Expectation Maximization
+- tags :: [[id:1f41126c-c173-41a6-be48-d9e546f440d0][Algorithms]]
 
 Algorithm to find maximum likelihood estimators with incomplete data
 
@@ -11,7 +12,7 @@ Algorithm to find maximum likelihood estimators with incomplete data
 better explanation in cite:Bishop2006
 
 * Problems
-- Slow convergence cite:BaudryCeleux2015
+- Slow convergence cite:BaudryCeleux2015,CeleuxGovaert1992
 - Dependence on initialization cite:BaudryCeleux2015,GepperthPfuelb2021
 
 * Uses
