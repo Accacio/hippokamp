@@ -9,7 +9,7 @@
  
 * BoemEtAl2020
 :PROPERTIES:
-:NOTER_DOCUMENT: ../../docsThese/bibliography/BoemEtAl2020.pdf
+:NOTER_DOCUMENT: ~/docsThese/bibliography/BoemEtAl2020.pdf
 :END:
 
 ** CATALOG
