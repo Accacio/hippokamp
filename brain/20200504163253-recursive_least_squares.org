@@ -18,4 +18,4 @@ where $\phi(t)=[u(\cdot)\; y(\cdot)]'$
    $P(t)=\frac{1}{\mu_1(t)}\left[P(t-1)-\frac{P(t-1)\phi(t)\phi(t)'P(t-1)}{\frac{\mu_1(t)}{\mu_2(t)}+\phi(t)'P(t-1)\phi(t)}\right]$
 
 
-$\mu_1(t)$ and $\mu_2(t)$ can vary, depending on the objective of the forgetting factor see [[id:../../docsThese/bibliography/LandauEtAl2011.pdf-annot-87-11][Choice of the Adaptation Gain]]
+$\mu_1(t)$ and $\mu_2(t)$ can vary, depending on the objective of the forgetting factor see [[id:~/docsThese/bibliography/LandauEtAl2011.pdf-annot-87-11][Choice of the Adaptation Gain]]

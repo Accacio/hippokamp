@@ -14,7 +14,7 @@
   :Custom_ID: ZhuMartinez2014
   :URL:
   :AUTHOR: M. Zhu, & S. Martínez
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/ZhuMartinez2014.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/ZhuMartinez2014.pdf
   :NOTER_PAGE:
   :END:
 
@@ -35,13 +35,13 @@ Resilient MPC with resource allocation to deal with replay attacks
 *** Resilient MPC with resource allocation to deal with replay attacks
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.00;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-0
 :END:
 
 *** Consensus detect misbehaving agents
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.48;;annot-1-1]]
-:ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-1
+:ID:       ~/docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-1
 :END:
 
 - cite:PasqualettiEtAl2012
@@ -50,7 +50,7 @@ Resilient MPC with resource allocation to deal with replay attacks
 *** [[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.48;;annot-1-2]]
-:ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-2
+:ID:       ~/docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-2
 :END:
 32 33
 
@@ -61,7 +61,7 @@ Resilient MPC with resource allocation to deal with replay attacks
 *** [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][Denial-of-service attacks]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.04;;annot-1-3]]
-:ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-3
+:ID:       ~/docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-3
 :END:
 - cite:AminEtAl2009
 - cite:AminEtAl2013
@@ -70,29 +70,29 @@ Resilient MPC with resource allocation to deal with replay attacks
 *** zero-sum game between the controller and the jammer
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++0.04;;annot-1-4]]
-:ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-4
+:ID:       ~/docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-4
 :END:
 
 *** discrete-time linear system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++3.78;;annot-1-5]]
-:ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-5
+:ID:       ~/docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-5
 :END:
 
 *** pair stabilizable
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::1++5.65;;annot-1-6]]
-:ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-6
+:ID:       ~/docsThese/bibliography/ZhuMartinez2014.pdf-annot-1-6
 :END:
 
 *** replay attacker between control and actuator
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::2++0.00;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/ZhuMartinez2014.pdf-annot-2-0
 :END:
 *** Attack-Resilient Receding-Horizon Control Law
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhuMartinez2014.pdf::2++5.70;;annot-2-1]]
-:ID:       ../../docsThese/bibliography/ZhuMartinez2014.pdf-annot-2-1
+:ID:       ~/docsThese/bibliography/ZhuMartinez2014.pdf-annot-2-1
 :END:
 

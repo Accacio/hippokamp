@@ -23,28 +23,31 @@
 
 ** Counting
 *** Transversales / Professionnels minimum 40h
-|   | Activité                      | Heures    | attestation |
-|---+-------------------------------+-----------+-------------|
-|   | [[id:7f1ee860-f46a-4230-9b37-68aed09ad5ca][Formation Ethique]]             | 3         | [[~/these/formations/ethique2020/attestationParticipation.pdf][OK]]          |
-|   | [[id:02533248-4ada-4bac-a851-cf543cf9dee3][Law and Intellectual Property]] | 9*2       | [[~/these/formations/LAW/Attestation suivi de formation-K.T.pdf][OK]]          |
-|   | [[id:cfc2d482-df86-4248-a919-fdf1aa535793][Harassment at Work]]            | 6         | [[~/these/formations/Harassment_at_work/attestation.pdf][OK]]          |
-|   | [[id:99735535-5c2d-41c0-be8b-845e19b76dc0][Animer un compte Twitter]]      | 6         | [[~/these/formations/animer_un_compte_twitter/attestation.pdf][OK]]          |
-| / | Formations                    | 33        |             |
-| ^ |                               | transv    |             |
-|---+-------------------------------+-----------+-------------|
-|   | AUTO 2020/2021                | 18 * 2/3  |             |
-|   | MPC 2020/2021                 | 12 * 2/3  |             |
-|   | ST 2020/2021                  | 10 * 2/3  |             |
-| / | Vacation 2020-2021            | 26.666667 |             |
-| ^ |                               | ens2020   |             |
-|---+-------------------------------+-----------+-------------|
-|   | AUTO 2021/2022                | 6 * 2/3   |             |
-|   | SES 2021/2022                 | 15 * 2/3  |             |
-| / | Vacation 2021-2022            | 14        |             |
-| ^ |                               | ens2021   |             |
-|---+-------------------------------+-----------+-------------|
-|   | Total                         | 73.666667 |             |
-| ^ |                               | Total     |             |
+|   | Activité                      | Heures   | attestation |
+|---+-------------------------------+----------+-------------|
+|   | [[id:7f1ee860-f46a-4230-9b37-68aed09ad5ca][Formation Ethique]]             | 3        | [[~/these/formations/ethique2020/attestationParticipation.pdf][OK]]          |
+|   | [[id:02533248-4ada-4bac-a851-cf543cf9dee3][Law and Intellectual Property]] | 9*2      | [[~/these/formations/LAW/Attestation suivi de formation-K.T.pdf][OK]]          |
+|   | [[id:cfc2d482-df86-4248-a919-fdf1aa535793][Harassment at Work]]            | 6        | [[~/these/formations/Harassment_at_work/attestation.pdf][OK]]          |
+|   | [[id:99735535-5c2d-41c0-be8b-845e19b76dc0][Animer un compte Twitter]]      | 6        | [[~/these/formations/animer_un_compte_twitter/attestation.pdf][OK]]          |
+| / | Formations                    | 33       |             |
+| ^ |                               | transv   |             |
+|---+-------------------------------+----------+-------------|
+|   | AUTO                          | 18 * 2/3 |             |
+|   | MPC                           | 12 * 2/3 |             |
+|   | ST7                           | 10       |             |
+| / | Vacation 2020-2021            | 30       |             |
+| ^ |                               | ens2020  |             |
+|---+-------------------------------+----------+-------------|
+|   | AUTO                          | 6 * 2/3  |             |
+|   | SES                           | 15 * 2/3 |             |
+|   | MPC                           | 12 * 2/3 |             |
+|   | Asservissement (ECAM)         | 30 * 2/3 |             |
+|   | Espace d'état (ECAM)          | 12 * 2/3 |             |
+| / | Vacation 2021-2022            | 32       |             |
+| ^ |                               | ens2021  |             |
+|---+-------------------------------+----------+-------------|
+|   | Total                         | 95       |             |
+| ^ |                               | Total    |             |
 #+TBLFM: $Total=$transv+$ens2020+$ens2021::$transv=vsum(@I..@-1)::$ens2020=vmin([vsum(@II..@-1),32])::$ens2021=vmin([vsum(@III..@-1),32])
 
 *** Scientifiques \ge40h

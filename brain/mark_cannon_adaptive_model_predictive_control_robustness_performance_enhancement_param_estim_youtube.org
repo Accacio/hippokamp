@@ -3,7 +3,7 @@
 :ROAM_REFS: https://www.youtube.com/watch?v=FZOYzOb-8vI&list=WL&index=5&t=135s
 :END:
 #+title: Mark Cannon - Adaptive Model Predictive Control: Robustness, Performance Enhancement & Param. Estim. - YouTube
-- tags :: [[id:../../docsThese/bibliography/AnandutaEtAl2020.pdf-annot-5-1][MPC]], [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust Control]]
+- tags :: [[id:~/docsThese/bibliography/AnandutaEtAl2020.pdf-annot-5-1][MPC]], [[id:b17ed041-9184-40bd-adaa-0c8f144b63f2][Robust Control]]
 
 
 * Adaptive Model Predictive Control: Robustness, Performance Enhancement & Param. Estim. - YouTube

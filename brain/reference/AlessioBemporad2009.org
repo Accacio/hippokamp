@@ -14,7 +14,7 @@
   :Custom_ID: AlessioBemporad2009
   :URL: https://doi.org/10.1007/978-3-642-01094-1_29
   :AUTHOR: Alessio, A., & Bemporad, A.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/AlessioBemporad2009.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/AlessioBemporad2009.pdf
   :NOTER_PAGE:
   :END:
 
@@ -33,44 +33,44 @@ Survey on Explicit MPC
 *** Online computing is a con of MPC
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::1++1.90;;annot-1-1]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-1-1
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-1-1
 :END:
 *** positive definite matrices
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::3++4.90;;annot-3-1]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-3-1
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-3-1
 :END:
 *** in [74],
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::7++3.67;;annot-7-14]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-7-14
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-7-14
 :END:
 cite:Zafiriou1990
 *** Multiparametric Programming: General Formulation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::8++0.00;;annot-8-9]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-8-9
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-8-9
 :END:
 *** $z \in R ^\ell$ collects the decision variables
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::8++0.29;;annot-8-10]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-8-10
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-8-10
 :END:
 *** $x \in R^ n$ is a vector of parameters
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::8++0.29;;annot-8-11]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-8-11
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-8-11
 :END:
 *** Multiparametric Quadratic Programming
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::9++1.75;;annot-9-11]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-9-11
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-9-11
 :END:
 mpQP
 *** In [18]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::10++3.87;;annot-10-14]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-10-14
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-10-14
 :END:
  cite:BemporadEtAl2002
 
@@ -78,18 +78,18 @@ mpQP
 *** In [10, Table I], a table shows such dependencies on random lin- ear MPC problems.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::16++0.00;;annot-16-17]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-16-17
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-16-17
 :END:
 
 *** Implementation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::19++4.31;;annot-19-5]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-19-5
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-19-5
 :END:
 *** algorithms that avoid storing the polyhedral regions
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::19++4.31;;annot-19-6]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-19-6
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-19-6
 :END:
 cite:BaoticEtAl2008
 @article{BaoticEtAl2008,
@@ -135,7 +135,7 @@ cite:Tondel2003
 :PROPERTIES:
 :NOTER_PAGE:
 [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::7++3.99;;annot-7-13]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-7-13
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-7-13
 :END:
 cite:Zafirou1990
 @article{zafiriou1990,
@@ -151,5 +151,5 @@ cite:Zafirou1990
 *** Systematic way to handle multiple variables
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlessioBemporad2009.pdf::2++1.23;;annot-2-1]]
-:ID:       ../../docsThese/bibliography/AlessioBemporad2009.pdf-annot-2-1
+:ID:       ~/docsThese/bibliography/AlessioBemporad2009.pdf-annot-2-1
 :END:
