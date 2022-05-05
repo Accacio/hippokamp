@@ -14,7 +14,7 @@
   :Custom_ID: WangIshii2019
   :URL:
   :AUTHOR: Wang, Y., & Ishii, H.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/WangIshii2019.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/WangIshii2019.pdf
   :NOTER_PAGE:
   :END:
 
@@ -32,6 +32,6 @@
 *** More recently, it has been recognized that networked control systems can be vulnerable to adversarial cyber attacks (see, e.g., [21]).
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangIshii2019.pdf::1++2.50;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/WangIshii2019.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/WangIshii2019.pdf-annot-1-0
 :END:
 cite:SandbergEtAl2015

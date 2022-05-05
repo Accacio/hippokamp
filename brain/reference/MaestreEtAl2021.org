@@ -14,7 +14,7 @@
   :Custom_ID: MaestreEtAl2021
   :URL: https://www.sciencedirect.com/science/article/pii/S0967066121001568
   :AUTHOR: Maestre, J. M., Velarde, P., Ishii, H., & Negenborn, R. R.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/MaestreEtAl2021.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/MaestreEtAl2021.pdf
   :NOTER_PAGE:
   :END:
 
@@ -38,44 +38,44 @@ inner iteration of the dual decomposition DMPC algorithm.
 *** four tank plant
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++1.87;;annot-1-47]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-47
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-47
 :END:
 example
 
 *** geographically disperse systems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++7.19;;annot-1-48]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-48
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-48
 :END:
 
 *** may not allow to apply centralized MPC due to computational burden,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++7.19;;annot-1-49]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-49
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-49
 :END:
 
 *** An alternative to deal with this kind of problems is to
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++7.19;;annot-1-50]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-50
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-50
 :END:
 
 *** modularity of the system,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++7.19;;annot-1-51]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-51
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-51
 :END:
 
 *** A topic that deserves attention is the regular exchange of informa- tion during the negotiation process among the local DMPC controllers.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::1++7.19;;annot-1-52]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-52
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-1-52
 :END:
 
 *** preserving the confidentiality, availability, and integrity of the exchanged information
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::2++0.31;;annot-2-113]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-113
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-113
 :END:
 
 @book{radvanovsky2016a,
@@ -88,165 +88,165 @@ example
 *** For example, in Ananduta, Maestre, Ocampo-Martinez, and Ishii (2020) Bayesian inference is used to detect noncompliant controllers in a distributed MPC setting so that negotia- tions can be stopped accordingly
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::2++0.62;;annot-2-114]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-114
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-114
 :END:
 cite:AnandutaEtAl2020
 
 *** A preliminary version of this paper has appeared as
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::2++0.71;;annot-2-115]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-115
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-115
 :END:
 
 *** 𝐶𝑢[𝑘] = 𝑁 ∑ 𝐶 𝑖 𝑢 𝑖 [𝑘] ≤ 𝑐,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::2++6.01;;annot-2-116]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-116
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-2-116
 :END:
 coupling constraints
 
 *** where ⪰ represents component- wise inequality.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::3++6.25;;annot-3-29]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-3-29
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-3-29
 :END:
 
 *** Fake prices
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::4++2.50;;annot-4-20]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-20
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-20
 :END:
 it was called selfish attack
 
 *** Scenario generation is necessary to relieve the effects of an at- tacker inside the network
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::4++7.88;;annot-4-21]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-21
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-21
 :END:
 
 *** with periodic exogenous inputs such as power grids and water networks, where clear patterns can be identified depending on factors such as time, day of the week and weather.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::4++7.88;;annot-4-22]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-22
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-22
 :END:
 audited historical data can be found for some systems
 
 *** stochastic model to generate synthetic data (Schildbach & Morari, 2015),
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::4++7.88;;annot-4-23]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-23
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-4-23
 :END:
 cite:SchildbachMorari2015
 
 *** the FHOP provides us with predictions of the state, input, and Lagrange multipliers. In particular, the scenario generation FHOP is formulated as follows:
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::6++0.00;;annot-6-0]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-6-0
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-6-0
 :END:
 The scenarios are generated stochastically by solving the MPC using a noisy state.
 
 *** One issue that deserves special attention is the number of scenarios (𝑁 𝑠 ) that guarantees the robustness of the whole system.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::6++3.75;;annot-6-1]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-6-1
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-6-1
 :END:
 
 *** each inner iteration of the dual decomposition DMPC algorithm.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::6++7.26;;annot-6-2]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-6-2
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-6-2
 :END:
 
 *** by means of a gradient search.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++0.00;;annot-7-17]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-17
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-17
 :END:
 update of prices using gradient search
 
 *** Note that if 𝜌 0 𝑖 = 0, the agent using the defense mechanism becomes disconnected from the updates of the prices.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++0.00;;annot-7-18]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-18
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-18
 :END:
 
 *** This will steer the coupled variables towards the values set by the defender.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++0.00;;annot-7-19]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-19
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-19
 :END:
 Defender can be considered as an attacker in the attacker's point of view
 
 *** In other words, iterates need not be feasible regarding the satisfaction of coupling constraints.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++1.25;;annot-7-20]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-20
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-20
 :END:
 It's known before convergence Dual decomposition doesn't guarantee global feasibility
 
 *** a coordinator layer makes the projection, agents agree to implement a mean value of their shared variables, and so on.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++1.25;;annot-7-21]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-21
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-21
 :END:
 How to solve the problem
 
 *** We must remark that the attacks and defense mechanisms applied are only given for illustration purposes. The attacks are relatively simple and have not been optimized by any means.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++2.50;;annot-7-23]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-23
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-23
 :END:
 
 
 *** Nevertheless, note that the attack generates a loss of optimality as well, so this property was lost in any case.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::7++5.00;;annot-7-22]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-22
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-7-22
 :END:
 good point but erhhh
 
 *** 𝑁 p = 5 along a test time of 20 min, i.e., 240 time steps.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.50;;annot-9-11]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-11
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-11
 :END:
 
 *** unit matrix
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.50;;annot-9-12]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-12
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-12
 :END:
 identity matrix
 
 *** the control system is unable to reach its target, forcing local controllers to negotiate in order to attain a trade-off between their corresponding goals.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.50;;annot-9-13]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-13
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-13
 :END:
 
 *** In this condition, it is easier to see how one agent can take advantage of the other one by manipulating the negotiation process.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.50;;annot-9-14]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-14
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-14
 :END:
 
 *** what is the selfish incentive that the attacker has to modify its local problem if it is at equilibrium? At equilibrium it reaches the lowest possible cost according to its true preferences, and therefore there is no possibility to be better off by altering its local problem.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.50;;annot-9-15]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-15
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-15
 :END:
 good point
 
 *** deviates from the assumption of rationality in the attacks that is considered in our work.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::9++7.88;;annot-9-16]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-16
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-9-16
 :END:
 
 *** Fig. 10. Cumulative cost by using standard DMPC, attacks, and defense scenario-based methods.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/MaestreEtAl2021.pdf::11++7.26;;annot-11-4]]
-:ID:       ../../docsThese/bibliography/MaestreEtAl2021.pdf-annot-11-4
+:ID:       ~/docsThese/bibliography/MaestreEtAl2021.pdf-annot-11-4
 :END:
 Bar graph is a good way to represent
 

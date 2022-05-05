@@ -44,58 +44,58 @@ cite:RichardsHow2006
 *** event-based control can reduce number of times optimization problem is solved
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::1++0.29;;annot-1-9]]
-:ID:       ../../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-1-9
+:ID:       ~/docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-1-9
 :END:
 
 *** introduction of RMPC
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::1++0.32;;annot-1-10]]
-:ID:       ../../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-1-10
+:ID:       ~/docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-1-10
 :END:
 
 *** tube based mpc
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::2++0.14;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-2-0
 :END:
 Mark Cannon has some examples
 pdf:~/these/leitura/autres/MPC-MarkCannon/mpc_notes.pdf::28
 *** exploit problem structure to reduce computation complexity
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::3++0.06;;annot-3-0]]
-:ID:       ../../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-3-0
+:ID:       ~/docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-3-0
 :END:
 
 *** system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::3++0.22;;annot-3-1]]
-:ID:       ../../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-3-1
+:ID:       ~/docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-3-1
 :END:
 
 *** tightening gains seen in cite:RichardsHow2006
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::4++0.00;;annot-4-1]]
-:ID:       ../../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-4-1
+:ID:       ~/docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-4-1
 :END:
 
 
 *** feedback to guarantee stability
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::4++0.03;;annot-4-0]]
-:ID:       ../../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-4-0
+:ID:       ~/docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-4-0
 :END:
 
 *** control based on last iteration
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::5++0.23;;annot-5-0]]
-:ID:       ../../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-5-0
+:ID:       ~/docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-5-0
 :END:
 
 
 *** cite:RichardsHow2006
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/KolarijaniEtAl2020.pdf::12++0.22;;annot-12-0]]
-:ID:       ../../docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-12-0
+:ID:       ~/docsThese/bibliography/KolarijaniEtAl2020.pdf-annot-12-0
 :END:
 
 

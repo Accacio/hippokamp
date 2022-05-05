@@ -33,7 +33,7 @@ Distributed optimal resource allocation. Comparison between different distribute
 *** distributed algorithms to maximize utility
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Iiduka2019.pdf::1++0.00;;annot-1-2]]
-:ID:       ../../docsThese/bibliography/Iiduka2019.pdf-annot-1-2
+:ID:       ~/docsThese/bibliography/Iiduka2019.pdf-annot-1-2
 :END:
 
 *** <<<NUM>>> Network utility maximization

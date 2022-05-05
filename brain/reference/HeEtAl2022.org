@@ -14,6 +14,10 @@
 :END:
 ** CATALOG
 *** Motivation :springGreen:
+:PROPERTIES:
+:ID:       21795c2d-b756-4886-a27a-d00eded4ed3a
+:END:
+Secure STMPC by protecting data and switching to mode where protected control is interpolated
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications

@@ -10,7 +10,7 @@
 
 * Primal-Dual Decomposition by Operator Splitting and Applications to Image Deblurring
 :PROPERTIES:
-:NOTER_DOCUMENT: ../../docsThese/bibliography/OConnorVandenberghe2014.pdf
+:NOTER_DOCUMENT: ~/docsThese/bibliography/OConnorVandenberghe2014.pdf
 :END:
 ** CATALOG
 
@@ -29,43 +29,43 @@ Uses to deblur images and remove noise
 *** Convex optimization
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::1++0.00;;annot-1-7]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-1-7
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-1-7
 :END:
 
 *** primal-dual decomposition for cost function $f(x)+g(Ax)$ with inexpensive proximal and decomposable matrix A
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::1++0.00;;annot-1-9]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-1-9
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-1-9
 :END:
 
 *** matrix can be decomposed
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::1++0.20;;annot-1-8]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-1-8
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-1-8
 :END:
 
 *** DFT matrices used to diagonalize $A^TA$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::2++0.00;;annot-2-13]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-2-13
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-2-13
 :END:
 
 *** resolvent of an operator $\mathcal{F}$ is $I+\lambda\mathcal{F})^{-1}$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::3++3.51;;annot-3-7]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-7
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-7
 :END:
 
 *** proximal operator of a function $f$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::3++3.51;;annot-3-4]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-4
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-4
 :END:
 
 *** prox oper is solution of problem
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::3++3.51;;annot-3-5]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-5
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-5
 :END:
 \begin{equation}
 \begin{matrix}
@@ -76,27 +76,27 @@ Uses to deblur images and remove noise
 *** relation between proximal from $f$ and $f^\star$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::3++3.51;;annot-3-6]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-6
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-3-6
 :END:
 $x=\operatorname{prox}_{\lambda f}(x)+\lambda \operatorname{prox}_{\lambda^{-1} f^{*}}(x / \lambda)=\operatorname{prox}_{\lambda f}(x)+\operatorname{prox}_{f^{*} \lambda}(x)$
 
 *** proximal point iteration
  :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::4++3.13;;annot-4-8]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-4-8
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-4-8
 :END:
 $x^{k} =(I+t\mathcal{F})x^{k-1},\quad k=1,2,\dots$
 
 *** split $\mathcal{F}$ into a sum of easier operations
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::5++0.56;;annot-5-16]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-5-16
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-5-16
 :END:
 
 *** Douglas-Rachford algorithm to solve $0 \in \mathcal{A}(x) +\mathcal{B}(x)$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::5++2.37;;annot-5-17]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-5-17
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-5-17
 :END:
 
 \begin{equation}
@@ -110,20 +110,20 @@ z^k&=&z^{k-1}+\rho(y^k-x^k)
 *** ADMM references
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-16]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-16
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-16
 :END:
 - cite:GlowinskiMarroco1975
 - cite:GabayMercier1976
 *** Relation between [[id:6f210e88-50da-4dc2-9f28-c723667a7bc9][ADMM]] and Douglas Rachford
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-17]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-17
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-17
 :END:
 
 *** other [[id:6f210e88-50da-4dc2-9f28-c723667a7bc9][ADMM]] references
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::6++0.00;;annot-6-18]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-18
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-6-18
 :END:
 - cite:Eckstein2012
 - cite:BoydEtAl2011
@@ -131,13 +131,13 @@ z^k&=&z^{k-1}+\rho(y^k-x^k)
 *** deblurring problem
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::15++1.11;;annot-15-11]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-15-11
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-15-11
 :END:
 
 *** Primal-Dual Douglas-Rachford is one of the fastest
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/OConnorVandenberghe2014.pdf::29++0.00;;annot-29-3]]
-:ID:       ../../docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-29-3
+:ID:       ~/docsThese/bibliography/OConnorVandenberghe2014.pdf-annot-29-3
 :END:
 
 

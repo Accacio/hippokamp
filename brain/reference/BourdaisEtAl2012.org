@@ -13,7 +13,7 @@
   :Custom_ID: BourdaisEtAl2012
   :URL:
   :AUTHOR: Bourdais, R., Herv\'e Gu\'eguen, & Belmiloudi, A.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/BourdaisEtAl2012.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/BourdaisEtAl2012.pdf
   :NOTER_PAGE:
   :END:
 
@@ -34,67 +34,67 @@ Distributed MPC (Dual Decomposition) for continuous systems controlled using dis
 *** Distributed MPC for continuous systems controlled using discrete inputs
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::1++0.23;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-1-0
 :END:
 
 *** Linear Discrete time system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::2++2.11;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-2-0
 :END:
 $\Phi$
 
 *** decomposed coupled parts
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::2++2.34;;annot-2-4]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-2-4
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-2-4
 :END:
 
 
 *** cost function
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::2++5.63;;annot-2-1]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-2-1
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-2-1
 :END:
 
 *** cost function
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::2++5.63;;annot-2-2]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-2-2
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-2-2
 :END:
 
 *** cost function
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::2++5.63;;annot-2-3]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-2-3
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-2-3
 :END:
 
 *** consensus between agents
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::3++2.34;;annot-3-0]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-3-0
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-3-0
 :END:
 
 *** dual decomposition based on lagrangian dual problem
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::3++2.34;;annot-3-1]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-3-1
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-3-1
 :END:
 
 *** solve central problem using [[id:38214294-634e-48a9-aa33-f891f80e9c10][Arrow-Hurwicz-Uzawa algorithm]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::3++2.34;;annot-3-2]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-3-2
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-3-2
 :END:
 
 *** modify Uzawa method in order to force convergence or at least oscillation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::4++5.86;;annot-4-0]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-4-0
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-4-0
 :END:
 
 *** modified algo
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BourdaisEtAl2012.pdf::5++1.17;;annot-5-0]]
-:ID:       ../../docsThese/bibliography/BourdaisEtAl2012.pdf-annot-5-0
+:ID:       ~/docsThese/bibliography/BourdaisEtAl2012.pdf-annot-5-0
 :END:

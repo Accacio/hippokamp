@@ -156,6 +156,13 @@ Active \to solution is on the equality
 :END:
 May be interesting to cite some, if I use
 
+*** We will assume that the state penalty is positive semi-deﬁnite Q = Q   0, P = P   0 and the input penalty is positive deﬁnite R = R   0.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::188++0.00;;annot-188-5]]
+:ID:       ~/docsThese/bibliography/BorrelliEtAl2017.pdf-annot-188-5
+:END:
+
+
 *** Theorem 6.7 states that the solution z ∗ (x(0)) of the mp-QP problem (11.33) is a continuous and piecewise aﬃne function on polyhedra of x(0). Clearly the same properties are inherited by the controller. The following corollaries of Theorem 6.7 establish the analytical properties of the optimal control law and of the value function.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BorrelliEtAl2017.pdf::244++0.00;;annot-244-27]]

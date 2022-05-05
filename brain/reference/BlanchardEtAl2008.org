@@ -11,7 +11,7 @@
 :PROPERTIES:
 :Custom_ID: BlanchardEtAl2008
 :URL:
-:NOTER_DOCUMENT: ../../docsThese/bibliography/BlanchardEtAl2008.pdf
+:NOTER_DOCUMENT: ~/docsThese/bibliography/BlanchardEtAl2008.pdf
 :END:
 
 ** CATALOG
@@ -30,24 +30,24 @@ Use EKF to update polynomial chaos
 *** Use EKF to update polynomial chaos
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BlanchardEtAl2008.pdf::1++4.50;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/BlanchardEtAl2008.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/BlanchardEtAl2008.pdf-annot-1-0
 :END:
 
 *** [[id:b0dc76de-f6ee-42aa-8904-4c7bd29881eb][Polynomial Chaos Theory]] more efficient than [[id:9ed26f9a-5e34-43c1-8fce-7e5e1e442cb1][Monte Carlo]] to assess mechanical systems uncertainties
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BlanchardEtAl2008.pdf::1++9.24;;annot-1-1]]
-:ID:       ../../docsThese/bibliography/BlanchardEtAl2008.pdf-annot-1-1
+:ID:       ~/docsThese/bibliography/BlanchardEtAl2008.pdf-annot-1-1
 :END:
 
 *** uncertain parameter can be viewed as second order random process
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BlanchardEtAl2008.pdf::2++1.88;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/BlanchardEtAl2008.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/BlanchardEtAl2008.pdf-annot-2-0
 :END:
 
 *** example where mass and center of mass in a car is unknown
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BlanchardEtAl2008.pdf::7++3.76;;annot-7-0]]
-:ID:       ../../docsThese/bibliography/BlanchardEtAl2008.pdf-annot-7-0
+:ID:       ~/docsThese/bibliography/BlanchardEtAl2008.pdf-annot-7-0
 :END:
 

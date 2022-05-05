@@ -14,7 +14,7 @@
   :Custom_ID: LauerBloch2019
   :URL: https://doi.org/10.1007/978-3-030-00193-3_4
   :AUTHOR: Lauer, F., & Bloch, G\'erard
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/LauerBloch2019.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/LauerBloch2019.pdf
   :NOTER_PAGE:
   :END:
 
@@ -33,19 +33,19 @@ Identification of Hybrid Systems
 *** While system identiﬁcation is now a well-established ﬁeld, starting in the 1960s with the availability of digital measurements, the subject of hybrid system identi- ﬁcation has only been more recently developed, with most of the activity spanning only the last 15 years or so.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::6++1.09;;annot-6-0]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-6-0
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-6-0
 :END:
 
 *** systems switching between different operating modes, which amounts in technical terms to systems combining continuous and discrete states, the discrete state indicating the current operating mode.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::7++0.00;;annot-7-7]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-7-7
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-7-7
 :END:
 
 *** Procedure 1 Identification procedure 1. Record a data set of input–output pairs (u k , y k ). 2. Choose the class of models or the model structure. 3. Estimate the model in the class, guided by the data with a criterion of fit. 4. Assess the obtained model.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::35++1.17;;annot-35-2]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-35-2
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-35-2
 :END:
 
 - Procedure 1 Identification procedure
@@ -57,344 +57,344 @@ Identification of Hybrid Systems
 *** normalized parametric error (N P E),
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::72++7.52;;annot-72-3]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-72-3
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-72-3
 :END:
 
 
 *** It is worth noting that piecewise affine (PWA) maps have universal approx- imation properties: Any smooth function can be arbitrarily well approximated by a PWA map.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::97++0.39;;annot-97-2]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-97-2
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-97-2
 :END:
 
 *** The general form with autoregressive with exogenous input (ARX) submodels is derived from (2.9) as follows:
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::98++4.35;;annot-98-5]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-98-5
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-98-5
 :END:
 
 *** In a piecewise smooth (PWS) system, the discrete state q k depends on the continuous regression vector x k , i.e.,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::101++4.30;;annot-101-0]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-101-0
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-101-0
 :END:
 
 *** A popular subclass of piecewise smooth (PWS) systems is the piecewise affine (PWA) system class, in which the subsystems f j are affine functions of x k , or, with (linear) ARX subsystems, to the piecewise ARX (PWARX) system class, frequently abbreviated in piecewise affine (PWA).
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::101++4.30;;annot-101-1]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-101-1
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-101-1
 :END:
 
 *** The model can be a combination of various submodel types.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::105++4.35;;annot-105-9]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-105-9
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-105-9
 :END:
 
 *** between subsystems causes the data set to contain data points from multiple modes, thus preventing the direct identification of each subsystem separately.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::106++0.00;;annot-106-4]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-106-4
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-106-4
 :END:
 Need to cluster?
 
 *** the classification one of grouping the data points into subsets corresponding to the modes and the regression one of estimating the submodels.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::106++0.00;;annot-106-5]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-106-5
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-106-5
 :END:
 yes
 
 *** Problem 4.1 as posed above is ill-posed: It is not precise enough and may have many very different but valid solutions
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::106++3.57;;annot-106-6]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-106-6
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-106-6
 :END:
 
 *** In order to formulate an effective algorithm, we first had to fix the number of modes.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::107++0.00;;annot-107-7]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-107-7
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-107-7
 :END:
 First thing is to set number of modes
 
 *** Problem 4.2 Given a data set D = {(x k , y k )} k=1 s N ∈ estimate the submodels { f j } j=1 , f j ∈ F j , and the switching sequence q = {q k } k=1 N [s] by minimizing the error:
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::107++2.73;;annot-107-8]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-107-8
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-107-8
 :END:
 If we fix the number of submodels we can write the identification problem as an optimization problem
 
 *** hough possibly well posed, the optimization problem (4.18) remains nontrivial as it involves both continuous and integer variables,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::108++3.96;;annot-108-3]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-108-3
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-108-3
 :END:
 Problem is a MINLP
 
 *** g : X → [s] such that g(x) = j ⇔ x ∈ X j .
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::109++0.00;;annot-109-5]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-109-5
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-109-5
 :END:
 Partitioning function, a classifier for each data point
 
 *** (4.22)
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::109++2.84;;annot-109-6]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-109-6
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-109-6
 :END:
 Minimization problem that solves estimation
 
 *** Given a data set containing points generated by different modes, the points from the dominant mode can be considered as inliers and those from the other modes as outliers.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::111++1.28;;annot-111-2]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-111-2
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-111-2
 :END:
 
 
 *** Hybrid Model Assessment
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::112++0.75;;annot-112-3]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-112-3
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-112-3
 :END:
 
 *** Subspace Clustering
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::115++4.35;;annot-115-4]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-115-4
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-115-4
 :END:
 
 *** two intrinsically mixed subproblems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::115++4.35;;annot-115-5]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-115-5
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-115-5
 :END:
 Classification and model estimation are mixed
 
 *** Before attacking hybrid system identification, one must understand the impor- tance of the combinatorial issues involved.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::121++0.00;;annot-121-8]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-121-8
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-121-8
 :END:
 
 *** Switching Regression with Fixed s
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::123++0.00;;annot-123-9]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-123-9
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-123-9
 :END:
 
 *** Problem 5.1
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::123++0.00;;annot-123-10]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-123-10
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-123-10
 :END:
 Switching linear regression using N data points, to identify linear model of d parameters for each one of the s modes.
 
 *** this leads to s × s N linear regression subproblems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::123++4.97;;annot-123-11]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-123-11
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-123-11
 :END:
 hard problem
 
 *** However, global optimality is difficult to guarantee.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::124++0.00;;annot-124-15]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-124-15
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-124-15
 :END:
 
 *** this is a method of choice when one prefers to set a tolerance on the error and leave the number of modes free to be estimated.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::124++7.52;;annot-124-16]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-124-16
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-124-16
 :END:
 
 
 *** Piecewise Affine Regression with Fixed s
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::126++1.56;;annot-126-10]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-126-10
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-126-10
 :END:
 
 *** testing the $s^N$ classifications of the data points into s modes and solving s independent linear regression subproblems for each of them.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::126++3.98;;annot-126-11]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-126-11
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-126-11
 :END:
 get all combinations of classifications
 
 *** The class N P can be understood as the set of problems for which a candidate solution can be certified in polynomial time
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::129++1.25;;annot-129-4]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-129-4
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-129-4
 :END:
 
 
 *** Hardness of Switching Regression
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::129++4.52;;annot-129-3]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-129-3
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-129-3
 :END:
 
 *** Polynomial-Time Algorithms for Fixed Dimensions
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::136++1.51;;annot-136-11]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-136-11
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-136-11
 :END:
 
 *** we will now show that reality is not so bad.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::136++1.51;;annot-136-12]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-136-12
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-136-12
 :END:
 
 *** The complexity results thus obtained can be understood in terms of the number of floating-point operations (flops), which is the standard measure of complexity in numerical analysis.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++0.00;;annot-137-8]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-137-8
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-8
 :END:
 use of flops to analysis
 
 *** PWA Regression with Fixed s and d
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++0.00;;annot-137-9]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-137-9
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-9
 :END:
 
 *** g only influences the optimization problem through its value at the data points x 1 , . . . , x N . As a result, we need not search for its parameter values but merely for its output values, which belong to the finite set Q = [s].
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++0.00;;annot-137-10]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-137-10
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-10
 :END:
 
 *** the number of possible classifications, s N , remains exponential in N and too high to allow for a direct enumeration
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.64;;annot-137-11]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-137-11
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-11
 :END:
 
 *** reduce this number to a polynomial function of N
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.64;;annot-137-12]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-137-12
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-12
 :END:
 
 *** We also need to be able to enumerate all these classifications
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.64;;annot-137-13]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-137-13
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-13
 :END:
 
 *** the number of linear classifications is bounded by a polynomial function of N (see (3.7)).
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.94;;annot-137-14]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-137-14
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-14
 :END:
 
 *** relates the classification obtained by any g ∈ G to one obtained by a separating hyperplane passing through a subset S g of d points from S = {x 1 , . . . , x N } ⊂ R d .
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.94;;annot-137-15]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-137-15
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-15
 :END:
 
 *** Indeed, recall that in PWA regression, the modes are typically assumed to be linearly separable in the regression space R d , whereas this is not the case in switching regression, where the mode sequence {q k } Nk=1 is arbitrary.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::140++0.00;;annot-140-8]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-140-8
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-140-8
 :END:
 
 *** PWA Regression
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::152++5.32;;annot-152-3]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-152-3
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-152-3
 :END:
 
 **** Indeed, the need to estimate the classifier g simultaneously complicates the procedure to the point where it becomes inefficient.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::152++5.32;;annot-152-4]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-152-4
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-152-4
 :END:
 
 **** Hence, this approach will be practical only for very small problem sizes, typically with N < 200
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::152++5.32;;annot-152-5]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-152-5
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-152-5
 :END:
 
 **** hinge functions
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::153++0.31;;annot-153-3]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-153-3
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-153-3
 :END:
 $h_j(\vec{x})=\pm \max\{\vec{x}^T\vec{\theta}_j^+,\vec{x}^T\vec{\theta}_j^-\}$
 
 *** Estimation of Switched Linear Models
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::159++0.94;;annot-159-2]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-159-2
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-159-2
 :END:
 
 **** the nonsmooth pointwise minimum is replaced with a product of errors
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::164++7.87;;annot-164-4]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-164-4
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-164-4
 :END:
 product of error can help convergence
 
 **** Here, “black-box” refers to the fact that the objective function is only considered through sampled values and that no information on the derivatives is used (though derivatives are internally estimated by the algorithm from the function val- ues).
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::165++2.50;;annot-165-11]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-165-11
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-165-11
 :END:
 
 **** These prob- lems share the common difficulty of simultaneously computing a classification of the data points and a model of each group of points (the group centers in cluster- ing).
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::167++0.00;;annot-167-6]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-167-6
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-167-6
 :END:
 
 **** Applying a similar strat- egy in the context of switched regression leads to the k-LinReg algorithm, which is    depicted in Algorithm 6, where we let X = x 1 . . . x N be the regression matrix    and y = y 1 . . . y N be the target output vector.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::167++0.00;;annot-167-7]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-167-7
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-167-7
 :END:
 
 **** This usually indicates that the algorithm con- verges to an unsatisfactory solution.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::167++0.00;;annot-167-8]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-167-8
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-167-8
 :END:
 as i could observe
 
 **** refined strategies based on randomly drawing a new value for the defective parameter vector or dropping it to obtain a model with fewer modes could also be considered.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::167++5.32;;annot-167-9]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-167-9
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-167-9
 :END:
 but how?
 
 **** Drawing on this efficiency, a typ- ical strategy to improve the accuracy is to restart the algorithm from many different initializations and retain the best model, i.e., the one leading to the smallest cost function value in (6.8).
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::167++6.88;;annot-167-10]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-167-10
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-167-10
 :END:
 
 **** Algorithm k-LinReg
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::168++0.00;;annot-168-2]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-168-2
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-168-2
 :END:
 
 **** Generalized Principal Component Analysis (GPCA) [6, 7].
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::182++7.56;;annot-182-33]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-182-33
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-182-33
 :END:
 - cite:VidalEtAl2005
 
 *** Estimation of Piecewise Affine Models
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::186++0.31;;annot-186-8]]
-:ID:       ../../docsThese/bibliography/LauerBloch2019.pdf-annot-186-8
+:ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-186-8
 :END:

@@ -14,7 +14,7 @@
   :Custom_ID: Zafiriou1990
   :URL: https://www.sciencedirect.com/science/article/pii/009813549087012E
   :AUTHOR: Zafiriou, E.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/Zafiriou1990.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/Zafiriou1990.pdf
   :NOTER_PAGE:
   :END:
 
@@ -32,12 +32,12 @@
 *** where A’, 6 consist of the rows of AT, b that correspond to the constraints that are active at the optimum and J_* is the vector of the Lagrange multipliers corresponding to these constraints.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Zafiriou1990.pdf::2++3.20;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/Zafiriou1990.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/Zafiriou1990.pdf-annot-2-0
 :END:
 takes into account only active constraints
 
 *** (Fletcher, 198 1):
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Zafiriou1990.pdf::2++3.96;;annot-2-1]]
-:ID:       ../../docsThese/bibliography/Zafiriou1990.pdf-annot-2-1
+:ID:       ~/docsThese/bibliography/Zafiriou1990.pdf-annot-2-1
 :END:

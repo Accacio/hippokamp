@@ -14,7 +14,7 @@
   :Custom_ID: TanikawaMukai1983
   :URL:
   :AUTHOR: Tanikawa, A., & Mukai, H.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/TanikawaMukai1983.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/TanikawaMukai1983.pdf
   :NOTER_PAGE:
   :END:
 
@@ -33,28 +33,28 @@ New separable (lagrange-like) multiplier to nonconvex separable large-scale prob
 *** new multiplier which preserves separability
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::1++0.00;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-1-0
 :END:
 *** write restrictions
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::1++0.00;;annot-1-1]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-1-1
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-1-1
 :END:
 $$min\; \{f(x)\,|\,g(x)=0\}$$
 *** Lagrangian needs to be locally convex with respect to $x$ at $(x^\star,y^\star)$ to converge
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::1++4.65;;annot-1-2]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-1-2
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-1-2
 :END:
 *** due to cross terms, problem is not separable
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::1++5.30;;annot-1-3]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-1-3
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-1-3
 :END:
 *** choice of z is minimized when equal to $x^\star$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::2++0.00;;annot-2-3]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-3
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-3
 :END:
 choice to approximate $y(x^\star)=y^\star$ using $y(z)$
 $\ell_c(x,y(z),z) = \sum_{i=1}^{N}f_i(\xi^i)+y(z)^Tg_i(\»i^i)+{c\over 2}\|\zeta^i-\xi^i\|$
@@ -63,19 +63,19 @@ $x=(\xi^1,\dots,\xi^N)$, $z=(\zeta^1,\dots,\zeta^N)$
 *** iterative method so z converges to $x^\star$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::2++0.07;;annot-2-4]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-4
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-4
 :END:
 
 *** decomposable
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::2++0.70;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-0
 :END:
 see g(x) is not in the norm, so no cross terms
 *** how much near?? in which order?
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::2++0.00;;annot-2-6]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-6
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-6
 :END:
 *** great dependency of c for convergence and convexity of $\ell_{c,b}(x,z)$
 :PROPERTIES:
@@ -87,31 +87,31 @@ see g(x) is not in the norm, so no cross terms
 *** multiplier estimate
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::2++6.05;;annot-2-1]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-1
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-1
 :END:
 $y(x)=arg\; \underset{y}{\mathrm{min.}}\,\|\nabla_x\ell(x,y)\|$
 *** cross terms may make it non separable
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::2++6.81;;annot-2-2]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-2
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-2-2
 :END:
 *** notation for open and closed balls centered in x with r radius
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::3++0.53;;annot-3-1]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-3-1
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-3-1
 :END:
 - Open Ball $B(x,r)=\{u\in\mathbb{R}^n,\|u-x\|<r\}$
 - Closed Ball $\overline{B(x,r)}=\{u\in\mathbb{R}^n,\|u-x\|\leq r\}$
 *** point is regular if $\nabla g^i(x), i=1,\dots,m$ are linearly independent
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::3++1.16;;annot-3-0]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-3-0
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-3-0
 :END:
     if they are independent solution is unique
 *** properties of differential mapping $\phi_{c,b}:B(x^\star,\bar{r})\rightarrow \mathbb{R}^n$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983.pdf::3++1.16;;annot-3-2]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983.pdf-annot-3-2
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983.pdf-annot-3-2
 :END:
 a) When on optimal value, continue there
 b) The application of mapping does not increase radius

@@ -14,7 +14,7 @@
   :Custom_ID: TabatabaeiPourEtAl2006
   :URL:
   :AUTHOR: Tabatabaei-Pour, M., Gholami, M., Shaker, H., & Moshiri, B.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf
   :NOTER_PAGE:
   :END:
 
@@ -33,19 +33,19 @@ Estimate parameters of affine submodels and the partition of the map from data
 *** The PWA identification problem involves the estimation of both the parameters of affine submodels and the partition of the PWA map from data.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::1++0.00;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-0
 :END:
 
 *** consists of the estimation of the parameters of affine submodels and the partition of the PWA map from data.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::1++8.00;;annot-1-1]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-1
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-1
 :END:
 
 *** k-Plane Clustering procedure (kPC)
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::1++8.99;;annot-1-7]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-7
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-7
 :END:
 cite:BradleyMangasarian2000
 
@@ -53,68 +53,68 @@ cite:BradleyMangasarian2000
 *** Unfortunately, the aforementioned algorithms are all in the batch mode,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::1++9.00;;annot-1-2]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-2
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-2
 :END:
 
 *** in batch mode the computational complexity of the algorithm depends on the number of input/output data and therefore they may not be suitable for online use in real-time applications.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::1++3.52;;annot-1-3]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-3
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-3
 :END:
 
 *** two steps for each time a new data comes in.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::1++3.52;;annot-1-4]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-4
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-4
 :END:
 
 **** the recursive k-plane clustering algorithm is used for classification of the new data and updating the parameters of the corresponding affine submodel
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::1++3.52;;annot-1-5]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-5
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-5
 :END:
 
 **** separating hyperplanes of regressor space are updated using incremental Proximal Support Vector Machine (PSVM)
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::1++3.52;;annot-1-6]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-6
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-1-6
 :END:
 
 *** The difficulty of the identification problem depends on which quantities in the problem 1 are assumed to be known.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::2++2.82;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-2-0
 :END:
 
 *** Assumption 1. The number of submodel and the model orders are fixed a priori.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::2++2.82;;annot-2-1]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-2-1
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-2-1
 :END:
 
 *** The RLS method needs a constant computational time for each parameter update and therefore is perfectly suited for online use.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::2++0.00;;annot-2-2]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-2-2
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-2-2
 :END:
 
 *** In order to be able to estimate the separating hyperplanes in a recursive manner, we use a very fast and simple incremental SVM classifier, namely Incremental Proximal Support Vector Machine (IPSVM)[13], which is capable of modifying an existing separating hyperplane by both adding new data and retiring old data.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::2++1.25;;annot-2-3]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-2-3
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-2-3
 :END:
 
 *** instead of generating k centres as points that minimize the sum of squares of distances of each point to a nearest cluster centre, generates k planes that minimize the sum of squares of the 2-norm distances between each point and a nearest plane.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::2++7.26;;annot-2-4]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-2-4
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-2-4
 :END:
 
 
 *** λ is usually set to some value between 0.9 and 1.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::3++0.00;;annot-3-0]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-3-0
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-3-0
 :END:
 
 large forgetting factor $\lambda$ to increase robustness against disturbances
@@ -122,57 +122,57 @@ large forgetting factor $\lambda$ to increase robustness against disturbances
 *** dynamic adjustment of forgetting factor:
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::3++0.00;;annot-3-1]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-3-1
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-3-1
 :END:
 $\lambda=\lambda_f-(\lambda_f-\lambda_0)e^{-\tau k}$
 
 *** RECURSIVE LEAST SQUARES ALGORITHM
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::3++2.88;;annot-3-3]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-3-3
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-3-3
 :END:
 Algorithm is strange, different
 
 *** In the case that clusters are not linearly separable (due to some errors in the clustering step), we look for a generalized separating hyperplane that minimizes the number of misclassified data points.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::3++5.62;;annot-3-2]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-3-2
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-3-2
 :END:
 
 *** [13]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::4++0.00;;annot-4-1]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-4-1
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-4-1
 :END:
 cite:FungMangasarian2001
 
 *** NUMERICAL E XAMPLE
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::4++4.37;;annot-4-0]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-4-0
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-4-0
 :END:
 
 *** Also, it is obvious that the parameters of an affine submodel converge to their true values only at time instants that the corresponding mode is active.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::5++6.25;;annot-5-0]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-5-0
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-5-0
 :END:
 
 *** important role of the excitation signal in the convergence of the estimated parameters to their true value.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::5++6.25;;annot-5-1]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-5-1
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-5-1
 :END:
 
 *** The excitation signal should excite all discrete modes sufficiently.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::5++6.25;;annot-5-2]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-5-2
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-5-2
 :END:
 
 *** The algorithm is very efficient if there is sufficient physical insight into the system and hence one can choose appropriate initial parameters.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf::5++6.25;;annot-5-3]]
-:ID:       ../../docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-5-3
+:ID:       ~/docsThese/bibliography/TabatabaeiPourEtAl2006.pdf-annot-5-3
 :END:
 it is efficient only if

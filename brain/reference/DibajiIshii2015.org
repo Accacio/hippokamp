@@ -9,7 +9,7 @@
 
 * DibajiIshii2015
 :PROPERTIES:
-:NOTER_DOCUMENT: ../../docsThese/bibliography/DibajiIshii2015.pdf
+:NOTER_DOCUMENT: ~/docsThese/bibliography/DibajiIshii2015.pdf
 :END:
 
 ** CATALOG
@@ -29,69 +29,69 @@ Consensus of second order sampled-data in presence of misbehaving agents. This a
 *** Consensus of second order sampled-data in presence of misbehaving agents
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::1++1.17;;annot-1-29]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-1-29
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-1-29
 
 :END:
 
 *** definition of <<<robust digraph>>>
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::2++0.30;;annot-2-18]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-2-18
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-2-18
 :END:
 
 *** Continuous time linear system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::2++0.94;;annot-2-20]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-2-20
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-2-20
 :END:
 
 *** digraph
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::2++2.81;;annot-2-19]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-2-19
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-2-19
 :END:
 
 *** discretization
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::2++4.68;;annot-2-21]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-2-21
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-2-21
 :END:
 
 *** consensus based control
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::2++4.68;;annot-2-22]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-2-22
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-2-22
 :END:
 
 *** byzantine not considered
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::3++0.04;;annot-3-23]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-3-23
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-3-23
 :END:
 *** consensus
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::3++0.17;;annot-3-24]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-3-24
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-3-24
 :END:
 *** ignore f greatest and f smallest
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::3++0.35;;annot-3-25]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-3-25
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-3-25
 :END:
 *** $f$ -local, if network is $2f+1$ -robust then resilient consensus achievable using DP-MSR
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::4++0.46;;annot-4-13]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-4-13
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-4-13
 :END:
 *** $f$ -local , if DP-MSR with parameter $2f$ achieves consensus, then the network is $(f+1,f+1)$ -robust
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::5++5.62;;annot-5-22]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-5-22
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-5-22
 :END:
 *** There exists a $2f$ -robust with minimum degree $2f+1$, may not achieve resilient may not achieve consensus depending on malicious agents and agent's initial states
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiIshii2015.pdf::6++3.74;;annot-6-9]]
-:ID:       ../../docsThese/bibliography/DibajiIshii2015.pdf-annot-6-9
+:ID:       ~/docsThese/bibliography/DibajiIshii2015.pdf-annot-6-9
 :END:
 
 

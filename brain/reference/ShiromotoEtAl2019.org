@@ -14,7 +14,7 @@
   :Custom_ID: ShiromotoEtAl2019
   :URL: 
   :AUTHOR: H. S. Shiromoto, M. Revay, & I. R. Manchester
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/ShiromotoEtAl2019.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/ShiromotoEtAl2019.pdf
   :NOTER_PAGE:
   :END:
 
@@ -33,14 +33,14 @@ Use of separable metric structures to distributed nonlinear control
 *** Contraction metrics can be used to distributed control for large-scale networked dynamic systems
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ShiromotoEtAl2019.pdf::1++0.00;;annot-1-9]]
-:ID:       ../../docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-1-9
+:ID:       ~/docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-1-9
 :END:
 Using separable metric structures results in controllers that depend on local information and information from neighbors
 
 *** fuzzy terminology
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ShiromotoEtAl2019.pdf::1++0.26;;annot-1-11]]
-:ID:       ../../docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-1-11
+:ID:       ~/docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-1-11
 :END:
 - decentralized:
   each node the controller uses only local state
@@ -50,27 +50,27 @@ Using separable metric structures results in controllers that depend on local in
 *** References for decentralized and distributed control
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ShiromotoEtAl2019.pdf::1++2.84;;annot-1-10]]
-:ID:       ../../docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-1-10
+:ID:       ~/docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-1-10
 :END:
 [7], [8]
 
 *** notation naturals between a and b
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ShiromotoEtAl2019.pdf::2++7.17;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-2-0
 :END:
 $N_{[a,b]}$
 
 *** sets of (semi) definite symmetric matrices
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ShiromotoEtAl2019.pdf::2++7.17;;annot-2-1]]
-:ID:       ../../docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-2-1
+:ID:       ~/docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-2-1
 :END:
 $\mathbf{S}_{\star0}^n=\{M\in \mathbb{R}^{n\times n}:M\star0,M=M^T\}$ where $\star\in\{\succ,\succeq,\prec,\preceq\}$
 *** References
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ShiromotoEtAl2019.pdf::10++0.00;;annot-10-0]]
-:ID:       ../../docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-10-0
+:ID:       ~/docsThese/bibliography/ShiromotoEtAl2019.pdf-annot-10-0
 :END:
 [7] N. Sandell, P. Varaiya, M. Athans, and M. Safonov, “Survey of decen-
 tralized control methods for large scale systems,” IEEE Trans. Autom.

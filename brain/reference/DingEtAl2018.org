@@ -14,7 +14,7 @@
   :Custom_ID: DingEtAl2018
   :URL: http://www.sciencedirect.com/science/article/pii/S0925231217316351
   :AUTHOR: Ding, D., Han, Q., Xiang, Y., Ge, X., & Zhang, X.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/DingEtAl2018.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/DingEtAl2018.pdf
   :NOTER_PAGE:
   :END:
 
@@ -30,22 +30,22 @@ Survey on Security control and attack detection
 *** DoS attack
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DingEtAl2018.pdf::4++0.00;;annot-4-26]]
-:ID:       ../../docsThese/bibliography/DingEtAl2018.pdf-annot-4-26
+:ID:       ~/docsThese/bibliography/DingEtAl2018.pdf-annot-4-26
 :END:
 *** replay attack
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DingEtAl2018.pdf::4++0.28;;annot-4-27]]
-:ID:       ../../docsThese/bibliography/DingEtAl2018.pdf-annot-4-27
+:ID:       ~/docsThese/bibliography/DingEtAl2018.pdf-annot-4-27
 :END:
 *** deception attack
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DingEtAl2018.pdf::4++0.33;;annot-4-28]]
-:ID:       ../../docsThese/bibliography/DingEtAl2018.pdf-annot-4-28
+:ID:       ~/docsThese/bibliography/DingEtAl2018.pdf-annot-4-28
 :END:
 *** detection
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DingEtAl2018.pdf::5++0.12;;annot-5-24]]
-:ID:       ../../docsThese/bibliography/DingEtAl2018.pdf-annot-5-24
+:ID:       ~/docsThese/bibliography/DingEtAl2018.pdf-annot-5-24
 :END:
 1. Bayesian Detection with binary hypothesis
 2. Weighted Least Squares approaches

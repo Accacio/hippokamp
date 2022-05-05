@@ -14,7 +14,7 @@
 :Custom_ID: Ouyang2020
 :URL:
 :AUTHOR:   Ouyang, H.
-:NOTER_DOCUMENT: ../../docsThese/bibliography/Ouyang2020.pdf
+:NOTER_DOCUMENT: ~/docsThese/bibliography/Ouyang2020.pdf
 :NOTER_PAGE:
 :END:
 
@@ -39,27 +39,27 @@ $H_i\triangleq \{ x \in\mathcal{H}:\langle x,u_i \rangle=\eta_i \}$
 *** expression
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::2++0.67;;annot-2-22]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-2-22
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-2-22
 :END:
 $\gamma\triangleq {|\langle u_1,u_2\rangle| \over \|u_1\|\|u_2\|}\in [0,1[$
 
 *** P H x = x + η − h x, u i u.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::4++5.69;;annot-4-10]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-4-10
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-4-10
 :END:
 projection
 
 *** projection onto intersection of hyperplanes
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::6++4.65;;annot-6-25]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-6-25
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-6-25
 :END:
 
 *** normals are divided into two groups
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::6++4.65;;annot-6-26]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-6-26
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-6-26
 :END:
 1. LI
 2. LD
@@ -67,58 +67,58 @@ projection
 *** Each $u_i$ is a linear combination of the first $t$ elements
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::6++4.65;;annot-6-27]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-6-27
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-6-27
 :END:
 
 *** ignore LD hyperplanes
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::6++6.81;;annot-6-28]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-6-28
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-6-28
 :END:
  if new hyperplane does not provide any new information we can neglect it
 
 *** the LD components do not interfere
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::6++7.19;;annot-6-29]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-6-29
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-6-29
 :END:
 
 
 *** mesmo resultado que obtive
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::7++0.00;;annot-7-8]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-7-8
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-7-8
 :END:
 
 
 *** Projection algorithm
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::7++3.86;;annot-7-9]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-7-9
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-7-9
 :END:
 cite:BoyleDykstra1986
 
 *** for LD halfspaces if $W_1\cap W_2\neq\emptyset$ then $P_{W_2}P_{W_1}=P_{W_1\cap W_2}$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::10++5.90;;annot-10-43]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-10-43
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-10-43
 :END:
 
 *** not necessarily $P_{W_2}P_{W_1}=P_{W_1\cap W_2}$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::15++0.00;;annot-15-42]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-15-42
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-15-42
 :END:
 there is a distance between the values if normals inner product is positive
 
 *** general relation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::15++3.98;;annot-15-40]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-15-40
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-15-40
 :END:
 
 *** if LI and orthogonal then $P_{W_2}P_{W_1}=P_{W_1\cap W_2}$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Ouyang2020.pdf::15++3.98;;annot-15-41]]
-:ID:       ../../docsThese/bibliography/Ouyang2020.pdf-annot-15-41
+:ID:       ~/docsThese/bibliography/Ouyang2020.pdf-annot-15-41
 :END:

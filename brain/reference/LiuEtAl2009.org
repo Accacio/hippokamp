@@ -14,7 +14,7 @@
   :Custom_ID: LiuEtAl2009
   :URL:
   :AUTHOR: Liu, Y., Ning, P., & Reiter, M. K.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/LiuEtAl2009.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/LiuEtAl2009.pdf
   :NOTER_PAGE:
   :END:
 
@@ -33,93 +33,93 @@ False data injection attack that isn't detected using norm of linear regression 
 *** introduced by arbitrary, non-random causes.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::1++0.00;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-1-0
 :END:
 attacks
 
 *** false data injection [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][attack]]s
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::1++0.00;;annot-1-1]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-1-1
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-1-1
 :END:
 
 *** The me- ter measurements may include bus voltages, bus real and reactive power injections, and branch reactive power ﬂows in every subsystem of a power grid.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::1++5.00;;annot-1-2]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-1-2
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-1-2
 :END:
 Types of measurements
 
 *** telemetry system, which is also known as Supervisory Control And Data Acquisition (SCADA) system.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::1++5.00;;annot-1-3]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-1-3
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-1-3
 :END:
 SCADA is a telemetry system
 
 *** It is possible for an attacker to compromise meters to in- troduce malicious measurements.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::1++6.87;;annot-1-4]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-1-4
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-1-4
 :END:
 base of FDI attack
 
 *** Though this meter- hacking tutorial is about meters at the end consumers, it is conceivable that attackers have the same kind of ability to modify the meters in the power grid to introduce bad measurements if they have access to these meters.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::2++2.57;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-2-0
 :END:
 Compare consumer electricity theft
 
 *** Power systems researchers proposed to cal- culate the measurement residual z − Hx̂ (i.e., the diﬀerence between the vector of observed measurements and the vector of estimated measurements), and use its L 2 -norm z − Hx̂ to detect the presence of bad measurements. Speciﬁcally, z − Hx̂ is compared with a threshold τ , and the presence of bad measurements is assumed if z − Hx̂ > τ .
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::3++0.00;;annot-3-0]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-3-0
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-3-0
 :END:
 Bad measurement detection
 
 *** χ 2 (v)- distribution,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::3++0.00;;annot-3-1]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-3-1
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-3-1
 :END:
 use of $\chi^2$ distribution to calculate threshold
 
 *** random false data injection attacks, in which the attacker aims to ﬁnd any attack vector as long as it can result in a wrong estimation of state variables,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::4++1.87;;annot-4-0]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-4-0
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-4-0
 :END:
 
 *** targeted false data injection attacks, in which the attacker aims to ﬁnd an at- tack vector that can inject a speciﬁc error into certain state variables.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::4++1.87;;annot-4-1]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-4-1
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-4-1
 :END:
 
 *** In this paper, we refer to an attack in which the attack vector a equals Hc, where c is an arbitrary non-zero vector, as a false data injection attack.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::4++3.44;;annot-4-2]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-4-2
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-4-2
 :END:
 attack vector is linear, then attack is not detected
 
 *** H(H T H) −1 H T
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::5++0.00;;annot-5-0]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-5-0
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-5-0
 :END:
 H times pseudo inverse
 
 *** nullspace of B' defines solutions
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::5++0.00;;annot-5-1]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-5-1
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-5-1
 :END:
 
 *** Construction of Attack Vectors:
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2009.pdf::5++0.38;;annot-5-2]]
-:ID:       ../../docsThese/bibliography/LiuEtAl2009.pdf-annot-5-2
+:ID:       ~/docsThese/bibliography/LiuEtAl2009.pdf-annot-5-2
 :END:
 use of linear combinations

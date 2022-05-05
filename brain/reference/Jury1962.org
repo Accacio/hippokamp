@@ -8,7 +8,7 @@
 
 * Jury1962
 :PROPERTIES:
-:NOTER_DOCUMENT: ../../docsThese/bibliography/Jury1962.pdf
+:NOTER_DOCUMENT: ~/docsThese/bibliography/Jury1962.pdf
 :END:
 
 ** CATALOG

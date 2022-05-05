@@ -33,7 +33,7 @@ Examples of attacks in power systems
 *** CrashOverride malware
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bindra2017.pdf::2++0.00;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/Bindra2017.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/Bindra2017.pdf-annot-2-0
 :END:
 
 

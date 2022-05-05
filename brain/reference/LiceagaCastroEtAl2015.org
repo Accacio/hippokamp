@@ -14,7 +14,7 @@
   :Custom_ID: LiceagaCastroEtAl2015
   :URL:
   :AUTHOR: LiceagaCastro, J. U., Siller-Alcal\'a, I. I., LiceagaCastro, E., & Am\'ezquita-Brooks, L. A.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/LiceagaCastroEtAl2015.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/LiceagaCastroEtAl2015.pdf
   :NOTER_PAGE:
   :END:
 
@@ -33,17 +33,17 @@ Show that [[id:f62d60ca-4a29-4d6e-8ead-89e4dda9aca3][MIMO]] systems controlled p
 *** not necessarily robust
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiceagaCastroEtAl2015.pdf::1++0.00;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/LiceagaCastroEtAl2015.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/LiceagaCastroEtAl2015.pdf-annot-1-0
 :END:
 
 *** uncertainty can generate closed loop instability
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiceagaCastroEtAl2015.pdf::2++6.82;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/LiceagaCastroEtAl2015.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/LiceagaCastroEtAl2015.pdf-annot-2-0
 :END:
 
 *** passivity does not imply robustness
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiceagaCastroEtAl2015.pdf::4++2.34;;annot-4-0]]
-:ID:       ../../docsThese/bibliography/LiceagaCastroEtAl2015.pdf-annot-4-0
+:ID:       ~/docsThese/bibliography/LiceagaCastroEtAl2015.pdf-annot-4-0
 :END:

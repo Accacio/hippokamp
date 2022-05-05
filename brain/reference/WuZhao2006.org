@@ -14,7 +14,7 @@
   :Custom_ID: WuZhao2006
   :URL:
   :AUTHOR: Wu, T., & Zhao, H.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/WuZhao2006.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/WuZhao2006.pdf
   :NOTER_PAGE:
   :END:
 
@@ -34,44 +34,44 @@ Not very well written
 *** SVMs can be used to classify the unlabeled data.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuZhao2006.pdf::1++3.74;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/WuZhao2006.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/WuZhao2006.pdf-annot-1-0
 :END:
 
 *** supervised machine learning technique requires that all the training data should be labeled.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuZhao2006.pdf::1++5.61;;annot-1-1]]
-:ID:       ../../docsThese/bibliography/WuZhao2006.pdf-annot-1-1
+:ID:       ~/docsThese/bibliography/WuZhao2006.pdf-annot-1-1
 :END:
 Supervised means labeled?
 
 *** unlabeled data for enhancing classification accuracy in supervised learning settings. This is called semi-supervised learning.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuZhao2006.pdf::1++5.61;;annot-1-2]]
-:ID:       ../../docsThese/bibliography/WuZhao2006.pdf-annot-1-2
+:ID:       ~/docsThese/bibliography/WuZhao2006.pdf-annot-1-2
 :END:
 semi-supervised \to use unlabeled data
 
 *** SVM is the first quadratic program model of classifying labeled data.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuZhao2006.pdf::1++5.61;;annot-1-3]]
-:ID:       ../../docsThese/bibliography/WuZhao2006.pdf-annot-1-3
+:ID:       ~/docsThese/bibliography/WuZhao2006.pdf-annot-1-3
 :END:
 
 *** this method is more suitable to divide the unlabeled data into two classes just as traditional SVMs do.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuZhao2006.pdf::1++6.55;;annot-1-4]]
-:ID:       ../../docsThese/bibliography/WuZhao2006.pdf-annot-1-4
+:ID:       ~/docsThese/bibliography/WuZhao2006.pdf-annot-1-4
 :END:
 
 *** Now the computation cost of this method can be evaluated: If there are n unlabeled data to be classified, there are 4n constraint conditions while traditional SVMs only have n constraint conditions. So the computation cost of this method classifying n unlabeled data is no more than that of the traditional SVMs classifying 4n labeled data.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuZhao2006.pdf::4++3.43;;annot-4-0]]
-:ID:       ../../docsThese/bibliography/WuZhao2006.pdf-annot-4-0
+:ID:       ~/docsThese/bibliography/WuZhao2006.pdf-annot-4-0
 :END:
 not necessarily linear
 
 *** This means the kernel should be an inner product of two centered vectors.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuZhao2006.pdf::4++6.86;;annot-4-1]]
-:ID:       ../../docsThese/bibliography/WuZhao2006.pdf-annot-4-1
+:ID:       ~/docsThese/bibliography/WuZhao2006.pdf-annot-4-1
 :END:

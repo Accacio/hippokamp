@@ -14,7 +14,7 @@
   :Custom_ID: VelardeEtAl2017a
   :URL:
   :AUTHOR: Velarde, P., Maestre, J. M., Ishii, H., & Negenborn, R. R.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/VelardeEtAl2017a.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/VelardeEtAl2017a.pdf
   :NOTER_PAGE:
   :END:
 
@@ -34,27 +34,27 @@ Secure dMPC for consensus using scenario based mechanism
 *** C i u i [k] =
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017a.pdf::2++0.00;;annot-2-6]]
-:ID:       ../../docsThese/bibliography/VelardeEtAl2017a.pdf-annot-2-6
+:ID:       ~/docsThese/bibliography/VelardeEtAl2017a.pdf-annot-2-6
 :END:
 uses equality constraints
 
 *** Remark 1: This formulation is used for simplicity and it can be easily extended to other types of coupling constraints in the dynamics, e.g., coupling in the states.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017a.pdf::2++3.48;;annot-2-7]]
-:ID:       ../../docsThese/bibliography/VelardeEtAl2017a.pdf-annot-2-7
+:ID:       ~/docsThese/bibliography/VelardeEtAl2017a.pdf-annot-2-7
 :END:
 remark for using equality constraints
 
 *** Remark 2: Each coupling constraint is associated with a Lagrange multiplier, which can be interpreted as a price. These prices are used to coordinate the subsystems to respect collectively the coupling constraints [10].
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017a.pdf::2++5.49;;annot-2-8]]
-:ID:       ../../docsThese/bibliography/VelardeEtAl2017a.pdf-annot-2-8
+:ID:       ~/docsThese/bibliography/VelardeEtAl2017a.pdf-annot-2-8
 :END:
 cite:MaestreEtAl2014
 
 *** To mitigate the consequence of the attacks, we propose to use scenario-based techniques to ensure robust- ness within the DMPC network: a collection of scenarios, which consists of trustworthy historical price information,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017a.pdf::1++6.62;;annot-1-8]]
-:ID:       ../../docsThese/bibliography/VelardeEtAl2017a.pdf-annot-1-8
+:ID:       ~/docsThese/bibliography/VelardeEtAl2017a.pdf-annot-1-8
 :END:
 expression

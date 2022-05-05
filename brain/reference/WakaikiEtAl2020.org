@@ -14,7 +14,7 @@
   :Custom_ID: WakaikiEtAl2020
   :URL:
   :AUTHOR: M. Wakaiki, A. Cetinkaya, & H. Ishii
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/WakaikiEtAl2020.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/WakaikiEtAl2020.pdf
   :NOTER_PAGE:
   :END:
 
@@ -36,52 +36,52 @@ Simulation
 *** quantization noise and DOS attacks
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::1++0.00;;annot-1-7]]
-:ID:       ../../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-1-7
+:ID:       ~/docsThese/bibliography/WakaikiEtAl2020.pdf-annot-1-7
 :END:
 
 *** discrete time linear system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::2++0.00;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/WakaikiEtAl2020.pdf-annot-2-0
 :END:
 
 *** Quantization noise
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-0]]
-:ID:       ../../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-0
+:ID:       ~/docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-0
 :END:
 
 *** Attack detection by use of acknowledgment
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-1]]
-:ID:       ../../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-1
+:ID:       ~/docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-1
 :END:
 
 *** Smart Attacker
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-2]]
-:ID:       ../../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-2
+:ID:       ~/docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-2
 :END:
 
 *** Attack duration is bounded
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-3]]
-:ID:       ../../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-3
+:ID:       ~/docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-3
 :END:
 
 *** Attack frequency is bounded
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-4]]
-:ID:       ../../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-4
+:ID:       ~/docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-4
 :END:
 *** pairs (A,B) and (C,A) are Stabilizable and detectable
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::3++0.00;;annot-3-5]]
-:ID:       ../../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-5
+:ID:       ~/docsThese/bibliography/WakaikiEtAl2020.pdf-annot-3-5
 :END:
 A-BK and A-LC are [[id:b5802df4-9bd3-4482-a9b0-12ac4772c46e][Schur Stable]]
 *** Observer Based controller with attack modeled
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/WakaikiEtAl2020.pdf::4++0.00;;annot-4-0]]
-:ID:       ../../docsThese/bibliography/WakaikiEtAl2020.pdf-annot-4-0
+:ID:       ~/docsThese/bibliography/WakaikiEtAl2020.pdf-annot-4-0
 :END:

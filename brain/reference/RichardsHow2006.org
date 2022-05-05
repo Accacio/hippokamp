@@ -14,7 +14,7 @@
   :Custom_ID: RichardsHow2006
   :URL:
   :AUTHOR: A. Richards, & J. How
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/RichardsHow2006.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/RichardsHow2006.pdf
   :NOTER_PAGE:
   :END:
 
@@ -35,31 +35,31 @@
 *** Tighten constraints in monotonic way in order to increase robusteness
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/RichardsHow2006.pdf::1++0.20;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/RichardsHow2006.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/RichardsHow2006.pdf-annot-1-0
 :END:
 
 *** linear time invariant discrete time system
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/RichardsHow2006.pdf::1++0.30;;annot-1-2]]
-:ID:       ../../docsThese/bibliography/RichardsHow2006.pdf-annot-1-2
+:ID:       ~/docsThese/bibliography/RichardsHow2006.pdf-annot-1-2
 :END:
 
 
 *** introduced by Gossner et Al
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/RichardsHow2006.pdf::1++0.35;;annot-1-1]]
-:ID:       ../../docsThese/bibliography/RichardsHow2006.pdf-annot-1-1
+:ID:       ~/docsThese/bibliography/RichardsHow2006.pdf-annot-1-1
 :END:
 
 *** tightening recursion
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/RichardsHow2006.pdf::2++0.11;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/RichardsHow2006.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/RichardsHow2006.pdf-annot-2-0
 :END:
 
 
 *** GossnerEtAl1997
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/RichardsHow2006.pdf::5++0.17;;annot-5-0]]
-:ID:       ../../docsThese/bibliography/RichardsHow2006.pdf-annot-5-0
+:ID:       ~/docsThese/bibliography/RichardsHow2006.pdf-annot-5-0
 :END:

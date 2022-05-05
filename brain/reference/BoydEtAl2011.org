@@ -14,7 +14,7 @@
   :Custom_ID: BoydEtAl2011
   :URL: https://ieeexplore.ieee.org/document/8186925
   :AUTHOR: Boyd, S., Parikh, N., Chu, E., Peleato, B., & Eckstein, J.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/BoydEtAl2011.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/BoydEtAl2011.pdf
   :NOTER_PAGE:
   :END:
 
@@ -33,10 +33,10 @@ Distributed optimization using [[id:6f210e88-50da-4dc2-9f28-c723667a7bc9][ADMM]]
 *** augmented lagrangian
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2011.pdf::13++0.13;;annot-13-0]]
-:ID:       ../../docsThese/bibliography/BoydEtAl2011.pdf-annot-13-0
+:ID:       ~/docsThese/bibliography/BoydEtAl2011.pdf-annot-13-0
 :END:
 *** consensus using map reduce
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoydEtAl2011.pdf::86++0.10;;annot-86-0]]
-:ID:       ../../docsThese/bibliography/BoydEtAl2011.pdf-annot-86-0
+:ID:       ~/docsThese/bibliography/BoydEtAl2011.pdf-annot-86-0
 :END:

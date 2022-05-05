@@ -8,7 +8,7 @@
 - tags :: [[id:2f8705a1-87f3-4561-899c-fbfdc9b8c620][sliding modes]]
 * Yamasaki2016
 :PROPERTIES:
-:NOTER_DOCUMENT: ../../docsThese/bibliography/Yamasaki2016.pdf
+:NOTER_DOCUMENT: ~/docsThese/bibliography/Yamasaki2016.pdf
 :END:
 
 ** Catalog
@@ -24,13 +24,13 @@ Adaptive robust altitude control scheme based on a smooth sliding mode controlle
 *** Thrust of helices
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Yamasaki2016.pdf::33++0.19;;annot-33-4]]
-:ID:       ../../docsThese/bibliography/Yamasaki2016.pdf-annot-33-4
+:ID:       ~/docsThese/bibliography/Yamasaki2016.pdf-annot-33-4
 :END:
 $C_T:=c_T\rho A_ir^2_i$
 *** Lipschitz
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Yamasaki2016.pdf::44++0.35;;annot-44-8]]
-:ID:       ../../docsThese/bibliography/Yamasaki2016.pdf-annot-44-8
+:ID:       ~/docsThese/bibliography/Yamasaki2016.pdf-annot-44-8
 :END:
 from wikipedia:
 Given two metric spaces (X, dX) and (Y, dY),  $f : X \rightarrow Y$ $\exists K \geq 0$ ,$\forall (x1,x2) \in X$
@@ -41,5 +41,5 @@ $$\displaystyle {\frac {d_{Y}(f(x_{1}),f(x_{2}))}{d_{X}(x_{1},x_{2})}}\leq K$$
 *** Low pass filter to generate feasible trajectories
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Yamasaki2016.pdf::46++0.28;;annot-46-7]]
-:ID:       ../../docsThese/bibliography/Yamasaki2016.pdf-annot-46-7
+:ID:       ~/docsThese/bibliography/Yamasaki2016.pdf-annot-46-7
 :END:

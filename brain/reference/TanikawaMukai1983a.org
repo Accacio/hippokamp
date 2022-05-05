@@ -14,7 +14,7 @@
   :Custom_ID: TanikawaMukai1983a
   :URL: http://dx.doi.org/10.1109/CDC.1983.269658
   :AUTHOR: Tanikawa, A., & Mukai, H.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/TanikawaMukai1983a.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/TanikawaMukai1983a.pdf
   :NOTER_PAGE:
   :END:
 
@@ -34,20 +34,20 @@ Creation of new lagrangian to convexify the lagrangian function, reducing decomp
 *** Creation of new lagrangian to convexify the lagrangian function, reducing decomposition to two levels of iterative optimization
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::1++2.69;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-0
 :END:
 
 *** min-max dual-primal,
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::1++3.05;;annot-1-4]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-4
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-4
 :END:
 
 
 *** minization problem
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::1++6.29;;annot-1-1]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-1
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-1
 :END:
 
 \begin{equation}
@@ -62,14 +62,14 @@ Creation of new lagrangian to convexify the lagrangian function, reducing decomp
 *** $x^\star$ satisfies local convexity assumption if lagrangian $\mathcal{L}(x,y)$ is locally convex in $x$ at $(x^\star,y^\star)$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::1++7.90;;annot-1-3]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-3
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-3
 :END:
 $\mathcal{L}(x,y)=f(x)+y^Tg(x)$
 
 *** Model
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::1++6.11;;annot-1-2]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-2
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-2
 :END:
 
 \begin{equation}
@@ -83,7 +83,7 @@ where $x=(\xi^1,\dots,\xi^N)$, $f_i:\mathbb{R}^{k^i}\to\mathbb{R}$, $g_i:\mathbb
 *** 2 levels of optimization
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::1++2.48;;annot-1-5]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-5
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-5
 :END:
 - $q(y)=\underset{x}{min.} \mathcal{L}(x,y)$
 - $\underset{y}{max.} q(y)$
@@ -91,14 +91,14 @@ where $x=(\xi^1,\dots,\xi^N)$, $f_i:\mathbb{R}^{k^i}\to\mathbb{R}$, $g_i:\mathbb
 *** if $f$ or $g$ are not convex $x^\star$ may not be optimal
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::1++5.17;;annot-1-6]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-6
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-6
 :END:
 
 
 *** convexified problem
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::1++6.97;;annot-1-7]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-7
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-7
 :END:
 \begin{equation}
 \begin{matrix}
@@ -110,13 +110,13 @@ where $x=(\xi^1,\dots,\xi^N)$, $f_i:\mathbb{R}^{k^i}\to\mathbb{R}$, $g_i:\mathbb
 *** cross product destroys separability
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::1++7.65;;annot-1-8]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-8
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-1-8
 :END:
 
 *** separable penalty term
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::2++0.00;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-2-0
 :END:
 \begin{equation}
 \begin{matrix}
@@ -128,7 +128,7 @@ where $x=(\xi^1,\dots,\xi^N)$, $f_i:\mathbb{R}^{k^i}\to\mathbb{R}$, $g_i:\mathbb
 *** three levels of optimization
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TanikawaMukai1983a.pdf::2++0.00;;annot-2-1]]
-:ID:       ../../docsThese/bibliography/TanikawaMukai1983a.pdf-annot-2-1
+:ID:       ~/docsThese/bibliography/TanikawaMukai1983a.pdf-annot-2-1
 :END:
 - $q(y)=\underset{x}{min.} \mathcal{L}(x,y)$
 - $\underset{y}{max.}\quad q(y)$

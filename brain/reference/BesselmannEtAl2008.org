@@ -14,13 +14,14 @@
   :Custom_ID: BesselmannEtAl2008
   :URL: https://www.sciencedirect.com/science/article/pii/S1474667016410967
   :AUTHOR: Besselmann, T., Löfberg, J., & Morari, M.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/BesselmannEtAl2008.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/BesselmannEtAl2008.pdf
   :NOTER_PAGE:
   :END:
 
 ** CATALOG
 
 *** Motivation :springGreen:
+Explicit MPC with parameter varying systems
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications
@@ -32,18 +33,18 @@
 *** In Borrelli (2003) it is shown how multi-parametric programming can be used to compute explicit solutions for optimal control of constrained linear and piecewise affine (PWA) systems.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BesselmannEtAl2008.pdf::1++6.93;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/BesselmannEtAl2008.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/BesselmannEtAl2008.pdf-annot-1-0
 :END:
 
 *** [[id:d40d8061-dadd-4b9f-b75e-cef1b5f0e2de][Multi-parametric Toolbox]] (MPT) and [[id:2eaf4e69-368d-4b25-9849-99ed75a11452][YALMIP]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BesselmannEtAl2008.pdf::5++5.42;;annot-5-0]]
-:ID:       ../../docsThese/bibliography/BesselmannEtAl2008.pdf-annot-5-0
+:ID:       ~/docsThese/bibliography/BesselmannEtAl2008.pdf-annot-5-0
 :END:
 
 
 *** [[id:d76f22d3-4246-4b50-b37f-233ee76c25d6][Linear Parameter-Varying (LPV) systems]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BesselmannEtAl2008.pdf::1++5.73;;annot-1-1]]
-:ID:       ../../docsThese/bibliography/BesselmannEtAl2008.pdf-annot-1-1
+:ID:       ~/docsThese/bibliography/BesselmannEtAl2008.pdf-annot-1-1
 :END:

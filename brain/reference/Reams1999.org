@@ -14,7 +14,7 @@
   :Custom_ID: Reams1999
   :URL: https://www.sciencedirect.com/science/article/pii/S0024379598101623
   :AUTHOR: Reams, R.
-  :NOTER_DOCUMENT: ../../docsThese/bibliography/Reams1999.pdf
+  :NOTER_DOCUMENT: ~/docsThese/bibliography/Reams1999.pdf
   :NOTER_PAGE:
   :END:
 
@@ -33,17 +33,17 @@ Hadamard operations.
 *** [[file:20200429185809-linear_algebra.org::*Hadamard inverse][Hadamard inverse]] of A, given by $A^{\circ(-1)}= ({1\over a_{ij}})$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Reams1999.pdf::1++0.00;;annot-1-0]]
-:ID:       ../../docsThese/bibliography/Reams1999.pdf-annot-1-0
+:ID:       ~/docsThese/bibliography/Reams1999.pdf-annot-1-0
 :END:
 
 *** expression
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Reams1999.pdf::2++2.26;;annot-2-0]]
-:ID:       ../../docsThese/bibliography/Reams1999.pdf-annot-2-0
+:ID:       ~/docsThese/bibliography/Reams1999.pdf-annot-2-0
 :END:
 
 *** [[file:20200429185809-linear_algebra.org::*Hadamard exponential][Hadamard exponential]]
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/Reams1999.pdf::3++0.00;;annot-3-0]]
-:ID:       ../../docsThese/bibliography/Reams1999.pdf-annot-3-0
+:ID:       ~/docsThese/bibliography/Reams1999.pdf-annot-3-0
 :END:

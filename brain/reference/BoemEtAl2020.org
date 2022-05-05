@@ -83,22 +83,22 @@ ods, vol. 36, no. 3, pp. 292–305, 2015.
 *** passive detection and active isolation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::2++0.35;;annot-2-4]]
-:ID:       ../../docsThese/bibliography/BoemEtAl2020.pdf-annot-2-4
+:ID:       ~/docsThese/bibliography/BoemEtAl2020.pdf-annot-2-4
 :END:
 *** control that guarantees fault isolation
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::2++0.35;;annot-2-5]]
-:ID:       ../../docsThese/bibliography/BoemEtAl2020.pdf-annot-2-5
+:ID:       ~/docsThese/bibliography/BoemEtAl2020.pdf-annot-2-5
 :END:
 *** local diagnoser for each subsystem
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::3++0.16;;annot-3-0]]
-:ID:       ../../docsThese/bibliography/BoemEtAl2020.pdf-annot-3-0
+:ID:       ~/docsThese/bibliography/BoemEtAl2020.pdf-annot-3-0
 :END:
 *** based on centralized
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/BoemEtAl2020.pdf::3++0.34;;annot-3-1]]
-:ID:       ../../docsThese/bibliography/BoemEtAl2020.pdf-annot-3-1
+:ID:       ~/docsThese/bibliography/BoemEtAl2020.pdf-annot-3-1
 :END:
 S. Olaru, J. A. De Doná, M. M. Seron, and F. Stoican, “Positive invariant
 sets for fault tolerant multisensor control schemes,” Int. J. Control, vol. 83,
