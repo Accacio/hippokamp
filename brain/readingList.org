@@ -18,15 +18,40 @@
 
 
 * Articles
-** LIRE [5/93]
+** LIRE [8/102]
+*** READING [#A] VoulgarisElia2022 | [[note:VoulgarisElia2022][org]] [[pdf:VoulgarisElia2022][pdf]]
+- State "READING"    from "TO-READ"    [2022-04-27 mer. 15:17]
+*** TO-READ [#A] KamidiEtAl2022 | [[note:KamidiEtAl2022][org]] [[pdf:KamidiEtAl2022][pdf]]
+*** READ [#A] HeEtAl2022 | [[note:HeEtAl2022][org]] [[pdf:HeEtAl2022][pdf]]
+- State "READ"       from "READING"    [2022-04-13 mer. 10:00]
+- State "READING"    from "TO-READ"    [2022-04-11 lun. 10:05]
+
+*** TO-READ [#A] DaiEtAl2022 | [[note:DaiEtAl2022][org]] [[pdf:DaiEtAl2022][pdf]]
+
+*** TO-READ [#A] ZhangEtAl2021 | [[note:ZhangEtAl2021][org]] [[pdf:ZhangEtAl2021][pdf]]
+*** TO-READ [#A] XieEtAl2016 | [[note:XieEtAl2016][org]] [[pdf:XieEtAl2016][pdf]]
+*** TO-READ [#A] SouzaEtAl2015 | [[note:SouzaEtAl2015][org]] [[pdf:SouzaEtAl2015][pdf]]
+
+*** READ [#A] MorosanEtAl2011 | [[note:MorosanEtAl2011][org]] [[pdf:MorosanEtAl2011][pdf]]
+
+- State "READ"       from "TO-READ"    [2022-03-30 mer. 13:31]
+*** READ BaudryCeleux2015 | [[note:BaudryCeleux2015][org]] [[pdf:BaudryCeleux2015][pdf]]
+
+- State "READ"       from "READING"    [2022-03-16 mer. 11:15]
+- State "READING"    from "TO-READ"    [2022-03-15 mar. 15:48]
 *** READ [#A] GepperthPfuelb2021 | [[note:GepperthPfuelb2021][org]] [[pdf:GepperthPfuelb2021][pdf]]
 
 - State "READ"       from "READING"    [2022-03-15 mar. 11:30]
 - State "READING"    from "TO-READ"    [2022-03-15 mar. 10:11]
 *** TO-READ MaestreEtAl2011 | [[note:MaestreEtAl2011][org]] [[pdf:MaestreEtAl2011][pdf]]
 *** TO-READ MaestreEtAl2011a | [[note:MaestreEtAl2011][org]] [[pdf:MaestreEtAl2011][pdf]]
-*** TO-READ [#A] LiuEtAl2022 | [[note:LiuEtAl2022][org]] [[pdf:LiuEtAl2022][pdf]]
+*** DIAGONAL [#A] LiuEtAl2022 | [[note:LiuEtAl2022][org]] [[pdf:LiuEtAl2022][pdf]]
+:PROPERTIES:
+:ID:       04a7041a-9aa1-44ae-8b87-1c358ae702ed
+:END:
 
+- State "DIAGONAL"   from "TO-READ"    [2022-03-30 mer. 15:24] \\
+  Ler geração de cenários e admm
 *** READ [#A] ChristofidesEtAl2013 | [[note:ChristofidesEtAl2013][org]] [[pdf:ChristofidesEtAl2013][pdf]]
 - State "READ"       from "TO-READ"    [2022-02-18 ven. 17:14]
 *** READ [#A] NotarnicolaNotarstefano2020 | [[note:NotarnicolaNotarstefano2020][org]] [[pdf:NotarnicolaNotarstefano2020][pdf]]
