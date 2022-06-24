@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       e0e6edce-ecde-4bb2-a46d-562f68249fbe
+:END:
+#+title: An experimental study of two predictive reinforcement learning methods and comparison with model predictive control
+#+date: 24/06/2022
+
+- tags :: [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]],[[id:75b10b0a-c37e-49b4-a583-b5c8a63e01bc][Reinforcement Learning]]
+
+- intervenant :: Dmitrii Dobriborsci
+- Technische hochschule deggendorf
+
+- Predictive RL in robotics
+-
+
+* RL
+- agents <-> environment interaction
+- Markov decision process
+- Bellman equation
+
+** definitions
+- agent :: controller
+- environment :: dynamical systems
+** Optimal roll-out Q-learning
+:PROPERTIES:
+:ID:       8872a44f-4bdf-4d6f-ac78-bb09148a4d08
+:END:
+** Stacked Q-learning
+:PROPERTIES:
+:ID:       0759f2ad-be56-4b2e-9853-6f37ff5baee5
+:END:
+** rcognita github
+
+- :question: pag 15 horizon lengths are not discrete?
