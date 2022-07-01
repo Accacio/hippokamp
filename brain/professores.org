@@ -120,8 +120,8 @@ Tentativa de listar todos professores que já tive
 - Algoritmos de Programação ?? :: [[https://cesperanca.org][Cláudio Esperança]]
 - Cálculo 1 :: [[https://folk.uib.no/dpi081/][Didier Jacques François Pilod]]
 - Fisexp 1 :: [[http://darnassus.if.ufrj.br/~vanhecke/][Franciscus Jozef VANHECKE]]
-- Física 1 :: Victor de Barros Brasil (Nome que consta no histórico diferente )
-- Introdução a Engenharia de Controle e Automação :: [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]]
+- Física 1 :: Victor de Barros Brasil (Nome que consta no histórico diferente, acho que era Leonardo, ou Leandro )
+- Introdução a Engenharia de Controle e Automação :: [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]] (Poster com Jacoud)
 - Química ?? :: [[https://www.iq.ufrj.br/docentes_ver_antiga/lucidalva-dos-santos-pinheiro/][Lucidalva dos Santos Pinheiro]]
 ** 2°
 - Circuitos Lógicos :: Jose Arthur da Rocha
