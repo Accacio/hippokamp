@@ -38,7 +38,7 @@ detailed comments are given as follows.
 4. [X] In the simulation part, it is odd that the description of the attack behavior is hardly mentioned. Therefore, the reviewer cannot draw the conclusion from the simulation results that the proposed method is effective in mitigating the effect of the attacks as (10) shows.
 5. There are also some typo errors that should be further checked.
 
-** TODO [6/6] Reviewer 3 ID 93 (from PDF)
+** TODO [7/7] Reviewer 3 ID 93 (from PDF)
 This  paper  studies  the  defense  mechanism  against  a  form  of  false  data  injection  attack  for the distributed model prediction control (dMPC). A central coordinator responsible for allocating control resources to plants has to detect the “faked” demand from the distributed controllers and mitigate this negative effect.  Although the studied problem is interesting,  the readability of the paper needs to be improved, and the technical approaches and some of the assumptions need to be justified.  The main concerns are as follows.
 
 1. several letters in the title may need to be capitalized.
