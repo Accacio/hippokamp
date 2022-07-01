@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e6362c99-711b-463e-bf79-11d0cdf83c69
+:ROAM_ALIASES: ETMPC
+:END:
+#+title: Event-triggered MPC
+- tags :: [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]

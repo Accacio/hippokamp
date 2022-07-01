@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f31f9026-b77c-4d26-9b31-ed82eaf46e60
+:ROAM_ALIASES: STMPC
+:END:
+#+title: Self Triggered MPC
+- tags :: [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]

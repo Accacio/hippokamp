@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7b05336f-0ed6-4f7a-b7e4-3722a15d58d1
+:ROAM_REFS: http://frostyx.cz/posts/synchronize-your-2fa-gmail-with-mbsync
+:END:
+#+title: Synchronize your 2FA Gmail with mbsync | FrostyX.cz
+- tags :: [[id:b401932b-c548-4220-96e5-723542a4d30b][Linux]]
+
+http://frostyx.cz/posts/synchronize-your-2fa-gmail-with-mbsync
+
+configuring gmail with mbsync
