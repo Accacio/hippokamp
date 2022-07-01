@@ -133,7 +133,7 @@ Tentativa de listar todos professores que já tive
 - Cálculo 3 :: [[http://www.im.ufrj.br/index.php/pt/?option=com_content&view=article&id=83&Itemid=195][Anatoli Leontiev]]
 - Física 3 :: [[https://www.if.ufrj.br/docentes/raimundo-rocha-dos-santos/][Raimundo Rocha dos Santos]]
 - FisExp III :: ???
-- Lógica Matemática :: ??
+- Lógica Matemática :: [[https://www.researchgate.net/profile/Ricardo-Mesquita][Ricardo Mesquita]]
 - Mecânica :: Natasha de Paula Amador da Costa
 - Métodos Matemáticos Para Engenharia Eletrônica :: [[http://www.coep.ufrj.br/~jacoud/][Alessandro Peixoto Jacoud]]
 ** 4°
@@ -181,6 +181,8 @@ Tentativa de listar todos professores que já tive
 * CentraleSupélec
 ** 2A
 - Automatique :: Didier Dumur
+- Méthodes Numériques et Optimisation :: [[https://l2s.centralesupelec.fr/u/olaru-sorin/][Sorin Olaru]]
+- RASS :: [[https://l2s.centralesupelec.fr/u/fiorina-jocelyn/][Jocelyn Fiorina]]
 ** ISA - Ingénierie des Systemes Automatisées
 - Hervé Guéguen
 - Romain Bourdais
@@ -191,6 +193,8 @@ Tentativa de listar todos professores que já tive
 - Pierre-Yves Richard
 - Stanislav Aranovskiy
 - [[https://people.rennes.inria.fr/Gerardo.Rubino/][Gerardo Rubino]]
+- [[https://l2s.centralesupelec.fr/u/maniu-cristina/][Guillaume Sandou]]
+- [[https://l2s.centralesupelec.fr/u/maniu-cristina/][Cristina Stoica Maniu]]
 * Rennes 1
 ** SISEA
 - Optimization
