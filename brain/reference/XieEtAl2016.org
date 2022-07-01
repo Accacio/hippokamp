@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       626c290f-c551-4b3d-b5b8-86983b26bcc0
+:ROAM_REFS: cite:XieEtAl2016
+:END:
+#+title: XieEtAl2016
+- tags ::
+- keywords :: [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][Distributed model predictive control]], Genetic algorithm, Input clustering decomposition, Input-output pairing decomposition, System decomposition
+* Ga based decomposition of large scale distributed model predictive control systems
+:PROPERTIES:
+:Custom_ID: XieEtAl2016
+:URL: https://doi.org/https://doi.org/10.1016/j.conengprac.2016.08.016
+:AUTHOR: Xie, L., Cai, X., Chen, J., & Su, H.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/XieEtAl2016.pdf
+:END:
+** CATALOG
+*** Motivation
+Use a Genetic Algorithm associate with state observers to decompose [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][MPC]]
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES

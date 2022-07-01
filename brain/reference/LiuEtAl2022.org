@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       8d2ba765-f5d1-4f0d-af52-ed54352caa9d
+:ROAM_REFS: cite:LiuEtAl2022
+:END:
+#+title: LiuEtAl2022
+- tags ::
+- keywords :: Scenario-based DMPC, Reduced scenario tree, Global and local uncertainties, Freeway networks
+* A scenario-based distributed model predictive control approach for freeway networks
+:PROPERTIES:
+:Custom_ID: LiuEtAl2022
+:URL: https://www.sciencedirect.com/science/article/pii/S0968090X21002734
+:AUTHOR: Liu, S., Sadowska, A., & Bart De Schutter
+:NOTER_DOCUMENT: ~/docsThese/bibliography/LiuEtAl2022.pdf
+:END:
+** CATALOG
+*** Motivation :springGreen:
+ [[id:6f210e88-50da-4dc2-9f28-c723667a7bc9][ADMM]] [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][DMPC]] based on reduced scenario trees with nonlinear models
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+** NOTES
+*** We propose to use a reduced scenario tree instead of using a complete scenario tree.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2022.pdf::1++0.00;;annot-1-17]]
+:ID:       ~/docsThese/bibliography/LiuEtAl2022.pdf-annot-1-17
+:END:
+*** Model Predictive Control (MPC) for traffic networks has also been receiving more and more attention in the literature (Hegyi et al., 2005; Papamichail et al., 2010; Ferrara et al., 2015; Luo et al., 2016; Kim et al., 2017; Piacentini et al., 2018; Menelaou et al., 2019; Sirmatel and Geroliminis, 2018; Maestre et al., 2020).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2022.pdf::2++0.00;;annot-2-29]]
+:ID:       ~/docsThese/bibliography/LiuEtAl2022.pdf-annot-2-29
+:END:
+Examples of mpc for traffic networks
+*** local controllers communicate with other controllers to obtain solutions in a cooperative way
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2022.pdf::2++0.00;;annot-2-30]]
+:ID:       ~/docsThese/bibliography/LiuEtAl2022.pdf-annot-2-30
+:END:
+*** in this paper we consider nonlinear traffic flow models for prediction
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2022.pdf::3++0.69;;annot-3-9]]
+:ID:       ~/docsThese/bibliography/LiuEtAl2022.pdf-annot-3-9
+:END:
+*** Note that the newly proposed scenario-based DMPC approach is independent of the considered DMPC algorithm, and it can be easily combined with other DMPC algorithms based on the dual decomposition method, such as the serial DMPC algorithm proposed in (Negenborn et al., 2008), the inexact dual fast gradient method in (Maestre and Negenborn, 2014), accelerated gradient methods (Giselsson et al., 2013), etc.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2022.pdf::4++0.00;;annot-4-26]]
+:ID:       ~/docsThese/bibliography/LiuEtAl2022.pdf-annot-4-26
+:END:
+    Examples of DMPC Algorithms
+*** The TTS is defined according to the total time that all vehicles spend in the considered traffic network (Hegyi et al., 2005).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2022.pdf::4++6.43;;annot-4-27]]
+:ID:       ~/docsThese/bibliography/LiuEtAl2022.pdf-annot-4-27
+:END:
+Total Time Spent (TTS)
+*** Note that in this paper, we directly present the formulation of a large network consisting of multiple subnetworks. Readers can refer to (Christofides et al., 2013; de Souza et al., 2014; Xie et al., 2016) for more details on decompositions of large-scale networks based on DMPC.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/LiuEtAl2022.pdf::5++0.00;;annot-5-6]]
+:ID:       ~/docsThese/bibliography/LiuEtAl2022.pdf-annot-5-6
+:END:
+ cite:ChristofidesEtAl2013,SouzaEtAl2015,XieEtAL2016

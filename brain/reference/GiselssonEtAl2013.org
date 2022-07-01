@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       a1d759cb-c667-4aee-9380-65d33a212811
+:ROAM_REFS: cite:GiselssonEtAl2013
+:END:
+#+title: GiselssonEtAl2013
+- tags ::
+- keywords :: Distributed control, Gradient methods, Predictive control, [[id:adbf20b1-1a2d-4c90-9a66-2f236db55322][Model Predictive Control]], [[id:11824f31-8d18-4698-9586-d2a3c1c1b0a3][Dual Decomposition]]
+* Accelerated gradient methods and dual decomposition in distributed model predictive control
+:PROPERTIES:
+:Custom_ID: GiselssonEtAl2013
+:URL:
+:AUTHOR: Giselsson, P., Doan, M. D., Tam\'as Keviczky, Schutter, B. D., & Rantzer, A.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/GiselssonEtAl2013.pdf
+:END:
+** CATALOG
+*** Motivation
+Accelerated dual decomposition for distributed method
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+Great history summary
+** NOTES

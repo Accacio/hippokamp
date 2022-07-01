@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       82e0ee95-2b44-4da2-9db7-f447fc5e9750
+:ROAM_REFS: cite:McNamaraEtAl2018
+:END:
+#+title: McNamaraEtAl2018
+- tags ::
+- keywords :: Distributed Model Predictive Control, Social Systems
+* Life lessons from and for distributed mpc – part 1: dynamics of cooperation
+:PROPERTIES:
+:Custom_ID: McNamaraEtAl2018
+:URL: https://www.sciencedirect.com/science/article/pii/S240589631832929X
+:AUTHOR: McNamara, P., Negenborn, R., Cañizares, J., Farina, M., Maestre, J., Trodden, P., & Olaru, S.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/McNamaraEtAl2018.pdf
+:END:
+** CATALOG
+*** Motivation :springGreen:
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+** NOTES
+*** Only a Pareto equilibrium seeking distributed algorithm is capable of stabilising the system at this stage, which implies all agents have access to the same level of information as a centralised coordinator, that is, all inputs, states, matrices and cost functions are available to the all agents in the system.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/McNamaraEtAl2018.pdf::4++4.01;;annot-4-0]]
+:ID:       ~/docsThese/bibliography/McNamaraEtAl2018.pdf-annot-4-0
+:END:

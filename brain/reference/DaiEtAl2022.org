@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       66b80b68-cde4-4c06-a361-50bda23e78a7
+:ROAM_REFS: cite:DaiEtAl2022
+:END:
+#+title: DaiEtAl2022
+- tags ::
+- keywords :: Distributed constraint optimization, Multi-agent consensus, Fixed-time stability, Resource allocation
+* Consensus-based distributed fixed-time optimization for a class of resource allocation problems
+:PROPERTIES:
+:Custom_ID: DaiEtAl2022
+:URL: https://www.sciencedirect.com/science/article/pii/S0016003222001983
+:AUTHOR: Dai, H., Fang, X., & Jia, J.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/DaiEtAl2022.pdf
+:END:
+** CATALOG
+*** Motivation :springGreen:
+A resource allocation based distributed optimization based on consensus, distributed topology and strongly connected graph
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+** NOTES

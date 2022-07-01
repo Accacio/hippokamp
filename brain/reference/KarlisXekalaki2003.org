@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       dbe4c8ff-09b2-462e-a5ba-7e33096f0197
+:ROAM_REFS: cite:KarlisXekalaki2003
+:END:
+#+title: KarlisXekalaki2003
+- tags :: [[id:1d06659d-d255-4ce2-a590-2652c630a32d][Expectation Maximization]]
+- keywords :: Moment estimates, Bootstrap root search, Finite mixtures, Aitken acceleration
+
+* Choosing initial values for the em algorithm for finite mixtures
+:PROPERTIES:
+:Custom_ID: KarlisXekalaki2003
+:URL: https://doi.org/https://doi.org/10.1016/S0167-9473(02)00177-9
+:AUTHOR: Karlis, D., & Xekalaki, E.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/KarlisXekalaki2003.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+Comparison of choices of initialization for the [[id:1d06659d-d255-4ce2-a590-2652c630a32d][Expectation Maximization]] algorithm
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** EM algorithm are its slow convergence and the dependence of the solution on both the stopping criterion and the initial values used.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KarlisXekalaki2003.pdf::1++0.00;;annot-1-0]]
+:ID:       ~/docsThese/bibliography/KarlisXekalaki2003.pdf-annot-1-0
+:END:
+
+*** The criteria used as stopping rules for the algorithm can be based on the relative change of the parameters and=or of the log- likelihood, indicating lack of progress rather than actual convergence,
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KarlisXekalaki2003.pdf::2++0.57;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/KarlisXekalaki2003.pdf-annot-2-0
+:END:
+
+*** there would be possibly a substantial improvement in the likelihood
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KarlisXekalaki2003.pdf::2++0.57;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/KarlisXekalaki2003.pdf-annot-2-1
+:END:
+
+*** When the algorithm has been trapped in a Eat area, a rather naive strategy would be to keep iterating, hoping that the algorithm will locate the global maximum after a large number of iterations.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KarlisXekalaki2003.pdf::2++0.57;;annot-2-2]]
+:ID:       ~/docsThese/bibliography/KarlisXekalaki2003.pdf-annot-2-2
+:END:
+
+*** Laird (1978) proposed a grid search for setting the initial values.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KarlisXekalaki2003.pdf::3++0.57;;annot-3-0]]
+:ID:       ~/docsThese/bibliography/KarlisXekalaki2003.pdf-annot-3-0
+:END:
+
+*** To avoid the problem of un- bounded likelihoods, all the components are assumed to have a common variance.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KarlisXekalaki2003.pdf::3++2.58;;annot-3-1]]
+:ID:       ~/docsThese/bibliography/KarlisXekalaki2003.pdf-annot-3-1
+:END:
+
+*** From Tables 1 and 2, one can see that if the algorithm starts from random points, the performance is poorer.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KarlisXekalaki2003.pdf::5++2.58;;annot-5-0]]
+:ID:       ~/docsThese/bibliography/KarlisXekalaki2003.pdf-annot-5-0
+:END:
+
+*** For the case of well-separated components, the majority of methods considered performed well.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KarlisXekalaki2003.pdf::5++2.58;;annot-5-1]]
+:ID:       ~/docsThese/bibliography/KarlisXekalaki2003.pdf-annot-5-1
+:END:
+
+*** This implies that it would be advisable to use a mixed strategy, by starting from several different initial values, making a small number of iterations without necessarily examining convergence and then, running until convergence from the point with the largest likelihood after these initial iterations, using a strict criterion.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KarlisXekalaki2003.pdf::12++2.01;;annot-12-0]]
+:ID:       ~/docsThese/bibliography/KarlisXekalaki2003.pdf-annot-12-0
+:END:

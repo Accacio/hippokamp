@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       aae6075e-0db0-49e3-b7da-a020b4a85ab5
+:ROAM_REFS: cite:BanguraMahony2014
+:END:
+#+title: BanguraMahony2014
+- tags ::
+- keywords :: Aerial Robotics, Nonlinear Control, Model Predictive Control
+* Real-time model predictive control for quadrotors
+:PROPERTIES:
+:Custom_ID: BanguraMahony2014
+:URL: https://doi.org/https://doi.org/10.3182/20140824-6-ZA-1003.00203
+:AUTHOR: Bangura, M., & Mahony, R.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/BanguraMahony2014.pdf
+:END:
+** CATALOG
+*** Motivation
+Quad-rotor embedded MPC in realtime
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** In this paper, we consider the question of implementing Model predictive control (MPC) trajectory tracking control scheme in real-time on an embedded computer for a quadrotor vehicle.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BanguraMahony2014.pdf::1++3.07;;annot-1-0]]
+:ID:       ~/docsThese/bibliography/BanguraMahony2014.pdf-annot-1-0
+:END:

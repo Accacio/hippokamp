@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       069313c3-fdae-4f33-8c56-b8e7ff651d9e
+:ROAM_REFS: cite:HosseiniSra2015
+:END:
+#+title: HosseiniSra2015
+- tags :: [[id:076e2d11-bdf7-40fc-a62c-615614d37c7e][Manifolds]]
+- keywords ::
+
+* Matrix manifold optimization for gaussian mixtures
+:PROPERTIES:
+:Custom_ID: HosseiniSra2015
+:URL: https://proceedings.neurips.cc/paper/2015/file/dbe272bab69f8e13f14b405e038deb64-Paper.pdf
+:AUTHOR: Hosseini, R., & Sra, S.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/HosseiniSra2015.pdf
+:END:
+
+** CATALOG
+
+*** Motivation :springGreen:
+:PROPERTIES:
+:ID:       49823af8-780e-4a5d-bb20-93f1cada37cb
+:END:
+Use Riemannian manifold optimization as replacement for [[id:1d06659d-d255-4ce2-a590-2652c630a32d][Expectation Maximization]] to estimate [[id:0f476a7a-61a0-4adb-9c7b-5d309c426a51][Gaussian Mixture Model]]s
+*** Model :lightSkyblue:
+*** Remarks
+*** Applications
+*** Expressions
+*** References :violet:
+
+** NOTES
+
+*** we advance Riemannian manifold optimization (on the manifold of positive definite matrices) as a potential replacement for Expectation Maximiza- tion (EM), which has been the de facto standard for decades.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HosseiniSra2015.pdf::1++0.00;;annot-1-18]]
+:ID:       ~/docsThese/bibliography/HosseiniSra2015.pdf-annot-1-18
+:END:
+
+*** [[id:e38f8940-e43a-49b9-a02f-fd134cd222dc][LBFGS]]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HosseiniSra2015.pdf::1++4.37;;annot-1-19]]
+:ID:       ~/docsThese/bibliography/HosseiniSra2015.pdf-annot-1-19
+:END:
+
+*** The key difficulty of applying standard nonlinear programming methods to GMMs is the positive definiteness (PD) constraint on covariances.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HosseiniSra2015.pdf::1++4.37;;annot-1-20]]
+:ID:       ~/docsThese/bibliography/HosseiniSra2015.pdf-annot-1-20
+:END:
+
+*** Since the key difficulty arises from the PD constraint, an appealing idea is to note that PD matrices form a Riemannian manifold [3, Ch.6] and to invoke Riemannian manifold optimization [1, 6].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HosseiniSra2015.pdf::1++6.98;;annot-1-21]]
+:ID:       ~/docsThese/bibliography/HosseiniSra2015.pdf-annot-1-21
+:END:

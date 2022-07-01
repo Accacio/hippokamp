@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       aef3791d-0551-4b1b-b395-89fc01c68fd9
+:ROAM_REFS: cite:CaiEtAl2019
+:END:
+#+title: CaiEtAl2019
+- tags ::
+- keywords :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]]
+* Review of cyber-attacks and defense research on cyber physical power system
+:PROPERTIES:
+:Custom_ID: CaiEtAl2019
+:URL: https://doi.org/10.1109/iSPEC48194.2019.8975131
+:AUTHOR: Cai, X., Wang, Q., Tang, Y., & Zhu, L.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/CaiEtAl2019.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** three categories: integrity attacks, usability attacks, and confidentiality attack
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CaiEtAl2019.pdf::2++0.00;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/CaiEtAl2019.pdf-annot-2-0
+:END:
+Categories of attacks

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       ccaa0799-43c5-42ae-a641-0c5237e124dc
+:ROAM_REFS: cite:DoyleEtAl1992
+:END:
+#+title: DoyleEtAl1992
+- tags ::
+- keywords ::
+* Feedback Control Theory
+:PROPERTIES:
+:Custom_ID: DoyleEtAl1992
+:URL:
+:AUTHOR: Doyle, J. C., Francis, B. A., & Tannenbaum, A.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/DoyleEtAl1992.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** unknown plant perturbation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DoyleEtAl1992.pdf::9++0.00;;annot-9-0]]
+:ID:       ~/docsThese/bibliography/DoyleEtAl1992.pdf-annot-9-0
+:END:

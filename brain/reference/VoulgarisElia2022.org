@@ -1,0 +1,120 @@
+:PROPERTIES:
+:ID:       03ba9a3c-1709-4080-8cad-5375fa85805c
+:ROAM_REFS: cite:VoulgarisElia2022
+:END:
+#+title: VoulgarisElia2022
+- tags ::
+- keywords ::
+* When selfish is socially optimal
+:PROPERTIES:
+:Custom_ID: VoulgarisElia2022
+:URL:
+:AUTHOR: Voulgaris, P. G., & Elia, N.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/VoulgarisElia2022.pdf
+:END:
+** CATALOG
+*** Motivation
+Uses matrix transfer functions model in an optimal control framework and shows that for some norm minimizations a decomposed optimization can be done without communication between agents.
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+- To understand the relevance of θ in the optimal controller, we start considering simple cases in the next section.
+*** References
+** NOTES
+*** each agent to exchange information with all the others agents.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::1++0.00;;annot-1-5]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-1-5
+:END:
+*** It is the social objective that induces or requires a network structure to exchange informa- tion and make optimal decisions
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::1++0.00;;annot-1-6]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-1-6
+:END:
+*** In these MFG or MF settings, the results show that unless the average mass behavior is globally aggregated and available to each agent to be measured, the optimal controller is “centralized” and requires all the agents to be connected to each other in order to compute the mass average and use it in their control actions.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::1++2.29;;annot-1-7]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-1-7
+:END:
+*** In particular, using our approach, we are able to show that every agent can totally discard its deviation from the average and solve its own selfish local minimization (hence decentralized),
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::1++3.17;;annot-1-8]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-1-8
+:END:
+*** This is one of the main contributions of the article as, to the best of our knowledge, such a result cannot be found explicitly or implicitly in the state-space based MF literature.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::2++1.45;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-2-0
+:END:
+*** In the current article, the absence of the MF component is central and enables us to focus on classes of problems where selfish behavior by the agents is socially optimal.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::2++1.45;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-2-1
+:END:
+*** By a decentralized and selfish solution, we mean that each agent can totally disregard its deviation from average, i.e., the social coupling, and perform an optimization of its own local regulated variables based on its own local measurements.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::2++1.45;;annot-2-2]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-2-2
+:END:
+here selfish is disregard or others, not necessarily dishonest
+*** Youla–Kucera parametrization
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::3++4.30;;annot-3-0]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-3-0
+:END:
+*** he system Q is also stable but can be a full matrix of stable systems [Q ij ] 1≤i,j≤n corresponding to the centralized structure of the controller K
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::3++0.57;;annot-3-1]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-3-1
+:END:
+*** we are interested in deriving an optimal controller K which minimizes a cost function that couples some of the variables ζ i ’s
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::3++0.57;;annot-3-2]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-3-2
+:END:
+systems are coupled by the cost function
+*** We are interested in optimizing system’s perfor- mance with respect to a variable that measures deviations from population average.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::3++3.73;;annot-3-3]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-3-3
+:END:
+*** social cost captured in ||Ψ c ||
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::4++0.00;;annot-4-0]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-4-0
+:END:
+*** budget cost captured in ||Ψ u ||
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::4++0.00;;annot-4-1]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-4-1
+:END:
+*** The level of coordination among the agent actions will be reflected in the structure of Q.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::4++0.57;;annot-4-2]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-4-2
+:END:
+*** that the agents are still cooperative even though they do not explicitly coordinate their actions since they minimize the social cost.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::4++0.57;;annot-4-3]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-4-3
+:END:
+social is a general cost
+*** We divide them into three classes as follows
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::4++3.22;;annot-4-4]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-4-4
+:END:
+- socially optimal :: $\phi_i=\|\Phi_i\|$
+- socially influenced :: $\phi_i\neq\|\Phi_i\|$ and does not depend on $n$
+- socially aware :: $\phi_i$ depends on number of agents
+*** The block-diagonal part of Q (which depends on q) represents the decentralized part of the controller, while the second term, function of θ, represents the part of the controller that couples all nodes.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::5++0.00;;annot-5-0]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-5-0
+:END:
+*** To understand the relevance of θ in the optimal controller, we start considering simple cases in the next section.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VoulgarisElia2022.pdf::5++1.72;;annot-5-1]]
+:ID:       ~/docsThese/bibliography/VoulgarisElia2022.pdf-annot-5-1
+:END:
