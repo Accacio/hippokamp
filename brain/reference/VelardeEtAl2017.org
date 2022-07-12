@@ -48,3 +48,9 @@ Reviews
 :ID:       /home/nogueirar/docsThese/bibliography/VelardeEtAl2017.pdf-annot-8-6
 :END:
 cite:DibajiIshii2015
+*** a reliable information exchange mode, in which each agent communicates with all other agents, as shown Figure 2
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/VelardeEtAl2017.pdf::9++0.00;;annot-9-8]]
+:ID:       /home/nogueirar/docsThese/bibliography/VelardeEtAl2017.pdf-annot-9-8
+:END:
+Complete graph
