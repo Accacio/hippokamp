@@ -66,6 +66,14 @@ Parallel dMPC
 :ID:       ~/docsThese/bibliography/ChristofidesEtAl2013.pdf-annot-9-38
 :END:
 
+*** Examples of Sequential dmpc
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ChristofidesEtAl2013.pdf::10++2.73;;annot-10-64]]
+:ID:       ~/docsThese/bibliography/ChristofidesEtAl2013.pdf-annot-10-64
+:END:
+In Liu, Chen, et al. (2010), Liu, Muñoz de la Peña, and Christoﬁdes (2009),
+
+
 *** DMPC framework was constructed for control and coordi- nation of autonomous vehicle teams (Keviczky, Borrelli, & Fregene, 2008).
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ChristofidesEtAl2013.pdf::8++1.63;;annot-8-83]]

@@ -3,7 +3,7 @@
 :ROAM_REFS: cite:ArauzEtAl2021
 :END:
 #+title: ArauzEtAl2021
-- tags ::
+- tags :: [[id:4cabbb59-a17c-4583-9826-6e6eb436488e][Secure dMPC]]
 - keywords ::
 
 * Cyber-security in networked and distributed model predictive control
@@ -69,7 +69,7 @@ Raise awareness of vulnerabilities in [[id:92ed23b5-1480-4241-b074-a5b4a1d42069]
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++0.00;;annot-2-79]]
 :ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-2-79
 :END:
-
+same as in cite:Bishop2005
 *** the above-mentioned re- quirements are likely to fail at some point in the long-term.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::2++0.00;;annot-2-80]]
@@ -183,6 +183,40 @@ cite:McNamaraEtAl2016
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::4++3.75;;annot-4-59]]
 :ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-4-59
 :END:
+
+*** inter-agent attacks are less common and may appear presented as insider attacks (Feng & Ishii, 2020; Kikuchi, Cetinkaya, Hayakawa, & Ishii, 2017).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::5++1.25;;annot-5-76]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-5-76
+:END:
+
+
+*** Many DMPC methods have been developed, but insufficient atten- tion has been paid to their vulnerabilities, e.g., against malicious agents and external attacks.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::5++2.50;;annot-5-75]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-5-75
+:END:
+
+*** Finally, notice that these deception and disruption attacks, which compromise the interactions between the controller and the system, may equally affect DMPC schemes (Chen, Zhang et al., 2020; Yang et al., 2019).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::7++5.37;;annot-7-55]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-7-55
+:END:
+2 more examples for dmpc
+cite:YangEtAl2019
+
+*** In this context, attackers can have rational incentives to send false information to the rest of agents affecting the overall coordination.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::8++0.00;;annot-8-42]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-8-42
+:END:
+
+*** Remarkably, Chanfreut et al. (2018) extend these attacks within the cooperative distributed MPC algorithm of Venkat et al. (2008).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::8++5.62;;annot-8-43]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-8-43
+:END:
+cite:ChanfreutEtAl2018
 
 *** Riverso et al. (2016) propose a DMPC strategy in a PnP framework for faulty subsystems identification and unplugging to avoid the propagation of the fault.
 :PROPERTIES:

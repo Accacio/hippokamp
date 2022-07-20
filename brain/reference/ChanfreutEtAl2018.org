@@ -37,7 +37,7 @@ Show vulnerabilites in a dMPC structure using Jacobi-Gauss decomposition
 :END:
 reference Jacobi-Gauss
 
-*** [8] A. N. Venkat, J. B. Rawlings, and S. J. Wright, “Stability and optimality of distributed model predictive control,” in Proc. 44th IEEE Conference on Decision and Control and 2005 European Control Conference, 2005, pp. 6680–6685.
+*** [8] A. N. Venkat, J. B. Rawlings, and S. J. Wright, "Stability and optimality of distributed model predictive control” in Proc. 44th IEEE Conference on Decision and Control and 2005 European Control Conference, 2005, pp. 6680–6685.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ChanfreutEtAl2018.pdf::6++7.16;;annot-6-0]]
 :ID:       ~/docsThese/bibliography/ChanfreutEtAl2018.pdf-annot-6-0

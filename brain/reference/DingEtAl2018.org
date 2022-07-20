@@ -51,4 +51,9 @@ Survey on Security control and attack detection
 2. Weighted Least Squares approaches
 3. $\chi^2$ -detector $x$
 4. Quasi-FDI
-
+*** Similarly, detectabil- ity of attacks is explored in [9] and two adaptive sliding mode observers are designed to estimate state attacks and sensor at- tacks with ultimately uniformly bounded errors.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DingEtAl2018.pdf::6++3.12;;annot-6-33]]
+:ID:       ~/docsThese/bibliography/DingEtAl2018.pdf-annot-6-33
+:END:
+    Example of fault detection to detect attacks

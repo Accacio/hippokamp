@@ -3,6 +3,7 @@
 :END:
 #+TITLE: Cyber-Security
 
-* References
+cite:Bishop2005 defines the three goals: Confidentiality, Integrity and availability
+
 cite:CaiEtAl2019 has a classification of attacks. It divides them into
-integrity attacks, usability attacks, and confidentiality attack
+integrity attacks, usability attacks, and confidentiality attack. They are the same used in cite:Bishop2005

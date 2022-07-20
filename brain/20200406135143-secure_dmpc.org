@@ -5,6 +5,8 @@
 #+TITLE: Secure dMPC
 - tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][cyber-security]], [[id:92ed23b5-1480-4241-b074-a5b4a1d42069][dMPC]]
 
+
+ - cite:ChanfreutEtAl2018 using Gauss-Jacob
 * Our approach
 1. Get subsystems
 2. Calculate Mmat and Cmat for each subsystem
