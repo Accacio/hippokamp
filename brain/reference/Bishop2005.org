@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       d62abf45-e8ba-42a1-8310-194716a60f94
+:ROAM_REFS: cite:Bishop2005
+:END:
+#+title: Bishop2005
+- tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]]
+- keywords ::
+* Introduction to computer security
+:PROPERTIES:
+:Custom_ID: Bishop2005
+:URL:
+:AUTHOR: Bishop, M. A.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/Bishop2005.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** divides threats into four broad classes:
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2005.pdf::37++0.00;;annot-37-0]]
+:ID:       ~/docsThese/bibliography/Bishop2005.pdf-annot-37-0
+:END:
+- disclosure
+- deception
+- disruption
+- usurpation
+*** Definition of attack
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Bishop2005.pdf::37++0.00;;annot-37-1]]
+:ID:       ~/docsThese/bibliography/Bishop2005.pdf-annot-37-1
+:END:
+Actions which can cause a violation of security

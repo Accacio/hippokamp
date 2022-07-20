@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       4a1431c8-4ad7-4f7e-80ac-9b26fe809095
+:ROAM_REFS: cite:AminEtAl2009
+:END:
+#+title: AminEtAl2009
+- tags :: [[id:4a4c4e87-45c5-4ac5-abe1-47c81596ce2d][Cyber-Physical Security]]
+- keywords ::
+* Safe and secure networked control systems under denial-of-service attacks
+:PROPERTIES:
+:Custom_ID: AminEtAl2009
+:URL: https://doi.org/10.1007/978-3-642-00602-9\_3
+:AUTHOR: Amin, S., C\'ardenas, Alvaro A., & Sastry, S. S.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/AminEtAl2009.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** Malicious cyber attacks to control systems can be classiﬁed as either deception attacks or denial-of-service DoS attacks.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AminEtAl2009.pdf::2++0.00;;annot-2-3]]
+:ID:       ~/docsThese/bibliography/AminEtAl2009.pdf-annot-2-3
+:END:

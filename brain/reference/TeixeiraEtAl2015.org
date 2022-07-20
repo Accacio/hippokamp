@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       22b69789-0234-43fc-9a74-14d8cde8b2bf
+:ROAM_REFS: cite:TeixeiraEtAl2015
+:END:
+#+title: TeixeiraEtAl2015
+- tags :: [[id:4a4c4e87-45c5-4ac5-abe1-47c81596ce2d][Cyber-Physical Security]]
+- keywords ::
+* A secure control framework for resource-limited adversaries
+:PROPERTIES:
+:Custom_ID: TeixeiraEtAl2015
+:URL: https://doi.org/10.1016/j.automatica.2014.10.067
+:AUTHOR: Teixeira, A., Shames, I., Sandberg, H., & Johansson, K.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/TeixeiraEtAl2015.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** We propose three dimensions for the attack space:
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/TeixeiraEtAl2015.pdf::2++0.62;;annot-2-108]]
+:ID:       ~/docsThese/bibliography/TeixeiraEtAl2015.pdf-annot-2-108
+:END:

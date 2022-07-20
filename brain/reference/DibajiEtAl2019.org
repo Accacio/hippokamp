@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       14c9c811-7d95-4c2e-8838-f3ab7f67d920
+:ROAM_REFS: cite:DibajiEtAl2019
+:END:
+#+title: DibajiEtAl2019
+- tags ::
+- keywords :: Cyber-physical systems, Cyber-security, Cyber-physical security, Secure control, Resilient control
+* A systems and control perspective of cps security
+:PROPERTIES:
+:Custom_ID: DibajiEtAl2019
+:URL: https://doi.org/https://doi.org/10.1016/j.arcontrol.2019.04.011
+:AUTHOR: Dibaji, S. M., Pirani, M., Flamholz, D. B., Annaswamy, A. M., Johansson, K. H., & Chakrabortty, A.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/DibajiEtAl2019.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** disclosure attacks, deception attacks, and disruption attacks - DDD attacks
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiEtAl2019.pdf::2++0.40;;annot-2-15]]
+:ID:       ~/docsThese/bibliography/DibajiEtAl2019.pdf-annot-2-15
+:END:
+cite:Bishop2005, cite:TeixeiraEtAl2015
+*** Examples of CPS cyber-attacks
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiEtAl2019.pdf::3++3.12;;annot-3-13]]
+:ID:       ~/docsThese/bibliography/DibajiEtAl2019.pdf-annot-3-13
+:END:
