@@ -211,12 +211,39 @@ cite:YangEtAl2019
 :ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-8-42
 :END:
 
+*** The same type of motivation is studied by Velarde et al. (2017) and Velarde et al. (2018) who consider a Lagrange-based DMPC scheme where malicious agents modify their local optimization problems (objective functions and constraints) to steer the distributed negotiation according to their self-interest.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::8++0.00;;annot-8-45]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-8-45
+:END:
+cite:VelardeEtAl2017a cite:VelardeEtAl2018
+
+*** The transversality of these attacks between the previously DMPC methods suggests that it should be possible to transpose them to other algorithms with ease.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::8++4.69;;annot-8-46]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-8-46
+:END:
+
+
 *** Remarkably, Chanfreut et al. (2018) extend these attacks within the cooperative distributed MPC algorithm of Venkat et al. (2008).
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::8++5.62;;annot-8-43]]
 :ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-8-43
 :END:
 cite:ChanfreutEtAl2018
+
+*** The software that each agent runs to control its corresponding subsystem also represents a source of vulnerability for the system. In particular, the software can be corrupted due to any external virus causing the unexpected behavior of the attacked agent.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::8++6.56;;annot-8-44]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-8-44
+:END:
+
+*** Detection and isolation become relevant when the attacker has overcome the prevention measures and the system is actually under attack.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::11++7.88;;annot-11-55]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-11-55
+:END:
+
 
 *** Riverso et al. (2016) propose a DMPC strategy in a PnP framework for faulty subsystems identification and unplugging to avoid the propagation of the fault.
 :PROPERTIES:

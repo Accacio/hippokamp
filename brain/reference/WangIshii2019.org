@@ -21,6 +21,7 @@
 ** CATALOG
 
 *** Motivation :springGreen:
+Use f-local/f-robustness property to ignore attackers.
 *** Model :lightSkyblue:
 *** Remarks
 *** Applications
@@ -35,3 +36,39 @@
 :ID:       ~/docsThese/bibliography/WangIshii2019.pdf-annot-1-0
 :END:
 cite:SandbergEtAl2015
+
+*** Definition 2.1: Robustness of a graph
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangIshii2019.pdf::2++7.89;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/WangIshii2019.pdf-annot-2-0
+:END:
+
+*** Consider the graph G = (V , E ) consisting of n nodes, where the set of nodes is V = {1, 2, . . . , n} and the edge set is E ⊆ V × V
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangIshii2019.pdf::2++7.89;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/WangIshii2019.pdf-annot-2-1
+:END:
+Definition of a graph
+
+*** Algorithm 3.4: (MP-MSR Algorithm)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangIshii2019.pdf::3++1.21;;annot-3-1]]
+:ID:       ~/docsThese/bibliography/WangIshii2019.pdf-annot-3-1
+:END:
+1. Collect Data
+2. Remove F largest and F smallest for local update
+3. Solve optimization using remaining
+4. update state (apply control)
+
+*** Such nodes may have the knowledge of the entire network including its topology, the values of all regular nodes, and their update rules.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangIshii2019.pdf::3++2.41;;annot-3-0]]
+:ID:       ~/docsThese/bibliography/WangIshii2019.pdf-annot-3-0
+:END:
+
+*** Definition 3.2: (F-total and F-local models):
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WangIshii2019.pdf::3++4.82;;annot-3-2]]
+:ID:       ~/docsThese/bibliography/WangIshii2019.pdf-annot-3-2
+:END:
+F-total, at most F adversarial nodes in total, and at most F adversarial in neighborhood
