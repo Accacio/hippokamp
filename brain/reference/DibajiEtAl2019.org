@@ -31,3 +31,9 @@ cite:Bishop2005, cite:TeixeiraEtAl2015
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiEtAl2019.pdf::3++3.12;;annot-3-13]]
 :ID:       ~/docsThese/bibliography/DibajiEtAl2019.pdf-annot-3-13
 :END:
+*** A schematic of various attacks that can occur in a CPS grouped under the three categories, Disclosure attacks, Deception attacks, and Disruption attacks.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/DibajiEtAl2019.pdf::2++0.00;;annot-2-16]]
+:ID:       ~/docsThese/bibliography/DibajiEtAl2019.pdf-annot-2-16
+:END:
+Scheme for networked cps attack
