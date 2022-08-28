@@ -11,9 +11,10 @@ Tentativa de listar todos professores que já tive
 
 1. Mamãe <3
 
-* Creche?
 * Tia Fátima
+- ?
 * EDN
+- ?
 * Colégio Aplicação
 - Selma
 - Márcia
@@ -42,7 +43,7 @@ Tentativa de listar todos professores que já tive
 - Pedro Paulo ?
 *** Ciências
 - Mirna Quesado
-- Márcia
+- Márcia ?
 - ?
 - Mirna Quesado
 *** Música

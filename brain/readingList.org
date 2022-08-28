@@ -18,9 +18,12 @@
 
 
 * Articles
-** LIRE [8/102]
-*** READING [#A] VoulgarisElia2022 | [[note:VoulgarisElia2022][org]] [[pdf:VoulgarisElia2022][pdf]]
+** LIRE [9/103]
+*** DIAGONAL [#A] VoulgarisElia2022 | [[note:VoulgarisElia2022][org]] [[pdf:VoulgarisElia2022][pdf]]
+- State "DIAGONAL"   from "READING"    [2022-05-06 ven. 10:21]
 - State "READING"    from "TO-READ"    [2022-04-27 mer. 15:17]
+*** TO-READ [#A] FloresLeonEtAl | [[note:FloresLeonEtAl][org]] [[pdf:FloresLeonEtAl][pdf]]
+
 *** TO-READ [#A] KamidiEtAl2022 | [[note:KamidiEtAl2022][org]] [[pdf:KamidiEtAl2022][pdf]]
 *** READ [#A] HeEtAl2022 | [[note:HeEtAl2022][org]] [[pdf:HeEtAl2022][pdf]]
 - State "READ"       from "READING"    [2022-04-13 mer. 10:00]
@@ -64,7 +67,8 @@
 *** TO-READ [#A] ArauzEtAl2021 | [[note:ArauzEtAl2021][org]] [[pdf:ArauzEtAl2021][pdf]]
 *** TO-READ [#A] OkajimaFujinami2021 | [[note:OkajimaFujinami2021][org]] [[pdf:OkajimaFujinami2021][pdf]]
 *** TO-READ [#A] RollEtAl2004 | [[note:RollEtAl2004][org]] [[pdf:RollEtAl2004][pdf]]
-*** TO-READ [#A] WangIshii2019 | [[note:WangIshii2019][org]] [[pdf:WangIshii2019][pdf]]
+*** READ [#A] WangIshii2019 | [[note:WangIshii2019][org]] [[pdf:WangIshii2019][pdf]]
+- State "READ"       from "TO-READ"    [2022-07-21 jeu. 16:01]
 *** TO-READ [#A] SchildbachMorari2015 | [[note:SchildbachMorari2015][org]] [[pdf:SchildbachMorari2015][pdf]]
 
 *** TO-READ McNamaraEtAl2016 | [[note:McNamaraEtAl2016][org]] [[pdf:McNamaraEtAl2016][pdf]]
