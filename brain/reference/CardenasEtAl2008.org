@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       ef565e5c-8c8d-47a2-9443-9c8778c50adb
+:ROAM_REFS: cite:CardenasEtAl2008
+:END:
+#+title: CardenasEtAl2008
+- tags :: [[id:f749a890-bca4-4e79-87d2-5ac6efc17070][Cyber-Security]]
+- keywords ::
+* Secure control: towards survivable cyber-physical systems
+:PROPERTIES:
+:Custom_ID: CardenasEtAl2008
+:URL: https://doi.org/10.1109/ICDCS.Workshops.2008.40
+:AUTHOR: Cardenas, A. A., Amin, S., & Sastry, S.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/CardenasEtAl2008.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** by for example, securing the physical system, monitoring cameras etc.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CardenasEtAl2008.pdf::2++1.21;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/CardenasEtAl2008.pdf-annot-2-0
+:END:
+*** A1-A4 because (1) it is more difficult to iden- tify and prosecute the culprits, (2) it is not physically dangerous for the attacker, and (3) the attacker may not be constrained by geogra- phy or distance to the network.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/CardenasEtAl2008.pdf::2++1.21;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/CardenasEtAl2008.pdf-annot-2-1
+:END:

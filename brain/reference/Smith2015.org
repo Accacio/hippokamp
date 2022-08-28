@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a6617b6f-601b-4280-8ca7-3a907c38785d
+:ROAM_REFS: cite:Smith2015
+:END:
+#+title: Smith2015
+- tags :: [[id:c7083e85-1b98-4c8f-9d15-d44497dcdd98][Covert Attack]]
+- keywords ::
+* Covert misappropriation of networked control systems: presenting a feedback structure
+:PROPERTIES:
+:Custom_ID: Smith2015
+:URL: https://doi.org/10.1109/MCS.2014.2364723
+:AUTHOR: Smith, R. S.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/Smith2015.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       52bce8f0-9d12-426c-8073-8c597ac9ed79
+:ROAM_REFS: cite:ZacchiaEtAl2019
+:END:
+#+title: ZacchiaEtAl2019
+- tags ::
+- keywords ::
+* State of the art of cyber-physical systems security: an automatic control perspective
+:PROPERTIES:
+:Custom_ID: ZacchiaEtAl2019
+:URL:
+:AUTHOR: Zacchia Lun, Y., D'Innocenzo, A., Smarra, F., Malavolta, I., & Di Benedetto, M.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/ZacchiaLunEtAl2019.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** “note that from a prac- tical point of view, an attack on a sensor could either be interpreted as an attack on the node itself (making it transmit an incorrect sig- nal), or it could also be interpreted as an attack on the communi- cation link between the sensor and the receiver device; similarly an attack on an actuator could either be interpreted as an attack on the actuator itself, or on the communication link from the controller to the actuator” ( Fawzi et al., 2014 ).
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZacchiaLunEtAl2019.pdf::10++5.00;;annot-10-145]]
+:ID:       ~/docsThese/bibliography/ZacchiaLunEtAl2019.pdf-annot-10-145
+:END:
