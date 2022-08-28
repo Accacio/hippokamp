@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       c7083e85-1b98-4c8f-9d15-d44497dcdd98
+:END:
+#+title: Covert Attack
