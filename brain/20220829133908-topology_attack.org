@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4b26028e-455c-471e-9fb1-d3fa3fbf76df
+:END:
+#+title: Topology Attack
+- tags :: [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attacks]]
+
+  Attacker changes connection between subsystems (topology)
