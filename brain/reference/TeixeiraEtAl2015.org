@@ -25,3 +25,31 @@
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/TeixeiraEtAl2015.pdf::2++0.62;;annot-2-108]]
 :ID:       ~/docsThese/bibliography/TeixeiraEtAl2015.pdf-annot-2-108
 :END:
+*** Anomaly detector
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/TeixeiraEtAl2015.pdf::4++0.70;;annot-4-29]]
+:ID:       ~/docsThese/bibliography/TeixeiraEtAl2015.pdf-annot-4-29
+:END:
+Anomalies are detected by calculating deviation from nominal behavior
+
+*** [[id:a60ecbf6-c6d2-404e-8001-71ed8c41692f][Replay attack]]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/TeixeiraEtAl2015.pdf::6++0.00;;annot-6-47]]
+:ID:       ~/docsThese/bibliography/TeixeiraEtAl2015.pdf-annot-6-47
+:END:
+*** [[id:6f1e8604-b30c-4428-b9e3-7b06a60646b2][Denial-of-service attack]]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/TeixeiraEtAl2015.pdf::6++0.00;;annot-6-48]]
+:ID:       ~/docsThese/bibliography/TeixeiraEtAl2015.pdf-annot-6-48
+:END:
+*** [[id:9f08f4c8-8dfb-4555-bb93-18875837e045][Zero-dynamics attack]]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/TeixeiraEtAl2015.pdf::7++0.00;;annot-7-35]]
+:ID:       ~/docsThese/bibliography/TeixeiraEtAl2015.pdf-annot-7-35
+:END:
+*** Bias injection attack
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/TeixeiraEtAl2015.pdf::9++0.00;;annot-9-13]]
+:ID:       ~/docsThese/bibliography/TeixeiraEtAl2015.pdf-annot-9-13
+:END:
+Kind of [[id:964aa68b-ee11-4ebb-83d2-5807ab376a09][False Data Injection Attack]]
