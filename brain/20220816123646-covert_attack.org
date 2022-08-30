@@ -2,3 +2,4 @@
 :ID:       c7083e85-1b98-4c8f-9d15-d44497dcdd98
 :END:
 #+title: Covert Attack
+- tags :: [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attacks]], [[id:4a4c4e87-45c5-4ac5-abe1-47c81596ce2d][Cyber-Physical Security]]

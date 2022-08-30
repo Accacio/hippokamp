@@ -4,4 +4,4 @@
 #+title: Topology Attack
 - tags :: [[id:968014ea-c431-495f-9e75-0ecfd2a236dd][Attacks]]
 
-  Attacker changes connection between subsystems (topology)
+  Attacker changes connection between subsystems or mislead the control so it believes the system operates under a different topology.
