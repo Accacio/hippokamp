@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       24613635-030c-4c04-a9a7-91ec5da7a909
+:ROAM_REFS: cite:ZhangEtAl2021b
+:END:
+#+title: ZhangEtAl2021b
+- tags ::
+- keywords ::
+* Smart grid cyber-physical attack and defense: a review
+:PROPERTIES:
+:Custom_ID: ZhangEtAl2021c
+:URL: https://doi.org/10.1109/ACCESS.2021.3058628
+:AUTHOR: Zhang, H., Liu, B., & Wu, H.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/ZhangEtAl2021b.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** [[id:4b26028e-455c-471e-9fb1-d3fa3fbf76df][TOPOLOGY ATTACK]]S
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ZhangEtAl2021b.pdf::9++0.00;;annot-9-1]]
+:ID:       ~/docsThese/bibliography/ZhangEtAl2021b.pdf-annot-9-1
+:END:
