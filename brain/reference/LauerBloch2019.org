@@ -243,13 +243,13 @@ get all combinations of classifications
 :ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-136-11
 :END:
 
-*** we will now show that reality is not so bad.
+**** we will now show that reality is not so bad.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::136++1.51;;annot-136-12]]
 :ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-136-12
 :END:
 
-*** The complexity results thus obtained can be understood in terms of the number of floating-point operations (flops), which is the standard measure of complexity in numerical analysis.
+**** The complexity results thus obtained can be understood in terms of the number of floating-point operations (flops), which is the standard measure of complexity in numerical analysis.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++0.00;;annot-137-8]]
 :ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-8
@@ -262,37 +262,37 @@ use of flops to analysis
 :ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-9
 :END:
 
-*** g only influences the optimization problem through its value at the data points x 1 , . . . , x N . As a result, we need not search for its parameter values but merely for its output values, which belong to the finite set Q = [s].
+**** g only influences the optimization problem through its value at the data points x 1 , . . . , x N . As a result, we need not search for its parameter values but merely for its output values, which belong to the finite set Q = [s].
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++0.00;;annot-137-10]]
 :ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-10
 :END:
 
-*** the number of possible classifications, s N , remains exponential in N and too high to allow for a direct enumeration
+**** the number of possible classifications, s N , remains exponential in N and too high to allow for a direct enumeration
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.64;;annot-137-11]]
 :ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-11
 :END:
 
-*** reduce this number to a polynomial function of N
+**** reduce this number to a polynomial function of N
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.64;;annot-137-12]]
 :ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-12
 :END:
 
-*** We also need to be able to enumerate all these classifications
+**** We also need to be able to enumerate all these classifications
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.64;;annot-137-13]]
 :ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-13
 :END:
 
-*** the number of linear classifications is bounded by a polynomial function of N (see (3.7)).
+**** the number of linear classifications is bounded by a polynomial function of N (see (3.7)).
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.94;;annot-137-14]]
 :ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-14
 :END:
 
-*** relates the classification obtained by any g ∈ G to one obtained by a separating hyperplane passing through a subset S g of d points from S = {x 1 , . . . , x N } ⊂ R d .
+**** relates the classification obtained by any g ∈ G to one obtained by a separating hyperplane passing through a subset S g of d points from S = {x 1 , . . . , x N } ⊂ R d .
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/LauerBloch2019.pdf::137++6.94;;annot-137-15]]
 :ID:       ~/docsThese/bibliography/LauerBloch2019.pdf-annot-137-15

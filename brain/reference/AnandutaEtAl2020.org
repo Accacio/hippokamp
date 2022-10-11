@@ -195,18 +195,19 @@ cite:VelardeEtAl2017
 - Accelerated gradient algorithm
  cite:GiselssonEtAl2013
 
+*** regular agent uses as input the value found by optimisation, adversarial otherwise
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::7++0.17;;annot-7-0]]
+:ID:       ~/docsThese/bibliography/AnandutaEtAl2020.pdf-annot-7-0
+:END:
+[[id:79604045-ede1-4393-9d0d-591c68019a42]["Liar" agent]]
+
 *** adversarial set $\mathcal{A}$
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::7++0.11;;annot-7-2]]
 :ID:       ~/docsThese/bibliography/AnandutaEtAl2020.pdf-annot-7-2
 :END:
 
-
-*** regular agent uses as input the value found by optimisation, adversarial otherwise
-:PROPERTIES:
-:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2020.pdf::7++0.17;;annot-7-0]]
-:ID:       ~/docsThese/bibliography/AnandutaEtAl2020.pdf-annot-7-0
-:END:
 
 *** $f$-local if $\left|\mathcal{A} \cap \mathcal{N}_{i}\right| \leq f$ $\forall i \in \mathcal{N}$.
 :PROPERTIES:

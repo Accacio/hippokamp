@@ -5,7 +5,7 @@
 #+TITLE: ZhuMartinez2014: On the performance analysis of resilient networked control systems under replay attacks
 #+filetags: technical_note IEEE
 
-- tags :: [[id:f3727224-7286-465f-bff0-bff8dd490ea4][NCS]], [[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]], [[id:80483591-299e-4627-9e13-587aeb852b94][Spatially Separated Operator]]
+- tags :: [[id:f3727224-7286-465f-bff0-bff8dd490ea4][NCS]], [[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]], [[id:80483591-299e-4627-9e13-587aeb852b94][Spatially Separated Operator]], [[id:a60ecbf6-c6d2-404e-8001-71ed8c41692f][Replay Attack]]
 - keywords ::
 
 

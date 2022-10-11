@@ -238,12 +238,25 @@ cite:ChanfreutEtAl2018
 :ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-8-44
 :END:
 
+*** However, before introducing the corresponding subsections, some com- ments should be made regarding the close relationship between fault tolerant control (FTC) methods and cyber-defense mechanisms.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::10++3.90;;annot-10-215]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-10-215
+:END:
+
+
 *** Detection and isolation become relevant when the attacker has overcome the prevention measures and the system is actually under attack.
 :PROPERTIES:
 :NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::11++7.88;;annot-11-55]]
 :ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-11-55
 :END:
 
+*** Passive control strategies can also be seen as preven- tion measures. However, they have been introduced in the mitigation category because that is their primary goal.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::12++7.50;;annot-12-57]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-12-57
+:END:
+meh
 
 *** Riverso et al. (2016) propose a DMPC strategy in a PnP framework for faulty subsystems identification and unplugging to avoid the propagation of the fault.
 :PROPERTIES:
@@ -251,3 +264,10 @@ cite:ChanfreutEtAl2018
 :ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-13-57
 :END:
 Unplugging attacker
+
+*** Ananduta et al. (2018, 2019, 2020)
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/ArauzEtAl2021.pdf::13++3.90;;annot-13-58]]
+:ID:       ~/docsThese/bibliography/ArauzEtAl2021.pdf-annot-13-58
+:END:
+Use "liar" agent attacks and disconnect suspect neighbors
