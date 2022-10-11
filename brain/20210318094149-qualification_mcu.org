@@ -21,13 +21,13 @@
 |   | MPC 2021/2022         | 12 h * 2/3 |   |
 |   | Building 2021/2022    | 15 h * 2/3 |   |
 |   | Asservissement (ECAM) | 30 h * 2/3 |   |
-|   | Espace d'état (ECAM)  | 12 h * 2/3 |   |
+|   | Espace d'état (ECAM)  | 18 h * 2/3 |   |
 |---+-----------------------+------------+---|
-| # | Total                 | 80 h       |   |
+| # | Total                 | 84 h       |   |
 | ^ |                       | Total      |   |
 | # | Demandé Qualif.       | 96 h       |   |
 | ^ |                       | Demande    |   |
-| # | Manque                | 16 h       |   |
+| # | Manque                | 12 h       |   |
 | ^ |                       | Manque     |   |
 #+TBLFM: $Total=vsum(@1..@-1)::$Manque=$Demande-$Total
 
@@ -39,12 +39,12 @@
 |   | MPC 2021/2022         | 12 h    |   |
 |   | Building 2021/2022    | 15 h    |   |
 |   | Asservissement (ECAM) | 30 h    |   |
-|   | Espace d'état (ECAM)  | 12 h    |   |
+|   | Espace d'état (ECAM)  | 18 h    |   |
 |---+-----------------------+---------+---|
-| # | Total                 | 115 h   |   |
+| # | Total                 | 121 h   |   |
 | ^ |                       | Total   |   |
 | # | Demandé Qualif.       | 96 h    |   |
 | ^ |                       | Demande |   |
-| # | Manque                | -19 h   |   |
+| # | Manque                | -25 h   |   |
 | ^ |                       | Manque  |   |
 #+TBLFM: $Total=vsum(@1..@-1)::$Manque=$Demande-$Total
