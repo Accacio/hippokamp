@@ -185,23 +185,30 @@ Tentativa de listar todos professores que já tive
 - Automatique :: Didier Dumur
 - Méthodes Numériques et Optimisation :: [[https://l2s.centralesupelec.fr/u/olaru-sorin/][Sorin Olaru]]
 - RASS :: [[https://l2s.centralesupelec.fr/u/fiorina-jocelyn/][Jocelyn Fiorina]]
-** ISA - Ingénierie des Systemes Automatisées
+** 3A - ISA - Ingénierie des Systemes Automatisées
 - Hervé Guéguen
 - Romain Bourdais
 - Nabil Sadou
 - Marie-Anne Lefebvre
-- Pierre Haessig
+- [[https://pierreh.eu][Pierre Haessig]]
 - Hervé Cormerais
 - Pierre-Yves Richard
-- Stanislav Aranovskiy
+- [[http://stanislavaranovskiy.site][Stanislav Aranovskiy]]
 - [[https://people.rennes.inria.fr/Gerardo.Rubino/][Gerardo Rubino]]
 - [[https://l2s.centralesupelec.fr/u/maniu-cristina/][Guillaume Sandou]]
 - [[https://l2s.centralesupelec.fr/u/maniu-cristina/][Cristina Stoica Maniu]]
 * Rennes 1
 ** SISEA
-- Optimization
+- Filtrage de Kalman et modèles de Markov cachés
+- Optimisation
+- Détection-Estimation
+- Machine learning
 * Doutorado
 - Jean-François Dupuy
 - Karim Tadrist
 - François MUNDLIER
-- A. Stephen Morse
+- Distributed Control and Computation :: A. Stephen Morse
+- Necsys21 ::
+  - Luca Schenato
+  - Ruggero Carli
+  - Nicola Bastianello
