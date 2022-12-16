@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       b892713e-ac8d-4003-bdad-3f396bcc1439
+:ROAM_REFS: cite:PasqualettiEtAl2013
+:END:
+#+title: PasqualettiEtAl2013
+- tags ::
+- keywords :: fault diagnosis;graph theory;network theory (graphs);reliability theory;power systems;transportation networks;industrial control processes;critical infrastructures;failure analysis;external malicious attacks;mathematical framework;cyber-physical systems;cyber-physical attacks;cyber-physical monitors;system theory;graph theory;centralized attack detection monitor design;distributed attack detection monitor design;centralized attack identification monitor design;distributed attack identification monitor design;Monitoring;Control systems;Security;Biomedical monitoring;Sensors;Noise;Power system dynamics;Cyber-physical systems;descriptor systems;distributed control;fault detection;geometric control;graph theory;networks;security
+* Attack detection and identification in cyber-physical systems
+:PROPERTIES:
+:Custom_ID: PasqualettiEtAl2013
+:URL:
+:AUTHOR: F. Pasqualetti, F. D\"orfler, & F. Bullo
+:NOTER_DOCUMENT: ~/docsThese/bibliography/PasqualettiEtAl2013.pdf
+:END:
+** CATALOG
+*** Motivation
+Important for nomenclatures and definitions
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** Model of Monitors:
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/PasqualettiEtAl2013.pdf::3++4.68;;annot-3-0]]
+:ID:       ~/docsThese/bibliography/PasqualettiEtAl2013.pdf-annot-3-0
+:END:

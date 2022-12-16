@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       55a98d19-ac09-459b-a740-d68afe8e6496
+:ROAM_REFS: cite:HoehnZhang2016
+:END:
+#+title: HoehnZhang2016
+- tags ::
+- keywords :: [[id:c7083e85-1b98-4c8f-9d15-d44497dcdd98][Covert Attack]], [[id:9f08f4c8-8dfb-4555-bb93-18875837e045][Zero Dynamics Attack]]
+* Detection of covert attacks and zero dynamics attacks in cyber-physical systems
+:PROPERTIES:
+:Custom_ID: HoehnZhang2016
+:URL: https://doi.org/10.1109/ACC.2016.7524932
+:AUTHOR: Hoehn, A., & Zhang, P.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/HoehnZhang2016.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+:PROPERTIES:
+:ID:       941afd34-e28d-4612-b8fc-fa0651ead8c5
+:END:
+*** [[id:c7083e85-1b98-4c8f-9d15-d44497dcdd98][Covert attack]]
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/HoehnZhang2016.pdf::2++0.00;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/HoehnZhang2016.pdf-annot-2-0
+:END:

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a06aa52a-bbb6-4f79-897d-b5e71c1b3900
+:ROAM_REFS: https://pianochord.io/
+:END:
+#+title: PianoChord.io - Explore Piano Chords Freely
+- tags :: [[id:7c1193f5-67b3-4df9-b85d-71bfec421d12][Music]]

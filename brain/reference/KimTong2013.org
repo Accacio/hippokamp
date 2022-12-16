@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       1532f311-04aa-4528-a165-3184f69443e3
+:ROAM_REFS: cite:KimTong2013
+:END:
+#+title: KimTong2013
+- tags ::
+- keywords ::
+* On topology attack of a smart grid: undetectable attacks and countermeasures
+:PROPERTIES:
+:Custom_ID: KimTong2013
+:URL: https://doi.org/10.1109/JSAC.2013.130712
+:AUTHOR: Kim, J., & Tong, L.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/KimTong2013.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** The adversary can mislead the control center that the grid is operating under a topology different from that in reality.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/KimTong2013.pdf::1++0.00;;annot-1-0]]
+:ID:       ~/docsThese/bibliography/KimTong2013.pdf-annot-1-0
+:END:
+[[id:4b26028e-455c-471e-9fb1-d3fa3fbf76df][Topology Attack]]

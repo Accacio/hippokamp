@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       140261a9-c232-44f7-a1b6-c4ffe1668f91
+:ROAM_REFS: cite:AlonsoEtAl2012
+:END:
+#+title: AlonsoEtAl2012
+- tags ::
+- keywords ::
+* Software rejuvenation: do it \& telco industries use it?
+:PROPERTIES:
+:Custom_ID: AlonsoEtAl2012
+:URL: https://doi.org/10.1109/ISSREW.2012.96
+:AUTHOR: Alonso, J., Bovenzi, A., Li, J., Wang, Y., Russo, S., & Trivedi, K.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/AlonsoEtAl2012.pdf
+:END:
+** CATALOG
+*** Motivation
+Use of Software rejuvenation in the industry (IT and telecom)
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** This paper investigates to what extent software rejuvenation techniques are integrated in the IT and Telco solutions.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AlonsoEtAl2012.pdf::1++4.09;;annot-1-0]]
+:ID:       ~/docsThese/bibliography/AlonsoEtAl2012.pdf-annot-1-0
+:END:

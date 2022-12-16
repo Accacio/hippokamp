@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2e2d29b9-2dba-4aea-ac9b-ddd56c3d66fd
+:ROAM_REFS: cite:GodsilRoyle2001
+:END:
+#+title: GodsilRoyle2001
+- tags ::
+- keywords ::
+* Algebraic Graph Theory
+:PROPERTIES:
+:Custom_ID: GodsilRoyle2001
+:URL: https://doi.org/10.1007/978-1-4613-0163-9\_1
+:AUTHOR: Godsil, C., & Royle, G. F.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/GodsilRoyle2001.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES

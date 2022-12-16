@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       e15ad68e-3550-471c-b0d1-d16605466fba
+:ROAM_REFS: cite:AnandutaEtAl2018
+:END:
+#+title: AnandutaEtAl2018
+- tags ::
+- keywords ::
+* Resilient distributed energy management for systems of interconnected microgrids
+:PROPERTIES:
+:Custom_ID: AnandutaEtAl2018
+:URL: https://doi.org/10.1109/CDC.2018.8619548
+:AUTHOR: Ananduta, W., Maestre, Jos\'e Mar\'ia, Ocampo-Martinez, C., & Ishii, H.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/AnandutaEtAl2018.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** Adversary Model
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2018.pdf::3++3.12;;annot-3-0]]
+:ID:       ~/docsThese/bibliography/AnandutaEtAl2018.pdf-annot-3-0
+:END:
+[[id:79604045-ede1-4393-9d0d-591c68019a42]["Liar" agent]]

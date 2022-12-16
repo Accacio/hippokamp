@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       bf2092dc-eb82-44e9-8400-e783737877ad
+:ROAM_REFS: https://electrical.eng.unimelb.edu.au/power-energy/courses/2021-07
+:END:
+#+title: Advanced Modelling of DER-Rich Active Distribution Networks
+#+filetags: courses
+
+https://electrical.eng.unimelb.edu.au/power-energy/courses/2021-07

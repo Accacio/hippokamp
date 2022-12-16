@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       508a86a3-0d2c-4f60-8a16-af17ac5a108a
+:ROAM_REFS: cite:BarboniEtAl2020
+:END:
+#+title: BarboniEtAl2020
+- tags ::
+- keywords ::
+* Detection of covert cyber-attacks in interconnected systems: a distributed model-based approach
+:PROPERTIES:
+:Custom_ID: BarboniEtAl2020
+:URL:
+:AUTHOR: A. Barboni, H. Rezaee, F. Boem, & T. Parisini
+:NOTER_DOCUMENT: ~/docsThese/bibliography/BarboniEtAl2020.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** the diagram of the attacked subsystem equipped with a local unit LU
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BarboniEtAl2020.pdf::3++0.00;;annot-3-0]]
+:ID:       ~/docsThese/bibliography/BarboniEtAl2020.pdf-annot-3-0
+:END:
+*** [[id:c7083e85-1b98-4c8f-9d15-d44497dcdd98][Covert Attack]] Model
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/BarboniEtAl2020.pdf::3++3.90;;annot-3-1]]
+:ID:       ~/docsThese/bibliography/BarboniEtAl2020.pdf-annot-3-1
+:END:

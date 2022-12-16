@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       79604045-ede1-4393-9d0d-591c68019a42
+:END:
+#+title: "Liar" agent attack
+- tags :: [[id:1378c4c8-b824-4748-917d-904632acfd75][Deception Attacks]]
+
+  Attacker uses control different from the agreed one

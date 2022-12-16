@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       84794e34-a0bb-48cb-98e2-458214bb7b00
+:END:
+#+title: Suivi These
+#+EXPORT_FILE_NAME: /tmp/point
+#+BEAMER_CLASS: beamer
+#+OPTIONS: H:2 num:t tags:nil ^:nil -:nil
+#+OPTIONS: toc:t
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+BEAMER_HEADER: \usefonttheme[onlymath]{serif}
+#+LATEX_HEADER: \usepackage{bm}
+#+LATEX_HEADER: \usepackage{cases}
+#+LATEX_HEADER: \usepackage{booktabs}
+#+LATEX_HEADER: \usepackage{mathrsfs}
+#+LATEX_HEADER: \usepackage{cancel}
+#+LATEX_HEADER: \usepackage{tikz}
+#+LATEX_HEADER: \usepackage{multirow}
+#+LATEX_HEADER: \usepackage{tikz}
+#+LATEX_HEADER: \usepackage{xargs}
+#+latex_header: \usepackage{karnaugh-map}
+
+#+LATEX_HEADER: \usetikzlibrary{decorations.pathreplacing,calc,positioning}
+#+latex_header: \usepackage[style=authoryear]{biblatex}
+#+latex_header: \addbibresource{~/docsThese/bibliography.bib}
+#+LATEX_HEADER: \renewcommand{\CancelColor}{\color{red}}
+#+BEAMER: \setbeamercovered{transparent}
+
+
+#+latex_header: \newcommand{\0}{\mathbf{0}}
+#+latex_header: \newcommand{\Plin}[1][i]{{{P}_{#1}}}
+#+latex_header: \newcommand{\Plinnominal}[1][i]{\bar{{P}}_{#1}}
+#+latex_header: \newcommand{\Plintilde}[1][i]{\tilde{P}_{#1}[k]}
+#+latex_header: \newcommand{\Plintildeestimate}[1][i]{\widehat{\tilde{P}}_{#1}[k]}
+#+latex_header: \newcommandx*\Plinineq[2][1=i, 2=0]{{\Plin[#1]^{\left(#2\right)}}}
+#+latex_header: \newcommandx*\Plinineqnominal[2][1=i, 2=0]{\bar{\Plin[#1]}^{\left(#2\right)}}
+#+latex_header: \newcommandx*\Plinineqtilde[2][1=i, 2=0]{\widetilde{\Plin[#1]}^{\left(#2\right)}}
+#+latex_header: \newcommandx*\Plinineqtildeestimate[2][1=i, 2=0]{\widehat{\widetilde{\Plin[#1]}}^{\left(#2\right)}[k]}
+
+#+latex_header: \newcommand{\sik}[1][i]{\vec{s}_{#1}[k]}
+#+latex_header: \newcommand{\siktilde}[1][i]{\tilde{\vec{s}}_{#1}[k]}
+#+latex_header: \newcommand{\siktildeestimate}[1][i]{\widehat{\tilde{\vec{s}}}_{#1}[k]}
+#+latex_header: \newcommandx*\sikineq[2][1=i, 2=0]{\vec{s}_{#1}^{\left(#2\right)}[k]}
+#+latex_header: \newcommandx*\sikineqtilde[2][1=i, 2=0]{\widetilde{\vec{s}_{#1}}^{\left(#2\right)}[k]}
+#+latex_header: \newcommandx*\sikineqtildeestimate[2][1=i, 2=0]{\widehat{\widetilde{\vec{s}_{#1}}}^{\left(#2\right)}[k]}
+
+
+#+begin_export beamer
+\AtBeginSection[]{
+	\begin{frame}
+	\frametitle{Outline}
+	\tableofcontents[currentsection,sectionstyle=show/shaded,subsectionstyle=show/show/show]
+\end{frame}
+}
+#+end_export
+
+
+* References
+** References
+:PROPERTIES:
+:beamer_opt: allowframebreaks
+:END:
+\printbibliography

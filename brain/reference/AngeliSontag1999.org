@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       7cc1c67c-4661-4a2c-99f3-4ab41218862c
+:ROAM_REFS: cite:AngeliSontag1999
+:END:
+#+title: AngeliSontag1999
+- tags :: [[id:49daf608-7a79-4ade-a729-e858d05f56a7][Stability]], [[id:5c4f56fc-e5b7-4317-818a-f86f79676cbc][Nonlinear Systems]]
+- keywords :: Stability properties, Lyapunov method, Global existence of solution, Observability, Control system
+* Forward completeness, unboundedness observability, and their lyapunov characterizations
+:PROPERTIES:
+:Custom_ID: AngeliSontag1999
+:URL: https://doi.org/https://doi.org/10.1016/S0167-6911(99)00055-9
+:AUTHOR: Angeli, D., & Sontag, E. D.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/AngeliSontag1999.pdf
+:END:
+** CATALOG
+*** Motivation
+Definitions of Forward completeness
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** Definition of forward completeness
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AngeliSontag1999.pdf::1++0.00;;annot-1-0]]
+:ID:       ~/docsThese/bibliography/AngeliSontag1999.pdf-annot-1-0
+:END:
+a system is called forward complete if for ev- ery initial condition $\xi$ every input signal $u$, the corresponding solution is defined for all $t\geq0$, i.e. $\sigma_{\xi,u}^{\max}$

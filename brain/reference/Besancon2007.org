@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       7082a78e-4ef3-4811-8869-39c55fc5450d
+:ROAM_REFS: cite:Besancon2007
+:END:
+#+title: Besancon2007
+- tags :: [[id:78f2c7b9-288a-453b-9a1f-218dbf8ba4fd][Nonlinear state estimation]]
+- keywords ::
+* Nonlinear observers and applications
+:PROPERTIES:
+:Custom_ID: Besancon2007
+:URL:
+:AUTHOR: Besan\ccon, Gildas
+:NOTER_DOCUMENT: ~/docsThese/bibliography/Besancon2007.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** some internal information from external (directly available) mea- surements.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Besancon2007.pdf::11++0.00;;annot-11-2]]
+:ID:       ~/docsThese/bibliography/Besancon2007.pdf-annot-11-2
+:END:
+*** an observer relies on a model
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Besancon2007.pdf::11++0.00;;annot-11-3]]
+:ID:       ~/docsThese/bibliography/Besancon2007.pdf-annot-11-3
+:END:
+*** on-line adaptation based on available measurements, and aiming at information reconstruction
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Besancon2007.pdf::11++0.00;;annot-11-4]]
+:ID:       ~/docsThese/bibliography/Besancon2007.pdf-annot-11-4
+:END:
+*** model- based, measurement-based, closed-loop, information reconstructor
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Besancon2007.pdf::11++0.00;;annot-11-5]]
+:ID:       ~/docsThese/bibliography/Besancon2007.pdf-annot-11-5
+:END:
+*** model is a state-space representation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Besancon2007.pdf::11++0.00;;annot-11-6]]
+:ID:       ~/docsThese/bibliography/Besancon2007.pdf-annot-11-6
+:END:
+*** state-space representation
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/Besancon2007.pdf::13++0.00;;annot-13-5]]
+:ID:       ~/docsThese/bibliography/Besancon2007.pdf-annot-13-5
+:END:
+\begin{array}{l}
+\dot{x}(t)=f(x(t),u(t))\\
+y(t)=h(x(t))
+\end{array}

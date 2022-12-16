@@ -1,0 +1,113 @@
+:PROPERTIES:
+:ID:       35630d51-d74c-4594-b153-a38533023d53
+:END:
+#+title: Multi-Agent convex optimization over asynchronous and lossy networks
+
+- tags :: [[id:b77cbd82-c5fc-46a0-a926-699466b75f44][Convex Optimization]], [[id:124194cb-2858-4bb2-b30b-1fb521d3b30b][Consensus]]
+
+* Intro
+- intervernant :: Luca Schenato
+** categories
+- unreliable communication
+
+  - action scale (bandwidth (Hz) actions per second)
+  - Scale
+  - wired/wireless
+** Challenges
+** Challenges (personal experience)
+- same code for all agents simplify things (in a construction view point)
+** ISO layers
+- Add a cooperative layer between transport and application layers
+** Consensus
+- consensus
+- average consensus (average of initial values)
+** rendez-vous problem
+- If convex hull is reduced than consensus is achieved
+** Applications
+*** Sensor Calibration
+** Coopearative distributed optimization
+*** global estimation
+**** local agent has global version $\hat{x}$
+*** Local estimation
+**** local agents have only local $\hat{x}_i$
+* Distributed Optimization over Networks
+- intervernant :: Ruggero Carli
+** Graph Elements
+- all self-loop are considered
+- in neighboors $\mathcal{N}_{\text{in}}^i$
+- out neighboors $\mathcal{N}_{\text{out}}^i$
+** Graph Elements (undirected)
+- degree is number of neighboors
+- Adjancency matrix A
+- Degree Matrix D
+- Laplacian $L=D-A$
+** Average Consensus
+- convex combination
+  - weights $P_{ij}\geq0$
+  - $\sum_{j\in\mathcal{N}_i}P_{ij}=1$
+  - P is Doubly stochastic
+    - $P\mathbf{1}=\mathbf{1}$
+    - $\mathbf{1}^TP=\mathbf{1}^T$
+    - row stochastic is from definition
+    - column stochastic means the mass is preserved \to $\mathbf{1}^T\vec{x}(t+1)=\mathbf{1}^T\vec{x}(0)$
+  - P is primitive \to one eigenvalue is equal to 1 and all other inside unitary circle
+  - Verify if P is primitive
+    - Self loops
+    - Graph is _strongly connected_
+** Consensus
+- If P not primitive \to _not average of initial $x(0)$_
+- left eigenvalue characterize the value to which it converges
+** Building doubly-stochastic matrices
+- maximum-degree weight strategy
+- laplacian
+- metropolis weights (*need only degrees of neighboors*)
+** Rate of convergence
+- Essential spectral radius $\rho_{\text{ess}}$
+  - absolute value of largest eigenvalue different from 1
+** Asynchronous: gossip symmetric
+** Asynchronous: broadcast
+- *not column stochastic*
+- as N goes to infinity better the average
+** Double iteration algorithm
+- ratio convergence
+** Packet losses
+-
+
+* First-order methods in distributed optimization
+- intervernant :: Ruggero Carli
+** a distributed gradient
+* ave
+- intervernant :: [[www.automatica.dei.unipd.it/people/schenato][Luca Schenato]]
+** Average tracking consensus
+** singular pertubation
+- chap 11 Kalhil nonlinear systems
+- equilibria points for fast dynamics are called slow dynamics manifold
+* Introductory Operator Theory
+- intervernant :: Nicola Bastianello
+
+** Operator properties
+- _Contractive operator $\subset$ Averaged $\subset$ Non-expansive_
+** Affine operators
+** Spoiler
+- fixed points of operatores coincide with minimizers
+** Existence of fixed points
+- Browder's theorem
+- Sparse linear regression
+* Distributed Optimization over lossy networks via Relaxed Peaceman-Rachford Splitting: a robust ADMM approach
+- intervenant :: Ruggero Carli
+** ADMM
+** Relaxed ADMM
+- better performance when $\alpha$ is close to 1
+* Stochastic Operator Theory
+- intervernant :: Nicola Bastianello
+** Inexact operators
+- quantization error
+- if error tends to zero x converges to fix point
+* Distributed Learning
+- intervernant :: Nicola Bastianello
+** Federated learning
+:PROPERTIES:
+:ID:       3fcad799-687a-4749-8117-dcac69c4dfc8
+:END:
+* Online Distributed Optimization
+- intervernant :: Nicola Bastianello

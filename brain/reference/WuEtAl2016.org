@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       d78f9e5e-f48b-48eb-ae09-8bc65f15a5dd
+:ROAM_REFS: cite:WuEtAl2016
+:END:
+#+title: WuEtAl2016
+- tags ::
+- keywords ::
+* A topology attack on averaging consensus convergence
+:PROPERTIES:
+:Custom_ID: WuEtAl2016
+:URL: https://doi.org/10.1109/CCDC.2016.7531560
+:AUTHOR: Wu, H., Dang, X., & Li, B.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/WuEtAl2016.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** W ij is the weight set to agent j by agent i
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2016.pdf::2++0.00;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/WuEtAl2016.pdf-annot-2-0
+:END:
+*** Let W a be the weighted matrix under the [[id:4b26028e-455c-471e-9fb1-d3fa3fbf76df][topology attack]].
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/WuEtAl2016.pdf::2++0.00;;annot-2-1]]
+:ID:       ~/docsThese/bibliography/WuEtAl2016.pdf-annot-2-1
+:END:

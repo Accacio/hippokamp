@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       a03834bf-5d59-4e1c-8ce6-3554e880af11
+:ROAM_REFS: cite:AnandutaEtAl2019
+:END:
+#+title: AnandutaEtAl2019
+- tags ::
+- keywords ::
+* A resilient approach for distributed mpc-based economic dispatch in interconnected microgrids
+:PROPERTIES:
+:Custom_ID: AnandutaEtAl2019
+:URL: https://doi.org/10.23919/ECC.2019.8796208
+:AUTHOR: Ananduta, W., Maestre, Jos\'e Mar\'ia, Ocampo-Martinez, C., & Ishii, H.
+:NOTER_DOCUMENT: ~/docsThese/bibliography/AnandutaEtAl2019.pdf
+:END:
+** CATALOG
+*** Motivation
+*** Model
+*** Remarks
+*** Applications
+*** Expressions
+*** References
+** NOTES
+*** An agent i is regular if it always implements its control input according to the decision obtained from the DMPC strategy, i.e., u i,k = u ?i,k|k , for all k ≥ 0. Otherwise, agent i is adversarial.
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/docsThese/bibliography/AnandutaEtAl2019.pdf::2++3.90;;annot-2-0]]
+:ID:       ~/docsThese/bibliography/AnandutaEtAl2019.pdf-annot-2-0
+:END:
+[[id:79604045-ede1-4393-9d0d-591c68019a42]["Liar" agent]]
