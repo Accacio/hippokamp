@@ -13,7 +13,7 @@ Tentativa de listar todos professores que já tive
 
 * Tia Fátima
 - ?
-* EDN
+* Escola DN
 - ?
 * Colégio Aplicação
 - Selma
@@ -93,7 +93,7 @@ Tentativa de listar todos professores que já tive
 2. Marcos
 3. Marcos
 *** Biologia
-- Marcelo
+- Marcelo Augusto Vasconcelos Gomes
 - Ana Maria
 - Mazzetti / Ana Maria
 *** Sociologia
@@ -115,11 +115,26 @@ Tentativa de listar todos professores que já tive
 - Greice Cohn
 *** Francês
 - Maria Theresa
+* Cefet
+- Adriano Martins Moutinho
+- Alberto Jorge Silva de Lima
+- Antonio José Caulliraux Pithon
+- Aridio Schiapacassa de Paiva
+- Carlos Alberto Gouvêa Coelho
+- Edgar Monteiro da Silva
+- José Carlos Andrades
+- José Fernandes Pereira
+- José Mauro Kocher
+- Marcos de Castro Pinto
+- Mauro da Silva Alvarez
+- Milton Simas Gonçalves Torres
+- Telecom :: Paulo César Bittencourt\dag
+- Péricles Freire dos Santos
 * UFRJ
 ** 1°
 - Álgebra Linear 2 :: [[http://www.im.ufrj.br/index.php/pt/pessoal/docentes/docentes/185-luiz-carlos-guimaraes][Luiz Carlos Guimarães]]
 - Algoritmos de Programação ?? :: [[https://cesperanca.org][Cláudio Esperança]]
-- Cálculo 1 :: [[https://folk.uib.no/dpi081/][Didier Jacques François Pilod]]
+- Cálculo 1 :: [[https://www4.uib.no/en/find-employees/Didier..Pilod][Didier Jacques François Pilod]]
 - Fisexp 1 :: [[http://darnassus.if.ufrj.br/~vanhecke/][Franciscus Jozef VANHECKE]]
 - Física 1 :: Victor de Barros Brasil (Nome que consta no histórico diferente, acho que era Leonardo, ou Leandro )
 - Introdução a Engenharia de Controle e Automação :: [[http://www.coep.ufrj.br/~afel][Afonso Celso del Nero Gomes]] (Poster com Jacoud)
@@ -177,7 +192,7 @@ Tentativa de listar todos professores que já tive
 - Redes de Computadores :: otto carlos muniz bandeira duarte \dag
 - Sensores e Atuadores 1 :: Marcelo Martins Werneck
 ** 8°
-- ?? :: Rossana Odette Mattos Folly
+- IAIP :: Rossana Odette Mattos Folly
 - Laboratório de Controle e Automação :: Gustavo da Silva Viana
 
 * CentraleSupélec
@@ -185,6 +200,9 @@ Tentativa de listar todos professores que já tive
 - Automatique :: Didier Dumur
 - Méthodes Numériques et Optimisation :: [[https://l2s.centralesupelec.fr/u/olaru-sorin/][Sorin Olaru]]
 - RASS :: [[https://l2s.centralesupelec.fr/u/fiorina-jocelyn/][Jocelyn Fiorina]]
+- Semicon :: Philippe Molinié
+- :: Alain Destrez
+- :: [[https://l2s.centralesupelec.fr/en/u/yang-sheng/][Shen Yang]]
 ** 3A - ISA - Ingénierie des Systemes Automatisées
 - Hervé Guéguen
 - Romain Bourdais
@@ -199,16 +217,18 @@ Tentativa de listar todos professores que já tive
 - [[https://l2s.centralesupelec.fr/u/maniu-cristina/][Cristina Stoica Maniu]]
 * Rennes 1
 ** SISEA
-- Filtrage de Kalman et modèles de Markov cachés
-- Optimisation
-- Détection-Estimation
-- Machine learning
+- Filtrage de Kalman et modèles de Markov cachés ::  [[https://www.irisa.fr/aspi/legland/][François Le Gland]]
+- Optimisation :: Thierry Chonavel
+- Détection-Estimation :: Guy Carrault et ...
+- Machine learning :: ... + ...
 * Doutorado
 - Jean-François Dupuy
 - Karim Tadrist
 - François MUNDLIER
 - Distributed Control and Computation :: A. Stephen Morse
-- Necsys21 ::
+- Necsys22 ::
   - Luca Schenato
   - Ruggero Carli
   - Nicola Bastianello
+* Pos-Doc LAAS
+- [[id:db123e56-1b4a-4ba0-b0ed-92c9723c25b7][Uninhabited Aerial Vehicles Embedded Systems and Control]] :: Leandro Lustosa
